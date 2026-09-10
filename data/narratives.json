@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-10T05:48:56+00:00",
+ "generated_at": "2026-09-10T06:46:23+00:00",
  "narratives": [
   {
    "narrative": "Meme & Speculation",
-   "score": 70.1,
+   "score": 69.1,
    "confidence": "High",
    "evidence": {
     "github_repos": 15,
@@ -14,7 +14,7 @@
      "What Is LAPTOP? Hunter Biden's Meme Coin Targeting TRUMP Holders",
      "Hunter Biden's LAPTOP Meme Coin Crashes 99% on Debut"
     ],
-    "market_avg_7d_pct": 3.93,
+    "market_avg_7d_pct": 3.42,
     "sources_confirming": 2
    },
    "member_repos": [
@@ -95,7 +95,7 @@
    "confidence": "High",
    "evidence": {
     "github_repos": 17,
-    "github_top_velocity": 25.12,
+    "github_top_velocity": 25.09,
     "headline_hits": 2,
     "sample_headlines": [
      "Bitcoin Wallet Maker Trezor Says Hackers Breached Its Email Provider",
@@ -225,7 +225,7 @@
    "confidence": "Low",
    "evidence": {
     "github_repos": 3,
-    "github_top_velocity": 0.18,
+    "github_top_velocity": 0.17,
     "headline_hits": 1,
     "sample_headlines": [
      "Neuberger teams with Securitize on multi-chain tokenized fixed-income fund launch"
@@ -236,7 +236,7 @@
    "member_repos": [
     {
      "full_name": "keelwright/slipway",
-     "stars_per_day": 0.11,
+     "stars_per_day": 0.1,
      "url": "https://github.com/keelwright/slipway"
     },
     {

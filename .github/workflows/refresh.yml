@@ -1,0 +1,41 @@
+name: Refresh Narrative Radar
+
+on:
+  schedule:
+    - cron: "17 */6 * * *" # every 6 hours
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-radar
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run pipeline
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python src/run_all.py
+
+      - name: Commit and push fresh data
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/ report.md dashboard.html
+          if git diff --cached --quiet; then
+            echo "No data changes"
+          else
+            git commit -m "refresh: auto-update radar data ($(date -u +%Y-%m-%dT%H:%MZ))"
+            git push
+          fi

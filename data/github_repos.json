@@ -436,20 +436,6 @@
   ]
  },
  {
-  "full_name": "ChiefWoods/interest-rate-exchange",
-  "url": "https://github.com/ChiefWoods/interest-rate-exchange",
-  "description": "PT/ST pool-based yield stripping program",
-  "stars": 1,
-  "created": "2026-09-05T06:17:30Z",
-  "language": "Rust",
-  "stars_per_day": 0.25,
-  "age_days": 4,
-  "topics": [
-   "quasar",
-   "solana"
-  ]
- },
- {
   "full_name": "dizcorvus/opencatz-ai",
   "url": "https://github.com/dizcorvus/opencatz-ai",
   "description": "\ud83d\udc3e Autonomous Multi-Agent Crypto Intelligence Swarm. 15 AI Scouts monitoring Solana, Robinhood Chain, Base, ETH, Ink & Hyperliquid 24/7.",
@@ -492,15 +478,18 @@
   "topics": []
  },
  {
-  "full_name": "drp457/solana-wallet-comparison",
-  "url": "https://github.com/drp457/solana-wallet-comparison",
-  "description": "solana wallet app\uff1a\u9009\u5bf9\u94b1\u5305\uff0c\u65b0\u624b\u4e5f\u80fd\u8f7b\u677e\u7ba1\u7406 SOL\u3001\u8d28\u62bc\u548c DeFi",
+  "full_name": "ChiefWoods/interest-rate-exchange",
+  "url": "https://github.com/ChiefWoods/interest-rate-exchange",
+  "description": "PT/ST pool-based yield stripping program",
   "stars": 1,
-  "created": "2026-09-04T06:32:44Z",
-  "language": null,
+  "created": "2026-09-05T06:17:30Z",
+  "language": "Rust",
   "stars_per_day": 0.2,
   "age_days": 5,
-  "topics": []
+  "topics": [
+   "quasar",
+   "solana"
+  ]
  },
  {
   "full_name": "nirholas/onchain-agent-wallets",
@@ -521,6 +510,17 @@
    "solana",
    "spl-token"
   ]
+ },
+ {
+  "full_name": "drp457/solana-wallet-comparison",
+  "url": "https://github.com/drp457/solana-wallet-comparison",
+  "description": "solana wallet app\uff1a\u9009\u5bf9\u94b1\u5305\uff0c\u65b0\u624b\u4e5f\u80fd\u8f7b\u677e\u7ba1\u7406 SOL\u3001\u8d28\u62bc\u548c DeFi",
+  "stars": 1,
+  "created": "2026-09-04T06:32:44Z",
+  "language": null,
+  "stars_per_day": 0.17,
+  "age_days": 6,
+  "topics": []
  },
  {
   "full_name": "alizeeshan1234/svmScope",
@@ -625,26 +625,6 @@
   ]
  },
  {
-  "full_name": "keelwright/slipway",
-  "url": "https://github.com/keelwright/slipway",
-  "description": "A scaffold for on-chain utility projects on Solana \u2014 program, launch, site, indexer, deploy, and every trap already mapped.",
-  "stars": 2,
-  "created": "2026-08-21T06:17:43Z",
-  "language": "JavaScript",
-  "stars_per_day": 0.11,
-  "age_days": 19,
-  "topics": [
-   "agents",
-   "ai-agents",
-   "anchor",
-   "boilerplate",
-   "bonding-curve",
-   "cloudflare-workers",
-   "defi",
-   "meteora"
-  ]
- },
- {
   "full_name": "magpiecapital/magpie-mcp",
   "url": "https://github.com/magpiecapital/magpie-mcp",
   "description": "MCP server for Magpie Capital \u2014 gives LLMs and agents native tools for the Solana lending protocol: live stats, collateral catalog, loan terms, x402 agent endpoints.",
@@ -682,6 +662,26 @@
    "seeker",
    "solana",
    "solana-mobile"
+  ]
+ },
+ {
+  "full_name": "keelwright/slipway",
+  "url": "https://github.com/keelwright/slipway",
+  "description": "A scaffold for on-chain utility projects on Solana \u2014 program, launch, site, indexer, deploy, and every trap already mapped.",
+  "stars": 2,
+  "created": "2026-08-21T06:17:43Z",
+  "language": "JavaScript",
+  "stars_per_day": 0.1,
+  "age_days": 20,
+  "topics": [
+   "agents",
+   "ai-agents",
+   "anchor",
+   "boilerplate",
+   "bonding-curve",
+   "cloudflare-workers",
+   "defi",
+   "meteora"
   ]
  },
  {

@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-09-10T10:57:09+00:00",
+ "generated_at": "2026-09-10T12:34:39+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 65.2,
+   "score": 64.9,
    "confidence": "High",
    "evidence": {
     "github_repos": 47,
-    "github_top_velocity": 33.21,
+    "github_top_velocity": 32.9,
     "headline_hits": 4,
     "sample_headlines": [
      "Sui DeFi protocol Full Sail to wind down after Switchboard incident",
@@ -19,14 +19,14 @@
    },
    "member_repos": [
     {
-     "full_name": "dartkomnitibe/solana-meme-tool",
-     "stars_per_day": 7.19,
-     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
-    },
-    {
      "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
      "stars_per_day": 7.15,
      "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
+    },
+    {
+     "full_name": "dartkomnitibe/solana-meme-tool",
+     "stars_per_day": 6.93,
+     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
     },
     {
      "full_name": "PillCrew/claimchain",
@@ -47,30 +47,30 @@
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 63.0,
+   "score": 63.9,
    "confidence": "High",
    "evidence": {
     "github_repos": 15,
-    "github_top_velocity": 29.64,
+    "github_top_velocity": 29.33,
     "headline_hits": 4,
     "sample_headlines": [
      "Fomo overtakes Pump.fun in daily revenue on Solana",
      "What Is LAPTOP? Hunter Biden's Meme Coin Targeting TRUMP Holders",
      "Hunter Biden's LAPTOP Meme Coin Crashes 99% on Debut"
     ],
-    "market_avg_7d_pct": 0.67,
+    "market_avg_7d_pct": -1.3,
     "sources_confirming": 2
    },
    "member_repos": [
     {
-     "full_name": "dartkomnitibe/solana-meme-tool",
-     "stars_per_day": 7.19,
-     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
-    },
-    {
      "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
      "stars_per_day": 7.15,
      "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
+    },
+    {
+     "full_name": "dartkomnitibe/solana-meme-tool",
+     "stars_per_day": 6.93,
+     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
     },
     {
      "full_name": "PillCrew/claimchain",
@@ -91,11 +91,11 @@
   },
   {
    "narrative": "Wallets & UX",
-   "score": 41.1,
+   "score": 40.8,
    "confidence": "High",
    "evidence": {
     "github_repos": 17,
-    "github_top_velocity": 25.09,
+    "github_top_velocity": 24.83,
     "headline_hits": 2,
     "sample_headlines": [
      "Bitcoin Wallet Maker Trezor Says Hackers Breached Its Email Provider",
@@ -106,14 +106,14 @@
    },
    "member_repos": [
     {
-     "full_name": "dartkomnitibe/solana-meme-tool",
-     "stars_per_day": 7.19,
-     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
-    },
-    {
      "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
      "stars_per_day": 7.15,
      "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
+    },
+    {
+     "full_name": "dartkomnitibe/solana-meme-tool",
+     "stars_per_day": 6.93,
+     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
     },
     {
      "full_name": "ascenx/safe_wallet",

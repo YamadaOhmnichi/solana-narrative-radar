@@ -1,6 +1,6 @@
 # Solana Narrative Radar — Fortnightly Report
 
-Generated: 2026-09-10T10:57:09+00:00  |  Methodology v0.1
+Generated: 2026-09-10T12:34:39+00:00  |  Methodology v0.1
 
 ## On-chain context (live, public RPC)
 
@@ -10,9 +10,9 @@ Generated: 2026-09-10T10:57:09+00:00  |  Methodology v0.1
 
 ## Detected Narratives (ranked)
 
-### 1. DeFi / Trading Infra  —  confidence: High  (score 65.2)
+### 1. DeFi / Trading Infra  —  confidence: High  (score 64.9)
 
-- GitHub repos matching: **47**  (top velocity 33.21 stars/day)
+- GitHub repos matching: **47**  (top velocity 32.9 stars/day)
 - Headline mentions (last fortnight): **4**
 - Cross-source confirmation: **2/3**
 
@@ -22,20 +22,20 @@ Generated: 2026-09-10T10:57:09+00:00  |  Methodology v0.1
   - MiCA is coming for DeFi vaults, but regulation will be difficult
 
   Top repos:
-  - [dartkomnitibe/solana-meme-tool](https://github.com/dartkomnitibe/solana-meme-tool) — 7.19 stars/day
   - [neilveriemusm/Trpjan-solana-trading-toolkit](https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit) — 7.15 stars/day
+  - [dartkomnitibe/solana-meme-tool](https://github.com/dartkomnitibe/solana-meme-tool) — 6.93 stars/day
   - [PillCrew/claimchain](https://github.com/PillCrew/claimchain) — 6.57 stars/day
 
   **Build ideas:**
-  - Copy-trading guardrail bot: open-source program + bot that mirrors KOL wallets but with hard loss caps and sandwich-protection, riding the 47 trading-infrastructure repos at 33.21 stars/day.
+  - Copy-trading guardrail bot: open-source program + bot that mirrors KOL wallets but with hard loss caps and sandwich-protection, riding the 47 trading-infrastructure repos at 32.9 stars/day.
   - Perp risk dashboard: real-time liquidation-heat map over Solana perps using public RPC; headlines show perp/DeFi coverage (4 hits) while retail seeks clearer risk tooling.
   - Intent-based DEX aggregator SDK with MEV-protection defaults — the aggregator lane is crowded but the intent/MEV-protection angle is under-served based on repo descriptions sampled.
 
-### 2. Meme & Speculation  —  confidence: High  (score 63.0)
+### 2. Meme & Speculation  —  confidence: High  (score 63.9)
 
-- GitHub repos matching: **15**  (top velocity 29.64 stars/day)
+- GitHub repos matching: **15**  (top velocity 29.33 stars/day)
 - Headline mentions (last fortnight): **4**
-- Market 7d avg change: **0.67%**
+- Market 7d avg change: **-1.3%**
 - Cross-source confirmation: **2/3**
 
   Sample headlines:
@@ -44,18 +44,18 @@ Generated: 2026-09-10T10:57:09+00:00  |  Methodology v0.1
   - Hunter Biden's LAPTOP Meme Coin Crashes 99% on Debut
 
   Top repos:
-  - [dartkomnitibe/solana-meme-tool](https://github.com/dartkomnitibe/solana-meme-tool) — 7.19 stars/day
   - [neilveriemusm/Trpjan-solana-trading-toolkit](https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit) — 7.15 stars/day
+  - [dartkomnitibe/solana-meme-tool](https://github.com/dartkomnitibe/solana-meme-tool) — 6.93 stars/day
   - [PillCrew/claimchain](https://github.com/PillCrew/claimchain) — 6.57 stars/day
 
   **Build ideas:**
-  - Launchpad honesty score: index every pump.fun-style launch by LP lock, mint authority, holder concentration and dev-wallet behavior; surfaces the few credible launches (avg 7d change 0.67%).
+  - Launchpad honesty score: index every pump.fun-style launch by LP lock, mint authority, holder concentration and dev-wallet behavior; surfaces the few credible launches (avg 7d change -1.3%).
   - Anti-sniper launch template: open-source fair-launch program (no-bundle, capped per-wallet buys) that new launchpads can adopt — a counter-position to the sniper-bot repos in the dataset.
-  - Meme-velocity dashboard: tracks avg 7d change 0.67% so traders see which launches have real retention vs. pure rotation.
+  - Meme-velocity dashboard: tracks avg 7d change -1.3% so traders see which launches have real retention vs. pure rotation.
 
-### 3. Wallets & UX  —  confidence: High  (score 41.1)
+### 3. Wallets & UX  —  confidence: High  (score 40.8)
 
-- GitHub repos matching: **17**  (top velocity 25.09 stars/day)
+- GitHub repos matching: **17**  (top velocity 24.83 stars/day)
 - Headline mentions (last fortnight): **2**
 - Cross-source confirmation: **2/3**
 
@@ -64,12 +64,12 @@ Generated: 2026-09-10T10:57:09+00:00  |  Methodology v0.1
   - Mexican Musician and Family Killed Over Bitcoin Cold Wallet Believed to Hold Millions
 
   Top repos:
-  - [dartkomnitibe/solana-meme-tool](https://github.com/dartkomnitibe/solana-meme-tool) — 7.19 stars/day
   - [neilveriemusm/Trpjan-solana-trading-toolkit](https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit) — 7.15 stars/day
+  - [dartkomnitibe/solana-meme-tool](https://github.com/dartkomnitibe/solana-meme-tool) — 6.93 stars/day
   - [ascenx/safe_wallet](https://github.com/ascenx/safe_wallet) — 3.89 stars/day
 
   **Build ideas:**
-  - One-tap embedded wallet for Telegram mini-apps on Solana, targeting the wallet-UX friction visible in 17 new wallet/onboarding repos at 25.09 stars/day.
+  - One-tap embedded wallet for Telegram mini-apps on Solana, targeting the wallet-UX friction visible in 17 new wallet/onboarding repos at 24.83 stars/day.
   - Session-key wallet: a SPL program that issues 24h scoped keys (spend cap, program allowlist) so dapps never touch the main key — direct answer to onboarding drop-off that wallet repos are attacking.
   - Wallet-drain canary service: continuous simulation that alerts users when a signature request would exfiltrate tokens (security headlines: 2 this period — users clearly need guardrails).
 

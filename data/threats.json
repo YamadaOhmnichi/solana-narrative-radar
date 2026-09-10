@@ -42,13 +42,34 @@
   "flag": "brand-impersonation"
  },
  {
+  "full_name": "bishop555/Solana-Drainer-Tool",
+  "url": "https://github.com/bishop555/Solana-Drainer-Tool",
+  "description": "Solana Drainer Tool \u2014 Automated SOL and SPL token drainer for Solana wallets with real-time balance monitoring, multi-wallet sweeping, Phantom/Backpack/Solflare compatibility, and stealth transaction ",
+  "stars": 55,
+  "created": "2026-09-10T15:16:53Z",
+  "language": "Python",
+  "stars_per_day": 55.0,
+  "age_days": 1,
+  "topics": [
+   "auto-withdraw-bot",
+   "auto-withdraw-script",
+   "drain-bot",
+   "ethereum",
+   "phantom-manager",
+   "private-key-manager",
+   "solana-hunter",
+   "solana-payout-api"
+  ],
+  "flag": "malware-pattern"
+ },
+ {
   "full_name": "QuartzThunderConsole/Multichain-Drainer-Tool",
   "url": "https://github.com/QuartzThunderConsole/Multichain-Drainer-Tool",
   "description": "An automated MultiChain wallet drain utility for USDT ETH SOLANA BTC LTC BNB ETC Trc20 trx... tokens bot",
-  "stars": 16,
+  "stars": 26,
   "created": "2026-09-10T09:08:15Z",
   "language": null,
-  "stars_per_day": 16.0,
+  "stars_per_day": 26.0,
   "age_days": 1,
   "topics": [
    "auto-withdraw-bot",

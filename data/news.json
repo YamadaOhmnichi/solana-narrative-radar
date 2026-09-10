@@ -1,6 +1,11 @@
 {
  "cointelegraph": [
   {
+   "title": "Solana sees record 263K tokens issued in a single day",
+   "pub": "Thu, 10 Sep 2026 13:00:00 +0000",
+   "link": "https://cointelegraph.com/news/solana-record-263k-tokens-issued?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
+  },
+  {
    "title": "Bitcoin ETFs shed $167M after strongest three-week inflow run of 2026",
    "pub": "Thu, 10 Sep 2026 09:59:32 +0000",
    "link": "https://cointelegraph.com/markets/bitcoin-etfs-shed-167m-after-strongest-three-week-inflow-run-of-2026?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
@@ -54,14 +59,29 @@
    "title": "Solana cuts blockchain slot time to 350 milliseconds",
    "pub": "Fri, 21 Aug 2026 13:45:13 +0000",
    "link": "https://cointelegraph.com/news/solana-cuts-blockchain-slot-time-350-milliseconds?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "FalconX, Interstice Connect Canton to Ethereum, Solana and Robinhood Chain",
-   "pub": "Tue, 18 Aug 2026 20:45:48 +0000",
-   "link": "https://cointelegraph.com/news/interstice-falconx-cross-chain-swap-engine-canton-solana-ethereum-robinhood-chain?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
   }
  ],
  "decrypt": [
+  {
+   "title": "Banks Have Minutes, Not Weeks, to Fix Flaws as AI Speeds Up Attacks: BIS",
+   "pub": "Thu, 10 Sep 2026 18:13:13 +0000",
+   "link": "https://decrypt.co/377902/ai-hacks-shrinking-bank-time-fix-flaws-bis"
+  },
+  {
+   "title": "This Guy Cloned Sam Altman, Elon Musk, and Zuckerberg Into AI Bots. They Immediately Started Fighting",
+   "pub": "Thu, 10 Sep 2026 17:07:50 +0000",
+   "link": "https://decrypt.co/377898/sam-altman-elon-musk-zuckerberg-ai-bots"
+  },
+  {
+   "title": "Anthropic Discloses Fourth Claude Hacking Incident as Debate Around Regulation Grows",
+   "pub": "Thu, 10 Sep 2026 15:33:11 +0000",
+   "link": "https://decrypt.co/377889/anthropic-discloses-fourth-claude-hacking-incident-as-debate-around-regulation-grows"
+  },
+  {
+   "title": "Bitcoin at $400K by 2030 Still 'Reasonable Target': Coinbase CEO",
+   "pub": "Thu, 10 Sep 2026 13:04:27 +0000",
+   "link": "https://decrypt.co/377875/bitcoin-at-400k-by-2030-still-reasonable-target-coinbase-ceo"
+  },
   {
    "title": "Morning Minute: Hunter Biden\u2019s LAPTOP Crashes",
    "pub": "Thu, 10 Sep 2026 12:10:48 +0000",
@@ -101,26 +121,6 @@
    "title": "Secret Service Freezes $52.8 Million in Crypto Tied to Telegram Bazaar Behind Global Scams",
    "pub": "Wed, 09 Sep 2026 17:16:08 +0000",
    "link": "https://decrypt.co/377804/secret-service-freezes-crypto-telegram-bazaar-xinbi"
-  },
-  {
-   "title": "While Bitcoin Devs Debate Next Moves, IonQ Unveils Superion 256 Quantum Computer",
-   "pub": "Wed, 09 Sep 2026 16:46:05 +0000",
-   "link": "https://decrypt.co/377737/bitcoin-debate-ionq-quantum-computer"
-  },
-  {
-   "title": "What Is LAPTOP? Hunter Biden's Meme Coin Targeting TRUMP Holders",
-   "pub": "Wed, 09 Sep 2026 16:40:50 +0000",
-   "link": "https://decrypt.co/resources/what-is-laptop-hunter-bidens-meme-coin-targeting-trump-holders"
-  },
-  {
-   "title": "Mexican Musician and Family Killed Over Bitcoin Cold Wallet Believed to Hold Millions",
-   "pub": "Wed, 09 Sep 2026 16:16:04 +0000",
-   "link": "https://decrypt.co/377795/mexican-family-killed-bitcoin-cold-wallet"
-  },
-  {
-   "title": "Hunter Biden's LAPTOP Meme Coin Crashes 99% on Debut",
-   "pub": "Wed, 09 Sep 2026 15:47:09 +0000",
-   "link": "https://decrypt.co/377783/hunter-biden-laptop-meme-coin-crashes"
   }
  ],
  "cryptonews": [

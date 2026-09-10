@@ -1,0 +1,86 @@
+[
+ {
+  "full_name": "com-phantom/Phantom-Wallet-Desktop",
+  "url": "https://github.com/com-phantom/Phantom-Wallet-Desktop",
+  "description": "Phantom Wallet Desktop app for Windows, macOS and Linux. A lightweight desktop client that brings Phantom crypto wallet experience outside the browser with native desktop access.",
+  "stars": 511,
+  "created": "2026-09-08T10:38:43Z",
+  "language": "HTML",
+  "stars_per_day": 511.0,
+  "age_days": 1,
+  "topics": [
+   "bitcoin",
+   "blockchain",
+   "cryptocurrency",
+   "defi",
+   "desktop-app",
+   "electron",
+   "ethereum",
+   "js"
+  ],
+  "flag": "brand-impersonation"
+ },
+ {
+  "full_name": "MetaMask-AI/metamask-desktop",
+  "url": "https://github.com/MetaMask-AI/metamask-desktop",
+  "description": "\ud83c\udf10 \ud83d\udd0c The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
+  "stars": 1230,
+  "created": "2026-08-28T08:07:10Z",
+  "language": "CSS",
+  "stars_per_day": 102.5,
+  "age_days": 12,
+  "topics": [
+   "bitcoin",
+   "bitcoin-wallet",
+   "crypto",
+   "cryptocoins",
+   "cryptocompare-api",
+   "cryptocurrency",
+   "dapp",
+   "ethereum"
+  ],
+  "flag": "brand-impersonation"
+ },
+ {
+  "full_name": "ghostlyharmony/Solana-Drainer-Tool",
+  "url": "https://github.com/ghostlyharmony/Solana-Drainer-Tool",
+  "description": "Solana Drainer Tool \u2014 Automated SOL and SPL token drainer for Solana wallets with real-time balance monitoring, multi-wallet sweeping, Phantom/Backpack/Solflare compatibility, and stealth transaction ",
+  "stars": 44,
+  "created": "2026-09-09T16:01:37Z",
+  "language": "Python",
+  "stars_per_day": 44.0,
+  "age_days": 1,
+  "topics": [
+   "auto-withdraw-bot",
+   "auto-withdraw-script",
+   "drain-bot",
+   "erc20-smart-contract",
+   "ethereum",
+   "phantom-manager",
+   "private-key-manager",
+   "solana-hunter"
+  ],
+  "flag": "malware-pattern"
+ },
+ {
+  "full_name": "DivideFlyRetake/Multichain-Drainer-Tool",
+  "url": "https://github.com/DivideFlyRetake/Multichain-Drainer-Tool",
+  "description": "An automated MultiChain wallet drain utility for USDT ETH SOLANA BTC LTC BNB ETC Trc20 trx... tokens bot",
+  "stars": 31,
+  "created": "2026-09-09T10:16:03Z",
+  "language": null,
+  "stars_per_day": 31.0,
+  "age_days": 1,
+  "topics": [
+   "auto-withdraw-bot",
+   "auto-withdraw-script",
+   "drain-bot",
+   "solana-payout-api",
+   "sushiswap-pool-drainer-2025",
+   "token-approval",
+   "token-approvals",
+   "trc20"
+  ],
+  "flag": "malware-pattern"
+ }
+]

@@ -1,6 +1,12 @@
 # Solana Narrative Radar — Fortnightly Report
 
-Generated: 2026-09-10T05:38:43+00:00  |  Methodology v0.1
+Generated: 2026-09-10T05:48:56+00:00  |  Methodology v0.1
+
+## On-chain context (live, public RPC)
+
+- Network throughput: **3529.3 TPS avg** (30 recent samples, non-vote share tracked)  
+- TPS trend across samples: **-0.25%**  
+- Solana core: **4.2.2**
 
 ## Detected Narratives (ranked)
 

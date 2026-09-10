@@ -5,6 +5,7 @@ from analyze import analyze
 from ideas import ideas_for
 
 REPOS = json.load(open("data/github_repos.json"))
+ONCHAIN = json.load(open("data/onchain.json"))
 MARKET = json.load(open("data/market.json"))
 NEWS = json.load(open("data/news.json"))
 RESULT = analyze(REPOS, MARKET, NEWS)
@@ -17,6 +18,13 @@ lines = []
 lines.append("# Solana Narrative Radar — Fortnightly Report")
 lines.append("")
 lines.append(f"Generated: {RESULT['generated_at']}  |  Methodology v{RESULT['methodology_version']}")
+lines.append("")
+lines.append("## On-chain context (live, public RPC)")
+lines.append("")
+oc = ONCHAIN or {}
+lines.append(f"- Network throughput: **{oc.get('tps_avg')} TPS avg** (30 recent samples, non-vote share tracked)  ")
+lines.append(f"- TPS trend across samples: **{oc.get('tps_trend_pct')}%**  ")
+lines.append(f"- Solana core: **{oc.get('version')}**")
 lines.append("")
 lines.append("## Detected Narratives (ranked)")
 lines.append("")

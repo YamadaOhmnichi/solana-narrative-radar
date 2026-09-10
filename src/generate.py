@@ -6,6 +6,7 @@ from ideas import ideas_for
 
 REPOS = json.load(open("data/github_repos.json"))
 ONCHAIN = json.load(open("data/onchain.json"))
+THREATS = json.load(open("data/threats.json"))
 MARKET = json.load(open("data/market.json"))
 NEWS = json.load(open("data/news.json"))
 RESULT = analyze(REPOS, MARKET, NEWS)
@@ -88,7 +89,8 @@ html_doc = f"""<!doctype html><html lang="en"><head><meta charset="utf-8">
 <style>
  body{{font-family:-apple-system,Segoe UI,Roboto,sans-serif;margin:0;background:#0b0e14;color:#e6e9ef;padding:32px}}
  h1{{color:#14f195;font-size:26px}} .sub{{color:#8b94a7;margin-bottom:24px}}
- .grid{{display:grid;grid-template-columns:repeat(auto-fill,minmax(360px,1fr));gap:18px}}
+ .onchain{{display:flex;flex-wrap:wrap;gap:14px;background:#101522;border:1px solid #232b3a;border-radius:12px;padding:14px 18px;margin-bottom:22px;font-size:13px;color:#b9c0cf}}
+ .onchain b{{color:#14f195}} .onchain .warn{{color:#f5a623}}
  .card{{background:#141925;border:1px solid #232b3a;border-radius:12px;padding:18px}}
  .card-head{{display:flex;justify-content:space-between;align-items:center}}
  .name{{font-weight:700;font-size:16px}} .conf{{font-size:12px;padding:2px 8px;border-radius:6px}}
@@ -102,6 +104,12 @@ html_doc = f"""<!doctype html><html lang="en"><head><meta charset="utf-8">
 </style></head><body>
 <h1>Solana Narrative Radar</h1>
 <div class="sub">Fortnightly autonomous trend detection · generated {esc(RESULT['generated_at'])} · v{esc(RESULT['methodology_version'])}</div>
+<div class="onchain">
+ <span>Live network: <b>{esc(ONCHAIN.get('tps_avg'))} TPS avg</b> (30 RPC samples)</span>
+ <span>TPS trend: <b>{esc(ONCHAIN.get('tps_trend_pct'))}%</b></span>
+ <span>Core: <b>{esc(ONCHAIN.get('version'))}</b></span>
+ <span>Trust gate: <b>{len(REPOS)} legit</b> repos · <span class="warn">{len(THREATS)} flagged threats</span> excluded from signals</span>
+</div>
 <div class="grid">{''.join(cards)}</div>
 </body></html>"""
 open("dashboard.html", "w").write(html_doc)

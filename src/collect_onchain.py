@@ -10,11 +10,22 @@ import json, urllib.request
 
 RPC = "https://api.mainnet-beta.solana.com"
 
+# Route RPC through the local proxy when direct egress is DPI-blocked
+# ( RU networks reset foreign TLS; the proxy egresses from an allowed IP).
+_PROXIES = {"http": "http://127.0.0.1:10891", "https": "http://127.0.0.1:10891"}
+
+def _post(url, body, headers, timeout=30):
+    try:
+        return urllib.request.urlopen(urllib.request.Request(url, data=body, headers=headers), timeout=timeout)
+    except Exception:
+        opener = urllib.request.build_opener(urllib.request.ProxyHandler(_PROXIES))
+        return opener.open(urllib.request.Request(url, data=body, headers=headers), timeout=timeout)
+
 def rpc(method, params):
     body = json.dumps({"jsonrpc": "2.0", "id": 1, "method": method, "params": params}).encode()
-    req = urllib.request.Request(RPC, data=body, headers={
-        "Content-Type": "application/json", "User-Agent": "solana-narrative-radar/0.1"})
-    with urllib.request.urlopen(req, timeout=30) as r:
+    req_headers = {
+        "Content-Type": "application/json", "User-Agent": "solana-narrative-radar/0.1"}
+    with _post(RPC, body, req_headers) as r:
         return json.loads(r.read().decode())
 
 def collect():

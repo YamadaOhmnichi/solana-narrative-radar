@@ -1,6 +1,11 @@
 {
  "cointelegraph": [
   {
+   "title": "Bitcoin ETFs shed $167M after strongest three-week inflow run of 2026",
+   "pub": "Thu, 10 Sep 2026 09:59:32 +0000",
+   "link": "https://cointelegraph.com/markets/bitcoin-etfs-shed-167m-after-strongest-three-week-inflow-run-of-2026?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
+  },
+  {
    "title": "Fomo overtakes Pump.fun in daily revenue on Solana",
    "pub": "Mon, 07 Sep 2026 07:45:39 +0000",
    "link": "https://cointelegraph.com/news/fomo-pumpfun-revenue-app-solana?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
@@ -54,14 +59,14 @@
    "title": "FalconX, Interstice Connect Canton to Ethereum, Solana and Robinhood Chain",
    "pub": "Tue, 18 Aug 2026 20:45:48 +0000",
    "link": "https://cointelegraph.com/news/interstice-falconx-cross-chain-swap-engine-canton-solana-ethereum-robinhood-chain?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Neuberger teams with Securitize on multi-chain tokenized fixed-income fund launch",
-   "pub": "Tue, 18 Aug 2026 15:59:54 +0000",
-   "link": "https://cointelegraph.com/news/neuberger-launches-tokenized-fixed-income-fund-with-securitize?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
   }
  ],
  "decrypt": [
+  {
+   "title": "Vitalik Buterin Pushes Ethereum Plan to Slash Quantum-Safe Privacy Costs",
+   "pub": "Thu, 10 Sep 2026 10:11:52 +0000",
+   "link": "https://decrypt.co/377857/vitalik-buterin-pushes-ethereum-plan-to-slash-quantum-safe-privacy-costs"
+  },
   {
    "title": "Bitcoin Wallet Maker Trezor Says Hackers Breached Its Email Provider",
    "pub": "Wed, 09 Sep 2026 23:02:23 +0000",
@@ -116,11 +121,6 @@
    "title": "Consensys Is Splitting in Two as MetaMask Goes Its Own Way",
    "pub": "Wed, 09 Sep 2026 15:07:24 +0000",
    "link": "https://decrypt.co/377768/consensys-split-metamask-new-institutional-crypto-company"
-  },
-  {
-   "title": "German Finance Ministry Drafts 25% Tax on Crypto Gains From 2027",
-   "pub": "Wed, 09 Sep 2026 14:37:18 +0000",
-   "link": "https://decrypt.co/377764/german-finance-ministry-drafts-25-tax-on-crypto-gains-from-2027"
   }
  ],
  "cryptonews": [

@@ -2,9 +2,19 @@
 """Market-signal collector: CoinGecko category trends for the Solana ecosystem."""
 import json, urllib.request, urllib.parse
 
+# Proxy fallback: RU networks reset foreign TLS; retry through local proxy egress.
+def _open_with_fallback(req, timeout=30):
+    try:
+        return urllib.request.urlopen(req, timeout=timeout)
+    except Exception:
+        opener = urllib.request.build_opener(urllib.request.ProxyHandler(
+            {"http": "http://127.0.0.1:10891", "https": "http://127.0.0.1:10891"}))
+        return opener.open(req, timeout=timeout)
+
+
 def http(url):
     req = urllib.request.Request(url, headers={"User-Agent": "solana-narrative-radar/0.1"})
-    with urllib.request.urlopen(req, timeout=30) as r:
+    with _open_with_fallback(req) as r:
         return json.loads(r.read().decode())
 
 SOLANA_CATEGORIES = ["solana-meme-coins", "solana-ecosystem", "pump-fun-ecosystem"]

@@ -4,6 +4,16 @@ Pulls recently-created Solana-ecosystem repos and computes star velocity."""
 import json, time, urllib.request
 from datetime import datetime, timedelta, timezone
 
+# Proxy fallback: RU networks reset foreign TLS; retry through local proxy egress.
+def _open_with_fallback(req, timeout=30):
+    try:
+        return urllib.request.urlopen(req, timeout=timeout)
+    except Exception:
+        opener = urllib.request.build_opener(urllib.request.ProxyHandler(
+            {"http": "http://127.0.0.1:10891", "https": "http://127.0.0.1:10891"}))
+        return opener.open(req, timeout=timeout)
+
+
 GH_TOKEN = None  # optional; set env GH_TOKEN for higher rate limits
 QUERIES = [
     "solana created:>=",
@@ -18,7 +28,7 @@ def http(url, headers=None):
     if GH_TOKEN: h["Authorization"] = "token " + GH_TOKEN
     if headers: h.update(headers)
     req = urllib.request.Request(url, headers=h)
-    with urllib.request.urlopen(req, timeout=30) as r:
+    with _open_with_fallback(req) as r:
         return json.loads(r.read().decode())
 
 def collect(days=60, per_query=30):

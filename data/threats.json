@@ -6,8 +6,8 @@
   "stars": 511,
   "created": "2026-09-08T10:38:43Z",
   "language": "HTML",
-  "stars_per_day": 511.0,
-  "age_days": 1,
+  "stars_per_day": 255.5,
+  "age_days": 2,
   "topics": [
    "bitcoin",
    "blockchain",
@@ -27,8 +27,8 @@
   "stars": 1230,
   "created": "2026-08-28T08:07:10Z",
   "language": "CSS",
-  "stars_per_day": 102.5,
-  "age_days": 12,
+  "stars_per_day": 94.62,
+  "age_days": 13,
   "topics": [
    "bitcoin",
    "bitcoin-wallet",
@@ -42,34 +42,13 @@
   "flag": "brand-impersonation"
  },
  {
-  "full_name": "ghostlyharmony/Solana-Drainer-Tool",
-  "url": "https://github.com/ghostlyharmony/Solana-Drainer-Tool",
-  "description": "Solana Drainer Tool \u2014 Automated SOL and SPL token drainer for Solana wallets with real-time balance monitoring, multi-wallet sweeping, Phantom/Backpack/Solflare compatibility, and stealth transaction ",
-  "stars": 44,
-  "created": "2026-09-09T16:01:37Z",
-  "language": "Python",
-  "stars_per_day": 44.0,
-  "age_days": 1,
-  "topics": [
-   "auto-withdraw-bot",
-   "auto-withdraw-script",
-   "drain-bot",
-   "erc20-smart-contract",
-   "ethereum",
-   "phantom-manager",
-   "private-key-manager",
-   "solana-hunter"
-  ],
-  "flag": "malware-pattern"
- },
- {
-  "full_name": "DivideFlyRetake/Multichain-Drainer-Tool",
-  "url": "https://github.com/DivideFlyRetake/Multichain-Drainer-Tool",
+  "full_name": "QuartzThunderConsole/Multichain-Drainer-Tool",
+  "url": "https://github.com/QuartzThunderConsole/Multichain-Drainer-Tool",
   "description": "An automated MultiChain wallet drain utility for USDT ETH SOLANA BTC LTC BNB ETC Trc20 trx... tokens bot",
-  "stars": 31,
-  "created": "2026-09-09T10:16:03Z",
+  "stars": 16,
+  "created": "2026-09-10T09:08:15Z",
   "language": null,
-  "stars_per_day": 31.0,
+  "stars_per_day": 16.0,
   "age_days": 1,
   "topics": [
    "auto-withdraw-bot",

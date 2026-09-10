@@ -3,6 +3,16 @@
 import json, re, urllib.request
 import xml.etree.ElementTree as ET
 
+# Proxy fallback: RU networks reset foreign TLS; retry through local proxy egress.
+def _open_with_fallback(req, timeout=30):
+    try:
+        return urllib.request.urlopen(req, timeout=timeout)
+    except Exception:
+        opener = urllib.request.build_opener(urllib.request.ProxyHandler(
+            {"http": "http://127.0.0.1:10891", "https": "http://127.0.0.1:10891"}))
+        return opener.open(req, timeout=timeout)
+
+
 FEEDS = {
     "cointelegraph": "https://cointelegraph.com/rss/tag/solana",
     "decrypt":       "https://decrypt.co/feed",
@@ -14,7 +24,7 @@ def collect(per_feed=12):
     for name, url in FEEDS.items():
         try:
             req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-            xml = urllib.request.urlopen(req, timeout=30).read()
+            xml = _open_with_fallback(req).read()
             root = ET.fromstring(xml)
             items = []
             for it in root.iter("item"):

@@ -1,57 +1,13 @@
 {
- "generated_at": "2026-09-10T06:47:00+00:00",
+ "generated_at": "2026-09-10T10:57:09+00:00",
  "narratives": [
   {
-   "narrative": "Meme & Speculation",
-   "score": 69.1,
-   "confidence": "High",
-   "evidence": {
-    "github_repos": 15,
-    "github_top_velocity": 30.26,
-    "headline_hits": 4,
-    "sample_headlines": [
-     "Fomo overtakes Pump.fun in daily revenue on Solana",
-     "What Is LAPTOP? Hunter Biden's Meme Coin Targeting TRUMP Holders",
-     "Hunter Biden's LAPTOP Meme Coin Crashes 99% on Debut"
-    ],
-    "market_avg_7d_pct": 3.42,
-    "sources_confirming": 2
-   },
-   "member_repos": [
-    {
-     "full_name": "dartkomnitibe/solana-meme-tool",
-     "stars_per_day": 7.19,
-     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
-    },
-    {
-     "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
-     "stars_per_day": 7.15,
-     "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
-    },
-    {
-     "full_name": "PillCrew/claimchain",
-     "stars_per_day": 6.57,
-     "url": "https://github.com/PillCrew/claimchain"
-    },
-    {
-     "full_name": "LoopNecromancer41/solana-sniper-bot",
-     "stars_per_day": 3.0,
-     "url": "https://github.com/LoopNecromancer41/solana-sniper-bot"
-    },
-    {
-     "full_name": "PillCrew/PillCrew",
-     "stars_per_day": 2.68,
-     "url": "https://github.com/PillCrew/PillCrew"
-    }
-   ]
-  },
-  {
    "narrative": "DeFi / Trading Infra",
-   "score": 65.8,
+   "score": 65.2,
    "confidence": "High",
    "evidence": {
     "github_repos": 47,
-    "github_top_velocity": 33.81,
+    "github_top_velocity": 33.21,
     "headline_hits": 4,
     "sample_headlines": [
      "Sui DeFi protocol Full Sail to wind down after Switchboard incident",
@@ -78,14 +34,58 @@
      "url": "https://github.com/PillCrew/claimchain"
     },
     {
-     "full_name": "LoopNecromancer41/solana-sniper-bot",
-     "stars_per_day": 3.0,
-     "url": "https://github.com/LoopNecromancer41/solana-sniper-bot"
-    },
-    {
      "full_name": "tayohya/solprobe",
      "stars_per_day": 2.7,
      "url": "https://github.com/tayohya/solprobe"
+    },
+    {
+     "full_name": "PillCrew/PillCrew",
+     "stars_per_day": 2.68,
+     "url": "https://github.com/PillCrew/PillCrew"
+    }
+   ]
+  },
+  {
+   "narrative": "Meme & Speculation",
+   "score": 63.0,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 15,
+    "github_top_velocity": 29.64,
+    "headline_hits": 4,
+    "sample_headlines": [
+     "Fomo overtakes Pump.fun in daily revenue on Solana",
+     "What Is LAPTOP? Hunter Biden's Meme Coin Targeting TRUMP Holders",
+     "Hunter Biden's LAPTOP Meme Coin Crashes 99% on Debut"
+    ],
+    "market_avg_7d_pct": 0.67,
+    "sources_confirming": 2
+   },
+   "member_repos": [
+    {
+     "full_name": "dartkomnitibe/solana-meme-tool",
+     "stars_per_day": 7.19,
+     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
+    },
+    {
+     "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
+     "stars_per_day": 7.15,
+     "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
+    },
+    {
+     "full_name": "PillCrew/claimchain",
+     "stars_per_day": 6.57,
+     "url": "https://github.com/PillCrew/claimchain"
+    },
+    {
+     "full_name": "PillCrew/PillCrew",
+     "stars_per_day": 2.68,
+     "url": "https://github.com/PillCrew/PillCrew"
+    },
+    {
+     "full_name": "LoopNecromancer41/solana-sniper-bot",
+     "stars_per_day": 2.4,
+     "url": "https://github.com/LoopNecromancer41/solana-sniper-bot"
     }
    ]
   },
@@ -138,7 +138,7 @@
    "confidence": "Medium",
    "evidence": {
     "github_repos": 5,
-    "github_top_velocity": 0.29,
+    "github_top_velocity": 0.28,
     "headline_hits": 5,
     "sample_headlines": [
      "Bitcoin Wallet Maker Trezor Says Hackers Breached Its Email Provider",
@@ -151,7 +151,7 @@
    "member_repos": [
     {
      "full_name": "hypnogaba/solana-signal-trader",
-     "stars_per_day": 0.15,
+     "stars_per_day": 0.14,
      "url": "https://github.com/hypnogaba/solana-signal-trader"
     },
     {
@@ -182,7 +182,7 @@
    "confidence": "High",
    "evidence": {
     "github_repos": 24,
-    "github_top_velocity": 12.87,
+    "github_top_velocity": 12.86,
     "headline_hits": 2,
     "sample_headlines": [
      "AI Is Solving Math's Best Problems Faster Than They Can Be Replaced, Terence Tao Warns",
@@ -220,44 +220,12 @@
    ]
   },
   {
-   "narrative": "RWA & Tokenization",
-   "score": 8.2,
-   "confidence": "Low",
-   "evidence": {
-    "github_repos": 3,
-    "github_top_velocity": 0.17,
-    "headline_hits": 1,
-    "sample_headlines": [
-     "Neuberger teams with Securitize on multi-chain tokenized fixed-income fund launch"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 0
-   },
-   "member_repos": [
-    {
-     "full_name": "keelwright/slipway",
-     "stars_per_day": 0.1,
-     "url": "https://github.com/keelwright/slipway"
-    },
-    {
-     "full_name": "thesithunyein/equxi",
-     "stars_per_day": 0.05,
-     "url": "https://github.com/thesithunyein/equxi"
-    },
-    {
-     "full_name": "Diam0naz/attention-fi",
-     "stars_per_day": 0.02,
-     "url": "https://github.com/Diam0naz/attention-fi"
-    }
-   ]
-  },
-  {
    "narrative": "Dev Tooling & Infra",
    "score": 8.2,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 43,
-    "github_top_velocity": 8.17,
+    "github_top_velocity": 8.16,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -297,7 +265,7 @@
    "confidence": "Medium",
    "evidence": {
     "github_repos": 5,
-    "github_top_velocity": 6.92,
+    "github_top_velocity": 6.9,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -316,12 +284,12 @@
     },
     {
      "full_name": "accretion-xyz/awesome-solana-security",
-     "stars_per_day": 0.27,
+     "stars_per_day": 0.26,
      "url": "https://github.com/accretion-xyz/awesome-solana-security"
     },
     {
      "full_name": "dizcorvus/opencatz-ai",
-     "stars_per_day": 0.24,
+     "stars_per_day": 0.23,
      "url": "https://github.com/dizcorvus/opencatz-ai"
     },
     {
@@ -368,6 +336,36 @@
      "full_name": "belumume/zeroclaw-solana",
      "stars_per_day": 0.02,
      "url": "https://github.com/belumume/zeroclaw-solana"
+    }
+   ]
+  },
+  {
+   "narrative": "RWA & Tokenization",
+   "score": 0.2,
+   "confidence": "Low",
+   "evidence": {
+    "github_repos": 3,
+    "github_top_velocity": 0.17,
+    "headline_hits": 0,
+    "sample_headlines": [],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 0
+   },
+   "member_repos": [
+    {
+     "full_name": "keelwright/slipway",
+     "stars_per_day": 0.1,
+     "url": "https://github.com/keelwright/slipway"
+    },
+    {
+     "full_name": "thesithunyein/equxi",
+     "stars_per_day": 0.05,
+     "url": "https://github.com/thesithunyein/equxi"
+    },
+    {
+     "full_name": "Diam0naz/attention-fi",
+     "stars_per_day": 0.02,
+     "url": "https://github.com/Diam0naz/attention-fi"
     }
    ]
   },

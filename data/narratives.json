@@ -1,32 +1,32 @@
 {
- "generated_at": "2026-09-11T06:33:26+00:00",
+ "generated_at": "2026-09-11T12:33:40+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 72.4,
+   "score": 80.4,
    "confidence": "High",
    "evidence": {
     "github_repos": 47,
-    "github_top_velocity": 32.45,
-    "headline_hits": 5,
+    "github_top_velocity": 32.38,
+    "headline_hits": 6,
     "sample_headlines": [
+     "EU Regulator Says Prediction Markets Are 'Rife With Inside Trading'",
      "Coinbase Wallet Rebrands to Chase 'Anything, Anywhere' Trading as Robinhood Chain Heats Up",
-     "Sui DeFi protocol Full Sail to wind down after Switchboard incident",
-     "Term Finance loses estimated $8.5M in vault governance exploit"
+     "Sui DeFi protocol Full Sail to wind down after Switchboard incident"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
    },
    "member_repos": [
     {
-     "full_name": "dartkomnitibe/solana-meme-tool",
-     "stars_per_day": 6.93,
-     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
-    },
-    {
      "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
      "stars_per_day": 6.89,
      "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
+    },
+    {
+     "full_name": "dartkomnitibe/solana-meme-tool",
+     "stars_per_day": 6.69,
+     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
     },
     {
      "full_name": "PillCrew/claimchain",
@@ -47,29 +47,29 @@
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 66.3,
+   "score": 68.2,
    "confidence": "High",
    "evidence": {
     "github_repos": 14,
-    "github_top_velocity": 28.09,
+    "github_top_velocity": 27.4,
     "headline_hits": 2,
     "sample_headlines": [
      "Fomo overtakes Pump.fun in daily revenue on Solana",
      "Fomo overtakes Pump.fun in daily revenue on Solana"
     ],
-    "market_avg_7d_pct": -11.09,
+    "market_avg_7d_pct": -12.42,
     "sources_confirming": 3
    },
    "member_repos": [
     {
-     "full_name": "dartkomnitibe/solana-meme-tool",
-     "stars_per_day": 6.93,
-     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
-    },
-    {
      "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
      "stars_per_day": 6.89,
      "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
+    },
+    {
+     "full_name": "dartkomnitibe/solana-meme-tool",
+     "stars_per_day": 6.69,
+     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
     },
     {
      "full_name": "PillCrew/claimchain",
@@ -83,23 +83,23 @@
     },
     {
      "full_name": "LoopNecromancer41/solana-sniper-bot",
-     "stars_per_day": 2.4,
+     "stars_per_day": 2.0,
      "url": "https://github.com/LoopNecromancer41/solana-sniper-bot"
     }
    ]
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 34.9,
+   "score": 42.9,
    "confidence": "High",
    "evidence": {
     "github_repos": 23,
-    "github_top_velocity": 10.94,
-    "headline_hits": 3,
+    "github_top_velocity": 10.92,
+    "headline_hits": 4,
     "sample_headlines": [
+     "Morning Minute: AI Agents Cut BTC Quantum Attack Benchmark by 86%",
      "AI Agents Just Slashed the Cost of a Quantum Attack on Bitcoin",
-     "Banks Have Minutes, Not Weeks, to Fix Flaws as AI Speeds Up Attacks: BIS",
-     "This Guy Cloned Sam Altman, Elon Musk, and Zuckerberg Into AI Bots. They Immediately Started Fighting"
+     "Banks Have Minutes, Not Weeks, to Fix Flaws as AI Speeds Up Attacks: BIS"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -122,7 +122,7 @@
     },
     {
      "full_name": "o-mid/guardrail-agent",
-     "stars_per_day": 0.33,
+     "stars_per_day": 0.32,
      "url": "https://github.com/o-mid/guardrail-agent"
     },
     {
@@ -138,7 +138,7 @@
    "confidence": "Medium",
    "evidence": {
     "github_repos": 5,
-    "github_top_velocity": 0.28,
+    "github_top_velocity": 0.27,
     "headline_hits": 4,
     "sample_headlines": [
      "Anthropic Discloses Fourth Claude Hacking Incident as Debate Around Regulation Grows",
@@ -151,7 +151,7 @@
    "member_repos": [
     {
      "full_name": "hypnogaba/solana-signal-trader",
-     "stars_per_day": 0.14,
+     "stars_per_day": 0.13,
      "url": "https://github.com/hypnogaba/solana-signal-trader"
     },
     {
@@ -178,11 +178,11 @@
   },
   {
    "narrative": "Wallets & UX",
-   "score": 32.0,
+   "score": 31.8,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 19,
-    "github_top_velocity": 24.04,
+    "github_top_velocity": 23.8,
     "headline_hits": 1,
     "sample_headlines": [
      "Coinbase Wallet Rebrands to Chase 'Anything, Anywhere' Trading as Robinhood Chain Heats Up"
@@ -192,14 +192,14 @@
    },
    "member_repos": [
     {
-     "full_name": "dartkomnitibe/solana-meme-tool",
-     "stars_per_day": 6.93,
-     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
-    },
-    {
      "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
      "stars_per_day": 6.89,
      "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
+    },
+    {
+     "full_name": "dartkomnitibe/solana-meme-tool",
+     "stars_per_day": 6.69,
+     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
     },
     {
      "full_name": "ascenx/safe_wallet",
@@ -223,8 +223,8 @@
    "score": 7.9,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 43,
-    "github_top_velocity": 7.89,
+    "github_repos": 42,
+    "github_top_velocity": 7.88,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -260,11 +260,11 @@
   },
   {
    "narrative": "Consumer & Social",
-   "score": 6.9,
+   "score": 6.8,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 6,
-    "github_top_velocity": 6.87,
+    "github_top_velocity": 6.85,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -288,12 +288,12 @@
     },
     {
      "full_name": "dizcorvus/opencatz-ai",
-     "stars_per_day": 0.23,
+     "stars_per_day": 0.22,
      "url": "https://github.com/dizcorvus/opencatz-ai"
     },
     {
      "full_name": "blueshift-gg/solana-awesome",
-     "stars_per_day": 0.12,
+     "stars_per_day": 0.11,
      "url": "https://github.com/blueshift-gg/solana-awesome"
     }
    ]

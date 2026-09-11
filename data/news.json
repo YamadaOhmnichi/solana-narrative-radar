@@ -63,6 +63,26 @@
  ],
  "decrypt": [
   {
+   "title": "Morning Minute: AI Agents Cut BTC Quantum Attack Benchmark by 86%",
+   "pub": "Fri, 11 Sep 2026 12:10:23 +0000",
+   "link": "https://decrypt.co/377948/morning-minute-ai-agents-cut-btc-quantum-attack-benchmark-by-86"
+  },
+  {
+   "title": "EU Regulator Says Prediction Markets Are 'Rife With Inside Trading'",
+   "pub": "Fri, 11 Sep 2026 12:06:24 +0000",
+   "link": "https://decrypt.co/377947/eu-regulator-says-prediction-markets-are-rife-with-inside-trading"
+  },
+  {
+   "title": "Albuquerque Bans Bitcoin ATMs, Giving Operators 45 Days to Remove Them",
+   "pub": "Fri, 11 Sep 2026 10:10:41 +0000",
+   "link": "https://decrypt.co/377939/albuquerque-bans-bitcoin-atms-giving-operators-45-days-to-remove-them"
+  },
+  {
+   "title": "Sam Bankman-Fried Asks Supreme Court to Overturn FTX Fraud Conviction",
+   "pub": "Fri, 11 Sep 2026 09:04:11 +0000",
+   "link": "https://decrypt.co/377931/sam-bankman-fried-asks-supreme-court-to-overturn-ftx-fraud-conviction"
+  },
+  {
    "title": "Senate Republicans Release Revised Clarity Act Ahead of September 15 Vote",
    "pub": "Thu, 10 Sep 2026 21:18:48 +0000",
    "link": "https://decrypt.co/377928/senate-republicans-revised-clarity-act-draft"
@@ -101,29 +121,14 @@
    "title": "Anthropic Discloses Fourth Claude Hacking Incident as Debate Around Regulation Grows",
    "pub": "Thu, 10 Sep 2026 15:33:11 +0000",
    "link": "https://decrypt.co/377889/anthropic-discloses-fourth-claude-hacking-incident-as-debate-around-regulation-grows"
-  },
-  {
-   "title": "Bitcoin at $400K by 2030 Still 'Reasonable Target': Coinbase CEO",
-   "pub": "Thu, 10 Sep 2026 13:04:27 +0000",
-   "link": "https://decrypt.co/377875/bitcoin-at-400k-by-2030-still-reasonable-target-coinbase-ceo"
-  },
-  {
-   "title": "Morning Minute: Hunter Biden\u2019s LAPTOP Crashes",
-   "pub": "Thu, 10 Sep 2026 12:10:48 +0000",
-   "link": "https://decrypt.co/377867/morning-minute-hunter-bidens-laptop-crashes"
-  },
-  {
-   "title": "Nasdaq Invests $100M in Kraken Parent Payward at $21B Valuation",
-   "pub": "Thu, 10 Sep 2026 11:28:55 +0000",
-   "link": "https://decrypt.co/377864/nasdaq-invests-100m-in-kraken-parent-payward-at-21b-valuation"
-  },
-  {
-   "title": "Vitalik Buterin Pushes Ethereum Plan to Slash Quantum-Safe Privacy Costs",
-   "pub": "Thu, 10 Sep 2026 10:11:52 +0000",
-   "link": "https://decrypt.co/377857/vitalik-buterin-pushes-ethereum-plan-to-slash-quantum-safe-privacy-costs"
   }
  ],
  "cryptonews": [
+  {
+   "title": "Standard Chartered forecasts SKY rising fivefold to $0.325 by 2028",
+   "pub": "Fri, 11 Sep 2026 10:44:28 +0000",
+   "link": "https://cointelegraph.com/news/sky-value-token-holders-standard-chartered?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+  },
   {
    "title": "Fomo overtakes Pump.fun in daily revenue on Solana",
    "pub": "Mon, 07 Sep 2026 07:45:39 +0000",
@@ -178,11 +183,6 @@
    "title": "\u2018DeFi doesn\u2019t exist anymore,\u2019 just onchain finance: Andre Cronje",
    "pub": "Thu, 13 Aug 2026 10:50:24 +0000",
    "link": "https://cointelegraph.com/news/defi-doesnt-exist-onchain-finance-andre-cronje?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Crypto valuations could double as protocols link revenue to tokens: Bitwise CIO",
-   "pub": "Thu, 13 Aug 2026 05:01:42 +0000",
-   "link": "https://cointelegraph.com/news/crypto-valuations-protocol-revenue-token-buybacks?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
   }
  ]
 }

@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-09-10T18:29:55+00:00",
+ "generated_at": "2026-09-11T00:35:03+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 66.0,
+   "score": 72.5,
    "confidence": "High",
    "evidence": {
-    "github_repos": 47,
-    "github_top_velocity": 34.05,
-    "headline_hits": 4,
+    "github_repos": 48,
+    "github_top_velocity": 32.47,
+    "headline_hits": 5,
     "sample_headlines": [
+     "Coinbase Wallet Rebrands to Chase 'Anything, Anywhere' Trading as Robinhood Chain Heats Up",
      "Sui DeFi protocol Full Sail to wind down after Switchboard incident",
-     "Term Finance loses estimated $8.5M in vault governance exploit",
-     "MiCA is coming for DeFi vaults, but regulation will be difficult"
+     "Term Finance loses estimated $8.5M in vault governance exploit"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -30,34 +30,34 @@
     },
     {
      "full_name": "PillCrew/claimchain",
-     "stars_per_day": 6.57,
+     "stars_per_day": 5.75,
      "url": "https://github.com/PillCrew/claimchain"
-    },
-    {
-     "full_name": "PillCrew/PillCrew",
-     "stars_per_day": 2.68,
-     "url": "https://github.com/PillCrew/PillCrew"
     },
     {
      "full_name": "tayohya/solprobe",
      "stars_per_day": 2.61,
      "url": "https://github.com/tayohya/solprobe"
+    },
+    {
+     "full_name": "PillCrew/PillCrew",
+     "stars_per_day": 2.55,
+     "url": "https://github.com/PillCrew/PillCrew"
     }
    ]
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 63.8,
+   "score": 65.1,
    "confidence": "High",
    "evidence": {
     "github_repos": 14,
-    "github_top_velocity": 29.07,
+    "github_top_velocity": 28.11,
     "headline_hits": 2,
     "sample_headlines": [
      "Fomo overtakes Pump.fun in daily revenue on Solana",
      "Fomo overtakes Pump.fun in daily revenue on Solana"
     ],
-    "market_avg_7d_pct": -9.34,
+    "market_avg_7d_pct": -10.49,
     "sources_confirming": 3
    },
    "member_repos": [
@@ -73,12 +73,12 @@
     },
     {
      "full_name": "PillCrew/claimchain",
-     "stars_per_day": 6.57,
+     "stars_per_day": 5.75,
      "url": "https://github.com/PillCrew/claimchain"
     },
     {
      "full_name": "PillCrew/PillCrew",
-     "stars_per_day": 2.68,
+     "stars_per_day": 2.55,
      "url": "https://github.com/PillCrew/PillCrew"
     },
     {
@@ -89,17 +89,61 @@
    ]
   },
   {
+   "narrative": "AI Agents on Solana",
+   "score": 35.0,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 23,
+    "github_top_velocity": 10.96,
+    "headline_hits": 3,
+    "sample_headlines": [
+     "AI Agents Just Slashed the Cost of a Quantum Attack on Bitcoin",
+     "Banks Have Minutes, Not Weeks, to Fix Flaws as AI Speeds Up Attacks: BIS",
+     "This Guy Cloned Sam Altman, Elon Musk, and Zuckerberg Into AI Bots. They Immediately Started Fighting"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 2
+   },
+   "member_repos": [
+    {
+     "full_name": "PillCrew/claimchain",
+     "stars_per_day": 5.75,
+     "url": "https://github.com/PillCrew/claimchain"
+    },
+    {
+     "full_name": "PillCrew/PillCrew",
+     "stars_per_day": 2.55,
+     "url": "https://github.com/PillCrew/PillCrew"
+    },
+    {
+     "full_name": "kaiserern/Kaiser.charon",
+     "stars_per_day": 1.18,
+     "url": "https://github.com/kaiserern/Kaiser.charon"
+    },
+    {
+     "full_name": "o-mid/guardrail-agent",
+     "stars_per_day": 0.33,
+     "url": "https://github.com/o-mid/guardrail-agent"
+    },
+    {
+     "full_name": "fluxrpc/solana-go",
+     "stars_per_day": 0.31,
+     "url": "https://github.com/fluxrpc/solana-go"
+    }
+   ]
+  },
+  {
    "narrative": "Security & Threats",
-   "score": 48.3,
+   "score": 32.3,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 5,
     "github_top_velocity": 0.28,
-    "headline_hits": 6,
+    "headline_hits": 4,
     "sample_headlines": [
      "Anthropic Discloses Fourth Claude Hacking Incident as Debate Around Regulation Grows",
-     "Bitcoin Wallet Maker Trezor Says Hackers Breached Its Email Provider",
-     "Secret Service Freezes $52.8 Million in Crypto Tied to Telegram Bazaar Behind Global Scams"
+     "More Markets lending reserve drained for $410,000: Blockaid",
+     "Term Finance loses estimated $8.5M in vault governance exploit"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 1
@@ -133,59 +177,15 @@
    ]
   },
   {
-   "narrative": "AI Agents on Solana",
-   "score": 44.8,
-   "confidence": "High",
-   "evidence": {
-    "github_repos": 24,
-    "github_top_velocity": 12.84,
-    "headline_hits": 4,
-    "sample_headlines": [
-     "Banks Have Minutes, Not Weeks, to Fix Flaws as AI Speeds Up Attacks: BIS",
-     "This Guy Cloned Sam Altman, Elon Musk, and Zuckerberg Into AI Bots. They Immediately Started Fighting",
-     "AI Is Solving Math's Best Problems Faster Than They Can Be Replaced, Terence Tao Warns"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 2
-   },
-   "member_repos": [
-    {
-     "full_name": "PillCrew/claimchain",
-     "stars_per_day": 6.57,
-     "url": "https://github.com/PillCrew/claimchain"
-    },
-    {
-     "full_name": "PillCrew/PillCrew",
-     "stars_per_day": 2.68,
-     "url": "https://github.com/PillCrew/PillCrew"
-    },
-    {
-     "full_name": "kaiserern/Kaiser.charon",
-     "stars_per_day": 1.18,
-     "url": "https://github.com/kaiserern/Kaiser.charon"
-    },
-    {
-     "full_name": "romankurnovskii/etemaro",
-     "stars_per_day": 1.02,
-     "url": "https://github.com/romankurnovskii/etemaro"
-    },
-    {
-     "full_name": "o-mid/guardrail-agent",
-     "stars_per_day": 0.33,
-     "url": "https://github.com/o-mid/guardrail-agent"
-    }
-   ]
-  },
-  {
    "narrative": "Wallets & UX",
-   "score": 32.3,
+   "score": 32.1,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 17,
-    "github_top_velocity": 24.27,
+    "github_repos": 18,
+    "github_top_velocity": 24.08,
     "headline_hits": 1,
     "sample_headlines": [
-     "Bitcoin Wallet Maker Trezor Says Hackers Breached Its Email Provider"
+     "Coinbase Wallet Rebrands to Chase 'Anything, Anywhere' Trading as Robinhood Chain Heats Up"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 1
@@ -208,7 +208,7 @@
     },
     {
      "full_name": "nathanliow/trickshot",
-     "stars_per_day": 3.12,
+     "stars_per_day": 2.94,
      "url": "https://github.com/nathanliow/trickshot"
     },
     {
@@ -224,7 +224,7 @@
    "confidence": "Medium",
    "evidence": {
     "github_repos": 43,
-    "github_top_velocity": 8.01,
+    "github_top_velocity": 8.0,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -300,11 +300,11 @@
   },
   {
    "narrative": "Payments & Stablecoins",
-   "score": 0.4,
+   "score": 0.3,
    "confidence": "Low",
    "evidence": {
     "github_repos": 5,
-    "github_top_velocity": 0.37,
+    "github_top_velocity": 0.35,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -313,12 +313,12 @@
    "member_repos": [
     {
      "full_name": "nirholas/onchain-agent-wallets",
-     "stars_per_day": 0.19,
+     "stars_per_day": 0.18,
      "url": "https://github.com/nirholas/onchain-agent-wallets"
     },
     {
      "full_name": "grokloop/grokchain-programs",
-     "stars_per_day": 0.08,
+     "stars_per_day": 0.07,
      "url": "https://github.com/grokloop/grokchain-programs"
     },
     {
@@ -344,7 +344,7 @@
    "confidence": "Low",
    "evidence": {
     "github_repos": 3,
-    "github_top_velocity": 0.17,
+    "github_top_velocity": 0.18,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -362,9 +362,9 @@
      "url": "https://github.com/thesithunyein/equxi"
     },
     {
-     "full_name": "Diam0naz/attention-fi",
-     "stars_per_day": 0.02,
-     "url": "https://github.com/Diam0naz/attention-fi"
+     "full_name": "RedDuckTeam/staking",
+     "stars_per_day": 0.03,
+     "url": "https://github.com/RedDuckTeam/staking"
     }
    ]
   },

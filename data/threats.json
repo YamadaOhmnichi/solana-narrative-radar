@@ -1,26 +1,5 @@
 [
  {
-  "full_name": "com-phantom/Phantom-Wallet-Desktop",
-  "url": "https://github.com/com-phantom/Phantom-Wallet-Desktop",
-  "description": "Phantom Wallet Desktop app for Windows, macOS and Linux. A lightweight desktop client that brings Phantom crypto wallet experience outside the browser with native desktop access.",
-  "stars": 511,
-  "created": "2026-09-08T10:38:43Z",
-  "language": "HTML",
-  "stars_per_day": 255.5,
-  "age_days": 2,
-  "topics": [
-   "bitcoin",
-   "blockchain",
-   "cryptocurrency",
-   "defi",
-   "desktop-app",
-   "electron",
-   "ethereum",
-   "js"
-  ],
-  "flag": "brand-impersonation"
- },
- {
   "full_name": "MetaMask-AI/metamask-desktop",
   "url": "https://github.com/MetaMask-AI/metamask-desktop",
   "description": "\ud83c\udf10 \ud83d\udd0c The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
@@ -63,13 +42,13 @@
   "flag": "malware-pattern"
  },
  {
-  "full_name": "QuartzThunderConsole/Multichain-Drainer-Tool",
-  "url": "https://github.com/QuartzThunderConsole/Multichain-Drainer-Tool",
+  "full_name": "borderactivistcupola/Multichain-Drainer-Tool",
+  "url": "https://github.com/borderactivistcupola/Multichain-Drainer-Tool",
   "description": "An automated MultiChain wallet drain utility for USDT ETH SOLANA BTC LTC BNB ETC Trc20 trx... tokens bot",
-  "stars": 26,
-  "created": "2026-09-10T09:08:15Z",
+  "stars": 16,
+  "created": "2026-09-10T21:49:37Z",
   "language": null,
-  "stars_per_day": 26.0,
+  "stars_per_day": 16.0,
   "age_days": 1,
   "topics": [
    "auto-withdraw-bot",

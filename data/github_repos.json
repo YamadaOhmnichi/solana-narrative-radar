@@ -33,8 +33,8 @@
   "stars": 316,
   "created": "2026-07-20T05:09:52Z",
   "language": "JavaScript",
-  "stars_per_day": 6.08,
-  "age_days": 52,
+  "stars_per_day": 5.96,
+  "age_days": 53,
   "topics": [
    "blockchain-game",
    "chunkjs",
@@ -73,8 +73,8 @@
   "stars": 193,
   "created": "2026-08-06T00:51:16Z",
   "language": "TypeScript",
-  "stars_per_day": 5.51,
-  "age_days": 35,
+  "stars_per_day": 5.36,
+  "age_days": 36,
   "topics": []
  },
  {
@@ -240,8 +240,8 @@
   "stars": 59,
   "created": "2026-07-22T04:16:58Z",
   "language": "JavaScript",
-  "stars_per_day": 1.18,
-  "age_days": 50,
+  "stars_per_day": 1.16,
+  "age_days": 51,
   "topics": []
  },
  {
@@ -332,8 +332,8 @@
   "stars": 10,
   "created": "2026-08-10T03:26:44Z",
   "language": "Rust",
-  "stars_per_day": 0.32,
-  "age_days": 31,
+  "stars_per_day": 0.31,
+  "age_days": 32,
   "topics": [
    "defi",
    "magicblock",
@@ -358,26 +358,6 @@
    "sdk-go",
    "solana",
    "solana-agent-kit"
-  ]
- },
- {
-  "full_name": "qiaopengjun5162/onchain-arbitrage-colearn",
-  "url": "https://github.com/qiaopengjun5162/onchain-arbitrage-colearn",
-  "description": "\u94fe\u4e0a\u5957\u5229\u6b8b\u9177\u5171\u5b66\u77e5\u8bc6\u5e93\uff1aDeFi\u6e05\u7b97/\u8de8\u6240\u4ef7\u5dee/\u8d44\u91d1\u8d39\u7387/DEX\u5957\u5229\u7814\u7a76\u7b14\u8bb0 + 8\u4e2a\u76d1\u63a7\u54e8\u5175 + Python/Rust\u53cc\u5b9e\u73b0",
-  "stars": 9,
-  "created": "2026-08-08T02:49:21Z",
-  "language": "HTML",
-  "stars_per_day": 0.27,
-  "age_days": 33,
-  "topics": [
-   "arbitrage",
-   "blockchain",
-   "crypto",
-   "defi",
-   "mev",
-   "rust",
-   "solana",
-   "web3"
   ]
  },
  {
@@ -408,6 +388,26 @@
   "stars_per_day": 0.26,
   "age_days": 42,
   "topics": []
+ },
+ {
+  "full_name": "qiaopengjun5162/onchain-arbitrage-colearn",
+  "url": "https://github.com/qiaopengjun5162/onchain-arbitrage-colearn",
+  "description": "\u94fe\u4e0a\u5957\u5229\u6b8b\u9177\u5171\u5b66\u77e5\u8bc6\u5e93\uff1aDeFi\u6e05\u7b97/\u8de8\u6240\u4ef7\u5dee/\u8d44\u91d1\u8d39\u7387/DEX\u5957\u5229\u7814\u7a76\u7b14\u8bb0 + 8\u4e2a\u76d1\u63a7\u54e8\u5175 + Python/Rust\u53cc\u5b9e\u73b0",
+  "stars": 9,
+  "created": "2026-08-08T02:49:21Z",
+  "language": "HTML",
+  "stars_per_day": 0.26,
+  "age_days": 34,
+  "topics": [
+   "arbitrage",
+   "blockchain",
+   "crypto",
+   "defi",
+   "mev",
+   "rust",
+   "solana",
+   "web3"
+  ]
  },
  {
   "full_name": "udaysharmadev/Web-3-Free-Resources",
@@ -472,20 +472,6 @@
   "topics": []
  },
  {
-  "full_name": "ChiefWoods/interest-rate-exchange",
-  "url": "https://github.com/ChiefWoods/interest-rate-exchange",
-  "description": "PT/ST pool-based yield stripping program",
-  "stars": 1,
-  "created": "2026-09-05T06:17:30Z",
-  "language": "Rust",
-  "stars_per_day": 0.2,
-  "age_days": 5,
-  "topics": [
-   "quasar",
-   "solana"
-  ]
- },
- {
   "full_name": "nirholas/onchain-agent-wallets",
   "url": "https://github.com/nirholas/onchain-agent-wallets",
   "description": "Give an AI agent a real Solana wallet without giving it your money. An MCP server for spending allowances the SPL Token program enforces on-chain, with guardrails, x402 payments, and revocable custody",
@@ -506,15 +492,18 @@
   ]
  },
  {
-  "full_name": "drp457/solana-wallet-comparison",
-  "url": "https://github.com/drp457/solana-wallet-comparison",
-  "description": "solana wallet app\uff1a\u9009\u5bf9\u94b1\u5305\uff0c\u65b0\u624b\u4e5f\u80fd\u8f7b\u677e\u7ba1\u7406 SOL\u3001\u8d28\u62bc\u548c DeFi",
+  "full_name": "ChiefWoods/interest-rate-exchange",
+  "url": "https://github.com/ChiefWoods/interest-rate-exchange",
+  "description": "PT/ST pool-based yield stripping program",
   "stars": 1,
-  "created": "2026-09-04T06:32:44Z",
-  "language": null,
+  "created": "2026-09-05T06:17:30Z",
+  "language": "Rust",
   "stars_per_day": 0.17,
   "age_days": 6,
-  "topics": []
+  "topics": [
+   "quasar",
+   "solana"
+  ]
  },
  {
   "full_name": "alizeeshan1234/svmScope",
@@ -579,6 +568,17 @@
   ]
  },
  {
+  "full_name": "drp457/solana-wallet-comparison",
+  "url": "https://github.com/drp457/solana-wallet-comparison",
+  "description": "solana wallet app\uff1a\u9009\u5bf9\u94b1\u5305\uff0c\u65b0\u624b\u4e5f\u80fd\u8f7b\u677e\u7ba1\u7406 SOL\u3001\u8d28\u62bc\u548c DeFi",
+  "stars": 1,
+  "created": "2026-09-04T06:32:44Z",
+  "language": null,
+  "stars_per_day": 0.14,
+  "age_days": 7,
+  "topics": []
+ },
+ {
   "full_name": "daronthedragon/wallet-forensics",
   "url": "https://github.com/daronthedragon/wallet-forensics",
   "description": "Forensic report for any Ethereum or Solana address: realized PnL, fees burned, MEV extracted from you, approval risk, and what your bags are actually worth if you tried to sell them.",
@@ -597,6 +597,17 @@
    "typescript",
    "viem"
   ]
+ },
+ {
+  "full_name": "blueshift-gg/solana-awesome",
+  "url": "https://github.com/blueshift-gg/solana-awesome",
+  "description": "An awesome collective of major Solana libraries \u2014 core sdk, programs, interfaces, clients, crypto etc",
+  "stars": 2,
+  "created": "2026-08-24T12:22:27Z",
+  "language": "Rust",
+  "stars_per_day": 0.12,
+  "age_days": 17,
+  "topics": []
  },
  {
   "full_name": "cryptoduke01/kensho",
@@ -657,7 +668,7 @@
   "created": "2026-08-21T06:17:43Z",
   "language": "JavaScript",
   "stars_per_day": 0.1,
-  "age_days": 20,
+  "age_days": 21,
   "topics": [
    "agents",
    "ai-agents",
@@ -818,7 +829,7 @@
   "created": "2026-08-27T03:53:37Z",
   "language": "Rust",
   "stars_per_day": 0.07,
-  "age_days": 14,
+  "age_days": 15,
   "topics": [
    "anchor",
    "solana"
@@ -853,17 +864,6 @@
   "stars": 1,
   "created": "2026-08-23T18:24:13Z",
   "language": "JavaScript",
-  "stars_per_day": 0.06,
-  "age_days": 18,
-  "topics": []
- },
- {
-  "full_name": "R4Y4N3/Sealevel-Insight",
-  "url": "https://github.com/R4Y4N3/Sealevel-Insight",
-  "description": "Framework-agnostic VS Code extension for Solana program metrics, architecture, complexity, and security-surface analysis.",
-  "stars": 1,
-  "created": "2026-08-23T04:02:06Z",
-  "language": "TypeScript",
   "stars_per_day": 0.06,
   "age_days": 18,
   "topics": []
@@ -954,7 +954,7 @@
   "created": "2026-07-15T03:28:45Z",
   "language": "TypeScript",
   "stars_per_day": 0.05,
-  "age_days": 57,
+  "age_days": 58,
   "topics": [
    "audit",
    "auditing",
@@ -965,17 +965,6 @@
    "solana-agent-kit",
    "solana-ai-kit"
   ]
- },
- {
-  "full_name": "firedancer-io/market-tick",
-  "url": "https://github.com/firedancer-io/market-tick",
-  "description": "A Solana program maintaining a sub-slot clock",
-  "stars": 2,
-  "created": "2026-07-28T02:15:23Z",
-  "language": "Rust",
-  "stars_per_day": 0.05,
-  "age_days": 44,
-  "topics": []
  },
  {
   "full_name": "OpenFlareStudio/agents",
@@ -1006,6 +995,17 @@
   "language": "Rust",
   "stars_per_day": 0.05,
   "age_days": 22,
+  "topics": []
+ },
+ {
+  "full_name": "R4Y4N3/Sealevel-Insight",
+  "url": "https://github.com/R4Y4N3/Sealevel-Insight",
+  "description": "Framework-agnostic VS Code extension for Solana program metrics, architecture, complexity, and security-surface analysis.",
+  "stars": 1,
+  "created": "2026-08-23T04:02:06Z",
+  "language": "TypeScript",
+  "stars_per_day": 0.05,
+  "age_days": 19,
   "topics": []
  },
  {
@@ -1078,6 +1078,17 @@
   ]
  },
  {
+  "full_name": "firedancer-io/market-tick",
+  "url": "https://github.com/firedancer-io/market-tick",
+  "description": "A Solana program maintaining a sub-slot clock",
+  "stars": 2,
+  "created": "2026-07-28T02:15:23Z",
+  "language": "Rust",
+  "stars_per_day": 0.04,
+  "age_days": 45,
+  "topics": []
+ },
+ {
   "full_name": "anky06-ky/CSaCLAB",
   "url": "https://github.com/anky06-ky/CSaCLAB",
   "description": "REDLINE \u2014 programmable safety for autonomous DeFi agents on Solana",
@@ -1143,17 +1154,6 @@
    "solana",
    "twap"
   ]
- },
- {
-  "full_name": "Aranmobinarann/aranmobinn",
-  "url": "https://github.com/Aranmobinarann/aranmobinn",
-  "description": "Aranmobin \u2013 See Through the Chain. DeFi Dashboard on Tron, Solana, Ethereum, Bitcoin & TON.",
-  "stars": 1,
-  "created": "2026-08-13T01:05:33Z",
-  "language": null,
-  "stars_per_day": 0.04,
-  "age_days": 28,
-  "topics": []
  },
  {
   "full_name": "De-ASI-INTERFACE/openchainbench-attestations-solana",
@@ -1222,26 +1222,6 @@
   "topics": []
  },
  {
-  "full_name": "RedDuckTeam/staking",
-  "url": "https://github.com/RedDuckTeam/staking",
-  "description": "Tokenized staking vault built twice \u2014 an ERC-4626-style Solidity vault for EVM and an Anchor program for Solana \u2014 with one React dApp driving both.",
-  "stars": 1,
-  "created": "2026-08-03T16:40:21Z",
-  "language": "TypeScript",
-  "stars_per_day": 0.03,
-  "age_days": 38,
-  "topics": [
-   "anchor",
-   "defi",
-   "erc4626",
-   "smart-contracts",
-   "solana",
-   "solidity",
-   "staking",
-   "tokenized-vault"
-  ]
- },
- {
   "full_name": "Harmain11/Cross-Chain-Hub",
   "url": "https://github.com/Harmain11/Cross-Chain-Hub",
   "description": "\u26a1 AI-powered smart contract factory \u2014 type plain English, get compiled, audited & deployed Solidity/Anchor contracts in <45s",
@@ -1260,6 +1240,17 @@
    "code-generation",
    "defi"
   ]
+ },
+ {
+  "full_name": "Aranmobinarann/aranmobinn",
+  "url": "https://github.com/Aranmobinarann/aranmobinn",
+  "description": "Aranmobin \u2013 See Through the Chain. DeFi Dashboard on Tron, Solana, Ethereum, Bitcoin & TON.",
+  "stars": 1,
+  "created": "2026-08-13T01:05:33Z",
+  "language": null,
+  "stars_per_day": 0.03,
+  "age_days": 29,
+  "topics": []
  },
  {
   "full_name": "0xpluto/solana-protocols",
@@ -1306,7 +1297,7 @@
   "created": "2026-08-10T04:21:56Z",
   "language": "TypeScript",
   "stars_per_day": 0.03,
-  "age_days": 31,
+  "age_days": 32,
   "topics": [
    "anchor",
    "developer-tools",
@@ -1323,7 +1314,7 @@
   "created": "2026-08-11T03:17:51Z",
   "language": "TypeScript",
   "stars_per_day": 0.03,
-  "age_days": 30,
+  "age_days": 31,
   "topics": [
    "anchor",
    "defi",

@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-09-11T00:35:03+00:00",
+ "generated_at": "2026-09-11T06:33:26+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 72.5,
+   "score": 72.4,
    "confidence": "High",
    "evidence": {
-    "github_repos": 48,
-    "github_top_velocity": 32.47,
+    "github_repos": 47,
+    "github_top_velocity": 32.45,
     "headline_hits": 5,
     "sample_headlines": [
      "Coinbase Wallet Rebrands to Chase 'Anything, Anywhere' Trading as Robinhood Chain Heats Up",
@@ -47,17 +47,17 @@
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 65.1,
+   "score": 66.3,
    "confidence": "High",
    "evidence": {
     "github_repos": 14,
-    "github_top_velocity": 28.11,
+    "github_top_velocity": 28.09,
     "headline_hits": 2,
     "sample_headlines": [
      "Fomo overtakes Pump.fun in daily revenue on Solana",
      "Fomo overtakes Pump.fun in daily revenue on Solana"
     ],
-    "market_avg_7d_pct": -10.49,
+    "market_avg_7d_pct": -11.09,
     "sources_confirming": 3
    },
    "member_repos": [
@@ -90,11 +90,11 @@
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 35.0,
+   "score": 34.9,
    "confidence": "High",
    "evidence": {
     "github_repos": 23,
-    "github_top_velocity": 10.96,
+    "github_top_velocity": 10.94,
     "headline_hits": 3,
     "sample_headlines": [
      "AI Agents Just Slashed the Cost of a Quantum Attack on Bitcoin",
@@ -117,7 +117,7 @@
     },
     {
      "full_name": "kaiserern/Kaiser.charon",
-     "stars_per_day": 1.18,
+     "stars_per_day": 1.16,
      "url": "https://github.com/kaiserern/Kaiser.charon"
     },
     {
@@ -178,11 +178,11 @@
   },
   {
    "narrative": "Wallets & UX",
-   "score": 32.1,
+   "score": 32.0,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 18,
-    "github_top_velocity": 24.08,
+    "github_repos": 19,
+    "github_top_velocity": 24.04,
     "headline_hits": 1,
     "sample_headlines": [
      "Coinbase Wallet Rebrands to Chase 'Anything, Anywhere' Trading as Robinhood Chain Heats Up"
@@ -220,11 +220,11 @@
   },
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 8.0,
+   "score": 7.9,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 43,
-    "github_top_velocity": 8.0,
+    "github_top_velocity": 7.89,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -233,7 +233,7 @@
    "member_repos": [
     {
      "full_name": "nicechunk/game",
-     "stars_per_day": 6.08,
+     "stars_per_day": 5.96,
      "url": "https://github.com/nicechunk/game"
     },
     {
@@ -263,7 +263,7 @@
    "score": 6.9,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 5,
+    "github_repos": 6,
     "github_top_velocity": 6.87,
     "headline_hits": 0,
     "sample_headlines": [],
@@ -273,7 +273,7 @@
    "member_repos": [
     {
      "full_name": "nicechunk/game",
-     "stars_per_day": 6.08,
+     "stars_per_day": 5.96,
      "url": "https://github.com/nicechunk/game"
     },
     {
@@ -292,9 +292,9 @@
      "url": "https://github.com/dizcorvus/opencatz-ai"
     },
     {
-     "full_name": "sapir-pirski/fate-solana-games",
-     "stars_per_day": 0.03,
-     "url": "https://github.com/sapir-pirski/fate-solana-games"
+     "full_name": "blueshift-gg/solana-awesome",
+     "stars_per_day": 0.12,
+     "url": "https://github.com/blueshift-gg/solana-awesome"
     }
    ]
   },
@@ -343,8 +343,8 @@
    "score": 0.2,
    "confidence": "Low",
    "evidence": {
-    "github_repos": 3,
-    "github_top_velocity": 0.18,
+    "github_repos": 2,
+    "github_top_velocity": 0.15,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -360,11 +360,6 @@
      "full_name": "thesithunyein/equxi",
      "stars_per_day": 0.05,
      "url": "https://github.com/thesithunyein/equxi"
-    },
-    {
-     "full_name": "RedDuckTeam/staking",
-     "stars_per_day": 0.03,
-     "url": "https://github.com/RedDuckTeam/staking"
     }
    ]
   },

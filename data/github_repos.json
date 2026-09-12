@@ -3,10 +3,10 @@
   "full_name": "nhovongoc0-max/meme-radar",
   "url": "https://github.com/nhovongoc0-max/meme-radar",
   "description": "Meme\u96f7\u8fbe\u5f00\u6e90\u7248\uff1a\u672c\u5730\u53ea\u8bfb\u3001\u591a\u94fe Meme \u5019\u9009\u626b\u63cf\u4e0e\u4eba\u5de5\u590d\u6838\u5de5\u5177",
-  "stars": 77,
+  "stars": 115,
   "created": "2026-09-11T12:14:57Z",
   "language": "JavaScript",
-  "stars_per_day": 77.0,
+  "stars_per_day": 115.0,
   "age_days": 1,
   "topics": [
    "bsc",
@@ -52,8 +52,8 @@
   "stars": 316,
   "created": "2026-07-20T05:09:52Z",
   "language": "JavaScript",
-  "stars_per_day": 5.96,
-  "age_days": 53,
+  "stars_per_day": 5.85,
+  "age_days": 54,
   "topics": [
    "blockchain-game",
    "chunkjs",
@@ -72,8 +72,8 @@
   "stars": 193,
   "created": "2026-08-06T00:51:16Z",
   "language": "TypeScript",
-  "stars_per_day": 5.36,
-  "age_days": 36,
+  "stars_per_day": 5.22,
+  "age_days": 37,
   "topics": []
  },
  {
@@ -247,14 +247,34 @@
   ]
  },
  {
+  "full_name": "SohniSwatantra/nosana-mcp",
+  "url": "https://github.com/SohniSwatantra/nosana-mcp",
+  "description": "Nosana MCP: let AI agents rent GPUs on Nosana and deploy templates such as MiniMax H3 with account credits. MCP server + nosana-deploy CLI.",
+  "stars": 7,
+  "created": "2026-09-05T07:41:05Z",
+  "language": "TypeScript",
+  "stars_per_day": 1.17,
+  "age_days": 6,
+  "topics": [
+   "ai-agents",
+   "claude",
+   "comfyui",
+   "gpu",
+   "mcp",
+   "minimax",
+   "model-context-protocol",
+   "nosana"
+  ]
+ },
+ {
   "full_name": "kaiserern/Kaiser.charon",
   "url": "https://github.com/kaiserern/Kaiser.charon",
   "description": "Solana pump.fun trading bot \u2014 Telegram-driven screening, strategy gates, LLM entry selection, Jupiter execution. Fork of yunus-0x/charon.",
   "stars": 60,
   "created": "2026-07-22T04:16:58Z",
   "language": "JavaScript",
-  "stars_per_day": 1.18,
-  "age_days": 51,
+  "stars_per_day": 1.15,
+  "age_days": 52,
   "topics": []
  },
  {
@@ -365,8 +385,8 @@
   "stars": 10,
   "created": "2026-08-10T03:26:44Z",
   "language": "Rust",
-  "stars_per_day": 0.31,
-  "age_days": 32,
+  "stars_per_day": 0.3,
+  "age_days": 33,
   "topics": [
    "defi",
    "magicblock",
@@ -412,7 +432,7 @@
   "created": "2026-08-08T02:49:21Z",
   "language": "HTML",
   "stars_per_day": 0.26,
-  "age_days": 34,
+  "age_days": 35,
   "topics": [
    "arbitrage",
    "blockchain",
@@ -474,17 +494,6 @@
   "topics": []
  },
  {
-  "full_name": "LouayeG/solana-escrow",
-  "url": "https://github.com/LouayeG/solana-escrow",
-  "description": "A trust-minimized token escrow (make/take/cancel) built with Anchor ",
-  "stars": 1,
-  "created": "2026-09-07T06:06:41Z",
-  "language": "Rust",
-  "stars_per_day": 0.25,
-  "age_days": 4,
-  "topics": []
- },
- {
   "full_name": "Voightxyz/voight-txline-agent",
   "url": "https://github.com/Voightxyz/voight-txline-agent",
   "description": "Sharp Movement Detector on Voight, TxLINE World Cup Hackathon 2026. Deterministic detection over Solana-anchored odds, running in a production agent.",
@@ -527,6 +536,17 @@
   "topics": []
  },
  {
+  "full_name": "LouayeG/solana-escrow",
+  "url": "https://github.com/LouayeG/solana-escrow",
+  "description": "A trust-minimized token escrow (make/take/cancel) built with Anchor ",
+  "stars": 1,
+  "created": "2026-09-07T06:06:41Z",
+  "language": "Rust",
+  "stars_per_day": 0.2,
+  "age_days": 5,
+  "topics": []
+ },
+ {
   "full_name": "nirholas/onchain-agent-wallets",
   "url": "https://github.com/nirholas/onchain-agent-wallets",
   "description": "Give an AI agent a real Solana wallet without giving it your money. An MCP server for spending allowances the SPL Token program enforces on-chain, with guardrails, x402 payments, and revocable custody",
@@ -544,20 +564,6 @@
    "self-custody",
    "solana",
    "spl-token"
-  ]
- },
- {
-  "full_name": "ChiefWoods/interest-rate-exchange",
-  "url": "https://github.com/ChiefWoods/interest-rate-exchange",
-  "description": "PT/ST pool-based yield stripping program",
-  "stars": 1,
-  "created": "2026-09-05T06:17:30Z",
-  "language": "Rust",
-  "stars_per_day": 0.17,
-  "age_days": 6,
-  "topics": [
-   "quasar",
-   "solana"
   ]
  },
  {
@@ -589,6 +595,20 @@
    "simulator",
    "solana",
    "svm"
+  ]
+ },
+ {
+  "full_name": "ChiefWoods/interest-rate-exchange",
+  "url": "https://github.com/ChiefWoods/interest-rate-exchange",
+  "description": "PT/ST pool-based yield stripping program",
+  "stars": 1,
+  "created": "2026-09-05T06:17:30Z",
+  "language": "Rust",
+  "stars_per_day": 0.14,
+  "age_days": 7,
+  "topics": [
+   "quasar",
+   "solana"
   ]
  },
  {
@@ -705,26 +725,6 @@
   ]
  },
  {
-  "full_name": "keelwright/slipway",
-  "url": "https://github.com/keelwright/slipway",
-  "description": "A scaffold for on-chain utility projects on Solana \u2014 program, launch, site, indexer, deploy, and every trap already mapped.",
-  "stars": 2,
-  "created": "2026-08-21T06:17:43Z",
-  "language": "JavaScript",
-  "stars_per_day": 0.1,
-  "age_days": 21,
-  "topics": [
-   "agents",
-   "ai-agents",
-   "anchor",
-   "boilerplate",
-   "bonding-curve",
-   "cloudflare-workers",
-   "defi",
-   "meteora"
-  ]
- },
- {
   "full_name": "magpiecapital/magpie-mcp",
   "url": "https://github.com/magpiecapital/magpie-mcp",
   "description": "MCP server for Magpie Capital \u2014 gives LLMs and agents native tools for the Solana lending protocol: live stats, collateral catalog, loan terms, x402 agent endpoints.",
@@ -742,6 +742,26 @@
    "model-context-protocol",
    "solana",
    "x402"
+  ]
+ },
+ {
+  "full_name": "keelwright/slipway",
+  "url": "https://github.com/keelwright/slipway",
+  "description": "A scaffold for on-chain utility projects on Solana \u2014 program, launch, site, indexer, deploy, and every trap already mapped.",
+  "stars": 2,
+  "created": "2026-08-21T06:17:43Z",
+  "language": "JavaScript",
+  "stars_per_day": 0.09,
+  "age_days": 22,
+  "topics": [
+   "agents",
+   "ai-agents",
+   "anchor",
+   "boilerplate",
+   "bonding-curve",
+   "cloudflare-workers",
+   "defi",
+   "meteora"
   ]
  },
  {
@@ -846,20 +866,6 @@
   "topics": []
  },
  {
-  "full_name": "ChiefWoods/permissionless-fee-router",
-  "url": "https://github.com/ChiefWoods/permissionless-fee-router",
-  "description": "Permissionless fee router for star.fun Superteam Earn bounty",
-  "stars": 1,
-  "created": "2026-08-27T03:53:37Z",
-  "language": "Rust",
-  "stars_per_day": 0.07,
-  "age_days": 15,
-  "topics": [
-   "anchor",
-   "solana"
-  ]
- },
- {
   "full_name": "andrzejsantocki/tidify-program",
   "url": "https://github.com/andrzejsantocki/tidify-program",
   "description": "Public reproducible source and IDL for the Tidify Solana program",
@@ -931,6 +937,20 @@
   ]
  },
  {
+  "full_name": "ChiefWoods/permissionless-fee-router",
+  "url": "https://github.com/ChiefWoods/permissionless-fee-router",
+  "description": "Permissionless fee router for star.fun Superteam Earn bounty",
+  "stars": 1,
+  "created": "2026-08-27T03:53:37Z",
+  "language": "Rust",
+  "stars_per_day": 0.06,
+  "age_days": 16,
+  "topics": [
+   "anchor",
+   "solana"
+  ]
+ },
+ {
   "full_name": "daemon-blockint-tech/4R3S",
   "url": "https://github.com/daemon-blockint-tech/4R3S",
   "description": "Autonomous Solana program security auditor",
@@ -938,7 +958,7 @@
   "created": "2026-07-15T03:28:45Z",
   "language": "TypeScript",
   "stars_per_day": 0.05,
-  "age_days": 58,
+  "age_days": 59,
   "topics": [
    "audit",
    "auditing",
@@ -1000,7 +1020,7 @@
   "created": "2026-08-23T04:02:06Z",
   "language": "TypeScript",
   "stars_per_day": 0.05,
-  "age_days": 19,
+  "age_days": 20,
   "topics": []
  },
  {
@@ -1040,7 +1060,7 @@
   "created": "2026-07-28T02:15:23Z",
   "language": "Rust",
   "stars_per_day": 0.04,
-  "age_days": 45,
+  "age_days": 46,
   "topics": []
  },
  {
@@ -1305,7 +1325,7 @@
   "created": "2026-08-13T01:05:33Z",
   "language": null,
   "stars_per_day": 0.03,
-  "age_days": 29,
+  "age_days": 30,
   "topics": []
  },
  {
@@ -1336,7 +1356,7 @@
   "created": "2026-08-10T04:21:56Z",
   "language": "TypeScript",
   "stars_per_day": 0.03,
-  "age_days": 32,
+  "age_days": 33,
   "topics": [
    "anchor",
    "developer-tools",
@@ -1353,7 +1373,7 @@
   "created": "2026-08-11T03:17:51Z",
   "language": "TypeScript",
   "stars_per_day": 0.03,
-  "age_days": 31,
+  "age_days": 32,
   "topics": [
    "anchor",
    "defi",
@@ -1500,7 +1520,7 @@
   "created": "2026-07-21T04:53:36Z",
   "language": "TypeScript",
   "stars_per_day": 0.02,
-  "age_days": 52,
+  "age_days": 53,
   "topics": [
    "anchor-lang",
    "hackathon",

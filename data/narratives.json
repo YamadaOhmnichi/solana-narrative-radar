@@ -1,25 +1,25 @@
 {
- "generated_at": "2026-09-11T18:30:56+00:00",
+ "generated_at": "2026-09-12T00:33:35+00:00",
  "narratives": [
   {
    "narrative": "Meme & Speculation",
-   "score": 114.2,
+   "score": 140.3,
    "confidence": "High",
    "evidence": {
     "github_repos": 15,
-    "github_top_velocity": 82.08,
+    "github_top_velocity": 103.31,
     "headline_hits": 2,
     "sample_headlines": [
      "Fomo overtakes Pump.fun in daily revenue on Solana",
      "Fomo overtakes Pump.fun in daily revenue on Solana"
     ],
-    "market_avg_7d_pct": -8.07,
+    "market_avg_7d_pct": -10.52,
     "sources_confirming": 3
    },
    "member_repos": [
     {
      "full_name": "nhovongoc0-max/meme-radar",
-     "stars_per_day": 55.0,
+     "stars_per_day": 77.0,
      "url": "https://github.com/nhovongoc0-max/meme-radar"
     },
     {
@@ -34,23 +34,23 @@
     },
     {
      "full_name": "PillCrew/claimchain",
-     "stars_per_day": 5.75,
+     "stars_per_day": 5.11,
      "url": "https://github.com/PillCrew/claimchain"
     },
     {
      "full_name": "PillCrew/PillCrew",
-     "stars_per_day": 2.55,
+     "stars_per_day": 2.43,
      "url": "https://github.com/PillCrew/PillCrew"
     }
    ]
   },
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 79.1,
+   "score": 78.7,
    "confidence": "High",
    "evidence": {
-    "github_repos": 47,
-    "github_top_velocity": 31.08,
+    "github_repos": 51,
+    "github_top_velocity": 30.72,
     "headline_hits": 6,
     "sample_headlines": [
      "Robinhood Crypto Trading Volume Jumps 61% in August",
@@ -73,72 +73,28 @@
     },
     {
      "full_name": "PillCrew/claimchain",
-     "stars_per_day": 5.75,
+     "stars_per_day": 5.11,
      "url": "https://github.com/PillCrew/claimchain"
-    },
-    {
-     "full_name": "PillCrew/PillCrew",
-     "stars_per_day": 2.55,
-     "url": "https://github.com/PillCrew/PillCrew"
     },
     {
      "full_name": "tayohya/solprobe",
      "stars_per_day": 2.52,
      "url": "https://github.com/tayohya/solprobe"
-    }
-   ]
-  },
-  {
-   "narrative": "AI Agents on Solana",
-   "score": 34.9,
-   "confidence": "High",
-   "evidence": {
-    "github_repos": 23,
-    "github_top_velocity": 10.93,
-    "headline_hits": 3,
-    "sample_headlines": [
-     "OpenAI Asks Congress Whether an AI Slowdown Would Be Legal",
-     "Morning Minute: AI Agents Cut BTC Quantum Attack Benchmark by 86%",
-     "AI Agents Just Slashed the Cost of a Quantum Attack on Bitcoin"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 2
-   },
-   "member_repos": [
-    {
-     "full_name": "PillCrew/claimchain",
-     "stars_per_day": 5.75,
-     "url": "https://github.com/PillCrew/claimchain"
     },
     {
      "full_name": "PillCrew/PillCrew",
-     "stars_per_day": 2.55,
+     "stars_per_day": 2.43,
      "url": "https://github.com/PillCrew/PillCrew"
-    },
-    {
-     "full_name": "kaiserern/Kaiser.charon",
-     "stars_per_day": 1.18,
-     "url": "https://github.com/kaiserern/Kaiser.charon"
-    },
-    {
-     "full_name": "o-mid/guardrail-agent",
-     "stars_per_day": 0.32,
-     "url": "https://github.com/o-mid/guardrail-agent"
-    },
-    {
-     "full_name": "fluxrpc/solana-go",
-     "stars_per_day": 0.3,
-     "url": "https://github.com/fluxrpc/solana-go"
     }
    ]
   },
   {
    "narrative": "Security & Threats",
-   "score": 32.3,
+   "score": 32.2,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 5,
-    "github_top_velocity": 0.26,
+    "github_repos": 4,
+    "github_top_velocity": 0.23,
     "headline_hits": 4,
     "sample_headlines": [
      "Blockstream Refuses Ransom for Return of $47M in Bitcoin from Liquid Hack: 'It Is Theft'",
@@ -165,11 +121,6 @@
      "url": "https://github.com/KarloAldrete/universal-proxy"
     },
     {
-     "full_name": "Harmain11/Cross-Chain-Hub",
-     "stars_per_day": 0.03,
-     "url": "https://github.com/Harmain11/Cross-Chain-Hub"
-    },
-    {
      "full_name": "leafwithered/clawledger",
      "stars_per_day": 0.02,
      "url": "https://github.com/leafwithered/clawledger"
@@ -177,12 +128,55 @@
    ]
   },
   {
+   "narrative": "AI Agents on Solana",
+   "score": 26.1,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 23,
+    "github_top_velocity": 10.15,
+    "headline_hits": 2,
+    "sample_headlines": [
+     "OpenAI Asks Congress Whether an AI Slowdown Would Be Legal",
+     "Morning Minute: AI Agents Cut BTC Quantum Attack Benchmark by 86%"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 2
+   },
+   "member_repos": [
+    {
+     "full_name": "PillCrew/claimchain",
+     "stars_per_day": 5.11,
+     "url": "https://github.com/PillCrew/claimchain"
+    },
+    {
+     "full_name": "PillCrew/PillCrew",
+     "stars_per_day": 2.43,
+     "url": "https://github.com/PillCrew/PillCrew"
+    },
+    {
+     "full_name": "kaiserern/Kaiser.charon",
+     "stars_per_day": 1.18,
+     "url": "https://github.com/kaiserern/Kaiser.charon"
+    },
+    {
+     "full_name": "o-mid/guardrail-agent",
+     "stars_per_day": 0.32,
+     "url": "https://github.com/o-mid/guardrail-agent"
+    },
+    {
+     "full_name": "fluxrpc/solana-go",
+     "stars_per_day": 0.3,
+     "url": "https://github.com/fluxrpc/solana-go"
+    }
+   ]
+  },
+  {
    "narrative": "Wallets & UX",
-   "score": 23.3,
+   "score": 23.1,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 19,
-    "github_top_velocity": 23.3,
+    "github_top_velocity": 23.14,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -206,7 +200,7 @@
     },
     {
      "full_name": "nathanliow/trickshot",
-     "stars_per_day": 2.94,
+     "stars_per_day": 2.79,
      "url": "https://github.com/nathanliow/trickshot"
     },
     {
@@ -218,11 +212,11 @@
   },
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 7.8,
+   "score": 7.9,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 42,
-    "github_top_velocity": 7.77,
+    "github_repos": 41,
+    "github_top_velocity": 7.89,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -250,9 +244,9 @@
      "url": "https://github.com/subhdotsol/solana-programs"
     },
     {
-     "full_name": "Voightxyz/voight-txline-agent",
-     "stars_per_day": 0.23,
-     "url": "https://github.com/Voightxyz/voight-txline-agent"
+     "full_name": "LouayeG/solana-escrow",
+     "stars_per_day": 0.25,
+     "url": "https://github.com/LouayeG/solana-escrow"
     }
    ]
   },
@@ -261,8 +255,8 @@
    "score": 6.8,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 6,
-    "github_top_velocity": 6.83,
+    "github_repos": 7,
+    "github_top_velocity": 6.85,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -298,11 +292,11 @@
   },
   {
    "narrative": "Payments & Stablecoins",
-   "score": 0.3,
+   "score": 0.4,
    "confidence": "Low",
    "evidence": {
-    "github_repos": 5,
-    "github_top_velocity": 0.35,
+    "github_repos": 8,
+    "github_top_velocity": 0.41,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -311,7 +305,7 @@
    "member_repos": [
     {
      "full_name": "nirholas/onchain-agent-wallets",
-     "stars_per_day": 0.18,
+     "stars_per_day": 0.17,
      "url": "https://github.com/nirholas/onchain-agent-wallets"
     },
     {
@@ -321,18 +315,18 @@
     },
     {
      "full_name": "nemorixgroup/Solana-Knowledge-Base",
-     "stars_per_day": 0.06,
+     "stars_per_day": 0.05,
      "url": "https://github.com/nemorixgroup/Solana-Knowledge-Base"
     },
     {
-     "full_name": "CryptoMehis/Marketing-Program",
-     "stars_per_day": 0.02,
-     "url": "https://github.com/CryptoMehis/Marketing-Program"
+     "full_name": "lakshya0101/Nexus-Pay",
+     "stars_per_day": 0.03,
+     "url": "https://github.com/lakshya0101/Nexus-Pay"
     },
     {
-     "full_name": "belumume/zeroclaw-solana",
-     "stars_per_day": 0.02,
-     "url": "https://github.com/belumume/zeroclaw-solana"
+     "full_name": "anirudhh206/Ashlar",
+     "stars_per_day": 0.03,
+     "url": "https://github.com/anirudhh206/Ashlar"
     }
    ]
   },
@@ -341,8 +335,8 @@
    "score": 0.2,
    "confidence": "Low",
    "evidence": {
-    "github_repos": 2,
-    "github_top_velocity": 0.15,
+    "github_repos": 3,
+    "github_top_velocity": 0.18,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -358,6 +352,11 @@
      "full_name": "thesithunyein/equxi",
      "stars_per_day": 0.05,
      "url": "https://github.com/thesithunyein/equxi"
+    },
+    {
+     "full_name": "RedDuckTeam/staking",
+     "stars_per_day": 0.03,
+     "url": "https://github.com/RedDuckTeam/staking"
     }
    ]
   },

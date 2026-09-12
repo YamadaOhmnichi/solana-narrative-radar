@@ -4,111 +4,111 @@
    "id": "official-trump",
    "symbol": "trump",
    "name": "Official Trump",
-   "market_cap": 551966538,
-   "rank": 101,
-   "chg_24h": 4.09347,
-   "chg_7d": -15.9,
-   "chg_30d": 44.1,
-   "volume_mcap_ratio": 0.313
+   "market_cap": 545691900,
+   "rank": 102,
+   "chg_24h": 1.25408,
+   "chg_7d": -16.3,
+   "chg_30d": 45.3,
+   "volume_mcap_ratio": 0.193
   },
   {
    "id": "pudgy-penguins",
    "symbol": "pengu",
    "name": "Pudgy Penguins",
-   "market_cap": 463894518,
-   "rank": 114,
-   "chg_24h": 0.95731,
-   "chg_7d": -14.4,
-   "chg_30d": 16.7,
-   "volume_mcap_ratio": 0.376
+   "market_cap": 457870132,
+   "rank": 115,
+   "chg_24h": 0.01063,
+   "chg_7d": -15.0,
+   "chg_30d": 18.7,
+   "volume_mcap_ratio": 0.22
   },
   {
    "id": "bonk",
    "symbol": "bonk",
    "name": "Bonk",
-   "market_cap": 250352374,
-   "rank": 151,
-   "chg_24h": 7.50667,
-   "chg_7d": -14.6,
-   "chg_30d": 21.8,
-   "volume_mcap_ratio": 0.141
+   "market_cap": 247043932,
+   "rank": 152,
+   "chg_24h": 2.8365,
+   "chg_7d": -13.6,
+   "chg_30d": 20.2,
+   "volume_mcap_ratio": 0.096
   },
   {
    "id": "useless-3",
    "symbol": "useless",
    "name": "Useless Coin",
-   "market_cap": 242313743,
-   "rank": 156,
-   "chg_24h": 8.45224,
-   "chg_7d": 2.4,
-   "chg_30d": 534.2,
-   "volume_mcap_ratio": 0.289
+   "market_cap": 229243407,
+   "rank": 161,
+   "chg_24h": 0.19953,
+   "chg_7d": -20.5,
+   "chg_30d": 516.0,
+   "volume_mcap_ratio": 0.191
   },
   {
    "id": "dogwifcoin",
    "symbol": "wif",
    "name": "dogwifhat",
-   "market_cap": 193222606,
+   "market_cap": 192605506,
    "rank": 178,
-   "chg_24h": 2.12949,
-   "chg_7d": -9.4,
-   "chg_30d": 38.9,
-   "volume_mcap_ratio": 0.252
+   "chg_24h": 0.82515,
+   "chg_7d": -9.6,
+   "chg_30d": 41.6,
+   "volume_mcap_ratio": 0.201
   },
   {
    "id": "fartcoin",
    "symbol": "fartcoin",
    "name": "Fartcoin",
-   "market_cap": 144241258,
-   "rank": 217,
-   "chg_24h": 3.9771,
-   "chg_7d": -12.8,
-   "chg_30d": 7.4,
-   "volume_mcap_ratio": 0.349
+   "market_cap": 144392414,
+   "rank": 216,
+   "chg_24h": -0.48678,
+   "chg_7d": -15.0,
+   "chg_30d": 9.8,
+   "volume_mcap_ratio": 0.187
   },
   {
    "id": "melania-meme",
    "symbol": "melania",
    "name": "Melania Meme",
-   "market_cap": 103994957,
-   "rank": 267,
-   "chg_24h": 4.13442,
-   "chg_7d": -5.9,
-   "chg_30d": 44.3,
-   "volume_mcap_ratio": 0.069
-  },
-  {
-   "id": "dog-go-to-the-moon-rune",
-   "symbol": "dog",
-   "name": "Dog (Bitcoin)",
-   "market_cap": 101647820,
-   "rank": 270,
-   "chg_24h": -0.89625,
-   "chg_7d": -14.9,
-   "chg_30d": 60.1,
-   "volume_mcap_ratio": 0.01
+   "market_cap": 102096322,
+   "rank": 272,
+   "chg_24h": 1.16132,
+   "chg_7d": -8.2,
+   "chg_30d": 43.7,
+   "volume_mcap_ratio": 0.057
   },
   {
    "id": "anonymous-cat",
    "symbol": "zcat",
    "name": "Anonymous Cat",
-   "market_cap": 77723389,
-   "rank": 324,
-   "chg_24h": -4.22934,
+   "market_cap": 101962371,
+   "rank": 271,
+   "chg_24h": 24.27471,
    "chg_7d": null,
    "chg_30d": null,
-   "volume_mcap_ratio": 0.157
+   "volume_mcap_ratio": 0.163
+  },
+  {
+   "id": "dog-go-to-the-moon-rune",
+   "symbol": "dog",
+   "name": "Dog (Bitcoin)",
+   "market_cap": 101538907,
+   "rank": 273,
+   "chg_24h": -1.84083,
+   "chg_7d": -15.6,
+   "chg_30d": 62.2,
+   "volume_mcap_ratio": 0.007
   },
   {
    "id": "baby-doge-coin",
    "symbol": "babydoge",
    "name": "Baby Doge Coin",
-   "market_cap": 70466469,
-   "rank": 356,
-   "chg_24h": 4.45116,
-   "chg_7d": -4.8,
-   "chg_30d": 14.8,
-   "volume_mcap_ratio": 0.041
+   "market_cap": 69943762,
+   "rank": 358,
+   "chg_24h": 1.06642,
+   "chg_7d": -8.6,
+   "chg_30d": 15.8,
+   "volume_mcap_ratio": 0.03
   }
  ],
  "solana-ecosystem": [
@@ -116,111 +116,111 @@
    "id": "tether",
    "symbol": "usdt",
    "name": "Tether",
-   "market_cap": 183481967805,
+   "market_cap": 183485636226,
    "rank": 3,
-   "chg_24h": 0.02144,
+   "chg_24h": 0.01259,
    "chg_7d": 0.0,
    "chg_30d": 0.1,
-   "volume_mcap_ratio": 0.346
+   "volume_mcap_ratio": 0.189
   },
   {
    "id": "usd-coin",
    "symbol": "usdc",
    "name": "USDC",
-   "market_cap": 74339809151,
+   "market_cap": 74320648774,
    "rank": 6,
-   "chg_24h": 0.00223,
+   "chg_24h": 0.0049,
    "chg_7d": 0.0,
    "chg_30d": 0.0,
-   "volume_mcap_ratio": 0.223
+   "volume_mcap_ratio": 0.105
   },
   {
    "id": "solana",
    "symbol": "sol",
    "name": "Solana",
-   "market_cap": 60009770467,
+   "market_cap": 59712421345,
    "rank": 7,
-   "chg_24h": 3.53012,
-   "chg_7d": -0.4,
-   "chg_30d": 34.9,
-   "volume_mcap_ratio": 0.072
+   "chg_24h": 0.53148,
+   "chg_7d": -1.4,
+   "chg_30d": 35.1,
+   "volume_mcap_ratio": 0.039
   },
   {
    "id": "usds",
    "symbol": "usds",
    "name": "USDS",
-   "market_cap": 9790394522,
+   "market_cap": 9797218464,
    "rank": 15,
-   "chg_24h": -0.0036,
+   "chg_24h": -0.00035,
    "chg_7d": 0.0,
    "chg_30d": 0.0,
-   "volume_mcap_ratio": 0.018
+   "volume_mcap_ratio": 0.01
   },
   {
    "id": "wrapped-bitcoin",
    "symbol": "wbtc",
    "name": "Wrapped Bitcoin",
-   "market_cap": 8975133966,
+   "market_cap": 8962115959,
    "rank": null,
-   "chg_24h": 0.72545,
-   "chg_7d": -2.8,
-   "chg_30d": 21.6,
-   "volume_mcap_ratio": 0.015
+   "chg_24h": 0.03616,
+   "chg_7d": -3.4,
+   "chg_30d": 22.4,
+   "volume_mcap_ratio": 0.006
   },
   {
    "id": "chainlink",
    "symbol": "link",
    "name": "Chainlink",
-   "market_cap": 8646647320,
+   "market_cap": 8617280311,
    "rank": 17,
-   "chg_24h": 1.93278,
-   "chg_7d": -1.6,
-   "chg_30d": 32.5,
-   "volume_mcap_ratio": 0.054
+   "chg_24h": -0.96668,
+   "chg_7d": -3.8,
+   "chg_30d": 32.2,
+   "volume_mcap_ratio": 0.033
   },
   {
    "id": "coinbase-wrapped-btc",
    "symbol": "cbbtc",
    "name": "Coinbase Wrapped BTC",
-   "market_cap": 7714759121,
+   "market_cap": 7702304198,
    "rank": null,
-   "chg_24h": 0.58676,
-   "chg_7d": -2.9,
-   "chg_30d": 21.6,
-   "volume_mcap_ratio": 0.051
+   "chg_24h": 0.06132,
+   "chg_7d": -3.7,
+   "chg_30d": 22.5,
+   "volume_mcap_ratio": 0.02
   },
   {
    "id": "ethena-usde",
    "symbol": "usde",
    "name": "Ethena USDe",
-   "market_cap": 4603637581,
-   "rank": 22,
-   "chg_24h": 0.02884,
+   "market_cap": 4604305101,
+   "rank": 21,
+   "chg_24h": 0.00805,
    "chg_7d": 0.0,
    "chg_30d": 0.0,
-   "volume_mcap_ratio": 0.013
+   "volume_mcap_ratio": 0.007
   },
   {
    "id": "usd1-wlfi",
    "symbol": "usd1",
    "name": "USD1",
-   "market_cap": 4301376871,
+   "market_cap": 4303189234,
    "rank": 24,
-   "chg_24h": 0.0118,
+   "chg_24h": 0.00223,
    "chg_7d": 0.0,
    "chg_30d": 0.1,
-   "volume_mcap_ratio": 0.275
+   "volume_mcap_ratio": 0.161
   },
   {
    "id": "global-dollar",
    "symbol": "usdg",
    "name": "Global Dollar",
-   "market_cap": 3305937248,
+   "market_cap": 3305883416,
    "rank": 29,
-   "chg_24h": -0.01508,
+   "chg_24h": -0.00387,
    "chg_7d": 0.0,
    "chg_30d": 0.0,
-   "volume_mcap_ratio": 0.538
+   "volume_mcap_ratio": 0.319
   }
  ]
 }

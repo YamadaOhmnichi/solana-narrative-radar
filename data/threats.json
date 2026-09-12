@@ -21,34 +21,13 @@
   "flag": "brand-impersonation"
  },
  {
-  "full_name": "borderactivistcupola/Multichain-Drainer-Tool",
-  "url": "https://github.com/borderactivistcupola/Multichain-Drainer-Tool",
-  "description": "An automated MultiChain wallet drain utility for USDT ETH SOLANA BTC LTC BNB ETC Trc20 trx... tokens bot",
-  "stars": 34,
-  "created": "2026-09-10T21:49:37Z",
-  "language": null,
-  "stars_per_day": 34.0,
-  "age_days": 1,
-  "topics": [
-   "auto-withdraw-bot",
-   "auto-withdraw-script",
-   "drain-bot",
-   "solana-payout-api",
-   "sushiswap-pool-drainer-2025",
-   "token-approval",
-   "token-approvals",
-   "trc20"
-  ],
-  "flag": "malware-pattern"
- },
- {
   "full_name": "carolinaknapp/Solana-Drainer-Tool",
   "url": "https://github.com/carolinaknapp/Solana-Drainer-Tool",
   "description": "Solana Drainer Tool \u2014 Automated SOL and SPL token drainer for Solana wallets with real-time balance monitoring, multi-wallet sweeping, Phantom/Backpack/Solflare compatibility, and stealth transaction ",
-  "stars": 33,
+  "stars": 41,
   "created": "2026-09-11T23:49:05Z",
   "language": "Python",
-  "stars_per_day": 33.0,
+  "stars_per_day": 41.0,
   "age_days": 1,
   "topics": [
    "auto-withdraw-bot",
@@ -59,6 +38,27 @@
    "private-key-manager",
    "solana-payout-api",
    "token-approval"
+  ],
+  "flag": "malware-pattern"
+ },
+ {
+  "full_name": "borderactivistcupola/Multichain-Drainer-Tool",
+  "url": "https://github.com/borderactivistcupola/Multichain-Drainer-Tool",
+  "description": "An automated MultiChain wallet drain utility for USDT ETH SOLANA BTC LTC BNB ETC Trc20 trx... tokens bot",
+  "stars": 29,
+  "created": "2026-09-10T21:49:37Z",
+  "language": null,
+  "stars_per_day": 29.0,
+  "age_days": 1,
+  "topics": [
+   "auto-withdraw-bot",
+   "auto-withdraw-script",
+   "drain-bot",
+   "solana-payout-api",
+   "sushiswap-pool-drainer-2025",
+   "token-approval",
+   "token-approvals",
+   "trc20"
   ],
   "flag": "malware-pattern"
  }

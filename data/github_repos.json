@@ -3,10 +3,10 @@
   "full_name": "nhovongoc0-max/meme-radar",
   "url": "https://github.com/nhovongoc0-max/meme-radar",
   "description": "Meme\u96f7\u8fbe\u5f00\u6e90\u7248\uff1a\u672c\u5730\u53ea\u8bfb\u3001\u591a\u94fe Meme \u5019\u9009\u626b\u63cf\u4e0e\u4eba\u5de5\u590d\u6838\u5de5\u5177",
-  "stars": 161,
+  "stars": 197,
   "created": "2026-09-11T12:14:57Z",
   "language": "JavaScript",
-  "stars_per_day": 161.0,
+  "stars_per_day": 197.0,
   "age_days": 1,
   "topics": [
    "bsc",
@@ -17,17 +17,6 @@
    "solana",
    "token-scanner"
   ]
- },
- {
-  "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
-  "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit",
-  "description": " self-hosted Solana console for meme-coin launch, sniping, copy trading, volume, and wallet risk.",
-  "stars": 193,
-  "created": "2026-08-13T12:49:31Z",
-  "language": null,
-  "stars_per_day": 6.66,
-  "age_days": 29,
-  "topics": []
  },
  {
   "full_name": "dartkomnitibe/solana-meme-tool",
@@ -44,6 +33,17 @@
    "solana",
    "tradebot"
   ]
+ },
+ {
+  "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
+  "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit",
+  "description": " self-hosted Solana console for meme-coin launch, sniping, copy trading, volume, and wallet risk.",
+  "stars": 193,
+  "created": "2026-08-13T12:49:31Z",
+  "language": null,
+  "stars_per_day": 6.43,
+  "age_days": 30,
+  "topics": []
  },
  {
   "full_name": "nicechunk/game",
@@ -103,8 +103,8 @@
   "stars": 136,
   "created": "2026-08-05T16:22:26Z",
   "language": "Dart",
-  "stars_per_day": 3.68,
-  "age_days": 37,
+  "stars_per_day": 3.58,
+  "age_days": 38,
   "topics": [
    "cryptocurrency",
    "decentralized",
@@ -132,8 +132,8 @@
   "stars": 73,
   "created": "2026-08-13T12:35:41Z",
   "language": "Python",
-  "stars_per_day": 2.52,
-  "age_days": 29,
+  "stars_per_day": 2.43,
+  "age_days": 30,
   "topics": []
  },
  {
@@ -157,26 +157,6 @@
   ]
  },
  {
-  "full_name": "Arnost1987/Crypto-Checker",
-  "url": "https://github.com/Arnost1987/Crypto-Checker",
-  "description": "Python-based crypto wallet analysis tool with multi-threaded address and seed phrase checking (up to 50 threads). Supports Bitcoin, Ethereum, Solana, BNB Chain, Polygon, and EVM networks. Includes pro",
-  "stars": 36,
-  "created": "2026-08-26T15:46:45Z",
-  "language": "Python",
-  "stars_per_day": 2.25,
-  "age_days": 16,
-  "topics": [
-   "address-balance-tool",
-   "bitcoin-address-balances",
-   "bitcoin-private-key-finder",
-   "bitcoin-wallet-phrase-generator",
-   "bruteforce-wallet",
-   "check-crypto-balance",
-   "checker",
-   "checker-crypto"
-  ]
- },
- {
   "full_name": "blueshift-gg/solana-ecvrf",
   "url": "https://github.com/blueshift-gg/solana-ecvrf",
   "description": "Verifiable randomness for Solana programs (based on RFC 9381)",
@@ -194,6 +174,26 @@
    "sbpf",
    "solana",
    "vrf"
+  ]
+ },
+ {
+  "full_name": "Arnost1987/Crypto-Checker",
+  "url": "https://github.com/Arnost1987/Crypto-Checker",
+  "description": "Python-based crypto wallet analysis tool with multi-threaded address and seed phrase checking (up to 50 threads). Supports Bitcoin, Ethereum, Solana, BNB Chain, Polygon, and EVM networks. Includes pro",
+  "stars": 33,
+  "created": "2026-08-26T15:46:45Z",
+  "language": "Python",
+  "stars_per_day": 1.94,
+  "age_days": 17,
+  "topics": [
+   "address-balance-tool",
+   "bitcoin-address-balances",
+   "bitcoin-private-key-finder",
+   "bitcoin-wallet-phrase-generator",
+   "bruteforce-wallet",
+   "check-crypto-balance",
+   "checker",
+   "checker-crypto"
   ]
  },
  {
@@ -239,17 +239,6 @@
   "topics": []
  },
  {
-  "full_name": "blalou80/solana-defi-dashboard",
-  "url": "https://github.com/blalou80/solana-defi-dashboard",
-  "description": "Production-ready Solana DeFi analytics & risk management toolkit. Real-time Jupiter slippage analysis, Orca/Raydium concentrated liquidity monitor, and Streamlit dashboard.",
-  "stars": 2,
-  "created": "2026-09-09T14:29:31Z",
-  "language": "Python",
-  "stars_per_day": 1.0,
-  "age_days": 2,
-  "topics": []
- },
- {
   "full_name": "antonkarasbiz/solana-execution-engine",
   "url": "https://github.com/antonkarasbiz/solana-execution-engine",
   "description": "Solana swap execution layer with quote simulation, impact caps, and production-style routing guards.",
@@ -268,6 +257,17 @@
    "typescript",
    "web3"
   ]
+ },
+ {
+  "full_name": "blalou80/solana-defi-dashboard",
+  "url": "https://github.com/blalou80/solana-defi-dashboard",
+  "description": "Production-ready Solana DeFi analytics & risk management toolkit. Real-time Jupiter slippage analysis, Orca/Raydium concentrated liquidity monitor, and Streamlit dashboard.",
+  "stars": 2,
+  "created": "2026-09-09T14:29:31Z",
+  "language": "Python",
+  "stars_per_day": 0.67,
+  "age_days": 3,
+  "topics": []
  },
  {
   "full_name": "ZeroHackz/cyberleek-viewer",
@@ -310,25 +310,6 @@
   ]
  },
  {
-  "full_name": "dinsoul09/Ortaq",
-  "url": "https://github.com/dinsoul09/Ortaq",
-  "description": "\u041e\u0431\u0449\u0430\u044f \u043a\u0430\u0441\u0441\u0430 \u0431\u0435\u0437 \u043a\u0430\u0437\u043d\u0430\u0447\u0435\u044f: \u0441\u0431\u043e\u0440 \u0434\u0435\u0440\u0436\u0438\u0442 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430 \u043d\u0430 Solana \u2014 \u0434\u043e \u0446\u0435\u043b\u0438 \u0434\u0435\u043d\u044c\u0433\u0438 \u043d\u0435 \u0442\u0440\u043e\u0433\u0430\u0435\u0442 \u043d\u0438\u043a\u0442\u043e, \u043d\u0435 \u0441\u043e\u0431\u0440\u0430\u043b\u0438 \u2014 \u0432\u0437\u043d\u043e\u0441\u044b \u0432\u043e\u0437\u0432\u0440\u0430\u0449\u0430\u044e\u0442\u0441\u044f",
-  "stars": 2,
-  "created": "2026-09-05T17:41:31Z",
-  "language": "TypeScript",
-  "stars_per_day": 0.33,
-  "age_days": 6,
-  "topics": [
-   "anchor",
-   "devnet",
-   "hackathon",
-   "react",
-   "rust",
-   "solana",
-   "web3"
-  ]
- },
- {
   "full_name": "o-mid/guardrail-agent",
   "url": "https://github.com/o-mid/guardrail-agent",
   "description": "NL intent \u2192 schema \u2192 Go policy \u2192 HITL \u2192 local EVM/Solana execution",
@@ -365,13 +346,32 @@
   "stars": 9,
   "created": "2026-08-12T14:15:46Z",
   "language": "Go",
-  "stars_per_day": 0.3,
-  "age_days": 30,
+  "stars_per_day": 0.29,
+  "age_days": 31,
   "topics": [
    "sdk",
    "sdk-go",
    "solana",
    "solana-agent-kit"
+  ]
+ },
+ {
+  "full_name": "dinsoul09/Ortaq",
+  "url": "https://github.com/dinsoul09/Ortaq",
+  "description": "\u041e\u0431\u0449\u0430\u044f \u043a\u0430\u0441\u0441\u0430 \u0431\u0435\u0437 \u043a\u0430\u0437\u043d\u0430\u0447\u0435\u044f: \u0441\u0431\u043e\u0440 \u0434\u0435\u0440\u0436\u0438\u0442 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430 \u043d\u0430 Solana \u2014 \u0434\u043e \u0446\u0435\u043b\u0438 \u0434\u0435\u043d\u044c\u0433\u0438 \u043d\u0435 \u0442\u0440\u043e\u0433\u0430\u0435\u0442 \u043d\u0438\u043a\u0442\u043e, \u043d\u0435 \u0441\u043e\u0431\u0440\u0430\u043b\u0438 \u2014 \u0432\u0437\u043d\u043e\u0441\u044b \u0432\u043e\u0437\u0432\u0440\u0430\u0449\u0430\u044e\u0442\u0441\u044f",
+  "stars": 2,
+  "created": "2026-09-05T17:41:31Z",
+  "language": "TypeScript",
+  "stars_per_day": 0.29,
+  "age_days": 7,
+  "topics": [
+   "anchor",
+   "devnet",
+   "hackathon",
+   "react",
+   "rust",
+   "solana",
+   "web3"
   ]
  },
  {
@@ -406,22 +406,15 @@
   "topics": []
  },
  {
-  "full_name": "subhdotsol/solana-programs",
-  "url": "https://github.com/subhdotsol/solana-programs",
-  "description": "A collection of Solana programs exploring on-chain systems, program architecture, DeFi primitives, account models, cryptography, and low-level Solana development.",
-  "stars": 3,
-  "created": "2026-08-30T14:43:02Z",
-  "language": null,
+  "full_name": "nirholas/flock-defi-index",
+  "url": "https://github.com/nirholas/flock-defi-index",
+  "description": "Methodology, screening and rebalance proposals for the Flock DeFi Index (FDI) on Solana",
+  "stars": 1,
+  "created": "2026-09-07T21:43:35Z",
+  "language": "TypeScript",
   "stars_per_day": 0.25,
-  "age_days": 12,
-  "topics": [
-   "anchor",
-   "pinocchio",
-   "quasar",
-   "sbpf",
-   "smart-contracts",
-   "solana"
-  ]
+  "age_days": 4,
+  "topics": []
  },
  {
   "full_name": "udaysharmadev/Web-3-Free-Resources",
@@ -430,8 +423,8 @@
   "stars": 6,
   "created": "2026-08-18T14:06:51Z",
   "language": null,
-  "stars_per_day": 0.25,
-  "age_days": 24,
+  "stars_per_day": 0.24,
+  "age_days": 25,
   "topics": [
    "awesome-list",
    "begineer-friendly",
@@ -444,17 +437,6 @@
   ]
  },
  {
-  "full_name": "nirholas/flock-defi-index",
-  "url": "https://github.com/nirholas/flock-defi-index",
-  "description": "Methodology, screening and rebalance proposals for the Flock DeFi Index (FDI) on Solana",
-  "stars": 1,
-  "created": "2026-09-07T21:43:35Z",
-  "language": "TypeScript",
-  "stars_per_day": 0.25,
-  "age_days": 4,
-  "topics": []
- },
- {
   "full_name": "matzayonc/solana-live-course-2026",
   "url": "https://github.com/matzayonc/solana-live-course-2026",
   "description": "",
@@ -464,6 +446,24 @@
   "stars_per_day": 0.23,
   "age_days": 43,
   "topics": []
+ },
+ {
+  "full_name": "subhdotsol/solana-programs",
+  "url": "https://github.com/subhdotsol/solana-programs",
+  "description": "A collection of Solana programs exploring on-chain systems, program architecture, DeFi primitives, account models, cryptography, and low-level Solana development.",
+  "stars": 3,
+  "created": "2026-08-30T14:43:02Z",
+  "language": null,
+  "stars_per_day": 0.23,
+  "age_days": 13,
+  "topics": [
+   "anchor",
+   "pinocchio",
+   "quasar",
+   "sbpf",
+   "smart-contracts",
+   "solana"
+  ]
  },
  {
   "full_name": "Voightxyz/voight-txline-agent",
@@ -539,26 +539,6 @@
   "topics": []
  },
  {
-  "full_name": "alizeeshan1234/svmScope",
-  "url": "https://github.com/alizeeshan1234/svmScope",
-  "description": "Transaction autopsy for Solana \u2014 decode any transaction, replay it locally in an embedded SVM, mutate state, time-travel, and freeze it into offline test fixtures",
-  "stars": 3,
-  "created": "2026-08-22T18:04:22Z",
-  "language": "Rust",
-  "stars_per_day": 0.15,
-  "age_days": 20,
-  "topics": [
-   "anchor",
-   "blockchain",
-   "devtools",
-   "litesvm",
-   "rust",
-   "simulator",
-   "solana",
-   "svm"
-  ]
- },
- {
   "full_name": "ChiefWoods/interest-rate-exchange",
   "url": "https://github.com/ChiefWoods/interest-rate-exchange",
   "description": "PT/ST pool-based yield stripping program",
@@ -573,6 +553,26 @@
   ]
  },
  {
+  "full_name": "alizeeshan1234/svmScope",
+  "url": "https://github.com/alizeeshan1234/svmScope",
+  "description": "Transaction autopsy for Solana \u2014 decode any transaction, replay it locally in an embedded SVM, mutate state, time-travel, and freeze it into offline test fixtures",
+  "stars": 3,
+  "created": "2026-08-22T18:04:22Z",
+  "language": "Rust",
+  "stars_per_day": 0.14,
+  "age_days": 21,
+  "topics": [
+   "anchor",
+   "blockchain",
+   "devtools",
+   "litesvm",
+   "rust",
+   "simulator",
+   "solana",
+   "svm"
+  ]
+ },
+ {
   "full_name": "cryptoduke01/kensho",
   "url": "https://github.com/cryptoduke01/kensho",
   "description": "Kensho (\u691c\u8a3c): an industry-grade Web3 security assessment playbook. EVM/DeFi and Rust/Solana consensus. Prove every finding, never assume.",
@@ -580,7 +580,7 @@
   "created": "2026-08-01T16:39:01Z",
   "language": null,
   "stars_per_day": 0.12,
-  "age_days": 41,
+  "age_days": 42,
   "topics": []
  },
  {
@@ -686,26 +686,6 @@
   ]
  },
  {
-  "full_name": "magpiecapital/magpie-mcp",
-  "url": "https://github.com/magpiecapital/magpie-mcp",
-  "description": "MCP server for Magpie Capital \u2014 gives LLMs and agents native tools for the Solana lending protocol: live stats, collateral catalog, loan terms, x402 agent endpoints.",
-  "stars": 2,
-  "created": "2026-08-21T12:50:40Z",
-  "language": "JavaScript",
-  "stars_per_day": 0.1,
-  "age_days": 21,
-  "topics": [
-   "ai-agents",
-   "defi",
-   "lending",
-   "llm-tools",
-   "mcp",
-   "model-context-protocol",
-   "solana",
-   "x402"
-  ]
- },
- {
   "full_name": "keelwright/slipway",
   "url": "https://github.com/keelwright/slipway",
   "description": "A scaffold for on-chain utility projects on Solana \u2014 program, launch, site, indexer, deploy, and every trap already mapped.",
@@ -726,6 +706,26 @@
   ]
  },
  {
+  "full_name": "magpiecapital/magpie-mcp",
+  "url": "https://github.com/magpiecapital/magpie-mcp",
+  "description": "MCP server for Magpie Capital \u2014 gives LLMs and agents native tools for the Solana lending protocol: live stats, collateral catalog, loan terms, x402 agent endpoints.",
+  "stars": 2,
+  "created": "2026-08-21T12:50:40Z",
+  "language": "JavaScript",
+  "stars_per_day": 0.09,
+  "age_days": 22,
+  "topics": [
+   "ai-agents",
+   "defi",
+   "lending",
+   "llm-tools",
+   "mcp",
+   "model-context-protocol",
+   "solana",
+   "x402"
+  ]
+ },
+ {
   "full_name": "Smurfetc/solana-memecoin-calls-dataset",
   "url": "https://github.com/Smurfetc/solana-memecoin-calls-dataset",
   "description": "3,500+ Solana memecoin calls with entry cap, post-call peak and exact timestamps \u2014 losers included. Hash anchored in Bitcoin via OpenTimestamps. Live: smugcalls.com",
@@ -733,7 +733,7 @@
   "created": "2026-08-06T14:31:06Z",
   "language": "Python",
   "stars_per_day": 0.08,
-  "age_days": 36,
+  "age_days": 37,
   "topics": [
    "cryptocurrency",
    "dataset",
@@ -834,7 +834,7 @@
   "created": "2026-08-25T17:14:46Z",
   "language": "Rust",
   "stars_per_day": 0.06,
-  "age_days": 17,
+  "age_days": 18,
   "topics": []
  },
  {
@@ -865,7 +865,7 @@
   "created": "2026-08-07T13:40:06Z",
   "language": "TypeScript",
   "stars_per_day": 0.06,
-  "age_days": 35,
+  "age_days": 36,
   "topics": [
    "automated-trading",
    "defi",
@@ -939,7 +939,7 @@
   "created": "2026-07-31T16:54:31Z",
   "language": "TypeScript",
   "stars_per_day": 0.05,
-  "age_days": 42,
+  "age_days": 43,
   "topics": [
    "agent",
    "agent-orchestration",
@@ -970,7 +970,7 @@
   "created": "2026-08-23T18:24:13Z",
   "language": "JavaScript",
   "stars_per_day": 0.05,
-  "age_days": 19,
+  "age_days": 20,
   "topics": []
  },
  {
@@ -982,17 +982,6 @@
   "language": "TypeScript",
   "stars_per_day": 0.05,
   "age_days": 20,
-  "topics": []
- },
- {
-  "full_name": "Anshv784/pre-req-vault",
-  "url": "https://github.com/Anshv784/pre-req-vault",
-  "description": "Solana Anchor vault + builder registration CPI \u2014 builders prerequisite challenge submission",
-  "stars": 1,
-  "created": "2026-08-20T12:57:59Z",
-  "language": "Rust",
-  "stars_per_day": 0.05,
-  "age_days": 22,
   "topics": []
  },
  {
@@ -1043,7 +1032,7 @@
   "created": "2026-07-28T13:40:04Z",
   "language": null,
   "stars_per_day": 0.04,
-  "age_days": 45,
+  "age_days": 46,
   "topics": [
    "blockchain",
    "blockchain-development",
@@ -1102,7 +1091,7 @@
   "created": "2026-08-19T12:51:44Z",
   "language": "Python",
   "stars_per_day": 0.04,
-  "age_days": 23,
+  "age_days": 24,
   "topics": [
    "asyncio",
    "blockchain-analytics",
@@ -1113,6 +1102,17 @@
    "solana",
    "transaction-parsing"
   ]
+ },
+ {
+  "full_name": "Anshv784/pre-req-vault",
+  "url": "https://github.com/Anshv784/pre-req-vault",
+  "description": "Solana Anchor vault + builder registration CPI \u2014 builders prerequisite challenge submission",
+  "stars": 1,
+  "created": "2026-08-20T12:57:59Z",
+  "language": "Rust",
+  "stars_per_day": 0.04,
+  "age_days": 23,
+  "topics": []
  },
  {
   "full_name": "mikeminer/devfridge",
@@ -1224,7 +1224,7 @@
   "created": "2026-08-03T16:40:21Z",
   "language": "TypeScript",
   "stars_per_day": 0.03,
-  "age_days": 39,
+  "age_days": 40,
   "topics": [
    "anchor",
    "defi",
@@ -1354,7 +1354,7 @@
   "created": "2026-08-06T17:04:41Z",
   "language": "TypeScript",
   "stars_per_day": 0.03,
-  "age_days": 36,
+  "age_days": 37,
   "topics": [
    "airdrop",
    "anchor",
@@ -1385,7 +1385,7 @@
   "created": "2026-07-27T14:50:49Z",
   "language": "Python",
   "stars_per_day": 0.02,
-  "age_days": 46,
+  "age_days": 47,
   "topics": [
    "ai-agents",
    "depin",
@@ -1405,7 +1405,7 @@
   "created": "2026-07-16T16:10:37Z",
   "language": "JavaScript",
   "stars_per_day": 0.02,
-  "age_days": 57,
+  "age_days": 58,
   "topics": []
  },
  {
@@ -1416,7 +1416,7 @@
   "created": "2026-07-17T16:21:02Z",
   "language": "Rust",
   "stars_per_day": 0.02,
-  "age_days": 56,
+  "age_days": 57,
   "topics": []
  },
  {
@@ -1466,7 +1466,7 @@
   "created": "2026-08-01T16:07:12Z",
   "language": "Python",
   "stars_per_day": 0.02,
-  "age_days": 41,
+  "age_days": 42,
   "topics": [
    "ai-agents",
    "merkle-tree",
@@ -1483,7 +1483,7 @@
   "created": "2026-07-15T17:40:03Z",
   "language": "Jupyter Notebook",
   "stars_per_day": 0.02,
-  "age_days": 58,
+  "age_days": 59,
   "topics": [
    "anchor",
    "blockchain",
@@ -1521,7 +1521,7 @@
   "created": "2026-07-20T17:49:14Z",
   "language": null,
   "stars_per_day": 0.02,
-  "age_days": 53,
+  "age_days": 54,
   "topics": [
    "anchor",
    "blockchain",

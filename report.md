@@ -1,6 +1,6 @@
 # Solana Narrative Radar — Fortnightly Report
 
-Generated: 2026-09-12T18:28:08+00:00  |  Methodology v0.1
+Generated: 2026-09-13T00:35:28+00:00  |  Methodology v0.1
 
 ## On-chain context (live, public RPC)
 
@@ -10,11 +10,11 @@ Generated: 2026-09-12T18:28:08+00:00  |  Methodology v0.1
 
 ## Detected Narratives (ranked)
 
-### 1. Meme & Speculation  —  confidence: High  (score 265.7)
+### 1. Meme & Speculation  —  confidence: High  (score 72.6)
 
-- GitHub repos matching: **16**  (top velocity 222.51 stars/day)
+- GitHub repos matching: **15**  (top velocity 24.98 stars/day)
 - Headline mentions (last fortnight): **2**
-- Market 7d avg change: **-13.6%**
+- Market 7d avg change: **15.79%**
 - Cross-source confirmation: **3/3**
 
   Sample headlines:
@@ -22,18 +22,18 @@ Generated: 2026-09-12T18:28:08+00:00  |  Methodology v0.1
   - Fomo overtakes Pump.fun in daily revenue on Solana
 
   Top repos:
-  - [nhovongoc0-max/meme-radar](https://github.com/nhovongoc0-max/meme-radar) — 197.0 stars/day
   - [dartkomnitibe/solana-meme-tool](https://github.com/dartkomnitibe/solana-meme-tool) — 6.47 stars/day
   - [neilveriemusm/Trpjan-solana-trading-toolkit](https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit) — 6.43 stars/day
+  - [PillCrew/claimchain](https://github.com/PillCrew/claimchain) — 4.6 stars/day
 
   **Build ideas:**
-  - Launchpad honesty score: index every pump.fun-style launch by LP lock, mint authority, holder concentration and dev-wallet behavior; surfaces the few credible launches (avg 7d change -13.6%).
+  - Launchpad honesty score: index every pump.fun-style launch by LP lock, mint authority, holder concentration and dev-wallet behavior; surfaces the few credible launches (avg 7d change 15.79%).
   - Anti-sniper launch template: open-source fair-launch program (no-bundle, capped per-wallet buys) that new launchpads can adopt — a counter-position to the sniper-bot repos in the dataset.
-  - Meme-velocity dashboard: tracks avg 7d change -13.6% so traders see which launches have real retention vs. pure rotation.
+  - Meme-velocity dashboard: tracks avg 7d change 15.79% so traders see which launches have real retention vs. pure rotation.
 
-### 2. DeFi / Trading Infra  —  confidence: High  (score 69.1)
+### 2. DeFi / Trading Infra  —  confidence: High  (score 68.1)
 
-- GitHub repos matching: **50**  (top velocity 29.11 stars/day)
+- GitHub repos matching: **50**  (top velocity 28.09 stars/day)
 - Headline mentions (last fortnight): **5**
 - Cross-source confirmation: **2/3**
 
@@ -45,10 +45,10 @@ Generated: 2026-09-12T18:28:08+00:00  |  Methodology v0.1
   Top repos:
   - [dartkomnitibe/solana-meme-tool](https://github.com/dartkomnitibe/solana-meme-tool) — 6.47 stars/day
   - [neilveriemusm/Trpjan-solana-trading-toolkit](https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit) — 6.43 stars/day
-  - [PillCrew/claimchain](https://github.com/PillCrew/claimchain) — 5.11 stars/day
+  - [PillCrew/claimchain](https://github.com/PillCrew/claimchain) — 4.6 stars/day
 
   **Build ideas:**
-  - Copy-trading guardrail bot: open-source program + bot that mirrors KOL wallets but with hard loss caps and sandwich-protection, riding the 50 trading-infrastructure repos at 29.11 stars/day.
+  - Copy-trading guardrail bot: open-source program + bot that mirrors KOL wallets but with hard loss caps and sandwich-protection, riding the 50 trading-infrastructure repos at 28.09 stars/day.
   - Perp risk dashboard: real-time liquidation-heat map over Solana perps using public RPC; headlines show perp/DeFi coverage (5 hits) while retail seeks clearer risk tooling.
   - Intent-based DEX aggregator SDK with MEV-protection defaults — the aggregator lane is crowded but the intent/MEV-protection angle is under-served based on repo descriptions sampled.
 
@@ -73,9 +73,9 @@ Generated: 2026-09-12T18:28:08+00:00  |  Methodology v0.1
   - Pre-sign simulation widget: embeddable, self-hosted tool that runs a tx against a forked state and flags token transfers to unknown owners — targets the phishing/drainer headline cluster (4 hits).
   - Rug-pull early warning for launchpads: on-chain LP-lock + authority-change monitor with public API; pairs with the meme-launchpad narrative instead of fighting it.
 
-### 4. Wallets & UX  —  confidence: Medium  (score 22.2)
+### 4. Wallets & UX  —  confidence: Medium  (score 22.1)
 
-- GitHub repos matching: **20**  (top velocity 22.23 stars/day)
+- GitHub repos matching: **20**  (top velocity 22.13 stars/day)
 - Headline mentions (last fortnight): **0**
 - Cross-source confirmation: **1/3**
 
@@ -85,13 +85,13 @@ Generated: 2026-09-12T18:28:08+00:00  |  Methodology v0.1
   - [ascenx/safe_wallet](https://github.com/ascenx/safe_wallet) — 3.58 stars/day
 
   **Build ideas:**
-  - One-tap embedded wallet for Telegram mini-apps on Solana, targeting the wallet-UX friction visible in 20 new wallet/onboarding repos at 22.23 stars/day.
+  - One-tap embedded wallet for Telegram mini-apps on Solana, targeting the wallet-UX friction visible in 20 new wallet/onboarding repos at 22.13 stars/day.
   - Session-key wallet: a SPL program that issues 24h scoped keys (spend cap, program allowlist) so dapps never touch the main key — direct answer to onboarding drop-off that wallet repos are attacking.
   - Wallet-drain canary service: continuous simulation that alerts users when a signature request would exfiltrate tokens (security headlines: 0 this period — users clearly need guardrails).
 
-### 5. AI Agents on Solana  —  confidence: Medium  (score 18.1)
+### 5. AI Agents on Solana  —  confidence: Medium  (score 17.5)
 
-- GitHub repos matching: **23**  (top velocity 10.1 stars/day)
+- GitHub repos matching: **23**  (top velocity 9.52 stars/day)
 - Headline mentions (last fortnight): **1**
 - Cross-source confirmation: **1/3**
 
@@ -99,12 +99,12 @@ Generated: 2026-09-12T18:28:08+00:00  |  Methodology v0.1
   - OpenAI Asks Congress Whether an AI Slowdown Would Be Legal
 
   Top repos:
-  - [PillCrew/claimchain](https://github.com/PillCrew/claimchain) — 5.11 stars/day
-  - [PillCrew/PillCrew](https://github.com/PillCrew/PillCrew) — 2.43 stars/day
+  - [PillCrew/claimchain](https://github.com/PillCrew/claimchain) — 4.6 stars/day
+  - [PillCrew/PillCrew](https://github.com/PillCrew/PillCrew) — 2.32 stars/day
   - [kaiserern/Kaiser.charon](https://github.com/kaiserern/Kaiser.charon) — 1.17 stars/day
 
   **Build ideas:**
-  - Agent-wallet runtime: a Go/Type SDK that gives every AI agent a non-custodial Solana wallet with per-action spend limits and an auditable on-chain action log (rides the 25 new agent repos at 10.1 stars/day).
+  - Agent-wallet runtime: a Go/Type SDK that gives every AI agent a non-custodial Solana wallet with per-action spend limits and an auditable on-chain action log (rides the 25 new agent repos at 9.52 stars/day).
   - Agent-to-agent escrow program: an Anchor program where two agents lock funds against a task hash and release on verifiable completion — targets the trust gap visible in PillCrew/claimchain-style automation repos.
   - Agent fee rail: x402-style HTTP 402 paywall in Rust/TS that lets any API monetize per-call for AI agents paying in USDC — stablecoin rail already has deep volume/mcap ratio on Solana.
 
@@ -142,13 +142,13 @@ Generated: 2026-09-12T18:28:08+00:00  |  Methodology v0.1
 
 ### 8. Payments & Stablecoins  —  confidence: Low  (score 0.4)
 
-- GitHub repos matching: **8**  (top velocity 0.41 stars/day)
+- GitHub repos matching: **8**  (top velocity 0.44 stars/day)
 - Headline mentions (last fortnight): **0**
 - Cross-source confirmation: **0/3**
 
   Top repos:
-  - [nirholas/onchain-agent-wallets](https://github.com/nirholas/onchain-agent-wallets) — 0.17 stars/day
-  - [grokloop/grokchain-programs](https://github.com/grokloop/grokchain-programs) — 0.07 stars/day
+  - [nirholas/onchain-agent-wallets](https://github.com/nirholas/onchain-agent-wallets) — 0.21 stars/day
+  - [grokloop/grokchain-programs](https://github.com/grokloop/grokchain-programs) — 0.06 stars/day
   - [nemorixgroup/Solana-Knowledge-Base](https://github.com/nemorixgroup/Solana-Knowledge-Base) — 0.05 stars/day
 
   **Build ideas:**

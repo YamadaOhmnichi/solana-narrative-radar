@@ -1,27 +1,22 @@
 {
- "generated_at": "2026-09-12T18:28:08+00:00",
+ "generated_at": "2026-09-13T00:35:28+00:00",
  "narratives": [
   {
    "narrative": "Meme & Speculation",
-   "score": 265.7,
+   "score": 72.6,
    "confidence": "High",
    "evidence": {
-    "github_repos": 16,
-    "github_top_velocity": 222.51,
+    "github_repos": 15,
+    "github_top_velocity": 24.98,
     "headline_hits": 2,
     "sample_headlines": [
      "Fomo overtakes Pump.fun in daily revenue on Solana",
      "Fomo overtakes Pump.fun in daily revenue on Solana"
     ],
-    "market_avg_7d_pct": -13.6,
+    "market_avg_7d_pct": 15.79,
     "sources_confirming": 3
    },
    "member_repos": [
-    {
-     "full_name": "nhovongoc0-max/meme-radar",
-     "stars_per_day": 197.0,
-     "url": "https://github.com/nhovongoc0-max/meme-radar"
-    },
     {
      "full_name": "dartkomnitibe/solana-meme-tool",
      "stars_per_day": 6.47,
@@ -34,23 +29,28 @@
     },
     {
      "full_name": "PillCrew/claimchain",
-     "stars_per_day": 5.11,
+     "stars_per_day": 4.6,
      "url": "https://github.com/PillCrew/claimchain"
     },
     {
      "full_name": "PillCrew/PillCrew",
-     "stars_per_day": 2.43,
+     "stars_per_day": 2.32,
      "url": "https://github.com/PillCrew/PillCrew"
+    },
+    {
+     "full_name": "LoopNecromancer41/solana-sniper-bot",
+     "stars_per_day": 1.71,
+     "url": "https://github.com/LoopNecromancer41/solana-sniper-bot"
     }
    ]
   },
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 69.1,
+   "score": 68.1,
    "confidence": "High",
    "evidence": {
     "github_repos": 50,
-    "github_top_velocity": 29.11,
+    "github_top_velocity": 28.09,
     "headline_hits": 5,
     "sample_headlines": [
      "Robinhood Crypto Trading Volume Jumps 61% in August",
@@ -73,7 +73,7 @@
     },
     {
      "full_name": "PillCrew/claimchain",
-     "stars_per_day": 5.11,
+     "stars_per_day": 4.6,
      "url": "https://github.com/PillCrew/claimchain"
     },
     {
@@ -83,7 +83,7 @@
     },
     {
      "full_name": "PillCrew/PillCrew",
-     "stars_per_day": 2.43,
+     "stars_per_day": 2.32,
      "url": "https://github.com/PillCrew/PillCrew"
     }
    ]
@@ -129,11 +129,11 @@
   },
   {
    "narrative": "Wallets & UX",
-   "score": 22.2,
+   "score": 22.1,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 20,
-    "github_top_velocity": 22.23,
+    "github_top_velocity": 22.13,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -157,7 +157,7 @@
     },
     {
      "full_name": "nathanliow/trickshot",
-     "stars_per_day": 2.79,
+     "stars_per_day": 2.65,
      "url": "https://github.com/nathanliow/trickshot"
     },
     {
@@ -169,11 +169,11 @@
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 18.1,
+   "score": 17.5,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 23,
-    "github_top_velocity": 10.1,
+    "github_top_velocity": 9.52,
     "headline_hits": 1,
     "sample_headlines": [
      "OpenAI Asks Congress Whether an AI Slowdown Would Be Legal"
@@ -184,12 +184,12 @@
    "member_repos": [
     {
      "full_name": "PillCrew/claimchain",
-     "stars_per_day": 5.11,
+     "stars_per_day": 4.6,
      "url": "https://github.com/PillCrew/claimchain"
     },
     {
      "full_name": "PillCrew/PillCrew",
-     "stars_per_day": 2.43,
+     "stars_per_day": 2.32,
      "url": "https://github.com/PillCrew/PillCrew"
     },
     {
@@ -295,7 +295,7 @@
    "confidence": "Low",
    "evidence": {
     "github_repos": 8,
-    "github_top_velocity": 0.41,
+    "github_top_velocity": 0.44,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -304,12 +304,12 @@
    "member_repos": [
     {
      "full_name": "nirholas/onchain-agent-wallets",
-     "stars_per_day": 0.17,
+     "stars_per_day": 0.21,
      "url": "https://github.com/nirholas/onchain-agent-wallets"
     },
     {
      "full_name": "grokloop/grokchain-programs",
-     "stars_per_day": 0.07,
+     "stars_per_day": 0.06,
      "url": "https://github.com/grokloop/grokchain-programs"
     },
     {

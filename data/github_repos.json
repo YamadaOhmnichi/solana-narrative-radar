@@ -33,8 +33,8 @@
   "stars": 316,
   "created": "2026-07-20T05:09:52Z",
   "language": "JavaScript",
-  "stars_per_day": 5.85,
-  "age_days": 54,
+  "stars_per_day": 5.75,
+  "age_days": 55,
   "topics": [
    "blockchain-game",
    "chunkjs",
@@ -53,8 +53,8 @@
   "stars": 193,
   "created": "2026-08-06T00:51:16Z",
   "language": "TypeScript",
-  "stars_per_day": 5.22,
-  "age_days": 37,
+  "stars_per_day": 5.08,
+  "age_days": 38,
   "topics": []
  },
  {
@@ -215,9 +215,29 @@
   "stars": 61,
   "created": "2026-07-22T04:16:58Z",
   "language": "JavaScript",
-  "stars_per_day": 1.17,
-  "age_days": 52,
+  "stars_per_day": 1.15,
+  "age_days": 53,
   "topics": []
+ },
+ {
+  "full_name": "antonkarasbiz/solana-program-examples",
+  "url": "https://github.com/antonkarasbiz/solana-program-examples",
+  "description": "Solana program examples in Anchor, Pinocchio, and native Rust for on-chain engineers.",
+  "stars": 2,
+  "created": "2026-09-11T05:58:51Z",
+  "language": "TypeScript",
+  "stars_per_day": 1.0,
+  "age_days": 2,
+  "topics": [
+   "anchor",
+   "blockchain",
+   "examples",
+   "pinocchio",
+   "rust",
+   "smart-contracts",
+   "solana",
+   "web3"
+  ]
  },
  {
   "full_name": "blalou80/solana-defi-dashboard",
@@ -319,8 +339,8 @@
   "stars": 10,
   "created": "2026-08-10T03:26:44Z",
   "language": "Rust",
-  "stars_per_day": 0.3,
-  "age_days": 33,
+  "stars_per_day": 0.29,
+  "age_days": 34,
   "topics": [
    "defi",
    "magicblock",
@@ -367,14 +387,25 @@
   ]
  },
  {
+  "full_name": "accretion-xyz/awesome-solana-security",
+  "url": "https://github.com/accretion-xyz/awesome-solana-security",
+  "description": "Collection of Solana security resources",
+  "stars": 11,
+  "created": "2026-07-30T07:18:12Z",
+  "language": null,
+  "stars_per_day": 0.25,
+  "age_days": 44,
+  "topics": []
+ },
+ {
   "full_name": "qiaopengjun5162/onchain-arbitrage-colearn",
   "url": "https://github.com/qiaopengjun5162/onchain-arbitrage-colearn",
   "description": "\u94fe\u4e0a\u5957\u5229\u6b8b\u9177\u5171\u5b66\u77e5\u8bc6\u5e93\uff1aDeFi\u6e05\u7b97/\u8de8\u6240\u4ef7\u5dee/\u8d44\u91d1\u8d39\u7387/DEX\u5957\u5229\u7814\u7a76\u7b14\u8bb0 + 8\u4e2a\u76d1\u63a7\u54e8\u5175 + Python/Rust\u53cc\u5b9e\u73b0",
   "stars": 9,
   "created": "2026-08-08T02:49:21Z",
   "language": "HTML",
-  "stars_per_day": 0.26,
-  "age_days": 35,
+  "stars_per_day": 0.25,
+  "age_days": 36,
   "topics": [
    "arbitrage",
    "blockchain",
@@ -387,15 +418,18 @@
   ]
  },
  {
-  "full_name": "accretion-xyz/awesome-solana-security",
-  "url": "https://github.com/accretion-xyz/awesome-solana-security",
-  "description": "Collection of Solana security resources",
-  "stars": 11,
-  "created": "2026-07-30T07:18:12Z",
-  "language": null,
+  "full_name": "ChiefWoods/hylo-programs",
+  "url": "https://github.com/ChiefWoods/hylo-programs",
+  "description": "Hylo programs reverse engineered",
+  "stars": 1,
+  "created": "2026-09-08T17:49:24Z",
+  "language": "Rust",
   "stars_per_day": 0.25,
-  "age_days": 44,
-  "topics": []
+  "age_days": 4,
+  "topics": [
+   "anchor",
+   "solana"
+  ]
  },
  {
   "full_name": "udaysharmadev/Web-3-Free-Resources",
@@ -520,20 +554,6 @@
   "topics": []
  },
  {
-  "full_name": "ChiefWoods/interest-rate-exchange",
-  "url": "https://github.com/ChiefWoods/interest-rate-exchange",
-  "description": "PT/ST pool-based yield stripping program",
-  "stars": 1,
-  "created": "2026-09-05T06:17:30Z",
-  "language": "Rust",
-  "stars_per_day": 0.14,
-  "age_days": 7,
-  "topics": [
-   "quasar",
-   "solana"
-  ]
- },
- {
   "full_name": "alizeeshan1234/svmScope",
   "url": "https://github.com/alizeeshan1234/svmScope",
   "description": "Transaction autopsy for Solana \u2014 decode any transaction, replay it locally in an embedded SVM, mutate state, time-travel, and freeze it into offline test fixtures",
@@ -551,6 +571,20 @@
    "simulator",
    "solana",
    "svm"
+  ]
+ },
+ {
+  "full_name": "ChiefWoods/interest-rate-exchange",
+  "url": "https://github.com/ChiefWoods/interest-rate-exchange",
+  "description": "PT/ST pool-based yield stripping program",
+  "stars": 1,
+  "created": "2026-09-05T06:17:30Z",
+  "language": "Rust",
+  "stars_per_day": 0.12,
+  "age_days": 8,
+  "topics": [
+   "quasar",
+   "solana"
   ]
  },
  {
@@ -605,17 +639,6 @@
   ]
  },
  {
-  "full_name": "drp457/solana-wallet-comparison",
-  "url": "https://github.com/drp457/solana-wallet-comparison",
-  "description": "solana wallet app\uff1a\u9009\u5bf9\u94b1\u5305\uff0c\u65b0\u624b\u4e5f\u80fd\u8f7b\u677e\u7ba1\u7406 SOL\u3001\u8d28\u62bc\u548c DeFi",
-  "stars": 1,
-  "created": "2026-09-04T06:32:44Z",
-  "language": null,
-  "stars_per_day": 0.12,
-  "age_days": 8,
-  "topics": []
- },
- {
   "full_name": "blueshift-gg/solana-awesome",
   "url": "https://github.com/blueshift-gg/solana-awesome",
   "description": "An awesome collective of major Solana libraries \u2014 core sdk, programs, interfaces, clients, crypto etc",
@@ -624,6 +647,17 @@
   "language": "Rust",
   "stars_per_day": 0.11,
   "age_days": 19,
+  "topics": []
+ },
+ {
+  "full_name": "drp457/solana-wallet-comparison",
+  "url": "https://github.com/drp457/solana-wallet-comparison",
+  "description": "solana wallet app\uff1a\u9009\u5bf9\u94b1\u5305\uff0c\u65b0\u624b\u4e5f\u80fd\u8f7b\u677e\u7ba1\u7406 SOL\u3001\u8d28\u62bc\u548c DeFi",
+  "stars": 1,
+  "created": "2026-09-04T06:32:44Z",
+  "language": null,
+  "stars_per_day": 0.11,
+  "age_days": 9,
   "topics": []
  },
  {
@@ -674,7 +708,7 @@
   "created": "2026-08-21T06:17:43Z",
   "language": "JavaScript",
   "stars_per_day": 0.09,
-  "age_days": 22,
+  "age_days": 23,
   "topics": [
    "agents",
    "ai-agents",
@@ -886,7 +920,7 @@
   "created": "2026-08-27T03:53:37Z",
   "language": "Rust",
   "stars_per_day": 0.06,
-  "age_days": 16,
+  "age_days": 17,
   "topics": [
    "anchor",
    "solana"
@@ -900,7 +934,7 @@
   "created": "2026-07-15T03:28:45Z",
   "language": "TypeScript",
   "stars_per_day": 0.05,
-  "age_days": 59,
+  "age_days": 60,
   "topics": [
    "audit",
    "auditing",
@@ -962,7 +996,7 @@
   "created": "2026-08-23T04:02:06Z",
   "language": "TypeScript",
   "stars_per_day": 0.05,
-  "age_days": 20,
+  "age_days": 21,
   "topics": []
  },
  {
@@ -991,7 +1025,7 @@
   "created": "2026-07-28T02:15:23Z",
   "language": "Rust",
   "stars_per_day": 0.04,
-  "age_days": 46,
+  "age_days": 47,
   "topics": []
  },
  {
@@ -1207,37 +1241,6 @@
   ]
  },
  {
-  "full_name": "lakshya0101/Nexus-Pay",
-  "url": "https://github.com/lakshya0101/Nexus-Pay",
-  "description": "Intelligent Web3 payments with AI agents, programmable spending limits, x402 flows, and AWS AgentCore infrastructure.",
-  "stars": 1,
-  "created": "2026-08-12T11:15:18Z",
-  "language": "TypeScript",
-  "stars_per_day": 0.03,
-  "age_days": 31,
-  "topics": [
-   "agentcore",
-   "agentic-ai",
-   "ai",
-   "amazon-bedrock",
-   "aws",
-   "blockchain",
-   "ethereum",
-   "fintech"
-  ]
- },
- {
-  "full_name": "anirudhh206/Ashlar",
-  "url": "https://github.com/anirudhh206/Ashlar",
-  "description": "A programmable financial workflow engine for AI agents on Solana. A business owner types one plain-English instruction \u2014 \"pay every approved invoice every Friday\" \u2014 and it becomes a fixed, on-chain pr",
-  "stars": 1,
-  "created": "2026-08-09T06:36:34Z",
-  "language": "TypeScript",
-  "stars_per_day": 0.03,
-  "age_days": 34,
-  "topics": []
- },
- {
   "full_name": "Aranmobinarann/aranmobinn",
   "url": "https://github.com/Aranmobinarann/aranmobinn",
   "description": "Aranmobin \u2013 See Through the Chain. DeFi Dashboard on Tron, Solana, Ethereum, Bitcoin & TON.",
@@ -1245,7 +1248,7 @@
   "created": "2026-08-13T01:05:33Z",
   "language": null,
   "stars_per_day": 0.03,
-  "age_days": 30,
+  "age_days": 31,
   "topics": []
  },
  {
@@ -1287,7 +1290,7 @@
   "created": "2026-08-10T04:21:56Z",
   "language": "TypeScript",
   "stars_per_day": 0.03,
-  "age_days": 33,
+  "age_days": 34,
   "topics": [
    "anchor",
    "developer-tools",
@@ -1304,7 +1307,7 @@
   "created": "2026-08-11T03:17:51Z",
   "language": "TypeScript",
   "stars_per_day": 0.03,
-  "age_days": 32,
+  "age_days": 33,
   "topics": [
    "anchor",
    "defi",
@@ -1314,26 +1317,6 @@
    "solana",
    "typescript",
    "web3"
-  ]
- },
- {
-  "full_name": "RedDuckTeam/point-system",
-  "url": "https://github.com/RedDuckTeam/point-system",
-  "description": "On-chain Solana points system for a token presale: PDA balances, daily streaks, referrals, OAuth-verified social claims, and Merkle settlement into tokens.",
-  "stars": 1,
-  "created": "2026-08-06T17:04:41Z",
-  "language": "TypeScript",
-  "stars_per_day": 0.03,
-  "age_days": 37,
-  "topics": [
-   "airdrop",
-   "anchor",
-   "merkle-distributor",
-   "points-system",
-   "referral-system",
-   "smart-contracts",
-   "solana",
-   "token-presale"
   ]
  },
  {
@@ -1482,7 +1465,7 @@
   "created": "2026-07-21T04:53:36Z",
   "language": "TypeScript",
   "stars_per_day": 0.02,
-  "age_days": 53,
+  "age_days": 54,
   "topics": [
    "anchor-lang",
    "hackathon",
@@ -1491,26 +1474,6 @@
    "nextjs",
    "openstreetmap",
    "public-transport",
-   "solana"
-  ]
- },
- {
-  "full_name": "casaisdev/casaisdev",
-  "url": "https://github.com/casaisdev/casaisdev",
-  "description": "Smart contract engineer building stablecoin & payment infrastructure across EVM and Solana. Open to work.",
-  "stars": 1,
-  "created": "2026-07-20T17:49:14Z",
-  "language": null,
-  "stars_per_day": 0.02,
-  "age_days": 54,
-  "topics": [
-   "anchor",
-   "blockchain",
-   "defi",
-   "ethereum",
-   "foundry",
-   "security",
-   "smart-contracts",
    "solana"
   ]
  }

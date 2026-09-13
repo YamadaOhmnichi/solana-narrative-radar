@@ -1,33 +1,13 @@
 [
  {
-  "full_name": "nhovongoc0-max/meme-radar",
-  "url": "https://github.com/nhovongoc0-max/meme-radar",
-  "description": "Meme\u96f7\u8fbe\u5f00\u6e90\u7248\uff1a\u672c\u5730\u53ea\u8bfb\u3001\u591a\u94fe Meme \u5019\u9009\u626b\u63cf\u4e0e\u4eba\u5de5\u590d\u6838\u5de5\u5177",
-  "stars": 230,
-  "created": "2026-09-11T12:14:57Z",
-  "language": "JavaScript",
-  "stars_per_day": 230.0,
-  "age_days": 1,
-  "topics": [
-   "bsc",
-   "crypto",
-   "gmgn",
-   "meme",
-   "security",
-   "solana",
-   "token-scanner"
-  ],
-  "flag": "velocity-anomaly"
- },
- {
   "full_name": "MetaMask-AI/metamask-desktop",
   "url": "https://github.com/MetaMask-AI/metamask-desktop",
   "description": "\ud83c\udf10 \ud83d\udd0c The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
   "stars": 1231,
   "created": "2026-08-28T08:07:10Z",
   "language": "CSS",
-  "stars_per_day": 82.07,
-  "age_days": 15,
+  "stars_per_day": 76.94,
+  "age_days": 16,
   "topics": [
    "bitcoin",
    "bitcoin-wallet",

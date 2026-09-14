@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-09-13T18:29:21+00:00",
+ "generated_at": "2026-09-14T00:36:02+00:00",
  "narratives": [
   {
    "narrative": "Meme & Speculation",
-   "score": 189.2,
+   "score": 190.3,
    "confidence": "High",
    "evidence": {
-    "github_repos": 15,
-    "github_top_velocity": 143.2,
+    "github_repos": 16,
+    "github_top_velocity": 142.67,
     "headline_hits": 2,
     "sample_headlines": [
      "Fomo overtakes Pump.fun in daily revenue on Solana",
      "Fomo overtakes Pump.fun in daily revenue on Solana"
     ],
-    "market_avg_7d_pct": -15.02,
+    "market_avg_7d_pct": -15.8,
     "sources_confirming": 3
    },
    "member_repos": [
@@ -34,23 +34,23 @@
     },
     {
      "full_name": "PillCrew/claimchain",
-     "stars_per_day": 4.6,
+     "stars_per_day": 4.18,
      "url": "https://github.com/PillCrew/claimchain"
     },
     {
      "full_name": "PillCrew/PillCrew",
-     "stars_per_day": 2.32,
+     "stars_per_day": 2.22,
      "url": "https://github.com/PillCrew/PillCrew"
     }
    ]
   },
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 67.7,
+   "score": 67.5,
    "confidence": "High",
    "evidence": {
-    "github_repos": 47,
-    "github_top_velocity": 27.66,
+    "github_repos": 49,
+    "github_top_velocity": 27.54,
     "headline_hits": 5,
     "sample_headlines": [
      "Robinhood Crypto Trading Volume Jumps 61% in August",
@@ -73,7 +73,7 @@
     },
     {
      "full_name": "PillCrew/claimchain",
-     "stars_per_day": 4.6,
+     "stars_per_day": 4.18,
      "url": "https://github.com/PillCrew/claimchain"
     },
     {
@@ -83,18 +83,18 @@
     },
     {
      "full_name": "PillCrew/PillCrew",
-     "stars_per_day": 2.32,
+     "stars_per_day": 2.22,
      "url": "https://github.com/PillCrew/PillCrew"
     }
    ]
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 25.5,
+   "score": 25.6,
    "confidence": "High",
    "evidence": {
-    "github_repos": 21,
-    "github_top_velocity": 9.47,
+    "github_repos": 19,
+    "github_top_velocity": 9.6,
     "headline_hits": 2,
     "sample_headlines": [
      "AI Agents Spending Money Online? New Research Says Not Really",
@@ -106,12 +106,12 @@
    "member_repos": [
     {
      "full_name": "PillCrew/claimchain",
-     "stars_per_day": 4.6,
+     "stars_per_day": 4.18,
      "url": "https://github.com/PillCrew/claimchain"
     },
     {
      "full_name": "PillCrew/PillCrew",
-     "stars_per_day": 2.32,
+     "stars_per_day": 2.22,
      "url": "https://github.com/PillCrew/PillCrew"
     },
     {
@@ -120,14 +120,14 @@
      "url": "https://github.com/kaiserern/Kaiser.charon"
     },
     {
+     "full_name": "SohniSwatantra/nosana-mcp",
+     "stars_per_day": 0.88,
+     "url": "https://github.com/SohniSwatantra/nosana-mcp"
+    },
+    {
      "full_name": "o-mid/guardrail-agent",
      "stars_per_day": 0.3,
      "url": "https://github.com/o-mid/guardrail-agent"
-    },
-    {
-     "full_name": "fluxrpc/solana-go",
-     "stars_per_day": 0.28,
-     "url": "https://github.com/fluxrpc/solana-go"
     }
    ]
   },
@@ -137,7 +137,7 @@
    "confidence": "Medium",
    "evidence": {
     "github_repos": 3,
-    "github_top_velocity": 0.19,
+    "github_top_velocity": 0.17,
     "headline_hits": 3,
     "sample_headlines": [
      "More Markets lending reserve drained for $410,000: Blockaid",
@@ -154,9 +154,9 @@
      "url": "https://github.com/hypnogaba/solana-signal-trader"
     },
     {
-     "full_name": "daemon-blockint-tech/4R3S",
-     "stars_per_day": 0.05,
-     "url": "https://github.com/daemon-blockint-tech/4R3S"
+     "full_name": "KarloAldrete/universal-proxy",
+     "stars_per_day": 0.03,
+     "url": "https://github.com/KarloAldrete/universal-proxy"
     },
     {
      "full_name": "leafwithered/clawledger",
@@ -167,11 +167,11 @@
   },
   {
    "narrative": "Wallets & UX",
-   "score": 21.5,
+   "score": 21.4,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 19,
-    "github_top_velocity": 21.5,
+    "github_repos": 20,
+    "github_top_velocity": 21.36,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -195,7 +195,7 @@
     },
     {
      "full_name": "nathanliow/trickshot",
-     "stars_per_day": 2.65,
+     "stars_per_day": 2.52,
      "url": "https://github.com/nathanliow/trickshot"
     },
     {
@@ -207,11 +207,11 @@
   },
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 8.4,
+   "score": 9.0,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 39,
-    "github_top_velocity": 8.36,
+    "github_repos": 41,
+    "github_top_velocity": 9.02,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -229,6 +229,11 @@
      "url": "https://github.com/antonkarasbiz/solana-program-examples"
     },
     {
+     "full_name": "SohniSwatantra/nosana-mcp",
+     "stars_per_day": 0.88,
+     "url": "https://github.com/SohniSwatantra/nosana-mcp"
+    },
+    {
      "full_name": "fluxrpc/solana-go",
      "stars_per_day": 0.28,
      "url": "https://github.com/fluxrpc/solana-go"
@@ -237,11 +242,6 @@
      "full_name": "dinsoul09/Ortaq",
      "stars_per_day": 0.25,
      "url": "https://github.com/dinsoul09/Ortaq"
-    },
-    {
-     "full_name": "Voightxyz/voight-txline-agent",
-     "stars_per_day": 0.22,
-     "url": "https://github.com/Voightxyz/voight-txline-agent"
     }
    ]
   },
@@ -250,8 +250,8 @@
    "score": 6.6,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 7,
-    "github_top_velocity": 6.56,
+    "github_repos": 8,
+    "github_top_velocity": 6.59,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -286,12 +286,37 @@
    ]
   },
   {
+   "narrative": "DePIN & Physical Infra",
+   "score": 0.9,
+   "confidence": "Low",
+   "evidence": {
+    "github_repos": 2,
+    "github_top_velocity": 0.9,
+    "headline_hits": 0,
+    "sample_headlines": [],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 0
+   },
+   "member_repos": [
+    {
+     "full_name": "SohniSwatantra/nosana-mcp",
+     "stars_per_day": 0.88,
+     "url": "https://github.com/SohniSwatantra/nosana-mcp"
+    },
+    {
+     "full_name": "belumume/zeroclaw-solana",
+     "stars_per_day": 0.02,
+     "url": "https://github.com/belumume/zeroclaw-solana"
+    }
+   ]
+  },
+  {
    "narrative": "Payments & Stablecoins",
    "score": 0.4,
    "confidence": "Low",
    "evidence": {
     "github_repos": 5,
-    "github_top_velocity": 0.36,
+    "github_top_velocity": 0.35,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -300,7 +325,7 @@
    "member_repos": [
     {
      "full_name": "nirholas/onchain-agent-wallets",
-     "stars_per_day": 0.21,
+     "stars_per_day": 0.2,
      "url": "https://github.com/nirholas/onchain-agent-wallets"
     },
     {
@@ -314,14 +339,14 @@
      "url": "https://github.com/nemorixgroup/Solana-Knowledge-Base"
     },
     {
-     "full_name": "CryptoMehis/Marketing-Program",
-     "stars_per_day": 0.02,
-     "url": "https://github.com/CryptoMehis/Marketing-Program"
-    },
-    {
      "full_name": "belumume/zeroclaw-solana",
      "stars_per_day": 0.02,
      "url": "https://github.com/belumume/zeroclaw-solana"
+    },
+    {
+     "full_name": "casaisdev/casaisdev",
+     "stars_per_day": 0.02,
+     "url": "https://github.com/casaisdev/casaisdev"
     }
    ]
   },
@@ -347,26 +372,6 @@
      "full_name": "thesithunyein/equxi",
      "stars_per_day": 0.04,
      "url": "https://github.com/thesithunyein/equxi"
-    }
-   ]
-  },
-  {
-   "narrative": "DePIN & Physical Infra",
-   "score": 0.0,
-   "confidence": "Low",
-   "evidence": {
-    "github_repos": 1,
-    "github_top_velocity": 0.02,
-    "headline_hits": 0,
-    "sample_headlines": [],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 0
-   },
-   "member_repos": [
-    {
-     "full_name": "belumume/zeroclaw-solana",
-     "stars_per_day": 0.02,
-     "url": "https://github.com/belumume/zeroclaw-solana"
     }
    ]
   }

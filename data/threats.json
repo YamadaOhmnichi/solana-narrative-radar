@@ -27,8 +27,8 @@
   "stars": 42,
   "created": "2026-09-11T23:49:05Z",
   "language": "Python",
-  "stars_per_day": 42.0,
-  "age_days": 1,
+  "stars_per_day": 21.0,
+  "age_days": 2,
   "topics": [
    "auto-withdraw-bot",
    "auto-withdraw-script",
@@ -48,8 +48,8 @@
   "stars": 30,
   "created": "2026-09-10T21:49:37Z",
   "language": null,
-  "stars_per_day": 15.0,
-  "age_days": 2,
+  "stars_per_day": 10.0,
+  "age_days": 3,
   "topics": [
    "auto-withdraw-bot",
    "auto-withdraw-script",

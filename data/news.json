@@ -1,6 +1,11 @@
 {
  "cointelegraph": [
   {
+   "title": "Solana more than triples transaction size limit with mainnet upgrade",
+   "pub": "Tue, 15 Sep 2026 08:18:53 +0000",
+   "link": "https://cointelegraph.com/news/solana-transaction-size-limit-4096-bytes-upgrade?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
+  },
+  {
    "title": "Solana sees record 263K tokens issued in a single day",
    "pub": "Thu, 10 Sep 2026 13:00:00 +0000",
    "link": "https://cointelegraph.com/news/solana-record-263k-tokens-issued?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
@@ -54,14 +59,19 @@
    "title": "Solana transactions hit record 4.2B as SOL rallies 40%",
    "pub": "Tue, 25 Aug 2026 18:08:58 +0000",
    "link": "https://cointelegraph.com/news/solana-record-transactions-rwa-sol-price?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Solana cuts blockchain slot time to 350 milliseconds",
-   "pub": "Fri, 21 Aug 2026 13:45:13 +0000",
-   "link": "https://cointelegraph.com/news/solana-cuts-blockchain-slot-time-350-milliseconds?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
   }
  ],
  "decrypt": [
+  {
+   "title": "Solana Treasury Firm DeFi Dev Corp Rolls Out $300M CHAD to Buy More SOL",
+   "pub": "Tue, 15 Sep 2026 11:01:04 +0000",
+   "link": "https://decrypt.co/378183/solana-defi-development-corp-chad"
+  },
+  {
+   "title": "Strive's Bitcoin Stash Hits an Even 25,000 BTC After $36.6 Million Buy",
+   "pub": "Tue, 15 Sep 2026 09:01:05 +0000",
+   "link": "https://decrypt.co/378190/strive-bitcoin-25000-btc-after-buy"
+  },
   {
    "title": "Banks Want More: Trade Groups Demand Stricter Stablecoin Limits in Clarity Act",
    "pub": "Mon, 14 Sep 2026 21:46:04 +0000",
@@ -111,16 +121,6 @@
    "title": "Why Trump Backed Tougher Ethics Rules in Clarity Act, and Why the Crypto Industry Thinks It Can Pass",
    "pub": "Mon, 14 Sep 2026 15:22:51 +0000",
    "link": "https://decrypt.co/378125/clarity-act-crypto-ethics-trump-key-vote"
-  },
-  {
-   "title": "Morning Minute: Clarity Act Odds Soar as Trump Agrees to Ethics Provisions",
-   "pub": "Mon, 14 Sep 2026 14:37:21 +0000",
-   "link": "https://decrypt.co/378122/morning-minute-clarity-act-odds-soar-trump-ethics"
-  },
-  {
-   "title": "MetaMask Adds New Wallet Protections Against Crypto Scams",
-   "pub": "Mon, 14 Sep 2026 14:01:04 +0000",
-   "link": "https://decrypt.co/378117/metamask-adds-wallet-protections"
   }
  ],
  "cryptonews": [

@@ -6,8 +6,8 @@
   "stars": 1232,
   "created": "2026-08-28T08:07:10Z",
   "language": "CSS",
-  "stars_per_day": 72.47,
-  "age_days": 17,
+  "stars_per_day": 68.44,
+  "age_days": 18,
   "topics": [
    "bitcoin",
    "bitcoin-wallet",
@@ -19,26 +19,5 @@
    "ethereum"
   ],
   "flag": "brand-impersonation"
- },
- {
-  "full_name": "Tulliolesage/Solana-Drainer-Tool",
-  "url": "https://github.com/Tulliolesage/Solana-Drainer-Tool",
-  "description": "Solana Drainer Tool \u2014 Automated SOL and SPL token drainer for Solana wallets with real-time balance monitoring, multi-wallet sweeping, Phantom/Backpack/Solflare compatibility, and stealth transaction ",
-  "stars": 29,
-  "created": "2026-09-14T16:04:11Z",
-  "language": "Python",
-  "stars_per_day": 29.0,
-  "age_days": 1,
-  "topics": [
-   "auto-withdraw-bot",
-   "auto-withdraw-script",
-   "drain-bot",
-   "ethereum",
-   "phantom-manager",
-   "private-key-manager",
-   "solana-payout-api",
-   "solana-trading-platform"
-  ],
-  "flag": "malware-pattern"
  }
 ]

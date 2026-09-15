@@ -1,25 +1,25 @@
 {
- "generated_at": "2026-09-15T06:35:42+00:00",
+ "generated_at": "2026-09-15T12:33:32+00:00",
  "narratives": [
   {
    "narrative": "Meme & Speculation",
-   "score": 185.7,
+   "score": 158.0,
    "confidence": "High",
    "evidence": {
     "github_repos": 15,
-    "github_top_velocity": 146.22,
+    "github_top_velocity": 118.03,
     "headline_hits": 2,
     "sample_headlines": [
      "Fomo overtakes Pump.fun in daily revenue on Solana",
      "Fomo overtakes Pump.fun in daily revenue on Solana"
     ],
-    "market_avg_7d_pct": -11.73,
+    "market_avg_7d_pct": -12.0,
     "sources_confirming": 3
    },
    "member_repos": [
     {
      "full_name": "nhovongoc0-max/meme-radar",
-     "stars_per_day": 113.0,
+     "stars_per_day": 85.25,
      "url": "https://github.com/nhovongoc0-max/meme-radar"
     },
     {
@@ -28,14 +28,14 @@
      "url": "https://github.com/shaleflydisconnect/solana-sniper-bot"
     },
     {
-     "full_name": "dartkomnitibe/solana-meme-tool",
-     "stars_per_day": 6.06,
-     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
-    },
-    {
      "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
      "stars_per_day": 6.03,
      "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
+    },
+    {
+     "full_name": "dartkomnitibe/solana-meme-tool",
+     "stars_per_day": 5.88,
+     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
     },
     {
      "full_name": "PillCrew/claimchain",
@@ -46,16 +46,16 @@
   },
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 77.0,
+   "score": 84.6,
    "confidence": "High",
    "evidence": {
     "github_repos": 51,
-    "github_top_velocity": 37.04,
-    "headline_hits": 5,
+    "github_top_velocity": 36.61,
+    "headline_hits": 6,
     "sample_headlines": [
+     "Solana Treasury Firm DeFi Dev Corp Rolls Out $300M CHAD to Buy More SOL",
      "Crypto Market Has 'Definitely Not Priced In' Clarity Act Surprise, Says Bernstein",
-     "Kraken brings DeFi yield to tokenized stocks and ETFs",
-     "Sui DeFi protocol Full Sail to wind down after Switchboard incident"
+     "Kraken brings DeFi yield to tokenized stocks and ETFs"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -67,14 +67,14 @@
      "url": "https://github.com/shaleflydisconnect/solana-sniper-bot"
     },
     {
-     "full_name": "dartkomnitibe/solana-meme-tool",
-     "stars_per_day": 6.06,
-     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
-    },
-    {
      "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
      "stars_per_day": 6.03,
      "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
+    },
+    {
+     "full_name": "dartkomnitibe/solana-meme-tool",
+     "stars_per_day": 5.88,
+     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
     },
     {
      "full_name": "PillCrew/claimchain",
@@ -90,11 +90,11 @@
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 41.4,
+   "score": 41.3,
    "confidence": "High",
    "evidence": {
     "github_repos": 19,
-    "github_top_velocity": 9.41,
+    "github_top_velocity": 9.3,
     "headline_hits": 4,
     "sample_headlines": [
      "OpenAI\u2019s Sam Altman Warns Humans Could Lose Control of AI",
@@ -116,34 +116,34 @@
      "url": "https://github.com/PillCrew/PillCrew"
     },
     {
-     "full_name": "SohniSwatantra/nosana-mcp",
-     "stars_per_day": 1.22,
-     "url": "https://github.com/SohniSwatantra/nosana-mcp"
-    },
-    {
      "full_name": "kaiserern/Kaiser.charon",
      "stars_per_day": 1.11,
      "url": "https://github.com/kaiserern/Kaiser.charon"
     },
     {
+     "full_name": "SohniSwatantra/nosana-mcp",
+     "stars_per_day": 1.1,
+     "url": "https://github.com/SohniSwatantra/nosana-mcp"
+    },
+    {
      "full_name": "o-mid/guardrail-agent",
-     "stars_per_day": 0.3,
+     "stars_per_day": 0.29,
      "url": "https://github.com/o-mid/guardrail-agent"
     }
    ]
   },
   {
    "narrative": "Security & Threats",
-   "score": 32.2,
+   "score": 24.2,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 3,
     "github_top_velocity": 0.16,
-    "headline_hits": 4,
+    "headline_hits": 3,
     "sample_headlines": [
-     "MetaMask Adds New Wallet Protections Against Crypto Scams",
      "More Markets lending reserve drained for $410,000: Blockaid",
-     "Term Finance loses estimated $8.5M in vault governance exploit"
+     "Term Finance loses estimated $8.5M in vault governance exploit",
+     "Harmony plans rollback, wiping 109,000 transactions after ONE exploit"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 1
@@ -168,28 +168,26 @@
   },
   {
    "narrative": "Wallets & UX",
-   "score": 28.7,
+   "score": 20.5,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 18,
-    "github_top_velocity": 20.67,
-    "headline_hits": 1,
-    "sample_headlines": [
-     "MetaMask Adds New Wallet Protections Against Crypto Scams"
-    ],
+    "github_top_velocity": 20.49,
+    "headline_hits": 0,
+    "sample_headlines": [],
     "market_avg_7d_pct": null,
     "sources_confirming": 1
    },
    "member_repos": [
     {
-     "full_name": "dartkomnitibe/solana-meme-tool",
-     "stars_per_day": 6.06,
-     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
-    },
-    {
      "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
      "stars_per_day": 6.03,
      "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
+    },
+    {
+     "full_name": "dartkomnitibe/solana-meme-tool",
+     "stars_per_day": 5.88,
+     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
     },
     {
      "full_name": "ascenx/safe_wallet",
@@ -210,11 +208,11 @@
   },
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 9.5,
+   "score": 9.3,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 42,
-    "github_top_velocity": 9.48,
+    "github_top_velocity": 9.35,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -228,7 +226,7 @@
     },
     {
      "full_name": "SohniSwatantra/nosana-mcp",
-     "stars_per_day": 1.22,
+     "stars_per_day": 1.1,
      "url": "https://github.com/SohniSwatantra/nosana-mcp"
     },
     {
@@ -342,12 +340,12 @@
     },
     {
      "full_name": "accretion-xyz/awesome-solana-security",
-     "stars_per_day": 0.24,
+     "stars_per_day": 0.23,
      "url": "https://github.com/accretion-xyz/awesome-solana-security"
     },
     {
      "full_name": "dizcorvus/opencatz-ai",
-     "stars_per_day": 0.21,
+     "stars_per_day": 0.23,
      "url": "https://github.com/dizcorvus/opencatz-ai"
     },
     {
@@ -357,18 +355,18 @@
     },
     {
      "full_name": "blueshift-gg/solana-awesome",
-     "stars_per_day": 0.1,
+     "stars_per_day": 0.09,
      "url": "https://github.com/blueshift-gg/solana-awesome"
     }
    ]
   },
   {
    "narrative": "DePIN & Physical Infra",
-   "score": 1.2,
+   "score": 1.1,
    "confidence": "Low",
    "evidence": {
     "github_repos": 2,
-    "github_top_velocity": 1.24,
+    "github_top_velocity": 1.12,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -377,7 +375,7 @@
    "member_repos": [
     {
      "full_name": "SohniSwatantra/nosana-mcp",
-     "stars_per_day": 1.22,
+     "stars_per_day": 1.1,
      "url": "https://github.com/SohniSwatantra/nosana-mcp"
     },
     {

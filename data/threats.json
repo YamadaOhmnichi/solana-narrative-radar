@@ -3,10 +3,10 @@
   "full_name": "MetaMask-AI/metamask-desktop",
   "url": "https://github.com/MetaMask-AI/metamask-desktop",
   "description": "\ud83c\udf10 \ud83d\udd0c The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
-  "stars": 1231,
+  "stars": 1232,
   "created": "2026-08-28T08:07:10Z",
   "language": "CSS",
-  "stars_per_day": 72.41,
+  "stars_per_day": 72.47,
   "age_days": 17,
   "topics": [
    "bitcoin",
@@ -19,5 +19,26 @@
    "ethereum"
   ],
   "flag": "brand-impersonation"
+ },
+ {
+  "full_name": "Tulliolesage/Solana-Drainer-Tool",
+  "url": "https://github.com/Tulliolesage/Solana-Drainer-Tool",
+  "description": "Solana Drainer Tool \u2014 Automated SOL and SPL token drainer for Solana wallets with real-time balance monitoring, multi-wallet sweeping, Phantom/Backpack/Solflare compatibility, and stealth transaction ",
+  "stars": 29,
+  "created": "2026-09-14T16:04:11Z",
+  "language": "Python",
+  "stars_per_day": 29.0,
+  "age_days": 1,
+  "topics": [
+   "auto-withdraw-bot",
+   "auto-withdraw-script",
+   "drain-bot",
+   "ethereum",
+   "phantom-manager",
+   "private-key-manager",
+   "solana-payout-api",
+   "solana-trading-platform"
+  ],
+  "flag": "malware-pattern"
  }
 ]

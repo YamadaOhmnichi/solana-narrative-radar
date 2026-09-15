@@ -63,6 +63,26 @@
  ],
  "decrypt": [
   {
+   "title": "Banks Want More: Trade Groups Demand Stricter Stablecoin Limits in Clarity Act",
+   "pub": "Mon, 14 Sep 2026 21:46:04 +0000",
+   "link": "https://decrypt.co/378181/banks-senate-clarity-act-stablecoin-rules-key-vote"
+  },
+  {
+   "title": "OpenAI\u2019s Sam Altman Warns Humans Could Lose Control of AI",
+   "pub": "Mon, 14 Sep 2026 21:16:04 +0000",
+   "link": "https://decrypt.co/378179/openai-sam-altman-humans-lose-control-ai"
+  },
+  {
+   "title": "Trump Says He 'Likes' Flock Surveillance Cameras Amid Bipartisan Pushback",
+   "pub": "Mon, 14 Sep 2026 20:07:41 +0000",
+   "link": "https://decrypt.co/378171/trump-likes-flocks-ai-surveillance-cameras"
+  },
+  {
+   "title": "Microsoft Unveils 'Humanist AI' Code of Conduct, Asks the Public to Poke Holes in It",
+   "pub": "Mon, 14 Sep 2026 19:07:28 +0000",
+   "link": "https://decrypt.co/378168/microsoft-humanist-ai-code-of-conduct"
+  },
+  {
    "title": "Trump Says He\u2019s the Only \u2018Guardrails\u2019 AI Needs, Attacks Anthropic and Defends Data Centers",
    "pub": "Mon, 14 Sep 2026 18:26:04 +0000",
    "link": "https://decrypt.co/378166/trump-ai-guardrails-attacks-anthropic"
@@ -101,29 +121,14 @@
    "title": "MetaMask Adds New Wallet Protections Against Crypto Scams",
    "pub": "Mon, 14 Sep 2026 14:01:04 +0000",
    "link": "https://decrypt.co/378117/metamask-adds-wallet-protections"
-  },
-  {
-   "title": "India Begins Tokenizing Its $620 Billion Corporate Bond Market",
-   "pub": "Mon, 14 Sep 2026 11:01:05 +0000",
-   "link": "https://decrypt.co/378120/india-begins-tokenizing-its-620-billion-corporate-bond-market"
-  },
-  {
-   "title": "Bitcoin Suisse to Cut Up to Half Its Swiss Jobs in Overseas Shift",
-   "pub": "Mon, 14 Sep 2026 09:01:03 +0000",
-   "link": "https://decrypt.co/378119/bitcoin-suisse-cut-half-swiss-jobs"
-  },
-  {
-   "title": "AI Agents Spending Money Online? New Research Says Not Really",
-   "pub": "Sun, 13 Sep 2026 13:01:03 +0000",
-   "link": "https://decrypt.co/378103/ai-agents-spending-money-research"
-  },
-  {
-   "title": "Revolut Leaks Passports, Bitcoin Transaction Histories to Fake Government Request",
-   "pub": "Sat, 12 Sep 2026 17:01:04 +0000",
-   "link": "https://decrypt.co/378114/revolut-passports-bitcoin-activity-data-breach"
   }
  ],
  "cryptonews": [
+  {
+   "title": "Kraken brings DeFi yield to tokenized stocks and ETFs",
+   "pub": "Mon, 14 Sep 2026 20:54:10 +0000",
+   "link": "https://cointelegraph.com/news/kraken-brings-defi-yield-to-tokenized-stocks-and-etfs?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+  },
   {
    "title": "Standard Chartered forecasts SKY rising fivefold to $0.325 by 2028",
    "pub": "Fri, 11 Sep 2026 10:44:28 +0000",
@@ -178,11 +183,6 @@
    "title": "Neutrl pauses NUSD redemptions over undisclosed reserve issue",
    "pub": "Fri, 14 Aug 2026 04:44:31 +0000",
    "link": "https://cointelegraph.com/news/neutrl-pauses-nusd-redemptions-over-undisclosed-reserve-issue?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "\u2018DeFi doesn\u2019t exist anymore,\u2019 just onchain finance: Andre Cronje",
-   "pub": "Thu, 13 Aug 2026 10:50:24 +0000",
-   "link": "https://cointelegraph.com/news/defi-doesnt-exist-onchain-finance-andre-cronje?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
   }
  ]
 }

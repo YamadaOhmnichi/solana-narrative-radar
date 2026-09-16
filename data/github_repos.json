@@ -3,10 +3,10 @@
   "full_name": "nhovongoc0-max/meme-radar",
   "url": "https://github.com/nhovongoc0-max/meme-radar",
   "description": "Meme\u96f7\u8fbe\u5f00\u6e90\u7248\uff1a\u672c\u5730\u53ea\u8bfb\u3001\u591a\u94fe Meme \u5019\u9009\u626b\u63cf\u4e0e\u4eba\u5de5\u590d\u6838\u5de5\u5177",
-  "stars": 343,
+  "stars": 345,
   "created": "2026-09-11T12:14:57Z",
   "language": "JavaScript",
-  "stars_per_day": 85.75,
+  "stars_per_day": 86.25,
   "age_days": 4,
   "topics": [
    "bsc",
@@ -52,8 +52,8 @@
   "stars": 317,
   "created": "2026-07-20T05:09:52Z",
   "language": "JavaScript",
-  "stars_per_day": 5.56,
-  "age_days": 57,
+  "stars_per_day": 5.47,
+  "age_days": 58,
   "topics": [
    "blockchain-game",
    "chunkjs",
@@ -72,8 +72,8 @@
   "stars": 192,
   "created": "2026-08-06T00:51:16Z",
   "language": "TypeScript",
-  "stars_per_day": 4.8,
-  "age_days": 40,
+  "stars_per_day": 4.68,
+  "age_days": 41,
   "topics": []
  },
  {
@@ -140,10 +140,10 @@
   "full_name": "PillCrew/PillCrew",
   "url": "https://github.com/PillCrew/PillCrew",
   "description": "Pilly - AI trading copilot for Solana memecoins. Live trending, crew verdicts, charts, price alerts, PnL tracking and a desktop pet that reacts to the market.",
-  "stars": 51,
+  "stars": 52,
   "created": "2026-08-21T21:14:09Z",
   "language": "JavaScript",
-  "stars_per_day": 2.04,
+  "stars_per_day": 2.08,
   "age_days": 25,
   "topics": [
    "ai",
@@ -231,10 +231,10 @@
   "full_name": "SohniSwatantra/nosana-mcp",
   "url": "https://github.com/SohniSwatantra/nosana-mcp",
   "description": "Nosana MCP: let AI agents rent GPUs on Nosana and deploy templates such as MiniMax H3 with account credits. MCP server + nosana-deploy CLI.",
-  "stars": 13,
+  "stars": 14,
   "created": "2026-09-05T07:41:05Z",
   "language": "TypeScript",
-  "stars_per_day": 1.3,
+  "stars_per_day": 1.4,
   "age_days": 10,
   "topics": [
    "ai-agents",
@@ -254,19 +254,8 @@
   "stars": 61,
   "created": "2026-07-22T04:16:58Z",
   "language": "JavaScript",
-  "stars_per_day": 1.11,
-  "age_days": 55,
-  "topics": []
- },
- {
-  "full_name": "Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
-  "url": "https://github.com/Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
-  "description": "",
-  "stars": 1,
-  "created": "2026-09-14T01:47:19Z",
-  "language": "Rust",
-  "stars_per_day": 1.0,
-  "age_days": 1,
+  "stars_per_day": 1.09,
+  "age_days": 56,
   "topics": []
  },
  {
@@ -309,26 +298,6 @@
   ]
  },
  {
-  "full_name": "antonkarasbiz/solana-program-examples",
-  "url": "https://github.com/antonkarasbiz/solana-program-examples",
-  "description": "Solana program examples in Anchor, Pinocchio, and native Rust for on-chain engineers.",
-  "stars": 2,
-  "created": "2026-09-11T05:58:51Z",
-  "language": "TypeScript",
-  "stars_per_day": 0.5,
-  "age_days": 4,
-  "topics": [
-   "anchor",
-   "blockchain",
-   "examples",
-   "pinocchio",
-   "rust",
-   "smart-contracts",
-   "solana",
-   "web3"
-  ]
- },
- {
   "full_name": "ChiefWoods/yield-tranche-market",
   "url": "https://github.com/ChiefWoods/yield-tranche-market",
   "description": "Yield tranching program with multi-model configuration",
@@ -340,6 +309,37 @@
   "topics": [
    "quasar",
    "solana"
+  ]
+ },
+ {
+  "full_name": "Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
+  "url": "https://github.com/Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
+  "description": "",
+  "stars": 1,
+  "created": "2026-09-14T01:47:19Z",
+  "language": "Rust",
+  "stars_per_day": 0.5,
+  "age_days": 2,
+  "topics": []
+ },
+ {
+  "full_name": "antonkarasbiz/solana-program-examples",
+  "url": "https://github.com/antonkarasbiz/solana-program-examples",
+  "description": "Solana program examples in Anchor, Pinocchio, and native Rust for on-chain engineers.",
+  "stars": 2,
+  "created": "2026-09-11T05:58:51Z",
+  "language": "TypeScript",
+  "stars_per_day": 0.4,
+  "age_days": 5,
+  "topics": [
+   "anchor",
+   "blockchain",
+   "examples",
+   "pinocchio",
+   "rust",
+   "smart-contracts",
+   "solana",
+   "web3"
   ]
  },
  {
@@ -382,8 +382,8 @@
   "stars": 10,
   "created": "2026-08-10T03:26:44Z",
   "language": "Rust",
-  "stars_per_day": 0.28,
-  "age_days": 36,
+  "stars_per_day": 0.27,
+  "age_days": 37,
   "topics": [
    "defi",
    "magicblock",
@@ -422,26 +422,6 @@
   "topics": []
  },
  {
-  "full_name": "qiaopengjun5162/onchain-arbitrage-colearn",
-  "url": "https://github.com/qiaopengjun5162/onchain-arbitrage-colearn",
-  "description": "\u94fe\u4e0a\u5957\u5229\u6b8b\u9177\u5171\u5b66\u77e5\u8bc6\u5e93\uff1aDeFi\u6e05\u7b97/\u8de8\u6240\u4ef7\u5dee/\u8d44\u91d1\u8d39\u7387/DEX\u5957\u5229\u7814\u7a76\u7b14\u8bb0 + 8\u4e2a\u76d1\u63a7\u54e8\u5175 + Python/Rust\u53cc\u5b9e\u73b0",
-  "stars": 9,
-  "created": "2026-08-08T02:49:21Z",
-  "language": "HTML",
-  "stars_per_day": 0.24,
-  "age_days": 38,
-  "topics": [
-   "arbitrage",
-   "blockchain",
-   "crypto",
-   "defi",
-   "mev",
-   "rust",
-   "solana",
-   "web3"
-  ]
- },
- {
   "full_name": "accretion-xyz/awesome-solana-security",
   "url": "https://github.com/accretion-xyz/awesome-solana-security",
   "description": "Collection of Solana security resources",
@@ -470,6 +450,26 @@
    "multi-agent",
    "nft",
    "opencatz"
+  ]
+ },
+ {
+  "full_name": "qiaopengjun5162/onchain-arbitrage-colearn",
+  "url": "https://github.com/qiaopengjun5162/onchain-arbitrage-colearn",
+  "description": "\u94fe\u4e0a\u5957\u5229\u6b8b\u9177\u5171\u5b66\u77e5\u8bc6\u5e93\uff1aDeFi\u6e05\u7b97/\u8de8\u6240\u4ef7\u5dee/\u8d44\u91d1\u8d39\u7387/DEX\u5957\u5229\u7814\u7a76\u7b14\u8bb0 + 8\u4e2a\u76d1\u63a7\u54e8\u5175 + Python/Rust\u53cc\u5b9e\u73b0",
+  "stars": 9,
+  "created": "2026-08-08T02:49:21Z",
+  "language": "HTML",
+  "stars_per_day": 0.23,
+  "age_days": 39,
+  "topics": [
+   "arbitrage",
+   "blockchain",
+   "crypto",
+   "defi",
+   "mev",
+   "rust",
+   "solana",
+   "web3"
   ]
  },
  {
@@ -621,6 +621,17 @@
   ]
  },
  {
+  "full_name": "blueshift-gg/solana-awesome",
+  "url": "https://github.com/blueshift-gg/solana-awesome",
+  "description": "An awesome collective of major Solana libraries \u2014 core sdk, programs, interfaces, clients, crypto etc",
+  "stars": 3,
+  "created": "2026-08-24T12:22:27Z",
+  "language": "Rust",
+  "stars_per_day": 0.14,
+  "age_days": 22,
+  "topics": []
+ },
+ {
   "full_name": "ChiefWoods/hylo-programs",
   "url": "https://github.com/ChiefWoods/hylo-programs",
   "description": "Hylo programs reverse engineered",
@@ -642,7 +653,7 @@
   "created": "2026-08-04T04:55:01Z",
   "language": "TypeScript",
   "stars_per_day": 0.14,
-  "age_days": 42,
+  "age_days": 43,
   "topics": [
    "agent-payments",
    "agentic-safety",
@@ -757,20 +768,6 @@
   ]
  },
  {
-  "full_name": "ChiefWoods/interest-rate-exchange",
-  "url": "https://github.com/ChiefWoods/interest-rate-exchange",
-  "description": "PT/ST pool-based yield stripping program",
-  "stars": 1,
-  "created": "2026-09-05T06:17:30Z",
-  "language": "Rust",
-  "stars_per_day": 0.1,
-  "age_days": 10,
-  "topics": [
-   "quasar",
-   "solana"
-  ]
- },
- {
   "full_name": "6figpsolseeker/rostr",
   "url": "https://github.com/6figpsolseeker/rostr",
   "description": "Open-source fantasy sports on Solana. Immutable league rules, escrowed prize pools, and automatic settlement. Football first, sport-agnostic by design.",
@@ -791,15 +788,18 @@
   ]
  },
  {
-  "full_name": "blueshift-gg/solana-awesome",
-  "url": "https://github.com/blueshift-gg/solana-awesome",
-  "description": "An awesome collective of major Solana libraries \u2014 core sdk, programs, interfaces, clients, crypto etc",
-  "stars": 2,
-  "created": "2026-08-24T12:22:27Z",
+  "full_name": "ChiefWoods/interest-rate-exchange",
+  "url": "https://github.com/ChiefWoods/interest-rate-exchange",
+  "description": "PT/ST pool-based yield stripping program",
+  "stars": 1,
+  "created": "2026-09-05T06:17:30Z",
   "language": "Rust",
   "stars_per_day": 0.09,
-  "age_days": 22,
-  "topics": []
+  "age_days": 11,
+  "topics": [
+   "quasar",
+   "solana"
+  ]
  },
  {
   "full_name": "CofferFun/coffer",
@@ -822,17 +822,6 @@
   ]
  },
  {
-  "full_name": "drp457/solana-wallet-comparison",
-  "url": "https://github.com/drp457/solana-wallet-comparison",
-  "description": "solana wallet app\uff1a\u9009\u5bf9\u94b1\u5305\uff0c\u65b0\u624b\u4e5f\u80fd\u8f7b\u677e\u7ba1\u7406 SOL\u3001\u8d28\u62bc\u548c DeFi",
-  "stars": 1,
-  "created": "2026-09-04T06:32:44Z",
-  "language": null,
-  "stars_per_day": 0.09,
-  "age_days": 11,
-  "topics": []
- },
- {
   "full_name": "keelwright/slipway",
   "url": "https://github.com/keelwright/slipway",
   "description": "A scaffold for on-chain utility projects on Solana \u2014 program, launch, site, indexer, deploy, and every trap already mapped.",
@@ -840,7 +829,7 @@
   "created": "2026-08-21T06:17:43Z",
   "language": "JavaScript",
   "stars_per_day": 0.08,
-  "age_days": 25,
+  "age_days": 26,
   "topics": [
    "agents",
    "ai-agents",
@@ -871,6 +860,17 @@
    "solana",
    "x402"
   ]
+ },
+ {
+  "full_name": "drp457/solana-wallet-comparison",
+  "url": "https://github.com/drp457/solana-wallet-comparison",
+  "description": "solana wallet app\uff1a\u9009\u5bf9\u94b1\u5305\uff0c\u65b0\u624b\u4e5f\u80fd\u8f7b\u677e\u7ba1\u7406 SOL\u3001\u8d28\u62bc\u548c DeFi",
+  "stars": 1,
+  "created": "2026-09-04T06:32:44Z",
+  "language": null,
+  "stars_per_day": 0.08,
+  "age_days": 12,
+  "topics": []
  },
  {
   "full_name": "Smurfetc/solana-memecoin-calls-dataset",
@@ -1041,7 +1041,7 @@
   "created": "2026-08-27T03:53:37Z",
   "language": "Rust",
   "stars_per_day": 0.05,
-  "age_days": 19,
+  "age_days": 20,
   "topics": [
    "anchor",
    "solana"
@@ -1086,7 +1086,7 @@
   "created": "2026-07-28T02:15:23Z",
   "language": "Rust",
   "stars_per_day": 0.04,
-  "age_days": 49,
+  "age_days": 50,
   "topics": []
  },
  {
@@ -1150,7 +1150,7 @@
   "created": "2026-08-23T04:02:06Z",
   "language": "TypeScript",
   "stars_per_day": 0.04,
-  "age_days": 23,
+  "age_days": 24,
   "topics": []
  },
  {
@@ -1343,7 +1343,7 @@
   "created": "2026-08-13T01:05:33Z",
   "language": null,
   "stars_per_day": 0.03,
-  "age_days": 33,
+  "age_days": 34,
   "topics": []
  },
  {
@@ -1385,7 +1385,7 @@
   "created": "2026-08-10T04:21:56Z",
   "language": "TypeScript",
   "stars_per_day": 0.03,
-  "age_days": 36,
+  "age_days": 37,
   "topics": [
    "anchor",
    "developer-tools",
@@ -1402,7 +1402,7 @@
   "created": "2026-08-11T03:17:51Z",
   "language": "TypeScript",
   "stars_per_day": 0.03,
-  "age_days": 35,
+  "age_days": 36,
   "topics": [
    "anchor",
    "defi",
@@ -1560,7 +1560,7 @@
   "created": "2026-07-21T04:53:36Z",
   "language": "TypeScript",
   "stars_per_day": 0.02,
-  "age_days": 56,
+  "age_days": 57,
   "topics": [
    "anchor-lang",
    "hackathon",

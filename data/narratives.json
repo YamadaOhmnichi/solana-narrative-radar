@@ -1,25 +1,25 @@
 {
- "generated_at": "2026-09-16T00:34:01+00:00",
+ "generated_at": "2026-09-16T06:34:22+00:00",
  "narratives": [
   {
    "narrative": "Meme & Speculation",
-   "score": 152.7,
+   "score": 155.2,
    "confidence": "High",
    "evidence": {
     "github_repos": 15,
-    "github_top_velocity": 106.09,
+    "github_top_velocity": 106.61,
     "headline_hits": 2,
     "sample_headlines": [
      "Fomo overtakes Pump.fun in daily revenue on Solana",
      "Fomo overtakes Pump.fun in daily revenue on Solana"
     ],
-    "market_avg_7d_pct": -15.3,
+    "market_avg_7d_pct": -16.31,
     "sources_confirming": 3
    },
    "member_repos": [
     {
      "full_name": "nhovongoc0-max/meme-radar",
-     "stars_per_day": 85.75,
+     "stars_per_day": 86.25,
      "url": "https://github.com/nhovongoc0-max/meme-radar"
     },
     {
@@ -39,18 +39,18 @@
     },
     {
      "full_name": "PillCrew/PillCrew",
-     "stars_per_day": 2.04,
+     "stars_per_day": 2.08,
      "url": "https://github.com/PillCrew/PillCrew"
     }
    ]
   },
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 56.5,
+   "score": 56.0,
    "confidence": "High",
    "evidence": {
     "github_repos": 51,
-    "github_top_velocity": 24.49,
+    "github_top_velocity": 24.01,
     "headline_hits": 4,
     "sample_headlines": [
      "Kraken brings DeFi yield to tokenized stocks and ETFs",
@@ -83,7 +83,7 @@
     },
     {
      "full_name": "PillCrew/PillCrew",
-     "stars_per_day": 2.04,
+     "stars_per_day": 2.08,
      "url": "https://github.com/PillCrew/PillCrew"
     }
    ]
@@ -128,7 +128,7 @@
    "confidence": "Medium",
    "evidence": {
     "github_repos": 21,
-    "github_top_velocity": 20.09,
+    "github_top_velocity": 20.08,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -164,11 +164,11 @@
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 17.2,
+   "score": 17.3,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 21,
-    "github_top_velocity": 9.18,
+    "github_top_velocity": 9.3,
     "headline_hits": 1,
     "sample_headlines": [
      "OpenAI's Brockman Says Safety Concerns Have Already Slowed Its Most Advanced AI Work"
@@ -184,17 +184,17 @@
     },
     {
      "full_name": "PillCrew/PillCrew",
-     "stars_per_day": 2.04,
+     "stars_per_day": 2.08,
      "url": "https://github.com/PillCrew/PillCrew"
     },
     {
      "full_name": "SohniSwatantra/nosana-mcp",
-     "stars_per_day": 1.3,
+     "stars_per_day": 1.4,
      "url": "https://github.com/SohniSwatantra/nosana-mcp"
     },
     {
      "full_name": "kaiserern/Kaiser.charon",
-     "stars_per_day": 1.11,
+     "stars_per_day": 1.09,
      "url": "https://github.com/kaiserern/Kaiser.charon"
     },
     {
@@ -206,11 +206,11 @@
   },
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 9.4,
+   "score": 8.8,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 42,
-    "github_top_velocity": 9.41,
+    "github_top_velocity": 8.84,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -219,22 +219,22 @@
    "member_repos": [
     {
      "full_name": "nicechunk/game",
-     "stars_per_day": 5.56,
+     "stars_per_day": 5.47,
      "url": "https://github.com/nicechunk/game"
     },
     {
      "full_name": "SohniSwatantra/nosana-mcp",
-     "stars_per_day": 1.3,
+     "stars_per_day": 1.4,
      "url": "https://github.com/SohniSwatantra/nosana-mcp"
     },
     {
      "full_name": "Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
-     "stars_per_day": 1.0,
+     "stars_per_day": 0.5,
      "url": "https://github.com/Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor"
     },
     {
      "full_name": "antonkarasbiz/solana-program-examples",
-     "stars_per_day": 0.5,
+     "stars_per_day": 0.4,
      "url": "https://github.com/antonkarasbiz/solana-program-examples"
     },
     {
@@ -278,11 +278,11 @@
   },
   {
    "narrative": "Consumer & Social",
-   "score": 6.4,
+   "score": 6.3,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 8,
-    "github_top_velocity": 6.38,
+    "github_top_velocity": 6.34,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -291,7 +291,7 @@
    "member_repos": [
     {
      "full_name": "nicechunk/game",
-     "stars_per_day": 5.56,
+     "stars_per_day": 5.47,
      "url": "https://github.com/nicechunk/game"
     },
     {
@@ -311,18 +311,18 @@
     },
     {
      "full_name": "blueshift-gg/solana-awesome",
-     "stars_per_day": 0.09,
+     "stars_per_day": 0.14,
      "url": "https://github.com/blueshift-gg/solana-awesome"
     }
    ]
   },
   {
    "narrative": "DePIN & Physical Infra",
-   "score": 1.3,
+   "score": 1.4,
    "confidence": "Low",
    "evidence": {
     "github_repos": 2,
-    "github_top_velocity": 1.32,
+    "github_top_velocity": 1.42,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -331,7 +331,7 @@
    "member_repos": [
     {
      "full_name": "SohniSwatantra/nosana-mcp",
-     "stars_per_day": 1.3,
+     "stars_per_day": 1.4,
      "url": "https://github.com/SohniSwatantra/nosana-mcp"
     },
     {

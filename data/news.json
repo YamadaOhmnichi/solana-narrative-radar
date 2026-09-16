@@ -63,6 +63,31 @@
  ],
  "decrypt": [
   {
+   "title": "Wall Street Bets on Fed Rate Hike: Here's What It Means for Bitcoin, Bonds and Trump",
+   "pub": "Tue, 15 Sep 2026 21:46:03 +0000",
+   "link": "https://decrypt.co/378306/wall-street-fed-rate-hike-bitcoin-bonds-trump"
+  },
+  {
+   "title": "Coinbase-Backed Crypto Group Warns of Midterms Payback After Clarity Act Fails",
+   "pub": "Tue, 15 Sep 2026 21:10:06 +0000",
+   "link": "https://decrypt.co/378303/coinbase-crypto-group-midterms-vote-clarity-act"
+  },
+  {
+   "title": "OpenAI's Brockman Says Safety Concerns Have Already Slowed Its Most Advanced AI Work",
+   "pub": "Tue, 15 Sep 2026 20:09:19 +0000",
+   "link": "https://decrypt.co/378300/openai-safety-concerns-slowed-most-advanced-ai-work"
+  },
+  {
+   "title": "Crypto Reacts: Bitcoin Slides as Clarity Act Fails to Clear Senate Vote",
+   "pub": "Tue, 15 Sep 2026 19:18:29 +0000",
+   "link": "https://decrypt.co/378286/crypto-clarity-act-fails-clear-senate-bitcoin-slides"
+  },
+  {
+   "title": "Clarity Act Stalls in Senate as Crypto Bill Fails to Clear Key Vote",
+   "pub": "Tue, 15 Sep 2026 18:54:10 +0000",
+   "link": "https://decrypt.co/378283/clarity-act-fails-senate-hurdle"
+  },
+  {
    "title": "Robinhood Engineers Charged With Fraud Over Alleged Crypto Listing Trades",
    "pub": "Tue, 15 Sep 2026 17:49:23 +0000",
    "link": "https://decrypt.co/378267/robinhood-engineers-charged-fraud-over-crypto-listing-trades"
@@ -96,34 +121,14 @@
    "title": "Morning Minute: Clarity Act Odds Slump After Democrat Pushback",
    "pub": "Tue, 15 Sep 2026 14:05:47 +0000",
    "link": "https://decrypt.co/378230/morning-minute-clarity-act-odds-slump-after-democrat-pushback"
-  },
-  {
-   "title": "Why an AI Slowdown Could Collapse Under Commercial and US-China Pressure",
-   "pub": "Tue, 15 Sep 2026 13:00:05 +0000",
-   "link": "https://decrypt.co/378203/ai-slowdown-us-china-pressure"
-  },
-  {
-   "title": "Solana Treasury Firm DeFi Dev Corp Rolls Out $300M CHAD to Buy More SOL",
-   "pub": "Tue, 15 Sep 2026 11:01:04 +0000",
-   "link": "https://decrypt.co/378183/solana-defi-development-corp-chad"
-  },
-  {
-   "title": "Strive's Bitcoin Stash Hits an Even 25,000 BTC After $36.6 Million Buy",
-   "pub": "Tue, 15 Sep 2026 09:01:05 +0000",
-   "link": "https://decrypt.co/378190/strive-bitcoin-25000-btc-after-buy"
-  },
-  {
-   "title": "Banks Want More: Trade Groups Demand Stricter Stablecoin Limits in Clarity Act",
-   "pub": "Mon, 14 Sep 2026 21:46:04 +0000",
-   "link": "https://decrypt.co/378181/banks-senate-clarity-act-stablecoin-rules-key-vote"
-  },
-  {
-   "title": "OpenAI\u2019s Sam Altman Warns Humans Could Lose Control of AI",
-   "pub": "Mon, 14 Sep 2026 21:16:04 +0000",
-   "link": "https://decrypt.co/378179/openai-sam-altman-humans-lose-control-ai"
   }
  ],
  "cryptonews": [
+  {
+   "title": "BIS paper finds major gap in Bitcoin onchain transfer estimates",
+   "pub": "Tue, 15 Sep 2026 21:23:00 +0000",
+   "link": "https://cointelegraph.com/news/bis-paper-finds-major-gap-in-bitcoin-onchain-transfer-estimates?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+  },
   {
    "title": "Balancer eyes wind-down after restructuring fails to revive revenue",
    "pub": "Tue, 15 Sep 2026 03:33:23 +0000",
@@ -178,11 +183,6 @@
    "title": "Harmony plans rollback, wiping 109,000 transactions after ONE exploit",
    "pub": "Mon, 17 Aug 2026 12:31:36 +0000",
    "link": "https://cointelegraph.com/news/harmony-plans-rollback-transactions-one-exploit?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Bitcoin could bottom in October, altcoins are \u2018basically dead,\u2019 Swan CEO says",
-   "pub": "Sat, 15 Aug 2026 12:57:58 +0000",
-   "link": "https://cointelegraph.com/markets/bitcoin-bottom-october-altcoins-basically-dead-swan-ceo?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
   }
  ]
 }

@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-09-15T18:29:01+00:00",
+ "generated_at": "2026-09-16T00:34:01+00:00",
  "narratives": [
   {
    "narrative": "Meme & Speculation",
-   "score": 150.6,
+   "score": 152.7,
    "confidence": "High",
    "evidence": {
-    "github_repos": 14,
-    "github_top_velocity": 106.46,
+    "github_repos": 15,
+    "github_top_velocity": 106.09,
     "headline_hits": 2,
     "sample_headlines": [
      "Fomo overtakes Pump.fun in daily revenue on Solana",
      "Fomo overtakes Pump.fun in daily revenue on Solana"
     ],
-    "market_avg_7d_pct": -14.08,
+    "market_avg_7d_pct": -15.3,
     "sources_confirming": 3
    },
    "member_repos": [
@@ -34,28 +34,28 @@
     },
     {
      "full_name": "PillCrew/claimchain",
-     "stars_per_day": 3.83,
+     "stars_per_day": 3.54,
      "url": "https://github.com/PillCrew/claimchain"
     },
     {
      "full_name": "PillCrew/PillCrew",
-     "stars_per_day": 2.12,
+     "stars_per_day": 2.04,
      "url": "https://github.com/PillCrew/PillCrew"
     }
    ]
   },
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 64.9,
+   "score": 56.5,
    "confidence": "High",
    "evidence": {
     "github_repos": 51,
-    "github_top_velocity": 24.86,
-    "headline_hits": 5,
+    "github_top_velocity": 24.49,
+    "headline_hits": 4,
     "sample_headlines": [
-     "Solana Treasury Firm DeFi Dev Corp Rolls Out $300M CHAD to Buy More SOL",
      "Kraken brings DeFi yield to tokenized stocks and ETFs",
-     "Sui DeFi protocol Full Sail to wind down after Switchboard incident"
+     "Sui DeFi protocol Full Sail to wind down after Switchboard incident",
+     "Term Finance loses estimated $8.5M in vault governance exploit"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -73,7 +73,7 @@
     },
     {
      "full_name": "PillCrew/claimchain",
-     "stars_per_day": 3.83,
+     "stars_per_day": 3.54,
      "url": "https://github.com/PillCrew/claimchain"
     },
     {
@@ -83,51 +83,8 @@
     },
     {
      "full_name": "PillCrew/PillCrew",
-     "stars_per_day": 2.12,
+     "stars_per_day": 2.04,
      "url": "https://github.com/PillCrew/PillCrew"
-    }
-   ]
-  },
-  {
-   "narrative": "AI Agents on Solana",
-   "score": 25.6,
-   "confidence": "High",
-   "evidence": {
-    "github_repos": 20,
-    "github_top_velocity": 9.55,
-    "headline_hits": 2,
-    "sample_headlines": [
-     "Why an AI Slowdown Could Collapse Under Commercial and US-China Pressure",
-     "OpenAI\u2019s Sam Altman Warns Humans Could Lose Control of AI"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 2
-   },
-   "member_repos": [
-    {
-     "full_name": "PillCrew/claimchain",
-     "stars_per_day": 3.83,
-     "url": "https://github.com/PillCrew/claimchain"
-    },
-    {
-     "full_name": "PillCrew/PillCrew",
-     "stars_per_day": 2.12,
-     "url": "https://github.com/PillCrew/PillCrew"
-    },
-    {
-     "full_name": "SohniSwatantra/nosana-mcp",
-     "stars_per_day": 1.3,
-     "url": "https://github.com/SohniSwatantra/nosana-mcp"
-    },
-    {
-     "full_name": "kaiserern/Kaiser.charon",
-     "stars_per_day": 1.11,
-     "url": "https://github.com/kaiserern/Kaiser.charon"
-    },
-    {
-     "full_name": "o-mid/guardrail-agent",
-     "stars_per_day": 0.29,
-     "url": "https://github.com/o-mid/guardrail-agent"
     }
    ]
   },
@@ -167,11 +124,11 @@
   },
   {
    "narrative": "Wallets & UX",
-   "score": 20.2,
+   "score": 20.1,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 20,
-    "github_top_velocity": 20.2,
+    "github_repos": 21,
+    "github_top_velocity": 20.09,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -195,7 +152,7 @@
     },
     {
      "full_name": "nathanliow/trickshot",
-     "stars_per_day": 2.41,
+     "stars_per_day": 2.3,
      "url": "https://github.com/nathanliow/trickshot"
     },
     {
@@ -206,12 +163,54 @@
    ]
   },
   {
-   "narrative": "Dev Tooling & Infra",
-   "score": 9.5,
+   "narrative": "AI Agents on Solana",
+   "score": 17.2,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 43,
-    "github_top_velocity": 9.47,
+    "github_repos": 21,
+    "github_top_velocity": 9.18,
+    "headline_hits": 1,
+    "sample_headlines": [
+     "OpenAI's Brockman Says Safety Concerns Have Already Slowed Its Most Advanced AI Work"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "PillCrew/claimchain",
+     "stars_per_day": 3.54,
+     "url": "https://github.com/PillCrew/claimchain"
+    },
+    {
+     "full_name": "PillCrew/PillCrew",
+     "stars_per_day": 2.04,
+     "url": "https://github.com/PillCrew/PillCrew"
+    },
+    {
+     "full_name": "SohniSwatantra/nosana-mcp",
+     "stars_per_day": 1.3,
+     "url": "https://github.com/SohniSwatantra/nosana-mcp"
+    },
+    {
+     "full_name": "kaiserern/Kaiser.charon",
+     "stars_per_day": 1.11,
+     "url": "https://github.com/kaiserern/Kaiser.charon"
+    },
+    {
+     "full_name": "o-mid/guardrail-agent",
+     "stars_per_day": 0.29,
+     "url": "https://github.com/o-mid/guardrail-agent"
+    }
+   ]
+  },
+  {
+   "narrative": "Dev Tooling & Infra",
+   "score": 9.4,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 42,
+    "github_top_velocity": 9.41,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -242,48 +241,6 @@
      "full_name": "fluxrpc/solana-go",
      "stars_per_day": 0.26,
      "url": "https://github.com/fluxrpc/solana-go"
-    }
-   ]
-  },
-  {
-   "narrative": "Payments & Stablecoins",
-   "score": 8.5,
-   "confidence": "Low",
-   "evidence": {
-    "github_repos": 6,
-    "github_top_velocity": 0.48,
-    "headline_hits": 1,
-    "sample_headlines": [
-     "Banks Want More: Trade Groups Demand Stricter Stablecoin Limits in Clarity Act"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 0
-   },
-   "member_repos": [
-    {
-     "full_name": "nirholas/onchain-agent-wallets",
-     "stars_per_day": 0.19,
-     "url": "https://github.com/nirholas/onchain-agent-wallets"
-    },
-    {
-     "full_name": "neogeeks/tx402",
-     "stars_per_day": 0.14,
-     "url": "https://github.com/neogeeks/tx402"
-    },
-    {
-     "full_name": "grokloop/grokchain-programs",
-     "stars_per_day": 0.06,
-     "url": "https://github.com/grokloop/grokchain-programs"
-    },
-    {
-     "full_name": "nemorixgroup/Solana-Knowledge-Base",
-     "stars_per_day": 0.05,
-     "url": "https://github.com/nemorixgroup/Solana-Knowledge-Base"
-    },
-    {
-     "full_name": "belumume/zeroclaw-solana",
-     "stars_per_day": 0.02,
-     "url": "https://github.com/belumume/zeroclaw-solana"
     }
    ]
   },
@@ -321,11 +278,11 @@
   },
   {
    "narrative": "Consumer & Social",
-   "score": 6.3,
+   "score": 6.4,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 7,
-    "github_top_velocity": 6.35,
+    "github_repos": 8,
+    "github_top_velocity": 6.38,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -381,6 +338,46 @@
      "full_name": "belumume/zeroclaw-solana",
      "stars_per_day": 0.02,
      "url": "https://github.com/belumume/zeroclaw-solana"
+    }
+   ]
+  },
+  {
+   "narrative": "Payments & Stablecoins",
+   "score": 0.5,
+   "confidence": "Low",
+   "evidence": {
+    "github_repos": 7,
+    "github_top_velocity": 0.49,
+    "headline_hits": 0,
+    "sample_headlines": [],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 0
+   },
+   "member_repos": [
+    {
+     "full_name": "nirholas/onchain-agent-wallets",
+     "stars_per_day": 0.19,
+     "url": "https://github.com/nirholas/onchain-agent-wallets"
+    },
+    {
+     "full_name": "neogeeks/tx402",
+     "stars_per_day": 0.14,
+     "url": "https://github.com/neogeeks/tx402"
+    },
+    {
+     "full_name": "grokloop/grokchain-programs",
+     "stars_per_day": 0.05,
+     "url": "https://github.com/grokloop/grokchain-programs"
+    },
+    {
+     "full_name": "nemorixgroup/Solana-Knowledge-Base",
+     "stars_per_day": 0.04,
+     "url": "https://github.com/nemorixgroup/Solana-Knowledge-Base"
+    },
+    {
+     "full_name": "lakshya0101/Nexus-Pay",
+     "stars_per_day": 0.03,
+     "url": "https://github.com/lakshya0101/Nexus-Pay"
     }
    ]
   }

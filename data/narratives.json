@@ -1,25 +1,25 @@
 {
- "generated_at": "2026-09-17T00:34:37+00:00",
+ "generated_at": "2026-09-17T06:34:36+00:00",
  "narratives": [
   {
    "narrative": "Meme & Speculation",
-   "score": 108.1,
+   "score": 105.3,
    "confidence": "High",
    "evidence": {
     "github_repos": 17,
-    "github_top_velocity": 88.61,
+    "github_top_velocity": 89.22,
     "headline_hits": 2,
     "sample_headlines": [
      "Fomo overtakes Pump.fun in daily revenue on Solana",
      "Fomo overtakes Pump.fun in daily revenue on Solana"
     ],
-    "market_avg_7d_pct": -1.74,
+    "market_avg_7d_pct": 0.03,
     "sources_confirming": 2
    },
    "member_repos": [
     {
      "full_name": "nhovongoc0-max/meme-radar",
-     "stars_per_day": 69.8,
+     "stars_per_day": 70.4,
      "url": "https://github.com/nhovongoc0-max/meme-radar"
     },
     {
@@ -39,18 +39,18 @@
     },
     {
      "full_name": "OnlyTerp/papertrench",
-     "stars_per_day": 1.54,
+     "stars_per_day": 1.57,
      "url": "https://github.com/OnlyTerp/papertrench"
     }
    ]
   },
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 52.9,
+   "score": 52.7,
    "confidence": "High",
    "evidence": {
     "github_repos": 49,
-    "github_top_velocity": 20.9,
+    "github_top_velocity": 20.74,
     "headline_hits": 4,
     "sample_headlines": [
      "Kraken brings DeFi yield to tokenized stocks and ETFs",
@@ -83,7 +83,7 @@
     },
     {
      "full_name": "OnlyTerp/papertrench",
-     "stars_per_day": 1.54,
+     "stars_per_day": 1.57,
      "url": "https://github.com/OnlyTerp/papertrench"
     }
    ]
@@ -133,7 +133,7 @@
    "confidence": "High",
    "evidence": {
     "github_repos": 21,
-    "github_top_velocity": 8.11,
+    "github_top_velocity": 8.09,
     "headline_hits": 3,
     "sample_headlines": [
      "OpenAI's Rogue AI Agents Were Probing Hugging Face Two Months Before Hack",
@@ -166,7 +166,7 @@
     },
     {
      "full_name": "kaiserern/Kaiser.charon",
-     "stars_per_day": 1.09,
+     "stars_per_day": 1.07,
      "url": "https://github.com/kaiserern/Kaiser.charon"
     }
    ]
@@ -177,7 +177,7 @@
    "confidence": "Medium",
    "evidence": {
     "github_repos": 19,
-    "github_top_velocity": 19.67,
+    "github_top_velocity": 19.66,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -213,11 +213,11 @@
   },
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 9.3,
+   "score": 9.0,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 40,
-    "github_top_velocity": 9.3,
+    "github_top_velocity": 8.97,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -226,7 +226,7 @@
    "member_repos": [
     {
      "full_name": "nicechunk/game",
-     "stars_per_day": 5.45,
+     "stars_per_day": 5.36,
      "url": "https://github.com/nicechunk/game"
     },
     {
@@ -235,19 +235,19 @@
      "url": "https://github.com/SohniSwatantra/nosana-mcp"
     },
     {
-     "full_name": "Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
-     "stars_per_day": 0.5,
-     "url": "https://github.com/Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor"
-    },
-    {
-     "full_name": "antonkarasbiz/solana-program-examples",
-     "stars_per_day": 0.4,
-     "url": "https://github.com/antonkarasbiz/solana-program-examples"
-    },
-    {
      "full_name": "blueshift-gg/solana-awesome",
      "stars_per_day": 0.39,
      "url": "https://github.com/blueshift-gg/solana-awesome"
+    },
+    {
+     "full_name": "antonkarasbiz/solana-program-examples",
+     "stars_per_day": 0.33,
+     "url": "https://github.com/antonkarasbiz/solana-program-examples"
+    },
+    {
+     "full_name": "Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
+     "stars_per_day": 0.33,
+     "url": "https://github.com/Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor"
     }
    ]
   },
@@ -299,7 +299,7 @@
    "confidence": "Low",
    "evidence": {
     "github_repos": 3,
-    "github_top_velocity": 0.14,
+    "github_top_velocity": 0.13,
     "headline_hits": 1,
     "sample_headlines": [
      "Kraken brings DeFi yield to tokenized stocks and ETFs"
@@ -310,7 +310,7 @@
    "member_repos": [
     {
      "full_name": "keelwright/slipway",
-     "stars_per_day": 0.08,
+     "stars_per_day": 0.07,
      "url": "https://github.com/keelwright/slipway"
     },
     {
@@ -327,11 +327,11 @@
   },
   {
    "narrative": "Consumer & Social",
-   "score": 6.5,
+   "score": 6.4,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 8,
-    "github_top_velocity": 6.53,
+    "github_top_velocity": 6.44,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -340,7 +340,7 @@
    "member_repos": [
     {
      "full_name": "nicechunk/game",
-     "stars_per_day": 5.45,
+     "stars_per_day": 5.36,
      "url": "https://github.com/nicechunk/game"
     },
     {

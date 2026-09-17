@@ -3,10 +3,10 @@
   "full_name": "nhovongoc0-max/meme-radar",
   "url": "https://github.com/nhovongoc0-max/meme-radar",
   "description": "Meme\u96f7\u8fbe\u5f00\u6e90\u7248\uff1a\u672c\u5730\u53ea\u8bfb\u3001\u591a\u94fe Meme \u5019\u9009\u626b\u63cf\u4e0e\u4eba\u5de5\u590d\u6838\u5de5\u5177",
-  "stars": 349,
+  "stars": 352,
   "created": "2026-09-11T12:14:57Z",
   "language": "JavaScript",
-  "stars_per_day": 69.8,
+  "stars_per_day": 70.4,
   "age_days": 5,
   "topics": [
    "bsc",
@@ -22,10 +22,10 @@
   "full_name": "sopersone/CROWBRAIN",
   "url": "https://github.com/sopersone/CROWBRAIN",
   "description": "Experimental market observation terminal for Solana and Robinhood Chain, featuring a crow-inspired interface, rule-based signals, and live engine logs.",
-  "stars": 15,
+  "stars": 25,
   "created": "2026-09-15T15:21:28Z",
   "language": "Python",
-  "stars_per_day": 15.0,
+  "stars_per_day": 25.0,
   "age_days": 1,
   "topics": []
  },
@@ -63,8 +63,8 @@
   "stars": 316,
   "created": "2026-07-20T05:09:52Z",
   "language": "JavaScript",
-  "stars_per_day": 5.45,
-  "age_days": 58,
+  "stars_per_day": 5.36,
+  "age_days": 59,
   "topics": [
    "blockchain-game",
    "chunkjs",
@@ -83,8 +83,8 @@
   "stars": 192,
   "created": "2026-08-06T00:51:16Z",
   "language": "TypeScript",
-  "stars_per_day": 4.68,
-  "age_days": 41,
+  "stars_per_day": 4.57,
+  "age_days": 42,
   "topics": []
  },
  {
@@ -148,6 +148,26 @@
   ]
  },
  {
+  "full_name": "OnlyTerp/papertrench",
+  "url": "https://github.com/OnlyTerp/papertrench",
+  "description": "Paper-trade Solana memecoins on the sites you already use. Real prices, fake money, and a record you can actually learn from.",
+  "stars": 72,
+  "created": "2026-08-01T12:30:52Z",
+  "language": "JavaScript",
+  "stars_per_day": 1.57,
+  "age_days": 46,
+  "topics": [
+   "chrome-extension",
+   "defi",
+   "manifest-v3",
+   "memecoin",
+   "paper-trading",
+   "solana",
+   "trading",
+   "trading-journal"
+  ]
+ },
+ {
   "full_name": "Arnost1987/Crypto-Checker",
   "url": "https://github.com/Arnost1987/Crypto-Checker",
   "description": "Python-based crypto wallet analysis tool with multi-threaded address and seed phrase checking (up to 50 threads). Supports Bitcoin, Ethereum, Solana, BNB Chain, Polygon, and EVM networks. Includes pro",
@@ -165,26 +185,6 @@
    "check-crypto-balance",
    "checker",
    "checker-crypto"
-  ]
- },
- {
-  "full_name": "OnlyTerp/papertrench",
-  "url": "https://github.com/OnlyTerp/papertrench",
-  "description": "Paper-trade Solana memecoins on the sites you already use. Real prices, fake money, and a record you can actually learn from.",
-  "stars": 71,
-  "created": "2026-08-01T12:30:52Z",
-  "language": "JavaScript",
-  "stars_per_day": 1.54,
-  "age_days": 46,
-  "topics": [
-   "chrome-extension",
-   "defi",
-   "manifest-v3",
-   "memecoin",
-   "paper-trading",
-   "solana",
-   "trading",
-   "trading-journal"
   ]
  },
  {
@@ -265,8 +265,8 @@
   "stars": 61,
   "created": "2026-07-22T04:16:58Z",
   "language": "JavaScript",
-  "stars_per_day": 1.09,
-  "age_days": 56,
+  "stars_per_day": 1.07,
+  "age_days": 57,
   "topics": []
  },
  {
@@ -300,17 +300,6 @@
   ]
  },
  {
-  "full_name": "Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
-  "url": "https://github.com/Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
-  "description": "",
-  "stars": 1,
-  "created": "2026-09-14T01:47:19Z",
-  "language": "Rust",
-  "stars_per_day": 0.5,
-  "age_days": 2,
-  "topics": []
- },
- {
   "full_name": "ZeroHackz/cyberleek-viewer",
   "url": "https://github.com/ZeroHackz/cyberleek-viewer",
   "description": "CyberleekViewer - Solana on-chain viewer for CYBERLEEK site data (no browser needed)",
@@ -331,14 +320,25 @@
   ]
  },
  {
+  "full_name": "blueshift-gg/solana-awesome",
+  "url": "https://github.com/blueshift-gg/solana-awesome",
+  "description": "An awesome collective of major Solana libraries \u2014 core sdk, programs, interfaces, clients, crypto etc",
+  "stars": 9,
+  "created": "2026-08-24T12:22:27Z",
+  "language": "Rust",
+  "stars_per_day": 0.39,
+  "age_days": 23,
+  "topics": []
+ },
+ {
   "full_name": "antonkarasbiz/solana-program-examples",
   "url": "https://github.com/antonkarasbiz/solana-program-examples",
   "description": "Solana program examples in Anchor, Pinocchio, and native Rust for on-chain engineers.",
   "stars": 2,
   "created": "2026-09-11T05:58:51Z",
   "language": "TypeScript",
-  "stars_per_day": 0.4,
-  "age_days": 5,
+  "stars_per_day": 0.33,
+  "age_days": 6,
   "topics": [
    "anchor",
    "blockchain",
@@ -349,17 +349,6 @@
    "solana",
    "web3"
   ]
- },
- {
-  "full_name": "blueshift-gg/solana-awesome",
-  "url": "https://github.com/blueshift-gg/solana-awesome",
-  "description": "An awesome collective of major Solana libraries \u2014 core sdk, programs, interfaces, clients, crypto etc",
-  "stars": 9,
-  "created": "2026-08-24T12:22:27Z",
-  "language": "Rust",
-  "stars_per_day": 0.39,
-  "age_days": 23,
-  "topics": []
  },
  {
   "full_name": "ChiefWoods/yield-tranche-market",
@@ -384,6 +373,17 @@
   "language": "TypeScript",
   "stars_per_day": 0.33,
   "age_days": 9,
+  "topics": []
+ },
+ {
+  "full_name": "Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
+  "url": "https://github.com/Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
+  "description": "",
+  "stars": 1,
+  "created": "2026-09-14T01:47:19Z",
+  "language": "Rust",
+  "stars_per_day": 0.33,
+  "age_days": 3,
   "topics": []
  },
  {
@@ -435,8 +435,8 @@
   "stars": 10,
   "created": "2026-08-10T03:26:44Z",
   "language": "Rust",
-  "stars_per_day": 0.27,
-  "age_days": 37,
+  "stars_per_day": 0.26,
+  "age_days": 38,
   "topics": [
    "defi",
    "magicblock",
@@ -482,7 +482,7 @@
   "created": "2026-08-08T02:49:21Z",
   "language": "HTML",
   "stars_per_day": 0.23,
-  "age_days": 39,
+  "age_days": 40,
   "topics": [
    "arbitrage",
    "blockchain",
@@ -751,31 +751,11 @@
   "stars": 1,
   "created": "2026-09-05T06:17:30Z",
   "language": "Rust",
-  "stars_per_day": 0.09,
-  "age_days": 11,
+  "stars_per_day": 0.08,
+  "age_days": 12,
   "topics": [
    "quasar",
    "solana"
-  ]
- },
- {
-  "full_name": "keelwright/slipway",
-  "url": "https://github.com/keelwright/slipway",
-  "description": "A scaffold for on-chain utility projects on Solana \u2014 program, launch, site, indexer, deploy, and every trap already mapped.",
-  "stars": 2,
-  "created": "2026-08-21T06:17:43Z",
-  "language": "JavaScript",
-  "stars_per_day": 0.08,
-  "age_days": 26,
-  "topics": [
-   "agents",
-   "ai-agents",
-   "anchor",
-   "boilerplate",
-   "bonding-curve",
-   "cloudflare-workers",
-   "defi",
-   "meteora"
   ]
  },
  {
@@ -826,7 +806,7 @@
   "created": "2026-09-04T06:32:44Z",
   "language": null,
   "stars_per_day": 0.08,
-  "age_days": 12,
+  "age_days": 13,
   "topics": []
  },
  {
@@ -839,6 +819,26 @@
   "stars_per_day": 0.07,
   "age_days": 28,
   "topics": []
+ },
+ {
+  "full_name": "keelwright/slipway",
+  "url": "https://github.com/keelwright/slipway",
+  "description": "A scaffold for on-chain utility projects on Solana \u2014 program, launch, site, indexer, deploy, and every trap already mapped.",
+  "stars": 2,
+  "created": "2026-08-21T06:17:43Z",
+  "language": "JavaScript",
+  "stars_per_day": 0.07,
+  "age_days": 27,
+  "topics": [
+   "agents",
+   "ai-agents",
+   "anchor",
+   "boilerplate",
+   "bonding-curve",
+   "cloudflare-workers",
+   "defi",
+   "meteora"
+  ]
  },
  {
   "full_name": "Smurfetc/solana-memecoin-calls-dataset",
@@ -1009,7 +1009,7 @@
   "created": "2026-08-27T03:53:37Z",
   "language": "Rust",
   "stars_per_day": 0.05,
-  "age_days": 20,
+  "age_days": 21,
   "topics": [
    "anchor",
    "solana"
@@ -1094,7 +1094,7 @@
   "created": "2026-07-28T02:15:23Z",
   "language": "Rust",
   "stars_per_day": 0.04,
-  "age_days": 50,
+  "age_days": 51,
   "topics": []
  },
  {
@@ -1147,7 +1147,7 @@
   "created": "2026-08-23T04:02:06Z",
   "language": "TypeScript",
   "stars_per_day": 0.04,
-  "age_days": 24,
+  "age_days": 25,
   "topics": []
  },
  {
@@ -1310,7 +1310,7 @@
   "created": "2026-08-13T01:05:33Z",
   "language": null,
   "stars_per_day": 0.03,
-  "age_days": 34,
+  "age_days": 35,
   "topics": []
  },
  {

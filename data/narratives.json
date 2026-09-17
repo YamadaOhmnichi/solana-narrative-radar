@@ -1,20 +1,20 @@
 {
- "generated_at": "2026-09-16T18:30:50+00:00",
+ "generated_at": "2026-09-17T00:34:37+00:00",
  "narratives": [
   {
    "narrative": "Meme & Speculation",
-   "score": 136.3,
+   "score": 108.1,
    "confidence": "High",
    "evidence": {
     "github_repos": 17,
-    "github_top_velocity": 88.88,
+    "github_top_velocity": 88.61,
     "headline_hits": 2,
     "sample_headlines": [
      "Fomo overtakes Pump.fun in daily revenue on Solana",
      "Fomo overtakes Pump.fun in daily revenue on Solana"
     ],
-    "market_avg_7d_pct": -15.73,
-    "sources_confirming": 3
+    "market_avg_7d_pct": -1.74,
+    "sources_confirming": 2
    },
    "member_repos": [
     {
@@ -34,7 +34,7 @@
     },
     {
      "full_name": "PillCrew/claimchain",
-     "stars_per_day": 2.08,
+     "stars_per_day": 1.93,
      "url": "https://github.com/PillCrew/claimchain"
     },
     {
@@ -46,11 +46,11 @@
   },
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 53.1,
+   "score": 52.9,
    "confidence": "High",
    "evidence": {
     "github_repos": 49,
-    "github_top_velocity": 21.15,
+    "github_top_velocity": 20.9,
     "headline_hits": 4,
     "sample_headlines": [
      "Kraken brings DeFi yield to tokenized stocks and ETFs",
@@ -78,7 +78,7 @@
     },
     {
      "full_name": "PillCrew/claimchain",
-     "stars_per_day": 2.08,
+     "stars_per_day": 1.93,
      "url": "https://github.com/PillCrew/claimchain"
     },
     {
@@ -90,16 +90,16 @@
   },
   {
    "narrative": "Security & Threats",
-   "score": 33.5,
+   "score": 41.4,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 4,
-    "github_top_velocity": 1.5,
-    "headline_hits": 4,
+    "github_top_velocity": 1.43,
+    "headline_hits": 5,
     "sample_headlines": [
+     "OpenAI's Rogue AI Agents Were Probing Hugging Face Two Months Before Hack",
      "Hackers Hijack HBO Max\u2019s Reddit Account to Spread Crypto-Stealing Malware",
-     "More Markets lending reserve drained for $410,000: Blockaid",
-     "Term Finance loses estimated $8.5M in vault governance exploit"
+     "More Markets lending reserve drained for $410,000: Blockaid"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 1
@@ -107,7 +107,7 @@
    "member_repos": [
     {
      "full_name": "andreysuperiorgit/aegis",
-     "stars_per_day": 1.4,
+     "stars_per_day": 1.33,
      "url": "https://github.com/andreysuperiorgit/aegis"
     },
     {
@@ -128,16 +128,58 @@
    ]
   },
   {
+   "narrative": "AI Agents on Solana",
+   "score": 32.1,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 21,
+    "github_top_velocity": 8.11,
+    "headline_hits": 3,
+    "sample_headlines": [
+     "OpenAI's Rogue AI Agents Were Probing Hugging Face Two Months Before Hack",
+     "Zuckerberg Pushes Back on Coordinated AI Slowdown, Says Labs Can Act Alone",
+     "AI Pause Would Help Dominant Firms, Not Safety, Think Tank Warns"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 2
+   },
+   "member_repos": [
+    {
+     "full_name": "PillCrew/claimchain",
+     "stars_per_day": 1.93,
+     "url": "https://github.com/PillCrew/claimchain"
+    },
+    {
+     "full_name": "SohniSwatantra/nosana-mcp",
+     "stars_per_day": 1.45,
+     "url": "https://github.com/SohniSwatantra/nosana-mcp"
+    },
+    {
+     "full_name": "andreysuperiorgit/aegis",
+     "stars_per_day": 1.33,
+     "url": "https://github.com/andreysuperiorgit/aegis"
+    },
+    {
+     "full_name": "PillCrew/PillCrew",
+     "stars_per_day": 1.27,
+     "url": "https://github.com/PillCrew/PillCrew"
+    },
+    {
+     "full_name": "kaiserern/Kaiser.charon",
+     "stars_per_day": 1.09,
+     "url": "https://github.com/kaiserern/Kaiser.charon"
+    }
+   ]
+  },
+  {
    "narrative": "Wallets & UX",
-   "score": 27.8,
+   "score": 19.7,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 19,
-    "github_top_velocity": 19.82,
-    "headline_hits": 1,
-    "sample_headlines": [
-     "Tonkeeper Becomes Keeper as Wallet Adds Bitcoin, Ethereum, and Tron"
-    ],
+    "github_top_velocity": 19.67,
+    "headline_hits": 0,
+    "sample_headlines": [],
     "market_avg_7d_pct": null,
     "sources_confirming": 1
    },
@@ -159,66 +201,23 @@
     },
     {
      "full_name": "nathanliow/trickshot",
-     "stars_per_day": 2.3,
+     "stars_per_day": 2.21,
      "url": "https://github.com/nathanliow/trickshot"
     },
     {
      "full_name": "Arnost1987/Crypto-Checker",
-     "stars_per_day": 1.62,
+     "stars_per_day": 1.57,
      "url": "https://github.com/Arnost1987/Crypto-Checker"
     }
    ]
   },
   {
-   "narrative": "AI Agents on Solana",
-   "score": 24.4,
-   "confidence": "High",
-   "evidence": {
-    "github_repos": 21,
-    "github_top_velocity": 8.39,
-    "headline_hits": 2,
-    "sample_headlines": [
-     "Zuckerberg Pushes Back on Coordinated AI Slowdown, Says Labs Can Act Alone",
-     "AI Pause Would Help Dominant Firms, Not Safety, Think Tank Warns"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 2
-   },
-   "member_repos": [
-    {
-     "full_name": "PillCrew/claimchain",
-     "stars_per_day": 2.08,
-     "url": "https://github.com/PillCrew/claimchain"
-    },
-    {
-     "full_name": "SohniSwatantra/nosana-mcp",
-     "stars_per_day": 1.45,
-     "url": "https://github.com/SohniSwatantra/nosana-mcp"
-    },
-    {
-     "full_name": "andreysuperiorgit/aegis",
-     "stars_per_day": 1.4,
-     "url": "https://github.com/andreysuperiorgit/aegis"
-    },
-    {
-     "full_name": "PillCrew/PillCrew",
-     "stars_per_day": 1.32,
-     "url": "https://github.com/PillCrew/PillCrew"
-    },
-    {
-     "full_name": "kaiserern/Kaiser.charon",
-     "stars_per_day": 1.09,
-     "url": "https://github.com/kaiserern/Kaiser.charon"
-    }
-   ]
-  },
-  {
    "narrative": "Dev Tooling & Infra",
-   "score": 9.5,
+   "score": 9.3,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 40,
-    "github_top_velocity": 9.47,
+    "github_top_velocity": 9.3,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -241,14 +240,14 @@
      "url": "https://github.com/Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor"
     },
     {
-     "full_name": "InstarCage/instar",
-     "stars_per_day": 0.5,
-     "url": "https://github.com/InstarCage/instar"
-    },
-    {
      "full_name": "antonkarasbiz/solana-program-examples",
      "stars_per_day": 0.4,
      "url": "https://github.com/antonkarasbiz/solana-program-examples"
+    },
+    {
+     "full_name": "blueshift-gg/solana-awesome",
+     "stars_per_day": 0.39,
+     "url": "https://github.com/blueshift-gg/solana-awesome"
     }
    ]
   },
@@ -258,7 +257,7 @@
    "confidence": "Low",
    "evidence": {
     "github_repos": 7,
-    "github_top_velocity": 0.37,
+    "github_top_velocity": 0.36,
     "headline_hits": 1,
     "sample_headlines": [
      "Circle Launches Arc Mainnet With BlackRock, DTCC and Visa as Validators"
@@ -269,7 +268,7 @@
    "member_repos": [
     {
      "full_name": "nirholas/onchain-agent-wallets",
-     "stars_per_day": 0.19,
+     "stars_per_day": 0.18,
      "url": "https://github.com/nirholas/onchain-agent-wallets"
     },
     {

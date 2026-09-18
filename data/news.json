@@ -63,6 +63,16 @@
  ],
  "decrypt": [
   {
+   "title": "UAE, Sweden Arrest Seven Over $7.1M Crypto Laundering Ring Linked to Contract Killings",
+   "pub": "Fri, 18 Sep 2026 09:57:33 +0000",
+   "link": "https://decrypt.co/378611/uae-sweden-arrest-seven-over-7-1m-crypto-laundering-ring-linked-to-contract-killings"
+  },
+  {
+   "title": "Treasury Sanctions Crypto Exchange Behind Iran's Bitcoin Tolls on Hormuz Ships",
+   "pub": "Fri, 18 Sep 2026 09:01:55 +0000",
+   "link": "https://decrypt.co/378604/treasury-sanctions-crypto-exchange-behind-irans-bitcoin-tolls-on-hormuz-ships"
+  },
+  {
    "title": "OpenAI Models Are Writing Their Own Jailbreak Instructions\u2014And Sometimes Obeying Them",
    "pub": "Thu, 17 Sep 2026 22:31:03 +0000",
    "link": "https://decrypt.co/378582/openai-models-ai-jailbreak-instructions-obeying"
@@ -111,19 +121,14 @@
    "title": "Bitcoin Bounces as Markets Brace for the Fed\u2019s Next Move",
    "pub": "Thu, 17 Sep 2026 17:01:03 +0000",
    "link": "https://decrypt.co/378506/bitcoin-bounces-wall-street-fed-next-move"
-  },
-  {
-   "title": "Financial Data Giant S&#038;P Global Moves Deeper Into Crypto With OpenZeppelin Deal",
-   "pub": "Thu, 17 Sep 2026 16:33:12 +0000",
-   "link": "https://decrypt.co/378505/sp-global-acquire-crypto-openzeppelin"
-  },
-  {
-   "title": "FCA Targets Three More London Sites Over Unregistered P2P Crypto Trading",
-   "pub": "Thu, 17 Sep 2026 15:21:19 +0000",
-   "link": "https://decrypt.co/378495/fca-targets-three-more-london-sites-over-unregistered-p2p-crypto-trading"
   }
  ],
  "cryptonews": [
+  {
+   "title": "Dragonfly\u2019s Qureshi calls for end to Zcash dev fund after 2028",
+   "pub": "Fri, 18 Sep 2026 11:22:24 +0000",
+   "link": "https://cointelegraph.com/news/dragonflys-qureshi-end-zcash-dev-fund-2028?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+  },
   {
    "title": "BIS paper finds major gap in Bitcoin onchain transfer estimates",
    "pub": "Tue, 15 Sep 2026 21:23:00 +0000",
@@ -178,11 +183,6 @@
    "title": "Centrifuge adds Symbiotic liquidity network across $1.6B in Janus Henderson, NYLIM funds",
    "pub": "Wed, 19 Aug 2026 12:00:00 +0000",
    "link": "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Harmony plans rollback, wiping 109,000 transactions after ONE exploit",
-   "pub": "Mon, 17 Aug 2026 12:31:36 +0000",
-   "link": "https://cointelegraph.com/news/harmony-plans-rollback-transactions-one-exploit?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
   }
  ]
 }

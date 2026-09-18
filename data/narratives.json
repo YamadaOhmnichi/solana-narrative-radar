@@ -1,25 +1,25 @@
 {
- "generated_at": "2026-09-18T00:34:36+00:00",
+ "generated_at": "2026-09-18T06:33:07+00:00",
  "narratives": [
   {
    "narrative": "Meme & Speculation",
-   "score": 99.3,
+   "score": 110.1,
    "confidence": "High",
    "evidence": {
     "github_repos": 17,
-    "github_top_velocity": 77.23,
+    "github_top_velocity": 77.37,
     "headline_hits": 2,
     "sample_headlines": [
      "Fomo overtakes Pump.fun in daily revenue on Solana",
      "Fomo overtakes Pump.fun in daily revenue on Solana"
     ],
-    "market_avg_7d_pct": 3.04,
-    "sources_confirming": 2
+    "market_avg_7d_pct": 8.38,
+    "sources_confirming": 3
    },
    "member_repos": [
     {
      "full_name": "nhovongoc0-max/meme-radar",
-     "stars_per_day": 59.17,
+     "stars_per_day": 59.33,
      "url": "https://github.com/nhovongoc0-max/meme-radar"
     },
     {
@@ -46,11 +46,11 @@
   },
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 60.0,
+   "score": 59.9,
    "confidence": "High",
    "evidence": {
     "github_repos": 48,
-    "github_top_velocity": 20.03,
+    "github_top_velocity": 19.94,
     "headline_hits": 5,
     "sample_headlines": [
      "FCA Targets Three More London Sites Over Unregistered P2P Crypto Trading",
@@ -94,7 +94,7 @@
    "confidence": "High",
    "evidence": {
     "github_repos": 20,
-    "github_top_velocity": 7.65,
+    "github_top_velocity": 7.63,
     "headline_hits": 4,
     "sample_headlines": [
      "Security Experts Want the US and China to Promise Never to Let AI Control Nukes",
@@ -127,7 +127,7 @@
     },
     {
      "full_name": "kaiserern/Kaiser.charon",
-     "stars_per_day": 1.07,
+     "stars_per_day": 1.05,
      "url": "https://github.com/kaiserern/Kaiser.charon"
     }
    ]
@@ -213,11 +213,11 @@
   },
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 9.2,
+   "score": 9.0,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 40,
-    "github_top_velocity": 9.22,
+    "github_top_velocity": 9.01,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -226,7 +226,7 @@
    "member_repos": [
     {
      "full_name": "nicechunk/game",
-     "stars_per_day": 5.36,
+     "stars_per_day": 5.27,
      "url": "https://github.com/nicechunk/game"
     },
     {
@@ -246,7 +246,7 @@
     },
     {
      "full_name": "antonkarasbiz/solana-program-examples",
-     "stars_per_day": 0.33,
+     "stars_per_day": 0.29,
      "url": "https://github.com/antonkarasbiz/solana-program-examples"
     }
    ]
@@ -285,11 +285,11 @@
   },
   {
    "narrative": "Consumer & Social",
-   "score": 6.5,
+   "score": 6.4,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 7,
-    "github_top_velocity": 6.5,
+    "github_top_velocity": 6.41,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -298,7 +298,7 @@
    "member_repos": [
     {
      "full_name": "nicechunk/game",
-     "stars_per_day": 5.36,
+     "stars_per_day": 5.27,
      "url": "https://github.com/nicechunk/game"
     },
     {

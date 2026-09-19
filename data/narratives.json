@@ -1,56 +1,13 @@
 {
- "generated_at": "2026-09-19T06:31:36+00:00",
+ "generated_at": "2026-09-19T12:31:06+00:00",
  "narratives": [
   {
-   "narrative": "Meme & Speculation",
-   "score": 107.4,
-   "confidence": "High",
-   "evidence": {
-    "github_repos": 18,
-    "github_top_velocity": 67.26,
-    "headline_hits": 2,
-    "sample_headlines": [
-     "Fomo overtakes Pump.fun in daily revenue on Solana",
-     "Fomo overtakes Pump.fun in daily revenue on Solana"
-    ],
-    "market_avg_7d_pct": 12.09,
-    "sources_confirming": 3
-   },
-   "member_repos": [
-    {
-     "full_name": "nhovongoc0-max/meme-radar",
-     "stars_per_day": 52.0,
-     "url": "https://github.com/nhovongoc0-max/meme-radar"
-    },
-    {
-     "full_name": "dartkomnitibe/solana-meme-tool",
-     "stars_per_day": 4.19,
-     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
-    },
-    {
-     "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
-     "stars_per_day": 4.17,
-     "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
-    },
-    {
-     "full_name": "PillCrew/claimchain",
-     "stars_per_day": 1.69,
-     "url": "https://github.com/PillCrew/claimchain"
-    },
-    {
-     "full_name": "OnlyTerp/papertrench",
-     "stars_per_day": 1.5,
-     "url": "https://github.com/OnlyTerp/papertrench"
-    }
-   ]
-  },
-  {
    "narrative": "DeFi / Trading Infra",
-   "score": 97.8,
+   "score": 110.1,
    "confidence": "High",
    "evidence": {
     "github_repos": 49,
-    "github_top_velocity": 57.76,
+    "github_top_velocity": 70.12,
     "headline_hits": 5,
     "sample_headlines": [
      "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
@@ -63,23 +20,23 @@
    "member_repos": [
     {
      "full_name": "coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot",
-     "stars_per_day": 33.0,
+     "stars_per_day": 43.33,
      "url": "https://github.com/coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot"
     },
     {
      "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 8.62,
+     "stars_per_day": 10.75,
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
-    },
-    {
-     "full_name": "dartkomnitibe/solana-meme-tool",
-     "stars_per_day": 4.19,
-     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
     },
     {
      "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
      "stars_per_day": 4.17,
      "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
+    },
+    {
+     "full_name": "dartkomnitibe/solana-meme-tool",
+     "stars_per_day": 4.08,
+     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
     },
     {
      "full_name": "tayohya/solprobe",
@@ -90,11 +47,11 @@
   },
   {
    "narrative": "RWA & Tokenization",
-   "score": 87.1,
+   "score": 109.1,
    "confidence": "High",
    "evidence": {
     "github_repos": 5,
-    "github_top_velocity": 71.13,
+    "github_top_velocity": 93.12,
     "headline_hits": 2,
     "sample_headlines": [
      "Morning Minute: SEC Approves \u2018Innovation Exemption\u2019 Moving Tokenized Stocks Forward",
@@ -106,12 +63,12 @@
    "member_repos": [
     {
      "full_name": "coolbbcamp/Synthetic-Liquidity-Depth-Scanner",
-     "stars_per_day": 38.0,
+     "stars_per_day": 49.67,
      "url": "https://github.com/coolbbcamp/Synthetic-Liquidity-Depth-Scanner"
     },
     {
      "full_name": "coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot",
-     "stars_per_day": 33.0,
+     "stars_per_day": 43.33,
      "url": "https://github.com/coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot"
     },
     {
@@ -121,7 +78,7 @@
     },
     {
      "full_name": "thesithunyein/equxi",
-     "stars_per_day": 0.04,
+     "stars_per_day": 0.03,
      "url": "https://github.com/thesithunyein/equxi"
     },
     {
@@ -132,12 +89,55 @@
    ]
   },
   {
+   "narrative": "Meme & Speculation",
+   "score": 99.9,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 18,
+    "github_top_velocity": 60.66,
+    "headline_hits": 2,
+    "sample_headlines": [
+     "Fomo overtakes Pump.fun in daily revenue on Solana",
+     "Fomo overtakes Pump.fun in daily revenue on Solana"
+    ],
+    "market_avg_7d_pct": 11.6,
+    "sources_confirming": 3
+   },
+   "member_repos": [
+    {
+     "full_name": "nhovongoc0-max/meme-radar",
+     "stars_per_day": 45.5,
+     "url": "https://github.com/nhovongoc0-max/meme-radar"
+    },
+    {
+     "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
+     "stars_per_day": 4.17,
+     "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
+    },
+    {
+     "full_name": "dartkomnitibe/solana-meme-tool",
+     "stars_per_day": 4.08,
+     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
+    },
+    {
+     "full_name": "PillCrew/claimchain",
+     "stars_per_day": 1.69,
+     "url": "https://github.com/PillCrew/claimchain"
+    },
+    {
+     "full_name": "OnlyTerp/papertrench",
+     "stars_per_day": 1.47,
+     "url": "https://github.com/OnlyTerp/papertrench"
+    }
+   ]
+  },
+  {
    "narrative": "Wallets & UX",
-   "score": 56.3,
+   "score": 68.6,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 19,
-    "github_top_velocity": 56.27,
+    "github_top_velocity": 68.6,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -146,23 +146,23 @@
    "member_repos": [
     {
      "full_name": "coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot",
-     "stars_per_day": 33.0,
+     "stars_per_day": 43.33,
      "url": "https://github.com/coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot"
     },
     {
      "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 8.62,
+     "stars_per_day": 10.75,
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
-    },
-    {
-     "full_name": "dartkomnitibe/solana-meme-tool",
-     "stars_per_day": 4.19,
-     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
     },
     {
      "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
      "stars_per_day": 4.17,
      "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
+    },
+    {
+     "full_name": "dartkomnitibe/solana-meme-tool",
+     "stars_per_day": 4.08,
+     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
     },
     {
      "full_name": "ascenx/safe_wallet",
@@ -173,11 +173,11 @@
   },
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 45.0,
+   "score": 57.4,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 42,
-    "github_top_velocity": 45.05,
+    "github_top_velocity": 57.44,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -186,38 +186,38 @@
    "member_repos": [
     {
      "full_name": "coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot",
-     "stars_per_day": 33.0,
+     "stars_per_day": 43.33,
      "url": "https://github.com/coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot"
     },
     {
      "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 8.62,
+     "stars_per_day": 10.75,
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
     },
     {
      "full_name": "SohniSwatantra/nosana-mcp",
-     "stars_per_day": 1.38,
+     "stars_per_day": 1.29,
      "url": "https://github.com/SohniSwatantra/nosana-mcp"
     },
     {
      "full_name": "blueshift-gg/solana-awesome",
-     "stars_per_day": 0.48,
+     "stars_per_day": 0.46,
      "url": "https://github.com/blueshift-gg/solana-awesome"
     },
     {
      "full_name": "swcstudiospace/PumpGrok",
-     "stars_per_day": 0.35,
+     "stars_per_day": 0.39,
      "url": "https://github.com/swcstudiospace/PumpGrok"
     }
    ]
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 23.5,
+   "score": 23.4,
    "confidence": "High",
    "evidence": {
     "github_repos": 21,
-    "github_top_velocity": 7.48,
+    "github_top_velocity": 7.41,
     "headline_hits": 2,
     "sample_headlines": [
      "Microsoft Staff Asked If AI Scraping Was 'Largest Theft of Labor in Human History'",
@@ -234,7 +234,7 @@
     },
     {
      "full_name": "SohniSwatantra/nosana-mcp",
-     "stars_per_day": 1.38,
+     "stars_per_day": 1.29,
      "url": "https://github.com/SohniSwatantra/nosana-mcp"
     },
     {
@@ -260,7 +260,7 @@
    "confidence": "Medium",
    "evidence": {
     "github_repos": 4,
-    "github_top_velocity": 1.09,
+    "github_top_velocity": 1.08,
     "headline_hits": 2,
     "sample_headlines": [
      "More Markets lending reserve drained for $410,000: Blockaid",
@@ -277,7 +277,7 @@
     },
     {
      "full_name": "hypnogaba/solana-signal-trader",
-     "stars_per_day": 0.05,
+     "stars_per_day": 0.04,
      "url": "https://github.com/hypnogaba/solana-signal-trader"
     },
     {
@@ -294,11 +294,11 @@
   },
   {
    "narrative": "DePIN & Physical Infra",
-   "score": 1.4,
+   "score": 1.3,
    "confidence": "Low",
    "evidence": {
     "github_repos": 2,
-    "github_top_velocity": 1.4,
+    "github_top_velocity": 1.31,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -307,7 +307,7 @@
    "member_repos": [
     {
      "full_name": "SohniSwatantra/nosana-mcp",
-     "stars_per_day": 1.38,
+     "stars_per_day": 1.29,
      "url": "https://github.com/SohniSwatantra/nosana-mcp"
     },
     {
@@ -323,7 +323,7 @@
    "confidence": "Low",
    "evidence": {
     "github_repos": 6,
-    "github_top_velocity": 1.13,
+    "github_top_velocity": 1.1,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -332,7 +332,7 @@
    "member_repos": [
     {
      "full_name": "blueshift-gg/solana-awesome",
-     "stars_per_day": 0.48,
+     "stars_per_day": 0.46,
      "url": "https://github.com/blueshift-gg/solana-awesome"
     },
     {
@@ -342,7 +342,7 @@
     },
     {
      "full_name": "dizcorvus/opencatz-ai",
-     "stars_per_day": 0.21,
+     "stars_per_day": 0.2,
      "url": "https://github.com/dizcorvus/opencatz-ai"
     },
     {

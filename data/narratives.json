@@ -1,25 +1,25 @@
 {
- "generated_at": "2026-09-18T18:29:20+00:00",
+ "generated_at": "2026-09-19T00:33:34+00:00",
  "narratives": [
   {
    "narrative": "Meme & Speculation",
-   "score": 98.9,
+   "score": 114.5,
    "confidence": "High",
    "evidence": {
     "github_repos": 18,
-    "github_top_velocity": 67.23,
+    "github_top_velocity": 67.14,
     "headline_hits": 2,
     "sample_headlines": [
      "Fomo overtakes Pump.fun in daily revenue on Solana",
      "Fomo overtakes Pump.fun in daily revenue on Solana"
     ],
-    "market_avg_7d_pct": 7.81,
+    "market_avg_7d_pct": 15.68,
     "sources_confirming": 3
    },
    "member_repos": [
     {
      "full_name": "nhovongoc0-max/meme-radar",
-     "stars_per_day": 51.71,
+     "stars_per_day": 51.86,
      "url": "https://github.com/nhovongoc0-max/meme-radar"
     },
     {
@@ -34,7 +34,7 @@
     },
     {
      "full_name": "PillCrew/claimchain",
-     "stars_per_day": 1.8,
+     "stars_per_day": 1.69,
      "url": "https://github.com/PillCrew/claimchain"
     },
     {
@@ -46,24 +46,29 @@
   },
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 55.2,
+   "score": 78.8,
    "confidence": "High",
    "evidence": {
-    "github_repos": 50,
-    "github_top_velocity": 23.22,
-    "headline_hits": 4,
+    "github_repos": 49,
+    "github_top_velocity": 38.83,
+    "headline_hits": 5,
     "sample_headlines": [
+     "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
      "Kraken brings DeFi yield to tokenized stocks and ETFs",
-     "Sui DeFi protocol Full Sail to wind down after Switchboard incident",
-     "Term Finance loses estimated $8.5M in vault governance exploit"
+     "Sui DeFi protocol Full Sail to wind down after Switchboard incident"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
    },
    "member_repos": [
     {
+     "full_name": "coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot",
+     "stars_per_day": 15.67,
+     "url": "https://github.com/coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot"
+    },
+    {
      "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 6.38,
+     "stars_per_day": 7.0,
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
     },
     {
@@ -80,151 +85,35 @@
      "full_name": "tayohya/solprobe",
      "stars_per_day": 2.03,
      "url": "https://github.com/tayohya/solprobe"
-    },
-    {
-     "full_name": "PillCrew/claimchain",
-     "stars_per_day": 1.8,
-     "url": "https://github.com/PillCrew/claimchain"
-    }
-   ]
-  },
-  {
-   "narrative": "AI Agents on Solana",
-   "score": 23.7,
-   "confidence": "High",
-   "evidence": {
-    "github_repos": 21,
-    "github_top_velocity": 7.74,
-    "headline_hits": 2,
-    "sample_headlines": [
-     "Microsoft Staff Asked If AI Scraping Was 'Largest Theft of Labor in Human History'",
-     "Security Experts Want the US and China to Promise Never to Let AI Control Nukes"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 2
-   },
-   "member_repos": [
-    {
-     "full_name": "PillCrew/claimchain",
-     "stars_per_day": 1.8,
-     "url": "https://github.com/PillCrew/claimchain"
-    },
-    {
-     "full_name": "SohniSwatantra/nosana-mcp",
-     "stars_per_day": 1.38,
-     "url": "https://github.com/SohniSwatantra/nosana-mcp"
-    },
-    {
-     "full_name": "PillCrew/PillCrew",
-     "stars_per_day": 1.22,
-     "url": "https://github.com/PillCrew/PillCrew"
-    },
-    {
-     "full_name": "andreysuperiorgit/aegis",
-     "stars_per_day": 1.14,
-     "url": "https://github.com/andreysuperiorgit/aegis"
-    },
-    {
-     "full_name": "kaiserern/Kaiser.charon",
-     "stars_per_day": 1.05,
-     "url": "https://github.com/kaiserern/Kaiser.charon"
-    }
-   ]
-  },
-  {
-   "narrative": "Wallets & UX",
-   "score": 21.3,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 18,
-    "github_top_velocity": 21.29,
-    "headline_hits": 0,
-    "sample_headlines": [],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 6.38,
-     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
-    },
-    {
-     "full_name": "dartkomnitibe/solana-meme-tool",
-     "stars_per_day": 4.19,
-     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
-    },
-    {
-     "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
-     "stars_per_day": 4.17,
-     "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
-    },
-    {
-     "full_name": "ascenx/safe_wallet",
-     "stars_per_day": 3.09,
-     "url": "https://github.com/ascenx/safe_wallet"
-    },
-    {
-     "full_name": "nathanliow/trickshot",
-     "stars_per_day": 2.12,
-     "url": "https://github.com/nathanliow/trickshot"
-    }
-   ]
-  },
-  {
-   "narrative": "Security & Threats",
-   "score": 17.2,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 4,
-    "github_top_velocity": 1.23,
-    "headline_hits": 2,
-    "sample_headlines": [
-     "More Markets lending reserve drained for $410,000: Blockaid",
-     "Term Finance loses estimated $8.5M in vault governance exploit"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "andreysuperiorgit/aegis",
-     "stars_per_day": 1.14,
-     "url": "https://github.com/andreysuperiorgit/aegis"
-    },
-    {
-     "full_name": "hypnogaba/solana-signal-trader",
-     "stars_per_day": 0.05,
-     "url": "https://github.com/hypnogaba/solana-signal-trader"
-    },
-    {
-     "full_name": "KarloAldrete/universal-proxy",
-     "stars_per_day": 0.02,
-     "url": "https://github.com/KarloAldrete/universal-proxy"
-    },
-    {
-     "full_name": "leafwithered/clawledger",
-     "stars_per_day": 0.02,
-     "url": "https://github.com/leafwithered/clawledger"
     }
    ]
   },
   {
    "narrative": "RWA & Tokenization",
-   "score": 16.1,
-   "confidence": "Medium",
+   "score": 49.8,
+   "confidence": "High",
    "evidence": {
-    "github_repos": 3,
-    "github_top_velocity": 0.13,
+    "github_repos": 5,
+    "github_top_velocity": 33.8,
     "headline_hits": 2,
     "sample_headlines": [
      "Morning Minute: SEC Approves \u2018Innovation Exemption\u2019 Moving Tokenized Stocks Forward",
      "Kraken brings DeFi yield to tokenized stocks and ETFs"
     ],
     "market_avg_7d_pct": null,
-    "sources_confirming": 1
+    "sources_confirming": 2
    },
    "member_repos": [
+    {
+     "full_name": "coolbbcamp/Synthetic-Liquidity-Depth-Scanner",
+     "stars_per_day": 18.0,
+     "url": "https://github.com/coolbbcamp/Synthetic-Liquidity-Depth-Scanner"
+    },
+    {
+     "full_name": "coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot",
+     "stars_per_day": 15.67,
+     "url": "https://github.com/coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot"
+    },
     {
      "full_name": "keelwright/slipway",
      "stars_per_day": 0.07,
@@ -243,12 +132,12 @@
    ]
   },
   {
-   "narrative": "Dev Tooling & Infra",
-   "score": 15.3,
+   "narrative": "Wallets & UX",
+   "score": 37.3,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 42,
-    "github_top_velocity": 15.26,
+    "github_repos": 19,
+    "github_top_velocity": 37.33,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -256,14 +145,54 @@
    },
    "member_repos": [
     {
+     "full_name": "coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot",
+     "stars_per_day": 15.67,
+     "url": "https://github.com/coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot"
+    },
+    {
      "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 6.38,
+     "stars_per_day": 7.0,
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
     },
     {
-     "full_name": "nicechunk/game",
-     "stars_per_day": 5.25,
-     "url": "https://github.com/nicechunk/game"
+     "full_name": "dartkomnitibe/solana-meme-tool",
+     "stars_per_day": 4.19,
+     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
+    },
+    {
+     "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
+     "stars_per_day": 4.17,
+     "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
+    },
+    {
+     "full_name": "ascenx/safe_wallet",
+     "stars_per_day": 3.09,
+     "url": "https://github.com/ascenx/safe_wallet"
+    }
+   ]
+  },
+  {
+   "narrative": "Dev Tooling & Infra",
+   "score": 26.2,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 42,
+    "github_top_velocity": 26.19,
+    "headline_hits": 0,
+    "sample_headlines": [],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot",
+     "stars_per_day": 15.67,
+     "url": "https://github.com/coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot"
+    },
+    {
+     "full_name": "openarbmev/Openarb-Trade-SDK",
+     "stars_per_day": 7.0,
+     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
     },
     {
      "full_name": "SohniSwatantra/nosana-mcp",
@@ -271,54 +200,95 @@
      "url": "https://github.com/SohniSwatantra/nosana-mcp"
     },
     {
-     "full_name": "nazmiefearmutcu/skinsoll",
-     "stars_per_day": 0.5,
-     "url": "https://github.com/nazmiefearmutcu/skinsoll"
-    },
-    {
      "full_name": "blueshift-gg/solana-awesome",
      "stars_per_day": 0.48,
      "url": "https://github.com/blueshift-gg/solana-awesome"
+    },
+    {
+     "full_name": "swcstudiospace/PumpGrok",
+     "stars_per_day": 0.35,
+     "url": "https://github.com/swcstudiospace/PumpGrok"
     }
    ]
   },
   {
-   "narrative": "Consumer & Social",
-   "score": 6.4,
+   "narrative": "AI Agents on Solana",
+   "score": 23.5,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 21,
+    "github_top_velocity": 7.5,
+    "headline_hits": 2,
+    "sample_headlines": [
+     "Microsoft Staff Asked If AI Scraping Was 'Largest Theft of Labor in Human History'",
+     "Security Experts Want the US and China to Promise Never to Let AI Control Nukes"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 2
+   },
+   "member_repos": [
+    {
+     "full_name": "PillCrew/claimchain",
+     "stars_per_day": 1.69,
+     "url": "https://github.com/PillCrew/claimchain"
+    },
+    {
+     "full_name": "SohniSwatantra/nosana-mcp",
+     "stars_per_day": 1.38,
+     "url": "https://github.com/SohniSwatantra/nosana-mcp"
+    },
+    {
+     "full_name": "PillCrew/PillCrew",
+     "stars_per_day": 1.18,
+     "url": "https://github.com/PillCrew/PillCrew"
+    },
+    {
+     "full_name": "kaiserern/Kaiser.charon",
+     "stars_per_day": 1.05,
+     "url": "https://github.com/kaiserern/Kaiser.charon"
+    },
+    {
+     "full_name": "andreysuperiorgit/aegis",
+     "stars_per_day": 1.0,
+     "url": "https://github.com/andreysuperiorgit/aegis"
+    }
+   ]
+  },
+  {
+   "narrative": "Security & Threats",
+   "score": 17.1,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 7,
-    "github_top_velocity": 6.36,
-    "headline_hits": 0,
-    "sample_headlines": [],
+    "github_repos": 4,
+    "github_top_velocity": 1.09,
+    "headline_hits": 2,
+    "sample_headlines": [
+     "More Markets lending reserve drained for $410,000: Blockaid",
+     "Term Finance loses estimated $8.5M in vault governance exploit"
+    ],
     "market_avg_7d_pct": null,
     "sources_confirming": 1
    },
    "member_repos": [
     {
-     "full_name": "nicechunk/game",
-     "stars_per_day": 5.25,
-     "url": "https://github.com/nicechunk/game"
+     "full_name": "andreysuperiorgit/aegis",
+     "stars_per_day": 1.0,
+     "url": "https://github.com/andreysuperiorgit/aegis"
     },
     {
-     "full_name": "blueshift-gg/solana-awesome",
-     "stars_per_day": 0.48,
-     "url": "https://github.com/blueshift-gg/solana-awesome"
+     "full_name": "hypnogaba/solana-signal-trader",
+     "stars_per_day": 0.05,
+     "url": "https://github.com/hypnogaba/solana-signal-trader"
     },
     {
-     "full_name": "accretion-xyz/awesome-solana-security",
-     "stars_per_day": 0.22,
-     "url": "https://github.com/accretion-xyz/awesome-solana-security"
+     "full_name": "KarloAldrete/universal-proxy",
+     "stars_per_day": 0.02,
+     "url": "https://github.com/KarloAldrete/universal-proxy"
     },
     {
-     "full_name": "dizcorvus/opencatz-ai",
-     "stars_per_day": 0.21,
-     "url": "https://github.com/dizcorvus/opencatz-ai"
-    },
-    {
-     "full_name": "subhdotsol/solana-programs",
-     "stars_per_day": 0.16,
-     "url": "https://github.com/subhdotsol/solana-programs"
+     "full_name": "leafwithered/clawledger",
+     "stars_per_day": 0.02,
+     "url": "https://github.com/leafwithered/clawledger"
     }
    ]
   },
@@ -348,12 +318,52 @@
    ]
   },
   {
+   "narrative": "Consumer & Social",
+   "score": 1.1,
+   "confidence": "Low",
+   "evidence": {
+    "github_repos": 6,
+    "github_top_velocity": 1.13,
+    "headline_hits": 0,
+    "sample_headlines": [],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 0
+   },
+   "member_repos": [
+    {
+     "full_name": "blueshift-gg/solana-awesome",
+     "stars_per_day": 0.48,
+     "url": "https://github.com/blueshift-gg/solana-awesome"
+    },
+    {
+     "full_name": "accretion-xyz/awesome-solana-security",
+     "stars_per_day": 0.24,
+     "url": "https://github.com/accretion-xyz/awesome-solana-security"
+    },
+    {
+     "full_name": "dizcorvus/opencatz-ai",
+     "stars_per_day": 0.21,
+     "url": "https://github.com/dizcorvus/opencatz-ai"
+    },
+    {
+     "full_name": "subhdotsol/solana-programs",
+     "stars_per_day": 0.16,
+     "url": "https://github.com/subhdotsol/solana-programs"
+    },
+    {
+     "full_name": "sapir-pirski/fate-solana-games",
+     "stars_per_day": 0.02,
+     "url": "https://github.com/sapir-pirski/fate-solana-games"
+    }
+   ]
+  },
+  {
    "narrative": "Payments & Stablecoins",
    "score": 0.3,
    "confidence": "Low",
    "evidence": {
-    "github_repos": 6,
-    "github_top_velocity": 0.32,
+    "github_repos": 5,
+    "github_top_velocity": 0.3,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -381,9 +391,9 @@
      "url": "https://github.com/belumume/zeroclaw-solana"
     },
     {
-     "full_name": "casaisdev/casaisdev",
+     "full_name": "blockballr/selo",
      "stars_per_day": 0.02,
-     "url": "https://github.com/casaisdev/casaisdev"
+     "url": "https://github.com/blockballr/selo"
     }
    ]
   }

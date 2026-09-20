@@ -1,12 +1,23 @@
 [
  {
+  "full_name": "coolbbcamp/Synthetic-Liquidity-Depth-Scanner",
+  "url": "https://github.com/coolbbcamp/Synthetic-Liquidity-Depth-Scanner",
+  "description": "Executable cash-exit capacity for Solana tokenized equities and stock-quoted launches \u2014 measured, not estimated.",
+  "stars": 194,
+  "created": "2026-09-15T18:14:12Z",
+  "language": "Python",
+  "stars_per_day": 48.5,
+  "age_days": 4,
+  "topics": []
+ },
+ {
   "full_name": "nhovongoc0-max/meme-radar",
   "url": "https://github.com/nhovongoc0-max/meme-radar",
   "description": "Meme\u96f7\u8fbe\u5f00\u6e90\u7248\uff1a\u672c\u5730\u53ea\u8bfb\u3001\u591a\u94fe Meme \u5019\u9009\u626b\u63cf\u4e0e\u4eba\u5de5\u590d\u6838\u5de5\u5177",
-  "stars": 368,
+  "stars": 370,
   "created": "2026-09-11T12:14:57Z",
   "language": "JavaScript",
-  "stars_per_day": 46.0,
+  "stars_per_day": 46.25,
   "age_days": 8,
   "topics": [
    "bsc",
@@ -19,24 +30,13 @@
   ]
  },
  {
-  "full_name": "coolbbcamp/Synthetic-Liquidity-Depth-Scanner",
-  "url": "https://github.com/coolbbcamp/Synthetic-Liquidity-Depth-Scanner",
-  "description": "Executable cash-exit capacity for Solana tokenized equities and stock-quoted launches \u2014 measured, not estimated.",
-  "stars": 184,
-  "created": "2026-09-15T18:14:12Z",
-  "language": "Python",
-  "stars_per_day": 46.0,
-  "age_days": 4,
-  "topics": []
- },
- {
   "full_name": "coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot",
   "url": "https://github.com/coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot",
   "description": "A production-oriented CLI for generating on-chain trading volume on **StonkFun** LaunchLab bonding curves on **Solana**. The bot coordinates multiple funded wallets through automated buy-and-sell cycl",
-  "stars": 161,
+  "stars": 172,
   "created": "2026-09-15T18:03:49Z",
   "language": "TypeScript",
-  "stars_per_day": 40.25,
+  "stars_per_day": 43.0,
   "age_days": 4,
   "topics": []
  },
@@ -44,10 +44,10 @@
   "full_name": "Subhan-code/oxygen-ui-solana",
   "url": "https://github.com/Subhan-code/oxygen-ui-solana",
   "description": "",
-  "stars": 11,
+  "stars": 10,
   "created": "2026-09-19T11:50:15Z",
   "language": "TypeScript",
-  "stars_per_day": 11.0,
+  "stars_per_day": 10.0,
   "age_days": 1,
   "topics": []
  },
@@ -80,8 +80,8 @@
   "stars": 192,
   "created": "2026-08-06T00:51:16Z",
   "language": "TypeScript",
-  "stars_per_day": 4.36,
-  "age_days": 44,
+  "stars_per_day": 4.27,
+  "age_days": 45,
   "topics": []
  },
  {
@@ -195,10 +195,10 @@
   "full_name": "SohniSwatantra/nosana-mcp",
   "url": "https://github.com/SohniSwatantra/nosana-mcp",
   "description": "Nosana MCP: let AI agents rent GPUs on Nosana and deploy templates such as MiniMax H3 with account credits. MCP server + nosana-deploy CLI.",
-  "stars": 19,
+  "stars": 20,
   "created": "2026-09-05T07:41:05Z",
   "language": "TypeScript",
-  "stars_per_day": 1.36,
+  "stars_per_day": 1.43,
   "age_days": 14,
   "topics": [
    "ai-agents",
@@ -238,8 +238,8 @@
   "stars": 62,
   "created": "2026-07-22T04:16:58Z",
   "language": "JavaScript",
-  "stars_per_day": 1.05,
-  "age_days": 59,
+  "stars_per_day": 1.03,
+  "age_days": 60,
   "topics": []
  },
  {
@@ -353,8 +353,8 @@
   "stars": 3,
   "created": "2026-09-11T05:58:51Z",
   "language": "TypeScript",
-  "stars_per_day": 0.38,
-  "age_days": 8,
+  "stars_per_day": 0.33,
+  "age_days": 9,
   "topics": [
    "anchor",
    "blockchain",
@@ -376,25 +376,6 @@
   "stars_per_day": 0.33,
   "age_days": 3,
   "topics": []
- },
- {
-  "full_name": "GuiBibeau/phoenix-private-prop-mm",
-  "url": "https://github.com/GuiBibeau/phoenix-private-prop-mm",
-  "description": "Experiment: privacy-preserving capital intake (MagicBlock-style PERs) + program-owned market making on Phoenix Perps. Pinocchio vault with PDA trader authority, validated against the real mainnet bina",
-  "stars": 10,
-  "created": "2026-08-10T03:26:44Z",
-  "language": "Rust",
-  "stars_per_day": 0.25,
-  "age_days": 40,
-  "topics": [
-   "defi",
-   "magicblock",
-   "market-making",
-   "phoenix",
-   "pinocchio",
-   "solana",
-   "surfpool"
-  ]
  },
  {
   "full_name": "nazmiefearmutcu/skinsoll",
@@ -428,6 +409,25 @@
   "stars_per_day": 0.24,
   "age_days": 51,
   "topics": []
+ },
+ {
+  "full_name": "GuiBibeau/phoenix-private-prop-mm",
+  "url": "https://github.com/GuiBibeau/phoenix-private-prop-mm",
+  "description": "Experiment: privacy-preserving capital intake (MagicBlock-style PERs) + program-owned market making on Phoenix Perps. Pinocchio vault with PDA trader authority, validated against the real mainnet bina",
+  "stars": 10,
+  "created": "2026-08-10T03:26:44Z",
+  "language": "Rust",
+  "stars_per_day": 0.24,
+  "age_days": 41,
+  "topics": [
+   "defi",
+   "magicblock",
+   "market-making",
+   "phoenix",
+   "pinocchio",
+   "solana",
+   "surfpool"
+  ]
  },
  {
   "full_name": "fluxrpc/solana-go",
@@ -464,7 +464,7 @@
   "created": "2026-08-08T02:49:21Z",
   "language": "HTML",
   "stars_per_day": 0.21,
-  "age_days": 42,
+  "age_days": 43,
   "topics": [
    "arbitrage",
    "blockchain",
@@ -539,17 +539,6 @@
   "topics": []
  },
  {
-  "full_name": "Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
-  "url": "https://github.com/Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
-  "description": "",
-  "stars": 1,
-  "created": "2026-09-14T01:47:19Z",
-  "language": "Rust",
-  "stars_per_day": 0.2,
-  "age_days": 5,
-  "topics": []
- },
- {
   "full_name": "udaysharmadev/Web-3-Free-Resources",
   "url": "https://github.com/udaysharmadev/Web-3-Free-Resources",
   "description": "\ud83c\udf10 32+ Free Web3, Blockchain & Solidity resources with learning roadmaps, mermaid diagrams, and Hindi YouTube tutorials from zero to dApp builder. \u20b90 cost.",
@@ -599,6 +588,17 @@
    "solana",
    "web3"
   ]
+ },
+ {
+  "full_name": "Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
+  "url": "https://github.com/Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
+  "description": "",
+  "stars": 1,
+  "created": "2026-09-14T01:47:19Z",
+  "language": "Rust",
+  "stars_per_day": 0.17,
+  "age_days": 6,
+  "topics": []
  },
  {
   "full_name": "InstarCage/instar",
@@ -796,7 +796,7 @@
   "created": "2026-08-21T06:17:43Z",
   "language": "JavaScript",
   "stars_per_day": 0.07,
-  "age_days": 29,
+  "age_days": 30,
   "topics": [
    "agents",
    "ai-agents",
@@ -816,7 +816,7 @@
   "created": "2026-09-05T06:17:30Z",
   "language": "Rust",
   "stars_per_day": 0.07,
-  "age_days": 14,
+  "age_days": 15,
   "topics": [
    "quasar",
    "solana"
@@ -1062,7 +1062,7 @@
   "created": "2026-07-28T02:15:23Z",
   "language": "Rust",
   "stars_per_day": 0.04,
-  "age_days": 53,
+  "age_days": 54,
   "topics": []
  },
  {
@@ -1104,7 +1104,7 @@
   "created": "2026-08-27T03:53:37Z",
   "language": "Rust",
   "stars_per_day": 0.04,
-  "age_days": 23,
+  "age_days": 24,
   "topics": [
    "anchor",
    "solana"
@@ -1151,7 +1151,7 @@
   "created": "2026-08-23T04:02:06Z",
   "language": "TypeScript",
   "stars_per_day": 0.04,
-  "age_days": 27,
+  "age_days": 28,
   "topics": []
  },
  {
@@ -1263,7 +1263,7 @@
   "created": "2026-08-13T01:05:33Z",
   "language": null,
   "stars_per_day": 0.03,
-  "age_days": 37,
+  "age_days": 38,
   "topics": []
  },
  {

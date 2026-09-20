@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-09-20T00:35:07+00:00",
+ "generated_at": "2026-09-20T06:31:31+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 105.5,
+   "score": 108.3,
    "confidence": "High",
    "evidence": {
     "github_repos": 49,
-    "github_top_velocity": 65.54,
+    "github_top_velocity": 68.27,
     "headline_hits": 5,
     "sample_headlines": [
      "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
@@ -20,7 +20,7 @@
    "member_repos": [
     {
      "full_name": "coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot",
-     "stars_per_day": 40.25,
+     "stars_per_day": 43.0,
      "url": "https://github.com/coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot"
     },
     {
@@ -47,11 +47,11 @@
   },
   {
    "narrative": "RWA & Tokenization",
-   "score": 102.5,
+   "score": 107.8,
    "confidence": "High",
    "evidence": {
     "github_repos": 6,
-    "github_top_velocity": 86.54,
+    "github_top_velocity": 91.79,
     "headline_hits": 2,
     "sample_headlines": [
      "Morning Minute: SEC Approves \u2018Innovation Exemption\u2019 Moving Tokenized Stocks Forward",
@@ -63,12 +63,12 @@
    "member_repos": [
     {
      "full_name": "coolbbcamp/Synthetic-Liquidity-Depth-Scanner",
-     "stars_per_day": 46.0,
+     "stars_per_day": 48.5,
      "url": "https://github.com/coolbbcamp/Synthetic-Liquidity-Depth-Scanner"
     },
     {
      "full_name": "coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot",
-     "stars_per_day": 40.25,
+     "stars_per_day": 43.0,
      "url": "https://github.com/coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot"
     },
     {
@@ -90,23 +90,23 @@
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 92.7,
+   "score": 87.5,
    "confidence": "High",
    "evidence": {
     "github_repos": 18,
-    "github_top_velocity": 60.8,
+    "github_top_velocity": 61.03,
     "headline_hits": 2,
     "sample_headlines": [
      "Fomo overtakes Pump.fun in daily revenue on Solana",
      "Fomo overtakes Pump.fun in daily revenue on Solana"
     ],
-    "market_avg_7d_pct": 7.93,
+    "market_avg_7d_pct": 5.23,
     "sources_confirming": 3
    },
    "member_repos": [
     {
      "full_name": "nhovongoc0-max/meme-radar",
-     "stars_per_day": 46.0,
+     "stars_per_day": 46.25,
      "url": "https://github.com/nhovongoc0-max/meme-radar"
     },
     {
@@ -133,11 +133,11 @@
   },
   {
    "narrative": "Wallets & UX",
-   "score": 64.0,
+   "score": 66.8,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 19,
-    "github_top_velocity": 64.05,
+    "github_top_velocity": 66.79,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -146,7 +146,7 @@
    "member_repos": [
     {
      "full_name": "coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot",
-     "stars_per_day": 40.25,
+     "stars_per_day": 43.0,
      "url": "https://github.com/coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot"
     },
     {
@@ -173,11 +173,11 @@
   },
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 53.4,
+   "score": 56.2,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 43,
-    "github_top_velocity": 53.42,
+    "github_top_velocity": 56.19,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -186,7 +186,7 @@
    "member_repos": [
     {
      "full_name": "coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot",
-     "stars_per_day": 40.25,
+     "stars_per_day": 43.0,
      "url": "https://github.com/coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot"
     },
     {
@@ -196,7 +196,7 @@
     },
     {
      "full_name": "SohniSwatantra/nosana-mcp",
-     "stars_per_day": 1.36,
+     "stars_per_day": 1.43,
      "url": "https://github.com/SohniSwatantra/nosana-mcp"
     },
     {
@@ -251,11 +251,11 @@
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 15.2,
+   "score": 15.3,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 20,
-    "github_top_velocity": 7.23,
+    "github_top_velocity": 7.28,
     "headline_hits": 1,
     "sample_headlines": [
      "Microsoft Staff Asked If AI Scraping Was 'Largest Theft of Labor in Human History'"
@@ -271,7 +271,7 @@
     },
     {
      "full_name": "SohniSwatantra/nosana-mcp",
-     "stars_per_day": 1.36,
+     "stars_per_day": 1.43,
      "url": "https://github.com/SohniSwatantra/nosana-mcp"
     },
     {
@@ -281,7 +281,7 @@
     },
     {
      "full_name": "kaiserern/Kaiser.charon",
-     "stars_per_day": 1.05,
+     "stars_per_day": 1.03,
      "url": "https://github.com/kaiserern/Kaiser.charon"
     },
     {
@@ -297,7 +297,7 @@
    "confidence": "Low",
    "evidence": {
     "github_repos": 2,
-    "github_top_velocity": 1.38,
+    "github_top_velocity": 1.45,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -306,7 +306,7 @@
    "member_repos": [
     {
      "full_name": "SohniSwatantra/nosana-mcp",
-     "stars_per_day": 1.36,
+     "stars_per_day": 1.43,
      "url": "https://github.com/SohniSwatantra/nosana-mcp"
     },
     {

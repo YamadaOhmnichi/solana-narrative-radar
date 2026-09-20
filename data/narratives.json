@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-09-19T18:28:21+00:00",
+ "generated_at": "2026-09-20T00:35:07+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 103.2,
+   "score": 105.5,
    "confidence": "High",
    "evidence": {
     "github_repos": 49,
-    "github_top_velocity": 63.16,
+    "github_top_velocity": 65.54,
     "headline_hits": 5,
     "sample_headlines": [
      "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
@@ -20,7 +20,7 @@
    "member_repos": [
     {
      "full_name": "coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot",
-     "stars_per_day": 37.75,
+     "stars_per_day": 40.25,
      "url": "https://github.com/coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot"
     },
     {
@@ -46,18 +46,61 @@
    ]
   },
   {
+   "narrative": "RWA & Tokenization",
+   "score": 102.5,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 6,
+    "github_top_velocity": 86.54,
+    "headline_hits": 2,
+    "sample_headlines": [
+     "Morning Minute: SEC Approves \u2018Innovation Exemption\u2019 Moving Tokenized Stocks Forward",
+     "Kraken brings DeFi yield to tokenized stocks and ETFs"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 2
+   },
+   "member_repos": [
+    {
+     "full_name": "coolbbcamp/Synthetic-Liquidity-Depth-Scanner",
+     "stars_per_day": 46.0,
+     "url": "https://github.com/coolbbcamp/Synthetic-Liquidity-Depth-Scanner"
+    },
+    {
+     "full_name": "coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot",
+     "stars_per_day": 40.25,
+     "url": "https://github.com/coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot"
+    },
+    {
+     "full_name": "vectorix-cross/CrossYield",
+     "stars_per_day": 0.17,
+     "url": "https://github.com/vectorix-cross/CrossYield"
+    },
+    {
+     "full_name": "keelwright/slipway",
+     "stars_per_day": 0.07,
+     "url": "https://github.com/keelwright/slipway"
+    },
+    {
+     "full_name": "thesithunyein/equxi",
+     "stars_per_day": 0.03,
+     "url": "https://github.com/thesithunyein/equxi"
+    }
+   ]
+  },
+  {
    "narrative": "Meme & Speculation",
-   "score": 102.3,
+   "score": 92.7,
    "confidence": "High",
    "evidence": {
     "github_repos": 18,
-    "github_top_velocity": 61.03,
+    "github_top_velocity": 60.8,
     "headline_hits": 2,
     "sample_headlines": [
      "Fomo overtakes Pump.fun in daily revenue on Solana",
      "Fomo overtakes Pump.fun in daily revenue on Solana"
     ],
-    "market_avg_7d_pct": 12.62,
+    "market_avg_7d_pct": 7.93,
     "sources_confirming": 3
    },
    "member_repos": [
@@ -78,7 +121,7 @@
     },
     {
      "full_name": "PillCrew/claimchain",
-     "stars_per_day": 1.69,
+     "stars_per_day": 1.59,
      "url": "https://github.com/PillCrew/claimchain"
     },
     {
@@ -89,55 +132,12 @@
    ]
   },
   {
-   "narrative": "RWA & Tokenization",
-   "score": 97.6,
-   "confidence": "High",
-   "evidence": {
-    "github_repos": 5,
-    "github_top_velocity": 81.62,
-    "headline_hits": 2,
-    "sample_headlines": [
-     "Morning Minute: SEC Approves \u2018Innovation Exemption\u2019 Moving Tokenized Stocks Forward",
-     "Kraken brings DeFi yield to tokenized stocks and ETFs"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 2
-   },
-   "member_repos": [
-    {
-     "full_name": "coolbbcamp/Synthetic-Liquidity-Depth-Scanner",
-     "stars_per_day": 43.75,
-     "url": "https://github.com/coolbbcamp/Synthetic-Liquidity-Depth-Scanner"
-    },
-    {
-     "full_name": "coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot",
-     "stars_per_day": 37.75,
-     "url": "https://github.com/coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot"
-    },
-    {
-     "full_name": "keelwright/slipway",
-     "stars_per_day": 0.07,
-     "url": "https://github.com/keelwright/slipway"
-    },
-    {
-     "full_name": "thesithunyein/equxi",
-     "stars_per_day": 0.03,
-     "url": "https://github.com/thesithunyein/equxi"
-    },
-    {
-     "full_name": "RedDuckTeam/staking",
-     "stars_per_day": 0.02,
-     "url": "https://github.com/RedDuckTeam/staking"
-    }
-   ]
-  },
-  {
    "narrative": "Wallets & UX",
-   "score": 61.6,
+   "score": 64.0,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 19,
-    "github_top_velocity": 61.62,
+    "github_top_velocity": 64.05,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -146,7 +146,7 @@
    "member_repos": [
     {
      "full_name": "coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot",
-     "stars_per_day": 37.75,
+     "stars_per_day": 40.25,
      "url": "https://github.com/coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot"
     },
     {
@@ -173,11 +173,11 @@
   },
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 51.0,
+   "score": 53.4,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 42,
-    "github_top_velocity": 51.04,
+    "github_repos": 43,
+    "github_top_velocity": 53.42,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -186,7 +186,7 @@
    "member_repos": [
     {
      "full_name": "coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot",
-     "stars_per_day": 37.75,
+     "stars_per_day": 40.25,
      "url": "https://github.com/coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot"
     },
     {
@@ -200,24 +200,24 @@
      "url": "https://github.com/SohniSwatantra/nosana-mcp"
     },
     {
-     "full_name": "tyofthestars11-lab/phi-ledger-cookie-chain",
-     "stars_per_day": 0.5,
-     "url": "https://github.com/tyofthestars11-lab/phi-ledger-cookie-chain"
-    },
-    {
      "full_name": "blueshift-gg/solana-awesome",
      "stars_per_day": 0.46,
      "url": "https://github.com/blueshift-gg/solana-awesome"
+    },
+    {
+     "full_name": "swcstudiospace/PumpGrok",
+     "stars_per_day": 0.38,
+     "url": "https://github.com/swcstudiospace/PumpGrok"
     }
    ]
   },
   {
    "narrative": "Security & Threats",
-   "score": 17.1,
+   "score": 17.0,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 4,
-    "github_top_velocity": 1.08,
+    "github_top_velocity": 0.97,
     "headline_hits": 2,
     "sample_headlines": [
      "More Markets lending reserve drained for $410,000: Blockaid",
@@ -229,7 +229,7 @@
    "member_repos": [
     {
      "full_name": "andreysuperiorgit/aegis",
-     "stars_per_day": 1.0,
+     "stars_per_day": 0.89,
      "url": "https://github.com/andreysuperiorgit/aegis"
     },
     {
@@ -251,11 +251,11 @@
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 15.5,
+   "score": 15.2,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 21,
-    "github_top_velocity": 7.47,
+    "github_repos": 20,
+    "github_top_velocity": 7.23,
     "headline_hits": 1,
     "sample_headlines": [
      "Microsoft Staff Asked If AI Scraping Was 'Largest Theft of Labor in Human History'"
@@ -266,7 +266,7 @@
    "member_repos": [
     {
      "full_name": "PillCrew/claimchain",
-     "stars_per_day": 1.69,
+     "stars_per_day": 1.59,
      "url": "https://github.com/PillCrew/claimchain"
     },
     {
@@ -276,17 +276,17 @@
     },
     {
      "full_name": "PillCrew/PillCrew",
-     "stars_per_day": 1.18,
+     "stars_per_day": 1.14,
      "url": "https://github.com/PillCrew/PillCrew"
     },
     {
      "full_name": "kaiserern/Kaiser.charon",
-     "stars_per_day": 1.03,
+     "stars_per_day": 1.05,
      "url": "https://github.com/kaiserern/Kaiser.charon"
     },
     {
      "full_name": "andreysuperiorgit/aegis",
-     "stars_per_day": 1.0,
+     "stars_per_day": 0.89,
      "url": "https://github.com/andreysuperiorgit/aegis"
     }
    ]
@@ -362,7 +362,7 @@
    "confidence": "Low",
    "evidence": {
     "github_repos": 5,
-    "github_top_velocity": 0.3,
+    "github_top_velocity": 0.28,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -371,18 +371,18 @@
    "member_repos": [
     {
      "full_name": "nirholas/onchain-agent-wallets",
-     "stars_per_day": 0.17,
+     "stars_per_day": 0.16,
      "url": "https://github.com/nirholas/onchain-agent-wallets"
-    },
-    {
-     "full_name": "grokloop/grokchain-programs",
-     "stars_per_day": 0.05,
-     "url": "https://github.com/grokloop/grokchain-programs"
     },
     {
      "full_name": "nemorixgroup/Solana-Knowledge-Base",
      "stars_per_day": 0.04,
      "url": "https://github.com/nemorixgroup/Solana-Knowledge-Base"
+    },
+    {
+     "full_name": "grokloop/grokchain-programs",
+     "stars_per_day": 0.04,
+     "url": "https://github.com/grokloop/grokchain-programs"
     },
     {
      "full_name": "belumume/zeroclaw-solana",

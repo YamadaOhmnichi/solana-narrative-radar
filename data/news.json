@@ -1,6 +1,11 @@
 {
  "cointelegraph": [
   {
+   "title": "Kyle Samani predicts SOL flippening, claims \u2018no one\u2019 uses ETH",
+   "pub": "Mon, 21 Sep 2026 13:30:00 +0000",
+   "link": "https://cointelegraph.com/magazine/kyle-samani-predicts-sol-flippening-claims-no-one-uses-eth?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
+  },
+  {
    "title": "ZetaChain holders approve plan to wind down L1, move ZETA to Solana",
    "pub": "Mon, 21 Sep 2026 07:31:47 +0000",
    "link": "https://cointelegraph.com/news/zetachain-shutdown-zeta-solana-migration?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
@@ -54,14 +59,49 @@
    "title": "Crypto Biz: Bitcoin pumps, Wall Street does the paperwork",
    "pub": "Fri, 28 Aug 2026 14:53:40 +0000",
    "link": "https://cointelegraph.com/news/crypto-biz-bitcoin-rally-crypto-stocks-circle-strategy-solana?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Charles Schwab adds Solana, Avalanche and Chainlink to nascent crypto platform",
-   "pub": "Thu, 27 Aug 2026 16:15:00 +0000",
-   "link": "https://cointelegraph.com/news/charles-schwab-to-add-solana-avalanche-and-chainlink-to-crypto-platform?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
   }
  ],
  "decrypt": [
+  {
+   "title": "Can a Fruit Fly Brain Mine Bitcoin? These Companies Are Testing It",
+   "pub": "Mon, 21 Sep 2026 17:46:02 +0000",
+   "link": "https://decrypt.co/378836/fruit-fly-brain-mine-bitcoin-these-companies-testing"
+  },
+  {
+   "title": "xAI Launches Grok 4.7. It's Bigger, But Late to the AI Frontier Party",
+   "pub": "Mon, 21 Sep 2026 17:16:03 +0000",
+   "link": "https://decrypt.co/378824/xai-launches-grok-4-7"
+  },
+  {
+   "title": "Sony Says You Don't Own the Games You Bought. Crypto Says It Can Fix That",
+   "pub": "Mon, 21 Sep 2026 16:46:03 +0000",
+   "link": "https://decrypt.co/378745/sony-dont-own-games-you-bought-crypto-fix-that"
+  },
+  {
+   "title": "Apple and Google Go Hunting for Crypto Talent, Hint at Stablecoin Push",
+   "pub": "Mon, 21 Sep 2026 16:16:03 +0000",
+   "link": "https://decrypt.co/378811/apple-google-crypto-talent-stablecoin"
+  },
+  {
+   "title": "Bitcoin Is Rallying Again\u2014What Happens Next?",
+   "pub": "Mon, 21 Sep 2026 15:45:35 +0000",
+   "link": "https://decrypt.co/378767/bitcoin-rally-what-happens-next"
+  },
+  {
+   "title": "Tom Lee's Bitmine Adds $74M in Ethereum, Declares a Crypto Bull Market 'Underway'",
+   "pub": "Mon, 21 Sep 2026 15:00:49 +0000",
+   "link": "https://decrypt.co/378754/tom-lee-bitmine-adds-ethereum-crypto-bull-market"
+  },
+  {
+   "title": "Morning Minute: Kevin O\u2019Leary Calls for $1 Million Bitcoin, With an Asterisk",
+   "pub": "Mon, 21 Sep 2026 14:33:03 +0000",
+   "link": "https://decrypt.co/378728/morning-minute-kevin-oleary-calls-for-1-million-bitcoin-with-an-asterisk"
+  },
+  {
+   "title": "Strategy's Bitcoin Pile Nears June Record After $76M Purchase",
+   "pub": "Mon, 21 Sep 2026 12:56:46 +0000",
+   "link": "https://decrypt.co/378737/strategys-bitcoin-pile-nears-june-record-after-76m-purchase"
+  },
   {
    "title": "Bitcoin Tops $85K as $648M in Crypto Shorts Liquidated",
    "pub": "Mon, 21 Sep 2026 12:22:00 +0000",
@@ -81,46 +121,6 @@
    "title": "Why Holding Anything But Bitcoin Has Been a Losing Bet for Two Years",
    "pub": "Sun, 20 Sep 2026 14:01:03 +0000",
    "link": "https://decrypt.co/378695/holding-anything-but-bitcoin-losing-bet"
-  },
-  {
-   "title": "How the Clarity Act's Defeat Handed the SEC and CFTC the Wheel on Crypto",
-   "pub": "Sat, 19 Sep 2026 17:01:03 +0000",
-   "link": "https://decrypt.co/378688/how-clarity-act-defeat-sec-cftc-wheel-crypto"
-  },
-  {
-   "title": "Bitcoin's Sharpest Rally in Two Years Ran Almost Entirely on Short Liquidations",
-   "pub": "Sat, 19 Sep 2026 16:01:03 +0000",
-   "link": "https://decrypt.co/378686/bitcoin-sharpest-rally-two-years-short-liquidations"
-  },
-  {
-   "title": "Grayscale Is Making Its Red-Hot Zcash ETF More Affordable",
-   "pub": "Sat, 19 Sep 2026 15:01:03 +0000",
-   "link": "https://decrypt.co/378675/grayscale-zcash-etf-more-affordable-split"
-  },
-  {
-   "title": "Solana's Heartbeat Quickens: Block Times Fall 17% in Latest Speed Upgrade",
-   "pub": "Sat, 19 Sep 2026 13:01:04 +0000",
-   "link": "https://decrypt.co/378674/solana-heartbeat-quickens-speed-upgrade"
-  },
-  {
-   "title": "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
-   "pub": "Fri, 18 Sep 2026 21:01:30 +0000",
-   "link": "https://decrypt.co/378681/coinbase-single-stock-perps-apple-tesla-nvidia"
-  },
-  {
-   "title": "Zcash Is Running\u2014Devs Want to Make It Faster",
-   "pub": "Fri, 18 Sep 2026 19:16:03 +0000",
-   "link": "https://decrypt.co/378667/zcash-upgrade-make-private-payments-3x-faster"
-  },
-  {
-   "title": "Bitcoin Will Hit $1 Million, Says Kevin O\u2019Leary\u2014But There\u2019s a Quantum Catch",
-   "pub": "Fri, 18 Sep 2026 18:35:54 +0000",
-   "link": "https://decrypt.co/378664/kevin-oleary-bitcoin-1-million-quantum-catch"
-  },
-  {
-   "title": "XRP Surges 6.9% as Bitcoin Rebound Reopens Door to Golden Cross",
-   "pub": "Fri, 18 Sep 2026 16:42:32 +0000",
-   "link": "https://decrypt.co/378641/xrp-surges-bitcoin-rebound-reopens-golden-cross"
   }
  ],
  "cryptonews": [

@@ -1,6 +1,11 @@
 {
  "cointelegraph": [
   {
+   "title": "ZetaChain holders approve plan to wind down L1, move ZETA to Solana",
+   "pub": "Mon, 21 Sep 2026 07:31:47 +0000",
+   "link": "https://cointelegraph.com/news/zetachain-shutdown-zeta-solana-migration?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
+  },
+  {
    "title": "Solana more than triples transaction size limit with mainnet upgrade",
    "pub": "Tue, 15 Sep 2026 08:18:53 +0000",
    "link": "https://cointelegraph.com/news/solana-transaction-size-limit-4096-bytes-upgrade?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
@@ -54,14 +59,19 @@
    "title": "Charles Schwab adds Solana, Avalanche and Chainlink to nascent crypto platform",
    "pub": "Thu, 27 Aug 2026 16:15:00 +0000",
    "link": "https://cointelegraph.com/news/charles-schwab-to-add-solana-avalanche-and-chainlink-to-crypto-platform?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Solana transactions hit record 4.2B as SOL rallies 40%",
-   "pub": "Tue, 25 Aug 2026 18:08:58 +0000",
-   "link": "https://cointelegraph.com/news/solana-record-transactions-rwa-sol-price?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
   }
  ],
  "decrypt": [
+  {
+   "title": "Bitcoin Tops $85K as $648M in Crypto Shorts Liquidated",
+   "pub": "Mon, 21 Sep 2026 12:22:00 +0000",
+   "link": "https://decrypt.co/378729/bitcoin-tops-85k-as-648m-in-crypto-shorts-liquidated"
+  },
+  {
+   "title": "Crypto Worker's Children Held Hostage in Latest French \u2018Wrench Attack,\u2019 $46,000 Taken",
+   "pub": "Mon, 21 Sep 2026 09:51:24 +0000",
+   "link": "https://decrypt.co/378720/crypto-workers-children-held-hostage-in-latest-french-wrench-attack-46000-taken"
+  },
   {
    "title": "Visa Moves to Close Meme Coin Credit Card Rewards Loophole",
    "pub": "Sun, 20 Sep 2026 16:01:03 +0000",
@@ -111,16 +121,6 @@
    "title": "XRP Surges 6.9% as Bitcoin Rebound Reopens Door to Golden Cross",
    "pub": "Fri, 18 Sep 2026 16:42:32 +0000",
    "link": "https://decrypt.co/378641/xrp-surges-bitcoin-rebound-reopens-golden-cross"
-  },
-  {
-   "title": "CFTC Kicks Off Crypto Rulemaking, Bypassing a Stalled Congress",
-   "pub": "Fri, 18 Sep 2026 16:08:13 +0000",
-   "link": "https://decrypt.co/378638/cftc-crypto-rules-white-house-congress-clarity-act"
-  },
-  {
-   "title": "Bitcoin Blasts Past $80K and a Fresh Short Squeeze Is On",
-   "pub": "Fri, 18 Sep 2026 15:22:49 +0000",
-   "link": "https://decrypt.co/378630/bitcoin-blasts-short-squeeze-crypto-liquidations"
   }
  ],
  "cryptonews": [

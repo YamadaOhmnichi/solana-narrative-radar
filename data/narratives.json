@@ -1,20 +1,20 @@
 {
- "generated_at": "2026-09-21T00:35:09+00:00",
+ "generated_at": "2026-09-21T06:35:47+00:00",
  "narratives": [
   {
    "narrative": "Meme & Speculation",
-   "score": 248.4,
+   "score": 246.2,
    "confidence": "High",
    "evidence": {
     "github_repos": 16,
-    "github_top_velocity": 204.33,
+    "github_top_velocity": 206.22,
     "headline_hits": 3,
     "sample_headlines": [
      "Fomo overtakes Pump.fun in daily revenue on Solana",
      "Visa Moves to Close Meme Coin Credit Card Rewards Loophole",
      "Fomo overtakes Pump.fun in daily revenue on Solana"
     ],
-    "market_avg_7d_pct": 10.01,
+    "market_avg_7d_pct": 7.98,
     "sources_confirming": 3
    },
    "member_repos": [
@@ -30,7 +30,7 @@
     },
     {
      "full_name": "nhovongoc0-max/meme-radar",
-     "stars_per_day": 44.22,
+     "stars_per_day": 46.11,
      "url": "https://github.com/nhovongoc0-max/meme-radar"
     },
     {
@@ -47,11 +47,11 @@
   },
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 206.1,
+   "score": 209.9,
    "confidence": "High",
    "evidence": {
     "github_repos": 48,
-    "github_top_velocity": 166.08,
+    "github_top_velocity": 169.88,
     "headline_hits": 5,
     "sample_headlines": [
      "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
@@ -74,7 +74,7 @@
     },
     {
      "full_name": "coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot",
-     "stars_per_day": 41.6,
+     "stars_per_day": 45.4,
      "url": "https://github.com/coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot"
     },
     {
@@ -91,11 +91,11 @@
   },
   {
    "narrative": "RWA & Tokenization",
-   "score": 147.3,
+   "score": 154.5,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 7,
-    "github_top_velocity": 139.26,
+    "github_repos": 6,
+    "github_top_velocity": 146.51,
     "headline_hits": 1,
     "sample_headlines": [
      "Kraken brings DeFi yield to tokenized stocks and ETFs"
@@ -111,33 +111,33 @@
     },
     {
      "full_name": "coolbbcamp/Synthetic-Liquidity-Depth-Scanner",
-     "stars_per_day": 46.4,
+     "stars_per_day": 50.0,
      "url": "https://github.com/coolbbcamp/Synthetic-Liquidity-Depth-Scanner"
     },
     {
      "full_name": "coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot",
-     "stars_per_day": 41.6,
+     "stars_per_day": 45.4,
      "url": "https://github.com/coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot"
     },
     {
-     "full_name": "vectorix-cross/CrossYield",
-     "stars_per_day": 0.14,
-     "url": "https://github.com/vectorix-cross/CrossYield"
+     "full_name": "keelwright/slipway",
+     "stars_per_day": 0.06,
+     "url": "https://github.com/keelwright/slipway"
     },
     {
-     "full_name": "keelwright/slipway",
-     "stars_per_day": 0.07,
-     "url": "https://github.com/keelwright/slipway"
+     "full_name": "thesithunyein/equxi",
+     "stars_per_day": 0.03,
+     "url": "https://github.com/thesithunyein/equxi"
     }
    ]
   },
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 104.2,
+   "score": 107.9,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 43,
-    "github_top_velocity": 104.19,
+    "github_top_velocity": 107.86,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -151,7 +151,7 @@
     },
     {
      "full_name": "coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot",
-     "stars_per_day": 41.6,
+     "stars_per_day": 45.4,
      "url": "https://github.com/coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot"
     },
     {
@@ -173,11 +173,11 @@
   },
   {
    "narrative": "Wallets & UX",
-   "score": 64.1,
+   "score": 67.9,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 19,
-    "github_top_velocity": 64.06,
+    "github_top_velocity": 67.86,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -186,7 +186,7 @@
    "member_repos": [
     {
      "full_name": "coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot",
-     "stars_per_day": 41.6,
+     "stars_per_day": 45.4,
      "url": "https://github.com/coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot"
     },
     {
@@ -292,7 +292,7 @@
    "confidence": "Medium",
    "evidence": {
     "github_repos": 17,
-    "github_top_velocity": 4.96,
+    "github_top_velocity": 4.95,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,

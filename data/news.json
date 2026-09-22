@@ -1,6 +1,11 @@
 {
  "cointelegraph": [
   {
+   "title": "Crypto\u2019s wild boom-and-bust cycles are fading, Solstice CEO says",
+   "pub": "Tue, 22 Sep 2026 08:06:23 +0000",
+   "link": "https://cointelegraph.com/news/crypto-bull-runs-liquidity-solstice-ceo?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
+  },
+  {
    "title": "Kyle Samani predicts SOL flippening, claims \u2018no one\u2019 uses ETH",
    "pub": "Mon, 21 Sep 2026 13:30:00 +0000",
    "link": "https://cointelegraph.com/magazine/kyle-samani-predicts-sol-flippening-claims-no-one-uses-eth?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
@@ -54,14 +59,24 @@
    "title": "Solana validators approve proposal to accelerate SOL disinflation",
    "pub": "Fri, 28 Aug 2026 19:53:12 +0000",
    "link": "https://cointelegraph.com/news/solana-validators-approve-proposal-to-accelerate-sol-disinflation?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Crypto Biz: Bitcoin pumps, Wall Street does the paperwork",
-   "pub": "Fri, 28 Aug 2026 14:53:40 +0000",
-   "link": "https://cointelegraph.com/news/crypto-biz-bitcoin-rally-crypto-stocks-circle-strategy-solana?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
   }
  ],
  "decrypt": [
+  {
+   "title": "Morning Minute: Robinhood CEO Bets Crypto Will Beat Sports at Prediction Markets",
+   "pub": "Tue, 22 Sep 2026 12:15:44 +0000",
+   "link": "https://decrypt.co/378918/morning-minute-robinhood-ceo-bets-crypto-will-beat-sports-at-prediction-markets"
+  },
+  {
+   "title": "Binance Takes $100M Stake in Circle Under Five-Year USDC Promotion Deal",
+   "pub": "Tue, 22 Sep 2026 11:39:37 +0000",
+   "link": "https://decrypt.co/378910/binance-takes-100m-stake-in-circle-under-five-year-usdc-promotion-deal"
+  },
+  {
+   "title": "US Probes Whether Binance 'Knowingly' Let Iran-Linked Trades Through: Report",
+   "pub": "Tue, 22 Sep 2026 09:47:47 +0000",
+   "link": "https://decrypt.co/378902/us-probes-whether-binance-knowingly-let-iran-linked-trades-through-report"
+  },
   {
    "title": "Google Admits Gemini AI Hacked Three Companies\u2014It Stayed Silent for 7 Weeks",
    "pub": "Mon, 21 Sep 2026 22:46:03 +0000",
@@ -106,24 +121,14 @@
    "title": "xAI Launches Grok 4.7. It's Bigger, But Late to the AI Frontier Party",
    "pub": "Mon, 21 Sep 2026 17:16:03 +0000",
    "link": "https://decrypt.co/378824/xai-launches-grok-4-7"
-  },
-  {
-   "title": "Sony Says You Don't Own the Games You Bought. Crypto Says It Can Fix That",
-   "pub": "Mon, 21 Sep 2026 16:46:03 +0000",
-   "link": "https://decrypt.co/378745/sony-dont-own-games-you-bought-crypto-fix-that"
-  },
-  {
-   "title": "Apple and Google Go Hunting for Crypto Talent, Hint at Stablecoin Push",
-   "pub": "Mon, 21 Sep 2026 16:16:03 +0000",
-   "link": "https://decrypt.co/378811/apple-google-crypto-talent-stablecoin"
-  },
-  {
-   "title": "Bitcoin Is Rallying Again\u2014What Happens Next?",
-   "pub": "Mon, 21 Sep 2026 15:45:35 +0000",
-   "link": "https://decrypt.co/378767/bitcoin-rally-what-happens-next"
   }
  ],
  "cryptonews": [
+  {
+   "title": "Crypto\u2019s wild boom-and-bust cycles are fading, Solstice CEO says",
+   "pub": "Tue, 22 Sep 2026 08:06:23 +0000",
+   "link": "https://cointelegraph.com/news/crypto-bull-runs-liquidity-solstice-ceo?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+  },
   {
    "title": "Dragonfly\u2019s Qureshi calls for end to Zcash dev fund after 2028",
    "pub": "Fri, 18 Sep 2026 11:22:24 +0000",
@@ -178,11 +183,6 @@
    "title": "MiCA is coming for DeFi vaults, but regulation will be difficult",
    "pub": "Sat, 22 Aug 2026 13:30:00 +0000",
    "link": "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Centrifuge adds Symbiotic liquidity network across $1.6B in Janus Henderson, NYLIM funds",
-   "pub": "Wed, 19 Aug 2026 12:00:00 +0000",
-   "link": "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
   }
  ]
 }

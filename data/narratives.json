@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-09-22T00:33:58+00:00",
+ "generated_at": "2026-09-22T06:33:26+00:00",
  "narratives": [
   {
    "narrative": "Meme & Speculation",
-   "score": 200.5,
+   "score": 207.7,
    "confidence": "High",
    "evidence": {
     "github_repos": 16,
-    "github_top_velocity": 152.08,
+    "github_top_velocity": 152.32,
     "headline_hits": 2,
     "sample_headlines": [
      "Fomo overtakes Pump.fun in daily revenue on Solana",
      "Fomo overtakes Pump.fun in daily revenue on Solana"
     ],
-    "market_avg_7d_pct": 16.19,
+    "market_avg_7d_pct": 19.71,
     "sources_confirming": 3
    },
    "member_repos": [
@@ -24,7 +24,7 @@
     },
     {
      "full_name": "nhovongoc0-max/meme-radar",
-     "stars_per_day": 42.5,
+     "stars_per_day": 42.7,
      "url": "https://github.com/nhovongoc0-max/meme-radar"
     },
     {
@@ -41,6 +41,50 @@
      "full_name": "PillCrew/claimchain",
      "stars_per_day": 1.42,
      "url": "https://github.com/PillCrew/claimchain"
+    }
+   ]
+  },
+  {
+   "narrative": "DeFi / Trading Infra",
+   "score": 99.0,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 47,
+    "github_top_velocity": 67.01,
+    "headline_hits": 4,
+    "sample_headlines": [
+     "Kraken brings DeFi yield to tokenized stocks and ETFs",
+     "Sui DeFi protocol Full Sail to wind down after Switchboard incident",
+     "Term Finance loses estimated $8.5M in vault governance exploit"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 2
+   },
+   "member_repos": [
+    {
+     "full_name": "coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot",
+     "stars_per_day": 39.17,
+     "url": "https://github.com/coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot"
+    },
+    {
+     "full_name": "openarbmev/Openarb-Trade-SDK",
+     "stars_per_day": 7.82,
+     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
+    },
+    {
+     "full_name": "mangiapanejohn-dev/MOBIUS-Searcher",
+     "stars_per_day": 4.5,
+     "url": "https://github.com/mangiapanejohn-dev/MOBIUS-Searcher"
+    },
+    {
+     "full_name": "dartkomnitibe/solana-meme-tool",
+     "stars_per_day": 3.87,
+     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
+    },
+    {
+     "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
+     "stars_per_day": 3.85,
+     "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
     }
    ]
   },
@@ -88,56 +132,12 @@
    ]
   },
   {
-   "narrative": "DeFi / Trading Infra",
-   "score": 97.2,
-   "confidence": "High",
-   "evidence": {
-    "github_repos": 47,
-    "github_top_velocity": 65.21,
-    "headline_hits": 4,
-    "sample_headlines": [
-     "Kraken brings DeFi yield to tokenized stocks and ETFs",
-     "Sui DeFi protocol Full Sail to wind down after Switchboard incident",
-     "Term Finance loses estimated $8.5M in vault governance exploit"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 2
-   },
-   "member_repos": [
-    {
-     "full_name": "coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot",
-     "stars_per_day": 39.17,
-     "url": "https://github.com/coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot"
-    },
-    {
-     "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 7.82,
-     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
-    },
-    {
-     "full_name": "mangiapanejohn-dev/MOBIUS-Searcher",
-     "stars_per_day": 4.5,
-     "url": "https://github.com/mangiapanejohn-dev/MOBIUS-Searcher"
-    },
-    {
-     "full_name": "dartkomnitibe/solana-meme-tool",
-     "stars_per_day": 3.87,
-     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
-    },
-    {
-     "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
-     "stars_per_day": 3.85,
-     "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
-    }
-   ]
-  },
-  {
    "narrative": "Wallets & UX",
-   "score": 67.6,
+   "score": 89.3,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 20,
-    "github_top_velocity": 67.62,
+    "github_top_velocity": 89.28,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -150,14 +150,14 @@
      "url": "https://github.com/coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot"
     },
     {
+     "full_name": "Kylerkrausemdzyra64/Crypto-Checker",
+     "stars_per_day": 29.0,
+     "url": "https://github.com/Kylerkrausemdzyra64/Crypto-Checker"
+    },
+    {
      "full_name": "openarbmev/Openarb-Trade-SDK",
      "stars_per_day": 7.82,
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
-    },
-    {
-     "full_name": "Kylerkrausemdzyra64/Crypto-Checker",
-     "stars_per_day": 7.33,
-     "url": "https://github.com/Kylerkrausemdzyra64/Crypto-Checker"
     },
     {
      "full_name": "dartkomnitibe/solana-meme-tool",
@@ -173,11 +173,11 @@
   },
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 50.1,
+   "score": 50.0,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 42,
-    "github_top_velocity": 50.06,
+    "github_top_velocity": 50.04,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -213,11 +213,11 @@
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 29.6,
+   "score": 31.5,
    "confidence": "High",
    "evidence": {
-    "github_repos": 18,
-    "github_top_velocity": 5.55,
+    "github_repos": 19,
+    "github_top_velocity": 7.53,
     "headline_hits": 3,
     "sample_headlines": [
      "Google Admits Gemini AI Hacked Three Companies\u2014It Stayed Silent for 7 Weeks",
@@ -228,6 +228,11 @@
     "sources_confirming": 2
    },
    "member_repos": [
+    {
+     "full_name": "ayomidefagboyo/kata",
+     "stars_per_day": 2.0,
+     "url": "https://github.com/ayomidefagboyo/kata"
+    },
     {
      "full_name": "PillCrew/claimchain",
      "stars_per_day": 1.42,
@@ -240,18 +245,13 @@
     },
     {
      "full_name": "PillCrew/PillCrew",
-     "stars_per_day": 1.06,
+     "stars_per_day": 1.1,
      "url": "https://github.com/PillCrew/PillCrew"
     },
     {
      "full_name": "andreysuperiorgit/aegis",
      "stars_per_day": 0.82,
      "url": "https://github.com/andreysuperiorgit/aegis"
-    },
-    {
-     "full_name": "fluxrpc/solana-go",
-     "stars_per_day": 0.23,
-     "url": "https://github.com/fluxrpc/solana-go"
     }
    ]
   },

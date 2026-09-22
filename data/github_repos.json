@@ -31,10 +31,10 @@
   "full_name": "nhovongoc0-max/meme-radar",
   "url": "https://github.com/nhovongoc0-max/meme-radar",
   "description": "Meme\u96f7\u8fbe\u5f00\u6e90\u7248\uff1a\u672c\u5730\u53ea\u8bfb\u3001\u591a\u94fe Meme \u5019\u9009\u626b\u63cf\u4e0e\u4eba\u5de5\u590d\u6838\u5de5\u5177",
-  "stars": 425,
+  "stars": 427,
   "created": "2026-09-11T12:14:57Z",
   "language": "JavaScript",
-  "stars_per_day": 42.5,
+  "stars_per_day": 42.7,
   "age_days": 10,
   "topics": [
    "bsc",
@@ -58,24 +58,13 @@
   "topics": []
  },
  {
-  "full_name": "openarbmev/Openarb-Trade-SDK",
-  "url": "https://github.com/openarbmev/Openarb-Trade-SDK",
-  "description": "Rust SDK for low-latency Solana DEX trading bots",
-  "stars": 86,
-  "created": "2026-09-10T15:55:21Z",
-  "language": "Rust",
-  "stars_per_day": 7.82,
-  "age_days": 11,
-  "topics": []
- },
- {
   "full_name": "Kylerkrausemdzyra64/Crypto-Checker",
   "url": "https://github.com/Kylerkrausemdzyra64/Crypto-Checker",
   "description": "Python-based crypto wallet analysis tool with multi-threaded address and seed phrase checking (up to 50 threads). Supports Bitcoin, Ethereum, Solana, BNB Chain, Polygon, and EVM networks. Includes pro",
-  "stars": 22,
+  "stars": 87,
   "created": "2026-09-18T11:21:11Z",
   "language": "Python",
-  "stars_per_day": 7.33,
+  "stars_per_day": 29.0,
   "age_days": 3,
   "topics": [
    "address-balance-tool",
@@ -87,6 +76,17 @@
    "cryptoanalysis",
    "cryptochecker"
   ]
+ },
+ {
+  "full_name": "openarbmev/Openarb-Trade-SDK",
+  "url": "https://github.com/openarbmev/Openarb-Trade-SDK",
+  "description": "Rust SDK for low-latency Solana DEX trading bots",
+  "stars": 86,
+  "created": "2026-09-10T15:55:21Z",
+  "language": "Rust",
+  "stars_per_day": 7.82,
+  "age_days": 11,
+  "topics": []
  },
  {
   "full_name": "Subhan-code/oxygen-ui-solana",
@@ -137,8 +137,8 @@
   "stars": 192,
   "created": "2026-08-06T00:51:16Z",
   "language": "TypeScript",
-  "stars_per_day": 4.17,
-  "age_days": 46,
+  "stars_per_day": 4.09,
+  "age_days": 47,
   "topics": []
  },
  {
@@ -184,6 +184,26 @@
    "solana",
    "wallet",
    "web3"
+  ]
+ },
+ {
+  "full_name": "ayomidefagboyo/kata",
+  "url": "https://github.com/ayomidefagboyo/kata",
+  "description": "An autonomous perps agent whose trading policy retrains on its own realised outcomes. Live on Hyperliquid, expanding to Drift on Solana.",
+  "stars": 2,
+  "created": "2026-09-20T18:35:16Z",
+  "language": "Python",
+  "stars_per_day": 2.0,
+  "age_days": 1,
+  "topics": [
+   "ai-agent",
+   "defi",
+   "drift-protocol",
+   "hyperliquid",
+   "machine-learning",
+   "perpetuals",
+   "solana",
+   "trading-agent"
   ]
  },
  {
@@ -272,10 +292,10 @@
   "full_name": "PillCrew/PillCrew",
   "url": "https://github.com/PillCrew/PillCrew",
   "description": "Pilly - AI trading copilot for Solana memecoins. Live trending, crew verdicts, charts, price alerts, PnL tracking and a desktop pet that reacts to the market.",
-  "stars": 33,
+  "stars": 34,
   "created": "2026-08-21T21:14:09Z",
   "language": "JavaScript",
-  "stars_per_day": 1.06,
+  "stars_per_day": 1.1,
   "age_days": 31,
   "topics": [
    "ai",
@@ -384,25 +404,6 @@
   "topics": []
  },
  {
-  "full_name": "GuiBibeau/phoenix-private-prop-mm",
-  "url": "https://github.com/GuiBibeau/phoenix-private-prop-mm",
-  "description": "Experiment: privacy-preserving capital intake (MagicBlock-style PERs) + program-owned market making on Phoenix Perps. Pinocchio vault with PDA trader authority, validated against the real mainnet bina",
-  "stars": 10,
-  "created": "2026-08-10T03:26:44Z",
-  "language": "Rust",
-  "stars_per_day": 0.24,
-  "age_days": 42,
-  "topics": [
-   "defi",
-   "magicblock",
-   "market-making",
-   "phoenix",
-   "pinocchio",
-   "solana",
-   "surfpool"
-  ]
- },
- {
   "full_name": "accretion-xyz/awesome-solana-security",
   "url": "https://github.com/accretion-xyz/awesome-solana-security",
   "description": "Collection of Solana security resources",
@@ -412,6 +413,25 @@
   "stars_per_day": 0.23,
   "age_days": 53,
   "topics": []
+ },
+ {
+  "full_name": "GuiBibeau/phoenix-private-prop-mm",
+  "url": "https://github.com/GuiBibeau/phoenix-private-prop-mm",
+  "description": "Experiment: privacy-preserving capital intake (MagicBlock-style PERs) + program-owned market making on Phoenix Perps. Pinocchio vault with PDA trader authority, validated against the real mainnet bina",
+  "stars": 10,
+  "created": "2026-08-10T03:26:44Z",
+  "language": "Rust",
+  "stars_per_day": 0.23,
+  "age_days": 43,
+  "topics": [
+   "defi",
+   "magicblock",
+   "market-making",
+   "phoenix",
+   "pinocchio",
+   "solana",
+   "surfpool"
+  ]
  },
  {
   "full_name": "fluxrpc/solana-go",
@@ -472,26 +492,6 @@
   ]
  },
  {
-  "full_name": "antonkarasbiz/solana-program-examples",
-  "url": "https://github.com/antonkarasbiz/solana-program-examples",
-  "description": "Solana program examples in Anchor, Pinocchio, and native Rust for on-chain engineers.",
-  "stars": 2,
-  "created": "2026-09-11T05:58:51Z",
-  "language": "TypeScript",
-  "stars_per_day": 0.2,
-  "age_days": 10,
-  "topics": [
-   "anchor",
-   "blockchain",
-   "examples",
-   "pinocchio",
-   "rust",
-   "smart-contracts",
-   "solana",
-   "web3"
-  ]
- },
- {
   "full_name": "qiaopengjun5162/onchain-arbitrage-colearn",
   "url": "https://github.com/qiaopengjun5162/onchain-arbitrage-colearn",
   "description": "\u94fe\u4e0a\u5957\u5229\u6b8b\u9177\u5171\u5b66\u77e5\u8bc6\u5e93\uff1aDeFi\u6e05\u7b97/\u8de8\u6240\u4ef7\u5dee/\u8d44\u91d1\u8d39\u7387/DEX\u5957\u5229\u7814\u7a76\u7b14\u8bb0 + 8\u4e2a\u76d1\u63a7\u54e8\u5175 + Python/Rust\u53cc\u5b9e\u73b0",
@@ -499,7 +499,7 @@
   "created": "2026-08-08T02:49:21Z",
   "language": "HTML",
   "stars_per_day": 0.2,
-  "age_days": 44,
+  "age_days": 45,
   "topics": [
    "arbitrage",
    "blockchain",
@@ -552,6 +552,26 @@
   "stars_per_day": 0.19,
   "age_days": 52,
   "topics": []
+ },
+ {
+  "full_name": "antonkarasbiz/solana-program-examples",
+  "url": "https://github.com/antonkarasbiz/solana-program-examples",
+  "description": "Solana program examples in Anchor, Pinocchio, and native Rust for on-chain engineers.",
+  "stars": 2,
+  "created": "2026-09-11T05:58:51Z",
+  "language": "TypeScript",
+  "stars_per_day": 0.18,
+  "age_days": 11,
+  "topics": [
+   "anchor",
+   "blockchain",
+   "examples",
+   "pinocchio",
+   "rust",
+   "smart-contracts",
+   "solana",
+   "web3"
+  ]
  },
  {
   "full_name": "udaysharmadev/Web-3-Free-Resources",
@@ -634,17 +654,6 @@
   ]
  },
  {
-  "full_name": "Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
-  "url": "https://github.com/Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
-  "description": "",
-  "stars": 1,
-  "created": "2026-09-14T01:47:19Z",
-  "language": "Rust",
-  "stars_per_day": 0.14,
-  "age_days": 7,
-  "topics": []
- },
- {
   "full_name": "ChiefWoods/yield-tranche-market",
   "url": "https://github.com/ChiefWoods/yield-tranche-market",
   "description": "Yield tranching program with multi-model configuration",
@@ -676,6 +685,17 @@
    "solana",
    "web3"
   ]
+ },
+ {
+  "full_name": "Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
+  "url": "https://github.com/Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
+  "description": "",
+  "stars": 1,
+  "created": "2026-09-14T01:47:19Z",
+  "language": "Rust",
+  "stars_per_day": 0.12,
+  "age_days": 8,
+  "topics": []
  },
  {
   "full_name": "blueshift-gg/solana-winternitz",
@@ -814,26 +834,6 @@
   ]
  },
  {
-  "full_name": "nazmiefearmutcu0/flowmap-solana",
-  "url": "https://github.com/nazmiefearmutcu0/flowmap-solana",
-  "description": "Real-time liquidity intelligence terminal for Solana DEX pools - keyless Orca/Meteora/Raydium feed, Bookmap-style liquidity heatmap, server-side signals & multi-venue compare in a zero-build browser t",
-  "stars": 1,
-  "created": "2026-09-06T13:13:11Z",
-  "language": "Python",
-  "stars_per_day": 0.07,
-  "age_days": 15,
-  "topics": [
-   "bookmap",
-   "crypto",
-   "defi",
-   "depth-chart",
-   "dex",
-   "flowmap",
-   "heatmap",
-   "javascript"
-  ]
- },
- {
   "full_name": "amoeba-farm/amoeba-program",
   "url": "https://github.com/amoeba-farm/amoeba-program",
   "description": "Open-source Solana Devnet program for Amoeba Farm",
@@ -852,7 +852,7 @@
   "created": "2026-08-21T06:17:43Z",
   "language": "JavaScript",
   "stars_per_day": 0.06,
-  "age_days": 31,
+  "age_days": 32,
   "topics": [
    "agents",
    "ai-agents",
@@ -872,7 +872,7 @@
   "created": "2026-09-05T06:17:30Z",
   "language": "Rust",
   "stars_per_day": 0.06,
-  "age_days": 16,
+  "age_days": 17,
   "topics": [
    "quasar",
    "solana"
@@ -1005,7 +1005,7 @@
   "created": "2026-09-04T06:32:44Z",
   "language": null,
   "stars_per_day": 0.06,
-  "age_days": 17,
+  "age_days": 18,
   "topics": []
  },
  {
@@ -1047,7 +1047,7 @@
   "created": "2026-07-28T02:15:23Z",
   "language": "Rust",
   "stars_per_day": 0.04,
-  "age_days": 55,
+  "age_days": 56,
   "topics": []
  },
  {
@@ -1089,7 +1089,7 @@
   "created": "2026-08-27T03:53:37Z",
   "language": "Rust",
   "stars_per_day": 0.04,
-  "age_days": 25,
+  "age_days": 26,
   "topics": [
    "anchor",
    "solana"
@@ -1196,7 +1196,7 @@
   "created": "2026-08-23T04:02:06Z",
   "language": "TypeScript",
   "stars_per_day": 0.03,
-  "age_days": 29,
+  "age_days": 30,
   "topics": []
  },
  {
@@ -1257,7 +1257,7 @@
   "created": "2026-08-13T01:05:33Z",
   "language": null,
   "stars_per_day": 0.03,
-  "age_days": 39,
+  "age_days": 40,
   "topics": []
  },
  {

@@ -1,20 +1,19 @@
 {
- "generated_at": "2026-09-21T18:30:39+00:00",
+ "generated_at": "2026-09-22T00:33:58+00:00",
  "narratives": [
   {
    "narrative": "Meme & Speculation",
-   "score": 209.6,
+   "score": 200.5,
    "confidence": "High",
    "evidence": {
     "github_repos": 16,
-    "github_top_velocity": 152.28,
-    "headline_hits": 3,
+    "github_top_velocity": 152.08,
+    "headline_hits": 2,
     "sample_headlines": [
      "Fomo overtakes Pump.fun in daily revenue on Solana",
-     "Visa Moves to Close Meme Coin Credit Card Rewards Loophole",
      "Fomo overtakes Pump.fun in daily revenue on Solana"
     ],
-    "market_avg_7d_pct": 16.67,
+    "market_avg_7d_pct": 16.19,
     "sources_confirming": 3
    },
    "member_repos": [
@@ -40,52 +39,8 @@
     },
     {
      "full_name": "PillCrew/claimchain",
-     "stars_per_day": 1.5,
+     "stars_per_day": 1.42,
      "url": "https://github.com/PillCrew/claimchain"
-    }
-   ]
-  },
-  {
-   "narrative": "DeFi / Trading Infra",
-   "score": 101.8,
-   "confidence": "High",
-   "evidence": {
-    "github_repos": 47,
-    "github_top_velocity": 69.83,
-    "headline_hits": 4,
-    "sample_headlines": [
-     "Kraken brings DeFi yield to tokenized stocks and ETFs",
-     "Sui DeFi protocol Full Sail to wind down after Switchboard incident",
-     "Term Finance loses estimated $8.5M in vault governance exploit"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 2
-   },
-   "member_repos": [
-    {
-     "full_name": "coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot",
-     "stars_per_day": 39.17,
-     "url": "https://github.com/coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot"
-    },
-    {
-     "full_name": "mangiapanejohn-dev/MOBIUS-Searcher",
-     "stars_per_day": 9.0,
-     "url": "https://github.com/mangiapanejohn-dev/MOBIUS-Searcher"
-    },
-    {
-     "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 7.82,
-     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
-    },
-    {
-     "full_name": "dartkomnitibe/solana-meme-tool",
-     "stars_per_day": 3.87,
-     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
-    },
-    {
-     "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
-     "stars_per_day": 3.85,
-     "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
     }
    ]
   },
@@ -98,7 +53,7 @@
     "github_top_velocity": 82.28,
     "headline_hits": 2,
     "sample_headlines": [
-     "Tom Lee's Bitmine Adds $74M in Ethereum, Declares a Crypto Bull Market 'Underway'",
+     "Europe\u2019s Central Bank Prepares to Invest Own Funds in Tokenized Securities",
      "Kraken brings DeFi yield to tokenized stocks and ETFs"
     ],
     "market_avg_7d_pct": null,
@@ -133,12 +88,56 @@
    ]
   },
   {
+   "narrative": "DeFi / Trading Infra",
+   "score": 97.2,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 47,
+    "github_top_velocity": 65.21,
+    "headline_hits": 4,
+    "sample_headlines": [
+     "Kraken brings DeFi yield to tokenized stocks and ETFs",
+     "Sui DeFi protocol Full Sail to wind down after Switchboard incident",
+     "Term Finance loses estimated $8.5M in vault governance exploit"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 2
+   },
+   "member_repos": [
+    {
+     "full_name": "coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot",
+     "stars_per_day": 39.17,
+     "url": "https://github.com/coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot"
+    },
+    {
+     "full_name": "openarbmev/Openarb-Trade-SDK",
+     "stars_per_day": 7.82,
+     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
+    },
+    {
+     "full_name": "mangiapanejohn-dev/MOBIUS-Searcher",
+     "stars_per_day": 4.5,
+     "url": "https://github.com/mangiapanejohn-dev/MOBIUS-Searcher"
+    },
+    {
+     "full_name": "dartkomnitibe/solana-meme-tool",
+     "stars_per_day": 3.87,
+     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
+    },
+    {
+     "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
+     "stars_per_day": 3.85,
+     "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
+    }
+   ]
+  },
+  {
    "narrative": "Wallets & UX",
-   "score": 60.6,
+   "score": 67.6,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 19,
-    "github_top_velocity": 60.56,
+    "github_repos": 20,
+    "github_top_velocity": 67.62,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -156,6 +155,11 @@
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
     },
     {
+     "full_name": "Kylerkrausemdzyra64/Crypto-Checker",
+     "stars_per_day": 7.33,
+     "url": "https://github.com/Kylerkrausemdzyra64/Crypto-Checker"
+    },
+    {
      "full_name": "dartkomnitibe/solana-meme-tool",
      "stars_per_day": 3.87,
      "url": "https://github.com/dartkomnitibe/solana-meme-tool"
@@ -164,11 +168,6 @@
      "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
      "stars_per_day": 3.85,
      "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
-    },
-    {
-     "full_name": "ascenx/safe_wallet",
-     "stars_per_day": 2.89,
-     "url": "https://github.com/ascenx/safe_wallet"
     }
    ]
   },
@@ -178,7 +177,7 @@
    "confidence": "Medium",
    "evidence": {
     "github_repos": 42,
-    "github_top_velocity": 50.14,
+    "github_top_velocity": 50.06,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -213,14 +212,59 @@
    ]
   },
   {
+   "narrative": "AI Agents on Solana",
+   "score": 29.6,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 18,
+    "github_top_velocity": 5.55,
+    "headline_hits": 3,
+    "sample_headlines": [
+     "Google Admits Gemini AI Hacked Three Companies\u2014It Stayed Silent for 7 Weeks",
+     "What Is VVV? The Privacy-Obsessed AI Token That\u2019s Up 3,000% in 2026",
+     "xAI Launches Grok 4.7. It's Bigger, But Late to the AI Frontier Party"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 2
+   },
+   "member_repos": [
+    {
+     "full_name": "PillCrew/claimchain",
+     "stars_per_day": 1.42,
+     "url": "https://github.com/PillCrew/claimchain"
+    },
+    {
+     "full_name": "SohniSwatantra/nosana-mcp",
+     "stars_per_day": 1.31,
+     "url": "https://github.com/SohniSwatantra/nosana-mcp"
+    },
+    {
+     "full_name": "PillCrew/PillCrew",
+     "stars_per_day": 1.06,
+     "url": "https://github.com/PillCrew/PillCrew"
+    },
+    {
+     "full_name": "andreysuperiorgit/aegis",
+     "stars_per_day": 0.82,
+     "url": "https://github.com/andreysuperiorgit/aegis"
+    },
+    {
+     "full_name": "fluxrpc/solana-go",
+     "stars_per_day": 0.23,
+     "url": "https://github.com/fluxrpc/solana-go"
+    }
+   ]
+  },
+  {
    "narrative": "Security & Threats",
-   "score": 17.0,
+   "score": 24.9,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 4,
-    "github_top_velocity": 0.98,
-    "headline_hits": 2,
+    "github_top_velocity": 0.9,
+    "headline_hits": 3,
     "sample_headlines": [
+     "Google Admits Gemini AI Hacked Three Companies\u2014It Stayed Silent for 7 Weeks",
      "More Markets lending reserve drained for $410,000: Blockaid",
      "Term Finance loses estimated $8.5M in vault governance exploit"
     ],
@@ -230,7 +274,7 @@
    "member_repos": [
     {
      "full_name": "andreysuperiorgit/aegis",
-     "stars_per_day": 0.9,
+     "stars_per_day": 0.82,
      "url": "https://github.com/andreysuperiorgit/aegis"
     },
     {
@@ -251,103 +295,19 @@
    ]
   },
   {
-   "narrative": "Payments & Stablecoins",
-   "score": 16.3,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 5,
-    "github_top_velocity": 0.28,
-    "headline_hits": 2,
-    "sample_headlines": [
-     "Apple and Google Go Hunting for Crypto Talent, Hint at Stablecoin Push",
-     "Visa Moves to Close Meme Coin Credit Card Rewards Loophole"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "nirholas/onchain-agent-wallets",
-     "stars_per_day": 0.16,
-     "url": "https://github.com/nirholas/onchain-agent-wallets"
-    },
-    {
-     "full_name": "nemorixgroup/Solana-Knowledge-Base",
-     "stars_per_day": 0.04,
-     "url": "https://github.com/nemorixgroup/Solana-Knowledge-Base"
-    },
-    {
-     "full_name": "grokloop/grokchain-programs",
-     "stars_per_day": 0.04,
-     "url": "https://github.com/grokloop/grokchain-programs"
-    },
-    {
-     "full_name": "belumume/zeroclaw-solana",
-     "stars_per_day": 0.02,
-     "url": "https://github.com/belumume/zeroclaw-solana"
-    },
-    {
-     "full_name": "blockballr/selo",
-     "stars_per_day": 0.02,
-     "url": "https://github.com/blockballr/selo"
-    }
-   ]
-  },
-  {
-   "narrative": "AI Agents on Solana",
-   "score": 13.8,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 18,
-    "github_top_velocity": 5.76,
-    "headline_hits": 1,
-    "sample_headlines": [
-     "xAI Launches Grok 4.7. It's Bigger, But Late to the AI Frontier Party"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "PillCrew/claimchain",
-     "stars_per_day": 1.5,
-     "url": "https://github.com/PillCrew/claimchain"
-    },
-    {
-     "full_name": "SohniSwatantra/nosana-mcp",
-     "stars_per_day": 1.31,
-     "url": "https://github.com/SohniSwatantra/nosana-mcp"
-    },
-    {
-     "full_name": "PillCrew/PillCrew",
-     "stars_per_day": 1.1,
-     "url": "https://github.com/PillCrew/PillCrew"
-    },
-    {
-     "full_name": "andreysuperiorgit/aegis",
-     "stars_per_day": 0.9,
-     "url": "https://github.com/andreysuperiorgit/aegis"
-    },
-    {
-     "full_name": "fluxrpc/solana-go",
-     "stars_per_day": 0.23,
-     "url": "https://github.com/fluxrpc/solana-go"
-    }
-   ]
-  },
-  {
    "narrative": "Consumer & Social",
-   "score": 9.0,
-   "confidence": "Low",
+   "score": 17.0,
+   "confidence": "Medium",
    "evidence": {
     "github_repos": 6,
     "github_top_velocity": 1.04,
-    "headline_hits": 1,
+    "headline_hits": 2,
     "sample_headlines": [
+     "Robinhood CEO Says Crypto Will Beat Sports at Prediction Markets' Own Game",
      "Sony Says You Don't Own the Games You Bought. Crypto Says It Can Fix That"
     ],
     "market_avg_7d_pct": null,
-    "sources_confirming": 0
+    "sources_confirming": 1
    },
    "member_repos": [
     {
@@ -374,6 +334,48 @@
      "full_name": "sapir-pirski/fate-solana-games",
      "stars_per_day": 0.02,
      "url": "https://github.com/sapir-pirski/fate-solana-games"
+    }
+   ]
+  },
+  {
+   "narrative": "Payments & Stablecoins",
+   "score": 8.3,
+   "confidence": "Low",
+   "evidence": {
+    "github_repos": 5,
+    "github_top_velocity": 0.26,
+    "headline_hits": 1,
+    "sample_headlines": [
+     "Apple and Google Go Hunting for Crypto Talent, Hint at Stablecoin Push"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 0
+   },
+   "member_repos": [
+    {
+     "full_name": "nirholas/onchain-agent-wallets",
+     "stars_per_day": 0.15,
+     "url": "https://github.com/nirholas/onchain-agent-wallets"
+    },
+    {
+     "full_name": "grokloop/grokchain-programs",
+     "stars_per_day": 0.04,
+     "url": "https://github.com/grokloop/grokchain-programs"
+    },
+    {
+     "full_name": "nemorixgroup/Solana-Knowledge-Base",
+     "stars_per_day": 0.03,
+     "url": "https://github.com/nemorixgroup/Solana-Knowledge-Base"
+    },
+    {
+     "full_name": "belumume/zeroclaw-solana",
+     "stars_per_day": 0.02,
+     "url": "https://github.com/belumume/zeroclaw-solana"
+    },
+    {
+     "full_name": "blockballr/selo",
+     "stars_per_day": 0.02,
+     "url": "https://github.com/blockballr/selo"
     }
    ]
   },

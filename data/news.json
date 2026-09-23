@@ -63,6 +63,41 @@
  ],
  "decrypt": [
   {
+   "title": "Borrow Against Your Bitcoin at a Fixed Rate: Coinbase Expands Morpho Loans",
+   "pub": "Wed, 23 Sep 2026 18:15:06 +0000",
+   "link": "https://decrypt.co/379091/borrow-against-bitcoin-fixed-rate-coinbase-morpho"
+  },
+  {
+   "title": "Crypto Exchange That Invented 100x Leverage Is No More: Here\u2019s What BitMEX Users Need to Know",
+   "pub": "Wed, 23 Sep 2026 17:31:03 +0000",
+   "link": "https://decrypt.co/379089/crypto-exchange-that-invented-100x-leverage-is-no-more-heres-what-bitmex-users-need-to-know"
+  },
+  {
+   "title": "Canada's Six Biggest Banks Team Up on a Shared Digital-Dollar Network",
+   "pub": "Wed, 23 Sep 2026 17:01:03 +0000",
+   "link": "https://decrypt.co/379081/canada-six-biggest-banks-shared-digital-dollar-network"
+  },
+  {
+   "title": "NYSE Taps Blockchain.com to Reach Crypto Investors With Tokenized Stocks",
+   "pub": "Wed, 23 Sep 2026 16:36:03 +0000",
+   "link": "https://decrypt.co/379080/nyse-taps-blockchain-com-to-reach-crypto-investors-with-tokenized-stocks-etfs"
+  },
+  {
+   "title": "Americans Would Use Stablecoins\u2014If They Came With Bank Protections, Visa Study Finds",
+   "pub": "Wed, 23 Sep 2026 16:26:03 +0000",
+   "link": "https://decrypt.co/379073/americans-stablecoins-bank-protections-visa"
+  },
+  {
+   "title": "Bitcoin Dips, But Its Forks Are Flying Again",
+   "pub": "Wed, 23 Sep 2026 15:56:03 +0000",
+   "link": "https://decrypt.co/379048/bitcoin-dips-but-forks-are-flying-bch-bsv"
+  },
+  {
+   "title": "BlackRock: AI Agents Could Drive Crypto's Next Demand Wave",
+   "pub": "Wed, 23 Sep 2026 15:41:46 +0000",
+   "link": "https://decrypt.co/379070/blackrock-ai-agents-crypto-next-demand-wave"
+  },
+  {
    "title": "Morning Minute: Bitcoin Hits $86,000 as Oil Slides and ETFs Bid",
    "pub": "Wed, 23 Sep 2026 12:26:07 +0000",
    "link": "https://decrypt.co/379033/morning-minute-bitcoin-hits-86000-as-oil-slides-and-etfs-bid"
@@ -86,44 +121,14 @@
    "title": "UN Security Council Will Get Advice on AI Risks From Tech Giants Building It",
    "pub": "Tue, 22 Sep 2026 22:16:03 +0000",
    "link": "https://decrypt.co/379008/un-security-council-ai-risks-anthropic-openai-deepseek"
-  },
-  {
-   "title": "$161 Million in Decade-Old Bitcoin Has Moved in Just Two Weeks",
-   "pub": "Tue, 22 Sep 2026 21:16:03 +0000",
-   "link": "https://decrypt.co/379006/161-million-decade-old-bitcoin-moves-two-weeks"
-  },
-  {
-   "title": "CME Expands Crypto Futures Lineup With Bitcoin Cash and Uniswap",
-   "pub": "Tue, 22 Sep 2026 20:46:03 +0000",
-   "link": "https://decrypt.co/379004/cme-crypto-bitcoin-cash-uniswap-futures"
-  },
-  {
-   "title": "Inside Coinbase\u2019s $250 Billion Playbook for Post-Quantum Bitcoin Custody",
-   "pub": "Tue, 22 Sep 2026 20:01:03 +0000",
-   "link": "https://decrypt.co/379000/coinbase-playbook-post-quantum-bitcoin-custody"
-  },
-  {
-   "title": "White-Hat Hackers Route Coldcard Exploit Bitcoin Into 'Recovery Trust'",
-   "pub": "Tue, 22 Sep 2026 19:31:03 +0000",
-   "link": "https://decrypt.co/378978/white-hat-hackers-coldcard-exploit-bitcoin-recovery-trust"
-  },
-  {
-   "title": "OpenAI Launches GPT-6 Sol and Luna Minutes After Anthropic Drops Claude Opus 5.5",
-   "pub": "Tue, 22 Sep 2026 19:00:38 +0000",
-   "link": "https://decrypt.co/378986/openai-launches-gpt-6-sol-luna-anthropic-claude-opus-5-5"
-  },
-  {
-   "title": "Bitcoin Breaks Out as Nasdaq Hits Records and Oil Slides on Iran Hopes",
-   "pub": "Tue, 22 Sep 2026 18:46:03 +0000",
-   "link": "https://decrypt.co/378972/bitcoin-breaks-out-nasdaq-hits-records-oil-slides"
-  },
-  {
-   "title": "Bernstein Predicts $10 Trillion Prediction Market by 2035\u201410X Its Original Forecast",
-   "pub": "Tue, 22 Sep 2026 18:16:03 +0000",
-   "link": "https://decrypt.co/378963/bernstein-10-trillion-prediction-markets"
   }
  ],
  "cryptonews": [
+  {
+   "title": "Winners and losers of the SEC\u2019s new tokenized stocks rules",
+   "pub": "Wed, 23 Sep 2026 13:30:00 +0000",
+   "link": "https://cointelegraph.com/magazine/winners-and-losers-of-the-secs-new-tokenized-stocks-rules?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+  },
   {
    "title": "Crypto\u2019s wild boom-and-bust cycles are fading, Solstice CEO says",
    "pub": "Tue, 22 Sep 2026 08:06:23 +0000",
@@ -178,11 +183,6 @@
    "title": "Term Finance loses estimated $8.5M in vault governance exploit",
    "pub": "Mon, 24 Aug 2026 03:59:29 +0000",
    "link": "https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "MiCA is coming for DeFi vaults, but regulation will be difficult",
-   "pub": "Sat, 22 Aug 2026 13:30:00 +0000",
-   "link": "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
   }
  ]
 }

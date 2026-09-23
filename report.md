@@ -1,6 +1,6 @@
 # Solana Narrative Radar — Fortnightly Report
 
-Generated: 2026-09-23T00:32:45+00:00  |  Methodology v0.1
+Generated: 2026-09-23T06:34:12+00:00  |  Methodology v0.1
 
 ## On-chain context (live, public RPC)
 
@@ -10,11 +10,11 @@ Generated: 2026-09-23T00:32:45+00:00  |  Methodology v0.1
 
 ## Detected Narratives (ranked)
 
-### 1. Meme & Speculation  —  confidence: High  (score 177.1)
+### 1. Meme & Speculation  —  confidence: High  (score 181.9)
 
-- GitHub repos matching: **14**  (top velocity 98.58 stars/day)
+- GitHub repos matching: **14**  (top velocity 98.67 stars/day)
 - Headline mentions (last fortnight): **2**
-- Market 7d avg change: **31.26%**
+- Market 7d avg change: **33.59%**
 - Cross-source confirmation: **3/3**
 
   Sample headlines:
@@ -23,13 +23,13 @@ Generated: 2026-09-23T00:32:45+00:00  |  Methodology v0.1
 
   Top repos:
   - [Driftmireminisce/SOL-FOR-GIT-CLUB](https://github.com/Driftmireminisce/SOL-FOR-GIT-CLUB) — 48.0 stars/day
-  - [nhovongoc0-max/meme-radar](https://github.com/nhovongoc0-max/meme-radar) — 39.0 stars/day
+  - [nhovongoc0-max/meme-radar](https://github.com/nhovongoc0-max/meme-radar) — 39.09 stars/day
   - [dartkomnitibe/solana-meme-tool](https://github.com/dartkomnitibe/solana-meme-tool) — 3.77 stars/day
 
   **Build ideas:**
-  - Launchpad honesty score: index every pump.fun-style launch by LP lock, mint authority, holder concentration and dev-wallet behavior; surfaces the few credible launches (avg 7d change 31.26%).
+  - Launchpad honesty score: index every pump.fun-style launch by LP lock, mint authority, holder concentration and dev-wallet behavior; surfaces the few credible launches (avg 7d change 33.59%).
   - Anti-sniper launch template: open-source fair-launch program (no-bundle, capped per-wallet buys) that new launchpads can adopt — a counter-position to the sniper-bot repos in the dataset.
-  - Meme-velocity dashboard: tracks avg 7d change 31.26% so traders see which launches have real retention vs. pure rotation.
+  - Meme-velocity dashboard: tracks avg 7d change 33.59% so traders see which launches have real retention vs. pure rotation.
 
 ### 2. DeFi / Trading Infra  —  confidence: High  (score 90.2)
 
@@ -89,7 +89,7 @@ Generated: 2026-09-23T00:32:45+00:00  |  Methodology v0.1
 
 ### 5. Dev Tooling & Infra  —  confidence: Medium  (score 43.5)
 
-- GitHub repos matching: **42**  (top velocity 43.54 stars/day)
+- GitHub repos matching: **42**  (top velocity 43.53 stars/day)
 - Headline mentions (last fortnight): **0**
 - Cross-source confirmation: **1/3**
 
@@ -99,7 +99,7 @@ Generated: 2026-09-23T00:32:45+00:00  |  Methodology v0.1
   - [SohniSwatantra/nosana-mcp](https://github.com/SohniSwatantra/nosana-mcp) — 1.24 stars/day
 
   **Build ideas:**
-  - Local-first Solana dev container: one command that ships validator, airdropped test keypair, and explorer UI (rides the 42 tooling repos at 43.54 stars/day).
+  - Local-first Solana dev container: one command that ships validator, airdropped test keypair, and explorer UI (rides the 42 tooling repos at 43.53 stars/day).
   - Program-diff explorer: show what changed between two deployed program versions (upgrade authority audit trail) — infra trusts need this as more programs go live.
   - Free hosted RPC status page with per-method latency/limits across public providers; every new dev hits rate limits on day one.
 

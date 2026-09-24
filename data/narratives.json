@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-09-23T18:31:08+00:00",
+ "generated_at": "2026-09-24T00:35:06+00:00",
  "narratives": [
   {
    "narrative": "Meme & Speculation",
-   "score": 111.9,
+   "score": 99.5,
    "confidence": "High",
    "evidence": {
     "github_repos": 13,
-    "github_top_velocity": 47.57,
+    "github_top_velocity": 47.48,
     "headline_hits": 2,
     "sample_headlines": [
      "Fomo overtakes Pump.fun in daily revenue on Solana",
      "Fomo overtakes Pump.fun in daily revenue on Solana"
     ],
-    "market_avg_7d_pct": 24.17,
+    "market_avg_7d_pct": 18.01,
     "sources_confirming": 3
    },
    "member_repos": [
@@ -39,18 +39,18 @@
     },
     {
      "full_name": "PillCrew/claimchain",
-     "stars_per_day": 1.35,
+     "stars_per_day": 1.29,
      "url": "https://github.com/PillCrew/claimchain"
     }
    ]
   },
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 95.6,
+   "score": 94.5,
    "confidence": "High",
    "evidence": {
     "github_repos": 47,
-    "github_top_velocity": 71.56,
+    "github_top_velocity": 70.55,
     "headline_hits": 3,
     "sample_headlines": [
      "Kraken brings DeFi yield to tokenized stocks and ETFs",
@@ -82,23 +82,21 @@
      "url": "https://github.com/dartkomnitibe/solana-meme-tool"
     },
     {
-     "full_name": "mangiapanejohn-dev/MOBIUS-Searcher",
-     "stars_per_day": 3.67,
-     "url": "https://github.com/mangiapanejohn-dev/MOBIUS-Searcher"
+     "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
+     "stars_per_day": 3.66,
+     "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
     }
    ]
   },
   {
    "narrative": "Wallets & UX",
-   "score": 91.2,
+   "score": 92.1,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 20,
-    "github_top_velocity": 83.15,
-    "headline_hits": 1,
-    "sample_headlines": [
-     "North Korea's Fake Job Interviews Drained $11M From 7,000 Crypto Wallets"
-    ],
+    "github_top_velocity": 92.09,
+    "headline_hits": 0,
+    "sample_headlines": [],
     "market_avg_7d_pct": null,
     "sources_confirming": 1
    },
@@ -109,14 +107,14 @@
      "url": "https://github.com/coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot"
     },
     {
+     "full_name": "uni-launch/solana-token-creator",
+     "stars_per_day": 26.0,
+     "url": "https://github.com/uni-launch/solana-token-creator"
+    },
+    {
      "full_name": "Kylerkrausemdzyra64/Crypto-Checker",
      "stars_per_day": 17.6,
      "url": "https://github.com/Kylerkrausemdzyra64/Crypto-Checker"
-    },
-    {
-     "full_name": "uni-launch/solana-token-creator",
-     "stars_per_day": 17.0,
-     "url": "https://github.com/uni-launch/solana-token-creator"
     },
     {
      "full_name": "openarbmev/Openarb-Trade-SDK",
@@ -215,12 +213,56 @@
    ]
   },
   {
+   "narrative": "AI Agents on Solana",
+   "score": 28.8,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 16,
+    "github_top_velocity": 4.8,
+    "headline_hits": 3,
+    "sample_headlines": [
+     "An AI Agent Just Hacked a Government Website for the First Time, Australia PM Says",
+     "OpenAI Gives Ukraine Access to Daybreak AI Cyber-Defense Tool",
+     "Meta's Muse AI Agent Read a User's Private iMessages. Then It Lied About How"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 2
+   },
+   "member_repos": [
+    {
+     "full_name": "PillCrew/claimchain",
+     "stars_per_day": 1.29,
+     "url": "https://github.com/PillCrew/claimchain"
+    },
+    {
+     "full_name": "SohniSwatantra/nosana-mcp",
+     "stars_per_day": 1.17,
+     "url": "https://github.com/SohniSwatantra/nosana-mcp"
+    },
+    {
+     "full_name": "PillCrew/PillCrew",
+     "stars_per_day": 1.03,
+     "url": "https://github.com/PillCrew/PillCrew"
+    },
+    {
+     "full_name": "ayomidefagboyo/kata",
+     "stars_per_day": 0.67,
+     "url": "https://github.com/ayomidefagboyo/kata"
+    },
+    {
+     "full_name": "o-mid/guardrail-agent",
+     "stars_per_day": 0.21,
+     "url": "https://github.com/o-mid/guardrail-agent"
+    }
+   ]
+  },
+  {
    "narrative": "Payments & Stablecoins",
    "score": 27.3,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 8,
-    "github_top_velocity": 19.3,
+    "github_top_velocity": 19.29,
     "headline_hits": 1,
     "sample_headlines": [
      "Americans Would Use Stablecoins\u2014If They Came With Bank Protections, Visa Study Finds"
@@ -236,7 +278,7 @@
     },
     {
      "full_name": "nirholas/onchain-agent-wallets",
-     "stars_per_day": 0.15,
+     "stars_per_day": 0.14,
      "url": "https://github.com/nirholas/onchain-agent-wallets"
     },
     {
@@ -257,84 +299,12 @@
    ]
   },
   {
-   "narrative": "Security & Threats",
-   "score": 24.0,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 2,
-    "github_top_velocity": 0.04,
-    "headline_hits": 3,
-    "sample_headlines": [
-     "North Korea's Fake Job Interviews Drained $11M From 7,000 Crypto Wallets",
-     "More Markets lending reserve drained for $410,000: Blockaid",
-     "Term Finance loses estimated $8.5M in vault governance exploit"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "KarloAldrete/universal-proxy",
-     "stars_per_day": 0.02,
-     "url": "https://github.com/KarloAldrete/universal-proxy"
-    },
-    {
-     "full_name": "leafwithered/clawledger",
-     "stars_per_day": 0.02,
-     "url": "https://github.com/leafwithered/clawledger"
-    }
-   ]
-  },
-  {
-   "narrative": "AI Agents on Solana",
-   "score": 21.2,
-   "confidence": "High",
-   "evidence": {
-    "github_repos": 16,
-    "github_top_velocity": 5.23,
-    "headline_hits": 2,
-    "sample_headlines": [
-     "BlackRock: AI Agents Could Drive Crypto's Next Demand Wave",
-     "UN Security Council Will Get Advice on AI Risks From Tech Giants Building It"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 2
-   },
-   "member_repos": [
-    {
-     "full_name": "PillCrew/claimchain",
-     "stars_per_day": 1.35,
-     "url": "https://github.com/PillCrew/claimchain"
-    },
-    {
-     "full_name": "SohniSwatantra/nosana-mcp",
-     "stars_per_day": 1.17,
-     "url": "https://github.com/SohniSwatantra/nosana-mcp"
-    },
-    {
-     "full_name": "PillCrew/PillCrew",
-     "stars_per_day": 1.06,
-     "url": "https://github.com/PillCrew/PillCrew"
-    },
-    {
-     "full_name": "ayomidefagboyo/kata",
-     "stars_per_day": 1.0,
-     "url": "https://github.com/ayomidefagboyo/kata"
-    },
-    {
-     "full_name": "o-mid/guardrail-agent",
-     "stars_per_day": 0.21,
-     "url": "https://github.com/o-mid/guardrail-agent"
-    }
-   ]
-  },
-  {
    "narrative": "Consumer & Social",
-   "score": 18.2,
+   "score": 27.2,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 7,
-    "github_top_velocity": 18.25,
+    "github_top_velocity": 27.25,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -343,7 +313,7 @@
    "member_repos": [
     {
      "full_name": "uni-launch/solana-token-creator",
-     "stars_per_day": 17.0,
+     "stars_per_day": 26.0,
      "url": "https://github.com/uni-launch/solana-token-creator"
     },
     {
@@ -365,6 +335,40 @@
      "full_name": "subhdotsol/solana-programs",
      "stars_per_day": 0.12,
      "url": "https://github.com/subhdotsol/solana-programs"
+    }
+   ]
+  },
+  {
+   "narrative": "Security & Threats",
+   "score": 24.1,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 3,
+    "github_top_velocity": 0.08,
+    "headline_hits": 3,
+    "sample_headlines": [
+     "An AI Agent Just Hacked a Government Website for the First Time, Australia PM Says",
+     "More Markets lending reserve drained for $410,000: Blockaid",
+     "Term Finance loses estimated $8.5M in vault governance exploit"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "hypnogaba/solana-signal-trader",
+     "stars_per_day": 0.04,
+     "url": "https://github.com/hypnogaba/solana-signal-trader"
+    },
+    {
+     "full_name": "KarloAldrete/universal-proxy",
+     "stars_per_day": 0.02,
+     "url": "https://github.com/KarloAldrete/universal-proxy"
+    },
+    {
+     "full_name": "leafwithered/clawledger",
+     "stars_per_day": 0.02,
+     "url": "https://github.com/leafwithered/clawledger"
     }
    ]
   },

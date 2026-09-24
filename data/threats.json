@@ -24,10 +24,10 @@
   "full_name": "andreysidorov1985/Solana-Drainer-Tool",
   "url": "https://github.com/andreysidorov1985/Solana-Drainer-Tool",
   "description": "Solana Drainer Tool \u2014 Automated SOL and SPL token drainer for Solana wallets with real-time balance monitoring, multi-wallet sweeping, Phantom/Backpack/Solflare compatibility, and stealth transaction ",
-  "stars": 34,
+  "stars": 35,
   "created": "2026-09-18T10:53:47Z",
   "language": "Python",
-  "stars_per_day": 5.67,
+  "stars_per_day": 5.83,
   "age_days": 6,
   "topics": [
    "auto-withdraw-script",

@@ -1,27 +1,29 @@
 {
- "generated_at": "2026-09-24T12:34:25+00:00",
+ "generated_at": "2026-09-24T18:31:32+00:00",
  "narratives": [
   {
    "narrative": "Wallets & UX",
-   "score": 127.1,
+   "score": 140.2,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 20,
-    "github_top_velocity": 127.06,
-    "headline_hits": 0,
-    "sample_headlines": [],
+    "github_top_velocity": 132.16,
+    "headline_hits": 1,
+    "sample_headlines": [
+     "Elliptic Wants Every Cop to Read a Crypto Wallet in Seconds\u2014With AI"
+    ],
     "market_avg_7d_pct": null,
     "sources_confirming": 1
    },
    "member_repos": [
     {
      "full_name": "uni-launch/solana-token-creator",
-     "stars_per_day": 64.0,
+     "stars_per_day": 73.0,
      "url": "https://github.com/uni-launch/solana-token-creator"
     },
     {
      "full_name": "coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot",
-     "stars_per_day": 29.38,
+     "stars_per_day": 26.11,
      "url": "https://github.com/coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot"
     },
     {
@@ -31,52 +33,8 @@
     },
     {
      "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 6.62,
+     "stars_per_day": 6.14,
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
-    },
-    {
-     "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
-     "stars_per_day": 3.66,
-     "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
-    }
-   ]
-  },
-  {
-   "narrative": "DeFi / Trading Infra",
-   "score": 94.4,
-   "confidence": "High",
-   "evidence": {
-    "github_repos": 47,
-    "github_top_velocity": 70.44,
-    "headline_hits": 3,
-    "sample_headlines": [
-     "Kraken brings DeFi yield to tokenized stocks and ETFs",
-     "Sui DeFi protocol Full Sail to wind down after Switchboard incident",
-     "Term Finance loses estimated $8.5M in vault governance exploit"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 2
-   },
-   "member_repos": [
-    {
-     "full_name": "coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot",
-     "stars_per_day": 29.38,
-     "url": "https://github.com/coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot"
-    },
-    {
-     "full_name": "Oryc11/Free-Demonstration-Guide",
-     "stars_per_day": 19.0,
-     "url": "https://github.com/Oryc11/Free-Demonstration-Guide"
-    },
-    {
-     "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 6.62,
-     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
-    },
-    {
-     "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
-     "stars_per_day": 3.66,
-     "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
     },
     {
      "full_name": "dartkomnitibe/solana-meme-tool",
@@ -87,34 +45,35 @@
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 90.1,
+   "score": 93.4,
    "confidence": "High",
    "evidence": {
-    "github_repos": 13,
-    "github_top_velocity": 44.82,
-    "headline_hits": 2,
+    "github_repos": 12,
+    "github_top_velocity": 45.49,
+    "headline_hits": 3,
     "sample_headlines": [
      "Fomo overtakes Pump.fun in daily revenue on Solana",
+     "Decrypt Media and FOMO Hour\u2019s Thought Leader Farokh Sarmad to Take Main Stage at NEXTPredict NY Conference",
      "Fomo overtakes Pump.fun in daily revenue on Solana"
     ],
-    "market_avg_7d_pct": 14.66,
+    "market_avg_7d_pct": 11.93,
     "sources_confirming": 3
    },
    "member_repos": [
     {
      "full_name": "nhovongoc0-max/meme-radar",
-     "stars_per_day": 33.62,
+     "stars_per_day": 34.38,
      "url": "https://github.com/nhovongoc0-max/meme-radar"
-    },
-    {
-     "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
-     "stars_per_day": 3.66,
-     "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
     },
     {
      "full_name": "dartkomnitibe/solana-meme-tool",
      "stars_per_day": 3.6,
      "url": "https://github.com/dartkomnitibe/solana-meme-tool"
+    },
+    {
+     "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
+     "stars_per_day": 3.57,
+     "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
     },
     {
      "full_name": "OnlyTerp/papertrench",
@@ -129,12 +88,96 @@
    ]
   },
   {
+   "narrative": "DeFi / Trading Infra",
+   "score": 83.0,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 47,
+    "github_top_velocity": 59.03,
+    "headline_hits": 3,
+    "sample_headlines": [
+     "Kraken brings DeFi yield to tokenized stocks and ETFs",
+     "Sui DeFi protocol Full Sail to wind down after Switchboard incident",
+     "Term Finance loses estimated $8.5M in vault governance exploit"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 2
+   },
+   "member_repos": [
+    {
+     "full_name": "coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot",
+     "stars_per_day": 26.11,
+     "url": "https://github.com/coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot"
+    },
+    {
+     "full_name": "Oryc11/Free-Demonstration-Guide",
+     "stars_per_day": 10.5,
+     "url": "https://github.com/Oryc11/Free-Demonstration-Guide"
+    },
+    {
+     "full_name": "openarbmev/Openarb-Trade-SDK",
+     "stars_per_day": 6.14,
+     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
+    },
+    {
+     "full_name": "dartkomnitibe/solana-meme-tool",
+     "stars_per_day": 3.6,
+     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
+    },
+    {
+     "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
+     "stars_per_day": 3.57,
+     "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
+    }
+   ]
+  },
+  {
+   "narrative": "Consumer & Social",
+   "score": 73.8,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 6,
+    "github_top_velocity": 73.81,
+    "headline_hits": 0,
+    "sample_headlines": [],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "uni-launch/solana-token-creator",
+     "stars_per_day": 73.0,
+     "url": "https://github.com/uni-launch/solana-token-creator"
+    },
+    {
+     "full_name": "blueshift-gg/solana-awesome",
+     "stars_per_day": 0.42,
+     "url": "https://github.com/blueshift-gg/solana-awesome"
+    },
+    {
+     "full_name": "accretion-xyz/awesome-solana-security",
+     "stars_per_day": 0.23,
+     "url": "https://github.com/accretion-xyz/awesome-solana-security"
+    },
+    {
+     "full_name": "subhdotsol/solana-programs",
+     "stars_per_day": 0.12,
+     "url": "https://github.com/subhdotsol/solana-programs"
+    },
+    {
+     "full_name": "sapir-pirski/fate-solana-games",
+     "stars_per_day": 0.02,
+     "url": "https://github.com/sapir-pirski/fate-solana-games"
+    }
+   ]
+  },
+  {
    "narrative": "RWA & Tokenization",
-   "score": 78.1,
+   "score": 71.2,
    "confidence": "High",
    "evidence": {
     "github_repos": 6,
-    "github_top_velocity": 62.07,
+    "github_top_velocity": 55.22,
     "headline_hits": 2,
     "sample_headlines": [
      "Winners and losers of the SEC\u2019s new tokenized stocks rules",
@@ -146,12 +189,12 @@
    "member_repos": [
     {
      "full_name": "coolbbcamp/Synthetic-Liquidity-Depth-Scanner",
-     "stars_per_day": 32.25,
+     "stars_per_day": 28.67,
      "url": "https://github.com/coolbbcamp/Synthetic-Liquidity-Depth-Scanner"
     },
     {
      "full_name": "coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot",
-     "stars_per_day": 29.38,
+     "stars_per_day": 26.11,
      "url": "https://github.com/coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot"
     },
     {
@@ -172,52 +215,12 @@
    ]
   },
   {
-   "narrative": "Consumer & Social",
-   "score": 65.2,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 7,
-    "github_top_velocity": 65.21,
-    "headline_hits": 0,
-    "sample_headlines": [],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "uni-launch/solana-token-creator",
-     "stars_per_day": 64.0,
-     "url": "https://github.com/uni-launch/solana-token-creator"
-    },
-    {
-     "full_name": "blueshift-gg/solana-awesome",
-     "stars_per_day": 0.42,
-     "url": "https://github.com/blueshift-gg/solana-awesome"
-    },
-    {
-     "full_name": "livid/exe-hub",
-     "stars_per_day": 0.4,
-     "url": "https://github.com/livid/exe-hub"
-    },
-    {
-     "full_name": "accretion-xyz/awesome-solana-security",
-     "stars_per_day": 0.23,
-     "url": "https://github.com/accretion-xyz/awesome-solana-security"
-    },
-    {
-     "full_name": "subhdotsol/solana-programs",
-     "stars_per_day": 0.12,
-     "url": "https://github.com/subhdotsol/solana-programs"
-    }
-   ]
-  },
-  {
    "narrative": "Dev Tooling & Infra",
-   "score": 57.8,
+   "score": 61.4,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 43,
-    "github_top_velocity": 57.77,
+    "github_top_velocity": 61.36,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -226,125 +229,50 @@
    "member_repos": [
     {
      "full_name": "coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot",
-     "stars_per_day": 29.38,
+     "stars_per_day": 26.11,
      "url": "https://github.com/coolbbcamp/StonkFun-Multi-Wallet-Volume-Bot"
     },
     {
+     "full_name": "propavingk/SlotDrift",
+     "stars_per_day": 16.25,
+     "url": "https://github.com/propavingk/SlotDrift"
+    },
+    {
      "full_name": "Oryc11/Free-Demonstration-Guide",
-     "stars_per_day": 19.0,
+     "stars_per_day": 10.5,
      "url": "https://github.com/Oryc11/Free-Demonstration-Guide"
     },
     {
      "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 6.62,
+     "stars_per_day": 6.14,
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
     },
     {
      "full_name": "SohniSwatantra/nosana-mcp",
      "stars_per_day": 1.11,
      "url": "https://github.com/SohniSwatantra/nosana-mcp"
-    },
-    {
-     "full_name": "blueshift-gg/solana-awesome",
-     "stars_per_day": 0.42,
-     "url": "https://github.com/blueshift-gg/solana-awesome"
     }
    ]
   },
   {
-   "narrative": "Security & Threats",
-   "score": 32.1,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 3,
-    "github_top_velocity": 0.08,
-    "headline_hits": 4,
-    "sample_headlines": [
-     "Brooklyn Man Who Bragged About $16M Coinbase Scam Gets Up to 12 Years",
-     "An AI Agent Just Hacked a Government Website for the First Time, Australia PM Says",
-     "More Markets lending reserve drained for $410,000: Blockaid"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "hypnogaba/solana-signal-trader",
-     "stars_per_day": 0.04,
-     "url": "https://github.com/hypnogaba/solana-signal-trader"
-    },
-    {
-     "full_name": "KarloAldrete/universal-proxy",
-     "stars_per_day": 0.02,
-     "url": "https://github.com/KarloAldrete/universal-proxy"
-    },
-    {
-     "full_name": "leafwithered/clawledger",
-     "stars_per_day": 0.02,
-     "url": "https://github.com/leafwithered/clawledger"
-    }
-   ]
-  },
-  {
-   "narrative": "AI Agents on Solana",
-   "score": 28.8,
+   "narrative": "Payments & Stablecoins",
+   "score": 26.8,
    "confidence": "High",
    "evidence": {
-    "github_repos": 16,
-    "github_top_velocity": 4.76,
-    "headline_hits": 3,
+    "github_repos": 7,
+    "github_top_velocity": 10.8,
+    "headline_hits": 2,
     "sample_headlines": [
-     "An AI Agent Just Hacked a Government Website for the First Time, Australia PM Says",
-     "OpenAI Gives Ukraine Access to Daybreak AI Cyber-Defense Tool",
-     "Meta's Muse AI Agent Read a User's Private iMessages. Then It Lied About How"
+     "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
+     "US Aims to Turn Stablecoins Into a Weapon for Dollar Dominance"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
    },
    "member_repos": [
     {
-     "full_name": "PillCrew/claimchain",
-     "stars_per_day": 1.29,
-     "url": "https://github.com/PillCrew/claimchain"
-    },
-    {
-     "full_name": "SohniSwatantra/nosana-mcp",
-     "stars_per_day": 1.11,
-     "url": "https://github.com/SohniSwatantra/nosana-mcp"
-    },
-    {
-     "full_name": "PillCrew/PillCrew",
-     "stars_per_day": 1.03,
-     "url": "https://github.com/PillCrew/PillCrew"
-    },
-    {
-     "full_name": "ayomidefagboyo/kata",
-     "stars_per_day": 0.67,
-     "url": "https://github.com/ayomidefagboyo/kata"
-    },
-    {
-     "full_name": "o-mid/guardrail-agent",
-     "stars_per_day": 0.2,
-     "url": "https://github.com/o-mid/guardrail-agent"
-    }
-   ]
-  },
-  {
-   "narrative": "Payments & Stablecoins",
-   "score": 19.3,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 8,
-    "github_top_velocity": 19.32,
-    "headline_hits": 0,
-    "sample_headlines": [],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
      "full_name": "Oryc11/Free-Demonstration-Guide",
-     "stars_per_day": 19.0,
+     "stars_per_day": 10.5,
      "url": "https://github.com/Oryc11/Free-Demonstration-Guide"
     },
     {
@@ -366,6 +294,78 @@
      "full_name": "belumume/zeroclaw-solana",
      "stars_per_day": 0.02,
      "url": "https://github.com/belumume/zeroclaw-solana"
+    }
+   ]
+  },
+  {
+   "narrative": "Security & Threats",
+   "score": 24.0,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 2,
+    "github_top_velocity": 0.04,
+    "headline_hits": 3,
+    "sample_headlines": [
+     "Brooklyn Man Who Bragged About $16M Coinbase Scam Gets Up to 12 Years",
+     "More Markets lending reserve drained for $410,000: Blockaid",
+     "Term Finance loses estimated $8.5M in vault governance exploit"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "KarloAldrete/universal-proxy",
+     "stars_per_day": 0.02,
+     "url": "https://github.com/KarloAldrete/universal-proxy"
+    },
+    {
+     "full_name": "leafwithered/clawledger",
+     "stars_per_day": 0.02,
+     "url": "https://github.com/leafwithered/clawledger"
+    }
+   ]
+  },
+  {
+   "narrative": "AI Agents on Solana",
+   "score": 23.6,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 18,
+    "github_top_velocity": 7.64,
+    "headline_hits": 2,
+    "sample_headlines": [
+     "AI Can Now Doxx Your Anonymous Accounts? Here's What\u2019s Going On",
+     "Elliptic Wants Every Cop to Read a Crypto Wallet in Seconds\u2014With AI"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 2
+   },
+   "member_repos": [
+    {
+     "full_name": "Zyxel89/proof-of-strategy",
+     "stars_per_day": 2.0,
+     "url": "https://github.com/Zyxel89/proof-of-strategy"
+    },
+    {
+     "full_name": "PillCrew/claimchain",
+     "stars_per_day": 1.29,
+     "url": "https://github.com/PillCrew/claimchain"
+    },
+    {
+     "full_name": "SohniSwatantra/nosana-mcp",
+     "stars_per_day": 1.11,
+     "url": "https://github.com/SohniSwatantra/nosana-mcp"
+    },
+    {
+     "full_name": "PillCrew/PillCrew",
+     "stars_per_day": 1.03,
+     "url": "https://github.com/PillCrew/PillCrew"
+    },
+    {
+     "full_name": "bambini-tech/digitaldon-public",
+     "stars_per_day": 1.0,
+     "url": "https://github.com/bambini-tech/digitaldon-public"
     }
    ]
   },

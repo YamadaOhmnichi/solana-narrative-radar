@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-09-24T06:33:57+00:00",
+ "generated_at": "2026-09-24T12:34:25+00:00",
  "narratives": [
   {
    "narrative": "Wallets & UX",
-   "score": 113.1,
+   "score": 127.1,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 20,
-    "github_top_velocity": 113.08,
+    "github_top_velocity": 127.06,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -16,7 +16,7 @@
    "member_repos": [
     {
      "full_name": "uni-launch/solana-token-creator",
-     "stars_per_day": 47.0,
+     "stars_per_day": 64.0,
      "url": "https://github.com/uni-launch/solana-token-creator"
     },
     {
@@ -26,7 +26,7 @@
     },
     {
      "full_name": "Kylerkrausemdzyra64/Crypto-Checker",
-     "stars_per_day": 17.6,
+     "stars_per_day": 14.67,
      "url": "https://github.com/Kylerkrausemdzyra64/Crypto-Checker"
     },
     {
@@ -35,19 +35,19 @@
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
     },
     {
-     "full_name": "dartkomnitibe/solana-meme-tool",
-     "stars_per_day": 3.68,
-     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
+     "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
+     "stars_per_day": 3.66,
+     "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
     }
    ]
   },
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 94.5,
+   "score": 94.4,
    "confidence": "High",
    "evidence": {
     "github_repos": 47,
-    "github_top_velocity": 70.55,
+    "github_top_velocity": 70.44,
     "headline_hits": 3,
     "sample_headlines": [
      "Kraken brings DeFi yield to tokenized stocks and ETFs",
@@ -74,42 +74,37 @@
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
     },
     {
-     "full_name": "dartkomnitibe/solana-meme-tool",
-     "stars_per_day": 3.68,
-     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
-    },
-    {
      "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
      "stars_per_day": 3.66,
      "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
+    },
+    {
+     "full_name": "dartkomnitibe/solana-meme-tool",
+     "stars_per_day": 3.6,
+     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
     }
    ]
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 92.6,
+   "score": 90.1,
    "confidence": "High",
    "evidence": {
     "github_repos": 13,
-    "github_top_velocity": 47.48,
+    "github_top_velocity": 44.82,
     "headline_hits": 2,
     "sample_headlines": [
      "Fomo overtakes Pump.fun in daily revenue on Solana",
      "Fomo overtakes Pump.fun in daily revenue on Solana"
     ],
-    "market_avg_7d_pct": 14.56,
+    "market_avg_7d_pct": 14.66,
     "sources_confirming": 3
    },
    "member_repos": [
     {
      "full_name": "nhovongoc0-max/meme-radar",
-     "stars_per_day": 36.17,
+     "stars_per_day": 33.62,
      "url": "https://github.com/nhovongoc0-max/meme-radar"
-    },
-    {
-     "full_name": "dartkomnitibe/solana-meme-tool",
-     "stars_per_day": 3.68,
-     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
     },
     {
      "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
@@ -117,8 +112,13 @@
      "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
     },
     {
+     "full_name": "dartkomnitibe/solana-meme-tool",
+     "stars_per_day": 3.6,
+     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
+    },
+    {
      "full_name": "OnlyTerp/papertrench",
-     "stars_per_day": 1.36,
+     "stars_per_day": 1.33,
      "url": "https://github.com/OnlyTerp/papertrench"
     },
     {
@@ -130,14 +130,13 @@
   },
   {
    "narrative": "RWA & Tokenization",
-   "score": 86.2,
+   "score": 78.1,
    "confidence": "High",
    "evidence": {
     "github_repos": 6,
-    "github_top_velocity": 62.24,
-    "headline_hits": 3,
+    "github_top_velocity": 62.07,
+    "headline_hits": 2,
     "sample_headlines": [
-     "NYSE Taps Blockchain.com to Reach Crypto Investors With Tokenized Stocks",
      "Winners and losers of the SEC\u2019s new tokenized stocks rules",
      "Kraken brings DeFi yield to tokenized stocks and ETFs"
     ],
@@ -157,7 +156,7 @@
     },
     {
      "full_name": "thesithunyein/owed",
-     "stars_per_day": 0.5,
+     "stars_per_day": 0.33,
      "url": "https://github.com/thesithunyein/owed"
     },
     {
@@ -173,12 +172,52 @@
    ]
   },
   {
+   "narrative": "Consumer & Social",
+   "score": 65.2,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 7,
+    "github_top_velocity": 65.21,
+    "headline_hits": 0,
+    "sample_headlines": [],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "uni-launch/solana-token-creator",
+     "stars_per_day": 64.0,
+     "url": "https://github.com/uni-launch/solana-token-creator"
+    },
+    {
+     "full_name": "blueshift-gg/solana-awesome",
+     "stars_per_day": 0.42,
+     "url": "https://github.com/blueshift-gg/solana-awesome"
+    },
+    {
+     "full_name": "livid/exe-hub",
+     "stars_per_day": 0.4,
+     "url": "https://github.com/livid/exe-hub"
+    },
+    {
+     "full_name": "accretion-xyz/awesome-solana-security",
+     "stars_per_day": 0.23,
+     "url": "https://github.com/accretion-xyz/awesome-solana-security"
+    },
+    {
+     "full_name": "subhdotsol/solana-programs",
+     "stars_per_day": 0.12,
+     "url": "https://github.com/subhdotsol/solana-programs"
+    }
+   ]
+  },
+  {
    "narrative": "Dev Tooling & Infra",
-   "score": 58.1,
+   "score": 57.8,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 43,
-    "github_top_velocity": 58.06,
+    "github_top_velocity": 57.77,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -202,53 +241,47 @@
     },
     {
      "full_name": "SohniSwatantra/nosana-mcp",
-     "stars_per_day": 1.17,
+     "stars_per_day": 1.11,
      "url": "https://github.com/SohniSwatantra/nosana-mcp"
     },
     {
-     "full_name": "thesithunyein/owed",
-     "stars_per_day": 0.5,
-     "url": "https://github.com/thesithunyein/owed"
+     "full_name": "blueshift-gg/solana-awesome",
+     "stars_per_day": 0.42,
+     "url": "https://github.com/blueshift-gg/solana-awesome"
     }
    ]
   },
   {
-   "narrative": "Consumer & Social",
-   "score": 48.2,
+   "narrative": "Security & Threats",
+   "score": 32.1,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 7,
-    "github_top_velocity": 48.25,
-    "headline_hits": 0,
-    "sample_headlines": [],
+    "github_repos": 3,
+    "github_top_velocity": 0.08,
+    "headline_hits": 4,
+    "sample_headlines": [
+     "Brooklyn Man Who Bragged About $16M Coinbase Scam Gets Up to 12 Years",
+     "An AI Agent Just Hacked a Government Website for the First Time, Australia PM Says",
+     "More Markets lending reserve drained for $410,000: Blockaid"
+    ],
     "market_avg_7d_pct": null,
     "sources_confirming": 1
    },
    "member_repos": [
     {
-     "full_name": "uni-launch/solana-token-creator",
-     "stars_per_day": 47.0,
-     "url": "https://github.com/uni-launch/solana-token-creator"
+     "full_name": "hypnogaba/solana-signal-trader",
+     "stars_per_day": 0.04,
+     "url": "https://github.com/hypnogaba/solana-signal-trader"
     },
     {
-     "full_name": "blueshift-gg/solana-awesome",
-     "stars_per_day": 0.43,
-     "url": "https://github.com/blueshift-gg/solana-awesome"
+     "full_name": "KarloAldrete/universal-proxy",
+     "stars_per_day": 0.02,
+     "url": "https://github.com/KarloAldrete/universal-proxy"
     },
     {
-     "full_name": "livid/exe-hub",
-     "stars_per_day": 0.42,
-     "url": "https://github.com/livid/exe-hub"
-    },
-    {
-     "full_name": "accretion-xyz/awesome-solana-security",
-     "stars_per_day": 0.24,
-     "url": "https://github.com/accretion-xyz/awesome-solana-security"
-    },
-    {
-     "full_name": "subhdotsol/solana-programs",
-     "stars_per_day": 0.12,
-     "url": "https://github.com/subhdotsol/solana-programs"
+     "full_name": "leafwithered/clawledger",
+     "stars_per_day": 0.02,
+     "url": "https://github.com/leafwithered/clawledger"
     }
    ]
   },
@@ -258,7 +291,7 @@
    "confidence": "High",
    "evidence": {
     "github_repos": 16,
-    "github_top_velocity": 4.83,
+    "github_top_velocity": 4.76,
     "headline_hits": 3,
     "sample_headlines": [
      "An AI Agent Just Hacked a Government Website for the First Time, Australia PM Says",
@@ -276,7 +309,7 @@
     },
     {
      "full_name": "SohniSwatantra/nosana-mcp",
-     "stars_per_day": 1.17,
+     "stars_per_day": 1.11,
      "url": "https://github.com/SohniSwatantra/nosana-mcp"
     },
     {
@@ -291,22 +324,20 @@
     },
     {
      "full_name": "o-mid/guardrail-agent",
-     "stars_per_day": 0.21,
+     "stars_per_day": 0.2,
      "url": "https://github.com/o-mid/guardrail-agent"
     }
    ]
   },
   {
    "narrative": "Payments & Stablecoins",
-   "score": 27.3,
+   "score": 19.3,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 8,
     "github_top_velocity": 19.32,
-    "headline_hits": 1,
-    "sample_headlines": [
-     "Americans Would Use Stablecoins\u2014If They Came With Bank Protections, Visa Study Finds"
-    ],
+    "headline_hits": 0,
+    "sample_headlines": [],
     "market_avg_7d_pct": null,
     "sources_confirming": 1
    },
@@ -339,46 +370,12 @@
    ]
   },
   {
-   "narrative": "Security & Threats",
-   "score": 24.1,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 3,
-    "github_top_velocity": 0.08,
-    "headline_hits": 3,
-    "sample_headlines": [
-     "An AI Agent Just Hacked a Government Website for the First Time, Australia PM Says",
-     "More Markets lending reserve drained for $410,000: Blockaid",
-     "Term Finance loses estimated $8.5M in vault governance exploit"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "hypnogaba/solana-signal-trader",
-     "stars_per_day": 0.04,
-     "url": "https://github.com/hypnogaba/solana-signal-trader"
-    },
-    {
-     "full_name": "KarloAldrete/universal-proxy",
-     "stars_per_day": 0.02,
-     "url": "https://github.com/KarloAldrete/universal-proxy"
-    },
-    {
-     "full_name": "leafwithered/clawledger",
-     "stars_per_day": 0.02,
-     "url": "https://github.com/leafwithered/clawledger"
-    }
-   ]
-  },
-  {
    "narrative": "DePIN & Physical Infra",
-   "score": 1.2,
+   "score": 1.1,
    "confidence": "Low",
    "evidence": {
     "github_repos": 2,
-    "github_top_velocity": 1.19,
+    "github_top_velocity": 1.13,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -387,7 +384,7 @@
    "member_repos": [
     {
      "full_name": "SohniSwatantra/nosana-mcp",
-     "stars_per_day": 1.17,
+     "stars_per_day": 1.11,
      "url": "https://github.com/SohniSwatantra/nosana-mcp"
     },
     {

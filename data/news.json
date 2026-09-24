@@ -1,6 +1,11 @@
 {
  "cointelegraph": [
   {
+   "title": "Institutions held crypto through 50% drawdown, Bitwise finds",
+   "pub": "Thu, 24 Sep 2026 09:18:16 +0000",
+   "link": "https://cointelegraph.com/markets/institutions-held-crypto-50-percent-drawdown-bitwise?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
+  },
+  {
    "title": "Crypto\u2019s wild boom-and-bust cycles are fading, Solstice CEO says",
    "pub": "Tue, 22 Sep 2026 08:06:23 +0000",
    "link": "https://cointelegraph.com/news/crypto-bull-runs-liquidity-solstice-ceo?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
@@ -54,14 +59,24 @@
    "title": "Bitcoin ETFs end 9-day inflow streak as BTC dips below $78K",
    "pub": "Sat, 29 Aug 2026 06:47:12 +0000",
    "link": "https://cointelegraph.com/markets/bitcoin-etf-end-9-day-inflow-streak-btc-below-78k?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Solana validators approve proposal to accelerate SOL disinflation",
-   "pub": "Fri, 28 Aug 2026 19:53:12 +0000",
-   "link": "https://cointelegraph.com/news/solana-validators-approve-proposal-to-accelerate-sol-disinflation?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
   }
  ],
  "decrypt": [
+  {
+   "title": "Morning Minute: Selig Says \u2018It\u2019s Go Time\u2019 for CFTC Crypto Rules",
+   "pub": "Thu, 24 Sep 2026 11:56:11 +0000",
+   "link": "https://decrypt.co/379169/morning-minute-selig-says-its-go-time-for-cftc-crypto-rules"
+  },
+  {
+   "title": "Q-Day Could Arrive Before Quantum Computers Are Commercially Useful, EU Warns",
+   "pub": "Thu, 24 Sep 2026 11:05:19 +0000",
+   "link": "https://decrypt.co/379167/q-day-could-arrive-before-quantum-computers-are-commercially-useful-eu-warns"
+  },
+  {
+   "title": "Brooklyn Man Who Bragged About $16M Coinbase Scam Gets Up to 12 Years",
+   "pub": "Thu, 24 Sep 2026 09:00:46 +0000",
+   "link": "https://decrypt.co/379153/brooklyn-man-who-bragged-about-16m-coinbase-scam-gets-up-to-12-years"
+  },
   {
    "title": "Anthropic Says Claude Found Something Big in DNA. It Just Doesn't Know What",
    "pub": "Wed, 23 Sep 2026 22:56:03 +0000",
@@ -106,21 +121,6 @@
    "title": "Crypto Exchange That Invented 100x Leverage Is No More: Here\u2019s What BitMEX Users Need to Know",
    "pub": "Wed, 23 Sep 2026 17:31:03 +0000",
    "link": "https://decrypt.co/379089/crypto-exchange-that-invented-100x-leverage-is-no-more-heres-what-bitmex-users-need-to-know"
-  },
-  {
-   "title": "Canada's Six Biggest Banks Team Up on a Shared Digital-Dollar Network",
-   "pub": "Wed, 23 Sep 2026 17:01:03 +0000",
-   "link": "https://decrypt.co/379081/canada-six-biggest-banks-shared-digital-dollar-network"
-  },
-  {
-   "title": "NYSE Taps Blockchain.com to Reach Crypto Investors With Tokenized Stocks",
-   "pub": "Wed, 23 Sep 2026 16:36:03 +0000",
-   "link": "https://decrypt.co/379080/nyse-taps-blockchain-com-to-reach-crypto-investors-with-tokenized-stocks-etfs"
-  },
-  {
-   "title": "Americans Would Use Stablecoins\u2014If They Came With Bank Protections, Visa Study Finds",
-   "pub": "Wed, 23 Sep 2026 16:26:03 +0000",
-   "link": "https://decrypt.co/379073/americans-stablecoins-bank-protections-visa"
   }
  ],
  "cryptonews": [

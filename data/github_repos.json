@@ -1,5 +1,16 @@
 [
  {
+  "full_name": "uni-launch/solana-token-creator",
+  "url": "https://github.com/uni-launch/solana-token-creator",
+  "description": "Create a Solana token without code \u2014 SPL and Token-2022, authorities, metadata, rent, fees and liquidity. Practical guides.",
+  "stars": 47,
+  "created": "2026-09-23T14:19:56Z",
+  "language": "HTML",
+  "stars_per_day": 47.0,
+  "age_days": 1,
+  "topics": []
+ },
+ {
   "full_name": "nhovongoc0-max/meme-radar",
   "url": "https://github.com/nhovongoc0-max/meme-radar",
   "description": "Meme\u96f7\u8fbe\u5f00\u6e90\u7248\uff1a\u672c\u5730\u53ea\u8bfb\u3001\u591a\u94fe Meme \u5019\u9009\u626b\u63cf\u4e0e\u4eba\u5de5\u590d\u6838\u5de5\u5177",
@@ -38,17 +49,6 @@
   "language": "TypeScript",
   "stars_per_day": 29.38,
   "age_days": 8,
-  "topics": []
- },
- {
-  "full_name": "uni-launch/solana-token-creator",
-  "url": "https://github.com/uni-launch/solana-token-creator",
-  "description": "Create a Solana token without code \u2014 SPL and Token-2022, authorities, metadata, rent, fees and liquidity. Practical guides.",
-  "stars": 26,
-  "created": "2026-09-23T14:19:56Z",
-  "language": "HTML",
-  "stars_per_day": 26.0,
-  "age_days": 1,
   "topics": []
  },
  {
@@ -118,8 +118,8 @@
   "stars": 192,
   "created": "2026-08-06T00:51:16Z",
   "language": "TypeScript",
-  "stars_per_day": 4.0,
-  "age_days": 48,
+  "stars_per_day": 3.92,
+  "age_days": 49,
   "topics": []
  },
  {
@@ -164,10 +164,10 @@
   "full_name": "solana-foundation/solana-microscope",
   "url": "https://github.com/solana-foundation/solana-microscope",
   "description": "Solana Microscope",
-  "stars": 26,
+  "stars": 28,
   "created": "2026-09-15T15:39:09Z",
   "language": "Rust",
-  "stars_per_day": 3.25,
+  "stars_per_day": 3.5,
   "age_days": 8,
   "topics": []
  },
@@ -430,6 +430,17 @@
   "topics": []
  },
  {
+  "full_name": "nirholas/flock-defi-index",
+  "url": "https://github.com/nirholas/flock-defi-index",
+  "description": "Methodology, screening and rebalance proposals for the Flock DeFi Index (FDI) on Solana",
+  "stars": 4,
+  "created": "2026-09-07T21:43:35Z",
+  "language": "TypeScript",
+  "stars_per_day": 0.25,
+  "age_days": 16,
+  "topics": []
+ },
+ {
   "full_name": "accretion-xyz/awesome-solana-security",
   "url": "https://github.com/accretion-xyz/awesome-solana-security",
   "description": "Collection of Solana security resources",
@@ -447,8 +458,8 @@
   "stars": 10,
   "created": "2026-08-10T03:26:44Z",
   "language": "Rust",
-  "stars_per_day": 0.23,
-  "age_days": 44,
+  "stars_per_day": 0.22,
+  "age_days": 45,
   "topics": [
    "defi",
    "magicblock",
@@ -457,26 +468,6 @@
    "pinocchio",
    "solana",
    "surfpool"
-  ]
- },
- {
-  "full_name": "qiaopengjun5162/onchain-arbitrage-colearn",
-  "url": "https://github.com/qiaopengjun5162/onchain-arbitrage-colearn",
-  "description": "\u94fe\u4e0a\u5957\u5229\u6b8b\u9177\u5171\u5b66\u77e5\u8bc6\u5e93\uff1aDeFi\u6e05\u7b97/\u8de8\u6240\u4ef7\u5dee/\u8d44\u91d1\u8d39\u7387/DEX\u5957\u5229\u7814\u7a76\u7b14\u8bb0 + 8\u4e2a\u76d1\u63a7\u54e8\u5175 + Python/Rust\u53cc\u5b9e\u73b0",
-  "stars": 10,
-  "created": "2026-08-08T02:49:21Z",
-  "language": "HTML",
-  "stars_per_day": 0.22,
-  "age_days": 46,
-  "topics": [
-   "arbitrage",
-   "blockchain",
-   "crypto",
-   "defi",
-   "mev",
-   "rust",
-   "solana",
-   "web3"
   ]
  },
  {
@@ -489,6 +480,26 @@
   "stars_per_day": 0.21,
   "age_days": 53,
   "topics": []
+ },
+ {
+  "full_name": "qiaopengjun5162/onchain-arbitrage-colearn",
+  "url": "https://github.com/qiaopengjun5162/onchain-arbitrage-colearn",
+  "description": "\u94fe\u4e0a\u5957\u5229\u6b8b\u9177\u5171\u5b66\u77e5\u8bc6\u5e93\uff1aDeFi\u6e05\u7b97/\u8de8\u6240\u4ef7\u5dee/\u8d44\u91d1\u8d39\u7387/DEX\u5957\u5229\u7814\u7a76\u7b14\u8bb0 + 8\u4e2a\u76d1\u63a7\u54e8\u5175 + Python/Rust\u53cc\u5b9e\u73b0",
+  "stars": 10,
+  "created": "2026-08-08T02:49:21Z",
+  "language": "HTML",
+  "stars_per_day": 0.21,
+  "age_days": 47,
+  "topics": [
+   "arbitrage",
+   "blockchain",
+   "crypto",
+   "defi",
+   "mev",
+   "rust",
+   "solana",
+   "web3"
+  ]
  },
  {
   "full_name": "kunal171/tidebook",
@@ -513,17 +524,6 @@
   "topics": []
  },
  {
-  "full_name": "nirholas/flock-defi-index",
-  "url": "https://github.com/nirholas/flock-defi-index",
-  "description": "Methodology, screening and rebalance proposals for the Flock DeFi Index (FDI) on Solana",
-  "stars": 3,
-  "created": "2026-09-07T21:43:35Z",
-  "language": "TypeScript",
-  "stars_per_day": 0.19,
-  "age_days": 16,
-  "topics": []
- },
- {
   "full_name": "alizeeshan1234/svmScope",
   "url": "https://github.com/alizeeshan1234/svmScope",
   "description": "Transaction autopsy for Solana \u2014 decode any transaction, replay it locally in an embedded SVM, mutate state, time-travel, and freeze it into offline test fixtures",
@@ -544,23 +544,23 @@
   ]
  },
  {
-  "full_name": "antonkarasbiz/solana-program-examples",
-  "url": "https://github.com/antonkarasbiz/solana-program-examples",
-  "description": "Solana program examples in Anchor, Pinocchio, and native Rust for on-chain engineers.",
-  "stars": 2,
-  "created": "2026-09-11T05:58:51Z",
-  "language": "TypeScript",
+  "full_name": "nirholas/onchain-agent-wallets",
+  "url": "https://github.com/nirholas/onchain-agent-wallets",
+  "description": "Give an AI agent a real Solana wallet without giving it your money. An MCP server for spending allowances the SPL Token program enforces on-chain, with guardrails, x402 payments, and revocable custody",
+  "stars": 6,
+  "created": "2026-08-19T21:23:29Z",
+  "language": "JavaScript",
   "stars_per_day": 0.17,
-  "age_days": 12,
+  "age_days": 35,
   "topics": [
-   "anchor",
-   "blockchain",
-   "examples",
-   "pinocchio",
-   "rust",
-   "smart-contracts",
+   "agent-payments",
+   "agent-wallet",
+   "ai-agents",
+   "mcp",
+   "model-context-protocol",
+   "self-custody",
    "solana",
-   "web3"
+   "spl-token"
   ]
  },
  {
@@ -595,23 +595,23 @@
   ]
  },
  {
-  "full_name": "nirholas/onchain-agent-wallets",
-  "url": "https://github.com/nirholas/onchain-agent-wallets",
-  "description": "Give an AI agent a real Solana wallet without giving it your money. An MCP server for spending allowances the SPL Token program enforces on-chain, with guardrails, x402 payments, and revocable custody",
-  "stars": 5,
-  "created": "2026-08-19T21:23:29Z",
-  "language": "JavaScript",
-  "stars_per_day": 0.14,
-  "age_days": 35,
+  "full_name": "antonkarasbiz/solana-program-examples",
+  "url": "https://github.com/antonkarasbiz/solana-program-examples",
+  "description": "Solana program examples in Anchor, Pinocchio, and native Rust for on-chain engineers.",
+  "stars": 2,
+  "created": "2026-09-11T05:58:51Z",
+  "language": "TypeScript",
+  "stars_per_day": 0.15,
+  "age_days": 13,
   "topics": [
-   "agent-payments",
-   "agent-wallet",
-   "ai-agents",
-   "mcp",
-   "model-context-protocol",
-   "self-custody",
+   "anchor",
+   "blockchain",
+   "examples",
+   "pinocchio",
+   "rust",
+   "smart-contracts",
    "solana",
-   "spl-token"
+   "web3"
   ]
  },
  {
@@ -705,17 +705,6 @@
   ]
  },
  {
-  "full_name": "Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
-  "url": "https://github.com/Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
-  "description": "",
-  "stars": 1,
-  "created": "2026-09-14T01:47:19Z",
-  "language": "Rust",
-  "stars_per_day": 0.11,
-  "age_days": 9,
-  "topics": []
- },
- {
   "full_name": "ChiefWoods/yield-tranche-market",
   "url": "https://github.com/ChiefWoods/yield-tranche-market",
   "description": "Yield tranching program with multi-model configuration",
@@ -728,6 +717,17 @@
    "quasar",
    "solana"
   ]
+ },
+ {
+  "full_name": "Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
+  "url": "https://github.com/Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
+  "description": "",
+  "stars": 1,
+  "created": "2026-09-14T01:47:19Z",
+  "language": "Rust",
+  "stars_per_day": 0.1,
+  "age_days": 10,
+  "topics": []
  },
  {
   "full_name": "cryptoduke01/kensho",
@@ -844,7 +844,7 @@
   "created": "2026-08-21T06:17:43Z",
   "language": "JavaScript",
   "stars_per_day": 0.06,
-  "age_days": 33,
+  "age_days": 34,
   "topics": [
    "agents",
    "ai-agents",
@@ -854,20 +854,6 @@
    "cloudflare-workers",
    "defi",
    "meteora"
-  ]
- },
- {
-  "full_name": "ChiefWoods/interest-rate-exchange",
-  "url": "https://github.com/ChiefWoods/interest-rate-exchange",
-  "description": "PT/ST pool-based yield stripping program",
-  "stars": 1,
-  "created": "2026-09-05T06:17:30Z",
-  "language": "Rust",
-  "stars_per_day": 0.06,
-  "age_days": 18,
-  "topics": [
-   "quasar",
-   "solana"
   ]
  },
  {
@@ -1010,6 +996,20 @@
   ]
  },
  {
+  "full_name": "ChiefWoods/interest-rate-exchange",
+  "url": "https://github.com/ChiefWoods/interest-rate-exchange",
+  "description": "PT/ST pool-based yield stripping program",
+  "stars": 1,
+  "created": "2026-09-05T06:17:30Z",
+  "language": "Rust",
+  "stars_per_day": 0.05,
+  "age_days": 19,
+  "topics": [
+   "quasar",
+   "solana"
+  ]
+ },
+ {
   "full_name": "dexladder/dexladder",
   "url": "https://github.com/dexladder/dexladder",
   "description": "The gateway to Web 3.0, in a single HTML file. DEX pool radar with GoPlus contract security, Uniswap-V2 AMM and liquidity desk, perps with a live liquidation tape, bar-by-bar backtester, bring-your-ow",
@@ -1037,7 +1037,7 @@
   "created": "2026-09-04T06:32:44Z",
   "language": null,
   "stars_per_day": 0.05,
-  "age_days": 19,
+  "age_days": 20,
   "topics": []
  },
  {
@@ -1049,17 +1049,6 @@
   "language": "TypeScript",
   "stars_per_day": 0.05,
   "age_days": 40,
-  "topics": []
- },
- {
-  "full_name": "firedancer-io/market-tick",
-  "url": "https://github.com/firedancer-io/market-tick",
-  "description": "A Solana program maintaining a sub-slot clock",
-  "stars": 2,
-  "created": "2026-07-28T02:15:23Z",
-  "language": "Rust",
-  "stars_per_day": 0.04,
-  "age_days": 57,
   "topics": []
  },
  {
@@ -1090,7 +1079,7 @@
   "created": "2026-08-27T03:53:37Z",
   "language": "Rust",
   "stars_per_day": 0.04,
-  "age_days": 27,
+  "age_days": 28,
   "topics": [
    "anchor",
    "solana"
@@ -1168,6 +1157,17 @@
   ]
  },
  {
+  "full_name": "firedancer-io/market-tick",
+  "url": "https://github.com/firedancer-io/market-tick",
+  "description": "A Solana program maintaining a sub-slot clock",
+  "stars": 2,
+  "created": "2026-07-28T02:15:23Z",
+  "language": "Rust",
+  "stars_per_day": 0.03,
+  "age_days": 58,
+  "topics": []
+ },
+ {
   "full_name": "andrzejsantocki/tidify-program",
   "url": "https://github.com/andrzejsantocki/tidify-program",
   "description": "Public reproducible source and IDL for the Tidify Solana program",
@@ -1208,7 +1208,7 @@
   "created": "2026-08-23T04:02:06Z",
   "language": "TypeScript",
   "stars_per_day": 0.03,
-  "age_days": 31,
+  "age_days": 32,
   "topics": []
  },
  {
@@ -1394,7 +1394,7 @@
   "created": "2026-08-13T01:05:33Z",
   "language": null,
   "stars_per_day": 0.02,
-  "age_days": 41,
+  "age_days": 42,
   "topics": []
  },
  {

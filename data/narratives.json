@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-09-24T18:31:32+00:00",
+ "generated_at": "2026-09-25T00:35:49+00:00",
  "narratives": [
   {
    "narrative": "Wallets & UX",
-   "score": 140.2,
+   "score": 143.1,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 20,
-    "github_top_velocity": 132.16,
+    "github_top_velocity": 135.11,
     "headline_hits": 1,
     "sample_headlines": [
-     "Elliptic Wants Every Cop to Read a Crypto Wallet in Seconds\u2014With AI"
+     "Bitget Hacked as $350 Million Vanishes From Crypto Exchange Wallets"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 1
@@ -18,7 +18,7 @@
    "member_repos": [
     {
      "full_name": "uni-launch/solana-token-creator",
-     "stars_per_day": 73.0,
+     "stars_per_day": 76.0,
      "url": "https://github.com/uni-launch/solana-token-creator"
     },
     {
@@ -45,24 +45,24 @@
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 93.4,
+   "score": 95.7,
    "confidence": "High",
    "evidence": {
     "github_repos": 12,
-    "github_top_velocity": 45.49,
+    "github_top_velocity": 46.01,
     "headline_hits": 3,
     "sample_headlines": [
      "Fomo overtakes Pump.fun in daily revenue on Solana",
      "Decrypt Media and FOMO Hour\u2019s Thought Leader Farokh Sarmad to Take Main Stage at NEXTPredict NY Conference",
      "Fomo overtakes Pump.fun in daily revenue on Solana"
     ],
-    "market_avg_7d_pct": 11.93,
+    "market_avg_7d_pct": 12.83,
     "sources_confirming": 3
    },
    "member_repos": [
     {
      "full_name": "nhovongoc0-max/meme-radar",
-     "stars_per_day": 34.38,
+     "stars_per_day": 35.0,
      "url": "https://github.com/nhovongoc0-max/meme-radar"
     },
     {
@@ -82,18 +82,18 @@
     },
     {
      "full_name": "PillCrew/claimchain",
-     "stars_per_day": 1.29,
+     "stars_per_day": 1.23,
      "url": "https://github.com/PillCrew/claimchain"
     }
    ]
   },
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 83.0,
+   "score": 85.9,
    "confidence": "High",
    "evidence": {
     "github_repos": 47,
-    "github_top_velocity": 59.03,
+    "github_top_velocity": 61.92,
     "headline_hits": 3,
     "sample_headlines": [
      "Kraken brings DeFi yield to tokenized stocks and ETFs",
@@ -111,7 +111,7 @@
     },
     {
      "full_name": "Oryc11/Free-Demonstration-Guide",
-     "stars_per_day": 10.5,
+     "stars_per_day": 13.0,
      "url": "https://github.com/Oryc11/Free-Demonstration-Guide"
     },
     {
@@ -133,11 +133,11 @@
   },
   {
    "narrative": "Consumer & Social",
-   "score": 73.8,
+   "score": 77.2,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 6,
-    "github_top_velocity": 73.81,
+    "github_repos": 7,
+    "github_top_velocity": 77.25,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -146,8 +146,13 @@
    "member_repos": [
     {
      "full_name": "uni-launch/solana-token-creator",
-     "stars_per_day": 73.0,
+     "stars_per_day": 76.0,
      "url": "https://github.com/uni-launch/solana-token-creator"
+    },
+    {
+     "full_name": "livid/exe-hub",
+     "stars_per_day": 0.44,
+     "url": "https://github.com/livid/exe-hub"
     },
     {
      "full_name": "blueshift-gg/solana-awesome",
@@ -163,11 +168,6 @@
      "full_name": "subhdotsol/solana-programs",
      "stars_per_day": 0.12,
      "url": "https://github.com/subhdotsol/solana-programs"
-    },
-    {
-     "full_name": "sapir-pirski/fate-solana-games",
-     "stars_per_day": 0.02,
-     "url": "https://github.com/sapir-pirski/fate-solana-games"
     }
    ]
   },
@@ -216,11 +216,11 @@
   },
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 61.4,
+   "score": 64.2,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 43,
-    "github_top_velocity": 61.36,
+    "github_repos": 44,
+    "github_top_velocity": 64.15,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -239,7 +239,7 @@
     },
     {
      "full_name": "Oryc11/Free-Demonstration-Guide",
-     "stars_per_day": 10.5,
+     "stars_per_day": 13.0,
      "url": "https://github.com/Oryc11/Free-Demonstration-Guide"
     },
     {
@@ -256,14 +256,15 @@
   },
   {
    "narrative": "Payments & Stablecoins",
-   "score": 26.8,
+   "score": 37.3,
    "confidence": "High",
    "evidence": {
     "github_repos": 7,
-    "github_top_velocity": 10.8,
-    "headline_hits": 2,
+    "github_top_velocity": 13.3,
+    "headline_hits": 3,
     "sample_headlines": [
      "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
+     "Federal Reserve Unveils Stablecoin Rules on Reserves and Capital",
      "US Aims to Turn Stablecoins Into a Weapon for Dollar Dominance"
     ],
     "market_avg_7d_pct": null,
@@ -272,7 +273,7 @@
    "member_repos": [
     {
      "full_name": "Oryc11/Free-Demonstration-Guide",
-     "stars_per_day": 10.5,
+     "stars_per_day": 13.0,
      "url": "https://github.com/Oryc11/Free-Demonstration-Guide"
     },
     {
@@ -298,6 +299,49 @@
    ]
   },
   {
+   "narrative": "AI Agents on Solana",
+   "score": 24.4,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 18,
+    "github_top_velocity": 8.37,
+    "headline_hits": 2,
+    "sample_headlines": [
+     "Meta's New AI Toy Is a Keychain That Watches, Listens, and Never Blinks",
+     "AI Can Now Doxx Your Anonymous Accounts? Here's What\u2019s Going On"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 2
+   },
+   "member_repos": [
+    {
+     "full_name": "Zyxel89/proof-of-strategy",
+     "stars_per_day": 3.0,
+     "url": "https://github.com/Zyxel89/proof-of-strategy"
+    },
+    {
+     "full_name": "PillCrew/claimchain",
+     "stars_per_day": 1.23,
+     "url": "https://github.com/PillCrew/claimchain"
+    },
+    {
+     "full_name": "SohniSwatantra/nosana-mcp",
+     "stars_per_day": 1.11,
+     "url": "https://github.com/SohniSwatantra/nosana-mcp"
+    },
+    {
+     "full_name": "PillCrew/PillCrew",
+     "stars_per_day": 1.0,
+     "url": "https://github.com/PillCrew/PillCrew"
+    },
+    {
+     "full_name": "bambini-tech/digitaldon-public",
+     "stars_per_day": 1.0,
+     "url": "https://github.com/bambini-tech/digitaldon-public"
+    }
+   ]
+  },
+  {
    "narrative": "Security & Threats",
    "score": 24.0,
    "confidence": "Medium",
@@ -306,7 +350,7 @@
     "github_top_velocity": 0.04,
     "headline_hits": 3,
     "sample_headlines": [
-     "Brooklyn Man Who Bragged About $16M Coinbase Scam Gets Up to 12 Years",
+     "Bitget Hacked as $350 Million Vanishes From Crypto Exchange Wallets",
      "More Markets lending reserve drained for $410,000: Blockaid",
      "Term Finance loses estimated $8.5M in vault governance exploit"
     ],
@@ -323,49 +367,6 @@
      "full_name": "leafwithered/clawledger",
      "stars_per_day": 0.02,
      "url": "https://github.com/leafwithered/clawledger"
-    }
-   ]
-  },
-  {
-   "narrative": "AI Agents on Solana",
-   "score": 23.6,
-   "confidence": "High",
-   "evidence": {
-    "github_repos": 18,
-    "github_top_velocity": 7.64,
-    "headline_hits": 2,
-    "sample_headlines": [
-     "AI Can Now Doxx Your Anonymous Accounts? Here's What\u2019s Going On",
-     "Elliptic Wants Every Cop to Read a Crypto Wallet in Seconds\u2014With AI"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 2
-   },
-   "member_repos": [
-    {
-     "full_name": "Zyxel89/proof-of-strategy",
-     "stars_per_day": 2.0,
-     "url": "https://github.com/Zyxel89/proof-of-strategy"
-    },
-    {
-     "full_name": "PillCrew/claimchain",
-     "stars_per_day": 1.29,
-     "url": "https://github.com/PillCrew/claimchain"
-    },
-    {
-     "full_name": "SohniSwatantra/nosana-mcp",
-     "stars_per_day": 1.11,
-     "url": "https://github.com/SohniSwatantra/nosana-mcp"
-    },
-    {
-     "full_name": "PillCrew/PillCrew",
-     "stars_per_day": 1.03,
-     "url": "https://github.com/PillCrew/PillCrew"
-    },
-    {
-     "full_name": "bambini-tech/digitaldon-public",
-     "stars_per_day": 1.0,
-     "url": "https://github.com/bambini-tech/digitaldon-public"
     }
    ]
   },

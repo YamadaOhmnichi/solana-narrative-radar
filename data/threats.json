@@ -6,8 +6,8 @@
   "stars": 1236,
   "created": "2026-08-28T08:07:10Z",
   "language": "CSS",
-  "stars_per_day": 45.78,
-  "age_days": 27,
+  "stars_per_day": 44.14,
+  "age_days": 28,
   "topics": [
    "bitcoin",
    "bitcoin-wallet",
@@ -27,8 +27,8 @@
   "stars": 35,
   "created": "2026-09-18T10:53:47Z",
   "language": "Python",
-  "stars_per_day": 5.83,
-  "age_days": 6,
+  "stars_per_day": 5.0,
+  "age_days": 7,
   "topics": [
    "auto-withdraw-script",
    "drain-bot",

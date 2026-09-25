@@ -3,10 +3,10 @@
   "full_name": "uni-launch/solana-token-creator",
   "url": "https://github.com/uni-launch/solana-token-creator",
   "description": "Create a Solana token without code \u2014 SPL and Token-2022, authorities, metadata, rent, fees and liquidity. Practical guides.",
-  "stars": 76,
+  "stars": 84,
   "created": "2026-09-23T14:19:56Z",
   "language": "HTML",
-  "stars_per_day": 76.0,
+  "stars_per_day": 84.0,
   "age_days": 1,
   "topics": []
  },
@@ -14,10 +14,10 @@
   "full_name": "nhovongoc0-max/meme-radar",
   "url": "https://github.com/nhovongoc0-max/meme-radar",
   "description": "Meme\u96f7\u8fbe\u5f00\u6e90\u7248\uff1a\u672c\u5730\u53ea\u8bfb\u3001\u591a\u94fe Meme \u5019\u9009\u626b\u63cf\u4e0e\u4eba\u5de5\u590d\u6838\u5de5\u5177",
-  "stars": 455,
+  "stars": 472,
   "created": "2026-09-11T12:14:57Z",
   "language": "JavaScript",
-  "stars_per_day": 35.0,
+  "stars_per_day": 36.31,
   "age_days": 13,
   "topics": [
    "bsc",
@@ -121,17 +121,6 @@
   "topics": []
  },
  {
-  "full_name": "solana-foundation/tokens",
-  "url": "https://github.com/solana-foundation/tokens",
-  "description": "The source of truth for canonical assets on Solana. ",
-  "stars": 192,
-  "created": "2026-08-06T00:51:16Z",
-  "language": "TypeScript",
-  "stars_per_day": 3.92,
-  "age_days": 49,
-  "topics": []
- },
- {
   "full_name": "sopersone/CROWBRAIN",
   "url": "https://github.com/sopersone/CROWBRAIN",
   "description": "Experimental market observation terminal for Solana and Robinhood Chain, featuring a crow-inspired interface, rule-based signals, and live engine logs.",
@@ -140,6 +129,17 @@
   "language": "Python",
   "stars_per_day": 3.89,
   "age_days": 9,
+  "topics": []
+ },
+ {
+  "full_name": "solana-foundation/tokens",
+  "url": "https://github.com/solana-foundation/tokens",
+  "description": "The source of truth for canonical assets on Solana. ",
+  "stars": 192,
+  "created": "2026-08-06T00:51:16Z",
+  "language": "TypeScript",
+  "stars_per_day": 3.84,
+  "age_days": 50,
   "topics": []
  },
  {
@@ -515,7 +515,7 @@
   "created": "2026-08-10T03:26:44Z",
   "language": "Rust",
   "stars_per_day": 0.22,
-  "age_days": 45,
+  "age_days": 46,
   "topics": [
    "defi",
    "magicblock",
@@ -534,7 +534,7 @@
   "created": "2026-08-08T02:49:21Z",
   "language": "HTML",
   "stars_per_day": 0.21,
-  "age_days": 47,
+  "age_days": 48,
   "topics": [
    "arbitrage",
    "blockchain",
@@ -635,8 +635,8 @@
   "stars": 2,
   "created": "2026-09-11T05:58:51Z",
   "language": "TypeScript",
-  "stars_per_day": 0.15,
-  "age_days": 13,
+  "stars_per_day": 0.14,
+  "age_days": 14,
   "topics": [
    "anchor",
    "blockchain",
@@ -761,17 +761,6 @@
   ]
  },
  {
-  "full_name": "Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
-  "url": "https://github.com/Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
-  "description": "",
-  "stars": 1,
-  "created": "2026-09-14T01:47:19Z",
-  "language": "Rust",
-  "stars_per_day": 0.1,
-  "age_days": 10,
-  "topics": []
- },
- {
   "full_name": "ChiefWoods/yield-tranche-market",
   "url": "https://github.com/ChiefWoods/yield-tranche-market",
   "description": "Yield tranching program with multi-model configuration",
@@ -784,6 +773,17 @@
    "quasar",
    "solana"
   ]
+ },
+ {
+  "full_name": "Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
+  "url": "https://github.com/Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
+  "description": "",
+  "stars": 1,
+  "created": "2026-09-14T01:47:19Z",
+  "language": "Rust",
+  "stars_per_day": 0.09,
+  "age_days": 11,
+  "topics": []
  },
  {
   "full_name": "blueshift-gg/solana-winternitz",
@@ -875,7 +875,7 @@
   "created": "2026-08-21T06:17:43Z",
   "language": "JavaScript",
   "stars_per_day": 0.06,
-  "age_days": 34,
+  "age_days": 35,
   "topics": [
    "agents",
    "ai-agents",
@@ -981,6 +981,25 @@
   ]
  },
  {
+  "full_name": "Patoski-patoski/sentinel-oracle",
+  "url": "https://github.com/Patoski-patoski/sentinel-oracle",
+  "description": "A decentralized risk oracle designed for the emerging AI agent economy. Currently, AI trading agents execute swaps on Solana based on pure logic, often falling victim to circular wash-trading clusters",
+  "stars": 1,
+  "created": "2026-09-07T15:49:01Z",
+  "language": "TypeScript",
+  "stars_per_day": 0.06,
+  "age_days": 17,
+  "topics": [
+   "anchor",
+   "autonomous-agents",
+   "fintech",
+   "nestjs-backend",
+   "rust",
+   "solana",
+   "typescript"
+  ]
+ },
+ {
   "full_name": "ChiefWoods/interest-rate-exchange",
   "url": "https://github.com/ChiefWoods/interest-rate-exchange",
   "description": "PT/ST pool-based yield stripping program",
@@ -988,7 +1007,7 @@
   "created": "2026-09-05T06:17:30Z",
   "language": "Rust",
   "stars_per_day": 0.05,
-  "age_days": 19,
+  "age_days": 20,
   "topics": [
    "quasar",
    "solana"
@@ -997,7 +1016,7 @@
  {
   "full_name": "dexladder/dexladder",
   "url": "https://github.com/dexladder/dexladder",
-  "description": "The gateway to Web 3.0, in a single HTML file. DEX pool radar with GoPlus contract security, Uniswap-V2 AMM and liquidity desk, perps with a live liquidation tape, bar-by-bar backtester, bring-your-ow",
+  "description": "Paper-trading Web3 terminal for browser, iPhone and iPad. DEX mechanics, perps, liquidity, backtesting and on-device learning \u2014 no wallet, no account, no server.",
   "stars": 3,
   "created": "2026-07-29T06:55:59Z",
   "language": "HTML",
@@ -1006,32 +1025,12 @@
   "topics": [
    "amm",
    "backtesting",
-   "blockchain",
    "crypto",
+   "crypto-education",
    "defi",
    "dex",
-   "education",
-   "ethereum"
-  ]
- },
- {
-  "full_name": "daronthedragon/token2022-fingerprint",
-  "url": "https://github.com/daronthedragon/token2022-fingerprint",
-  "description": "What does this Solana mint actually do to your transfers? Reports Token-2022 extensions - permanent delegates, transfer hooks, fees - and rates them by how they are actually configured.",
-  "stars": 2,
-  "created": "2026-08-18T22:52:27Z",
-  "language": "TypeScript",
-  "stars_per_day": 0.05,
-  "age_days": 37,
-  "topics": [
-   "blockchain",
-   "cli",
-   "defi",
-   "security",
-   "solana",
-   "spl-token",
-   "token-2022",
-   "transfer-hook"
+   "ethereum",
+   "ios"
   ]
  },
  {
@@ -1052,6 +1051,26 @@
    "solana",
    "typescript",
    "viem"
+  ]
+ },
+ {
+  "full_name": "daronthedragon/token2022-fingerprint",
+  "url": "https://github.com/daronthedragon/token2022-fingerprint",
+  "description": "What does this Solana mint actually do to your transfers? Reports Token-2022 extensions - permanent delegates, transfer hooks, fees - and rates them by how they are actually configured.",
+  "stars": 2,
+  "created": "2026-08-18T22:52:27Z",
+  "language": "TypeScript",
+  "stars_per_day": 0.05,
+  "age_days": 37,
+  "topics": [
+   "blockchain",
+   "cli",
+   "defi",
+   "security",
+   "solana",
+   "spl-token",
+   "token-2022",
+   "transfer-hook"
   ]
  },
  {
@@ -1082,7 +1101,7 @@
   "created": "2026-09-04T06:32:44Z",
   "language": null,
   "stars_per_day": 0.05,
-  "age_days": 20,
+  "age_days": 21,
   "topics": []
  },
  {
@@ -1114,20 +1133,6 @@
    "agentic-ai",
    "agentic-workflow",
    "agents"
-  ]
- },
- {
-  "full_name": "ChiefWoods/permissionless-fee-router",
-  "url": "https://github.com/ChiefWoods/permissionless-fee-router",
-  "description": "Locked-balance weighted fee sharing program for star.fun Superteam Earn bounty",
-  "stars": 1,
-  "created": "2026-08-27T03:53:37Z",
-  "language": "Rust",
-  "stars_per_day": 0.04,
-  "age_days": 28,
-  "topics": [
-   "anchor",
-   "solana"
   ]
  },
  {
@@ -1169,7 +1174,7 @@
   "created": "2026-07-28T02:15:23Z",
   "language": "Rust",
   "stars_per_day": 0.03,
-  "age_days": 58,
+  "age_days": 59,
   "topics": []
  },
  {
@@ -1182,6 +1187,20 @@
   "stars_per_day": 0.03,
   "age_days": 30,
   "topics": []
+ },
+ {
+  "full_name": "ChiefWoods/permissionless-fee-router",
+  "url": "https://github.com/ChiefWoods/permissionless-fee-router",
+  "description": "Locked-balance weighted fee sharing program for star.fun Superteam Earn bounty",
+  "stars": 1,
+  "created": "2026-08-27T03:53:37Z",
+  "language": "Rust",
+  "stars_per_day": 0.03,
+  "age_days": 29,
+  "topics": [
+   "anchor",
+   "solana"
+  ]
  },
  {
   "full_name": "nemorixgroup/Solana-Knowledge-Base",
@@ -1213,7 +1232,7 @@
   "created": "2026-08-23T04:02:06Z",
   "language": "TypeScript",
   "stars_per_day": 0.03,
-  "age_days": 32,
+  "age_days": 33,
   "topics": []
  },
  {
@@ -1408,7 +1427,7 @@
   "created": "2026-08-13T01:05:33Z",
   "language": null,
   "stars_per_day": 0.02,
-  "age_days": 42,
+  "age_days": 43,
   "topics": []
  },
  {
@@ -1516,16 +1535,5 @@
    "staking",
    "tokenized-vault"
   ]
- },
- {
-  "full_name": "blockballr/selo",
-  "url": "https://github.com/blockballr/selo",
-  "description": "Zero-key cryptographic accounting for Solana stablecoins. Watches chain, matches payments, computes PTAX cost basis, anchors Poseidon BN254 roots daily. Pure Rust, one binary.",
-  "stars": 1,
-  "created": "2026-07-27T00:18:22Z",
-  "language": "Rust",
-  "stars_per_day": 0.02,
-  "age_days": 60,
-  "topics": []
  }
 ]

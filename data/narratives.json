@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-09-25T00:35:49+00:00",
+ "generated_at": "2026-09-25T06:34:19+00:00",
  "narratives": [
   {
    "narrative": "Wallets & UX",
-   "score": 143.1,
+   "score": 151.1,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 20,
-    "github_top_velocity": 135.11,
+    "github_repos": 21,
+    "github_top_velocity": 143.11,
     "headline_hits": 1,
     "sample_headlines": [
      "Bitget Hacked as $350 Million Vanishes From Crypto Exchange Wallets"
@@ -18,7 +18,7 @@
    "member_repos": [
     {
      "full_name": "uni-launch/solana-token-creator",
-     "stars_per_day": 76.0,
+     "stars_per_day": 84.0,
      "url": "https://github.com/uni-launch/solana-token-creator"
     },
     {
@@ -45,24 +45,24 @@
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 95.7,
+   "score": 97.0,
    "confidence": "High",
    "evidence": {
     "github_repos": 12,
-    "github_top_velocity": 46.01,
+    "github_top_velocity": 47.32,
     "headline_hits": 3,
     "sample_headlines": [
      "Fomo overtakes Pump.fun in daily revenue on Solana",
      "Decrypt Media and FOMO Hour\u2019s Thought Leader Farokh Sarmad to Take Main Stage at NEXTPredict NY Conference",
      "Fomo overtakes Pump.fun in daily revenue on Solana"
     ],
-    "market_avg_7d_pct": 12.83,
+    "market_avg_7d_pct": 12.85,
     "sources_confirming": 3
    },
    "member_repos": [
     {
      "full_name": "nhovongoc0-max/meme-radar",
-     "stars_per_day": 35.0,
+     "stars_per_day": 36.31,
      "url": "https://github.com/nhovongoc0-max/meme-radar"
     },
     {
@@ -92,7 +92,7 @@
    "score": 85.9,
    "confidence": "High",
    "evidence": {
-    "github_repos": 47,
+    "github_repos": 48,
     "github_top_velocity": 61.92,
     "headline_hits": 3,
     "sample_headlines": [
@@ -133,11 +133,11 @@
   },
   {
    "narrative": "Consumer & Social",
-   "score": 77.2,
+   "score": 85.2,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 7,
-    "github_top_velocity": 77.25,
+    "github_top_velocity": 85.25,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -146,7 +146,7 @@
    "member_repos": [
     {
      "full_name": "uni-launch/solana-token-creator",
-     "stars_per_day": 76.0,
+     "stars_per_day": 84.0,
      "url": "https://github.com/uni-launch/solana-token-creator"
     },
     {
@@ -259,8 +259,8 @@
    "score": 37.3,
    "confidence": "High",
    "evidence": {
-    "github_repos": 7,
-    "github_top_velocity": 13.3,
+    "github_repos": 6,
+    "github_top_velocity": 13.28,
     "headline_hits": 3,
     "sample_headlines": [
      "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
@@ -303,7 +303,7 @@
    "score": 24.4,
    "confidence": "High",
    "evidence": {
-    "github_repos": 18,
+    "github_repos": 19,
     "github_top_velocity": 8.37,
     "headline_hits": 2,
     "sample_headlines": [

@@ -2,7 +2,7 @@
  {
   "full_name": "MetaMask-AI/metamask-desktop",
   "url": "https://github.com/MetaMask-AI/metamask-desktop",
-  "description": "\ud83c\udf10 \ud83d\udd0c The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
+  "description": "MetaMask Desktop (\u5c0f\u72d0\u72f8\u94b1\u5305\u684c\u9762\u7aef / \u30e1\u30bf\u30de\u30b9\u30af \u30c7\u30b9\u30af\u30c8\u30c3\u30d7) \u2014 Safe cross-platform Web3 crypto wallet app for Windows, macOS and Linux.",
   "stars": 1235,
   "created": "2026-08-28T08:07:10Z",
   "language": "CSS",
@@ -10,13 +10,13 @@
   "age_days": 28,
   "topics": [
    "bitcoin",
-   "bitcoin-wallet",
    "crypto",
    "cryptocoins",
-   "cryptocompare-api",
    "cryptocurrency",
    "dapp",
-   "ethereum"
+   "ethereum",
+   "ethereum-blockchain",
+   "ethereum-wallet"
   ],
   "flag": "brand-impersonation"
  },

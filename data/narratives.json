@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-26T00:34:01+00:00",
+ "generated_at": "2026-09-26T06:32:56+00:00",
  "narratives": [
   {
    "narrative": "Wallets & UX",
@@ -7,7 +7,7 @@
    "confidence": "Medium",
    "evidence": {
     "github_repos": 21,
-    "github_top_velocity": 109.35,
+    "github_top_velocity": 109.34,
     "headline_hits": 1,
     "sample_headlines": [
      "Defense Secretary Pete Hegseth Holds Bitcoin in a Coinbase Wallet, Filing Shows"
@@ -45,17 +45,17 @@
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 84.0,
+   "score": 81.1,
    "confidence": "High",
    "evidence": {
-    "github_repos": 12,
-    "github_top_velocity": 45.32,
+    "github_repos": 13,
+    "github_top_velocity": 45.38,
     "headline_hits": 2,
     "sample_headlines": [
      "Fomo overtakes Pump.fun in daily revenue on Solana",
      "Fomo overtakes Pump.fun in daily revenue on Solana"
     ],
-    "market_avg_7d_pct": 11.33,
+    "market_avg_7d_pct": 9.85,
     "sources_confirming": 3
    },
    "member_repos": [
@@ -76,7 +76,7 @@
     },
     {
      "full_name": "OnlyTerp/papertrench",
-     "stars_per_day": 1.33,
+     "stars_per_day": 1.35,
      "url": "https://github.com/OnlyTerp/papertrench"
     },
     {
@@ -88,11 +88,11 @@
   },
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 75.6,
+   "score": 76.6,
    "confidence": "High",
    "evidence": {
-    "github_repos": 48,
-    "github_top_velocity": 51.6,
+    "github_repos": 49,
+    "github_top_velocity": 52.62,
     "headline_hits": 3,
     "sample_headlines": [
      "Kraken brings DeFi yield to tokenized stocks and ETFs",
@@ -290,8 +290,8 @@
    "score": 32.9,
    "confidence": "High",
    "evidence": {
-    "github_repos": 5,
-    "github_top_velocity": 8.91,
+    "github_repos": 4,
+    "github_top_velocity": 8.89,
     "headline_hits": 3,
     "sample_headlines": [
      "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
@@ -321,21 +321,16 @@
      "full_name": "grokloop/grokchain-programs",
      "stars_per_day": 0.03,
      "url": "https://github.com/grokloop/grokchain-programs"
-    },
-    {
-     "full_name": "PaystreamFinance/app",
-     "stars_per_day": 0.02,
-     "url": "https://github.com/PaystreamFinance/app"
     }
    ]
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 23.4,
+   "score": 23.3,
    "confidence": "High",
    "evidence": {
-    "github_repos": 19,
-    "github_top_velocity": 7.39,
+    "github_repos": 18,
+    "github_top_velocity": 7.28,
     "headline_hits": 2,
     "sample_headlines": [
      "AI Agents Hacked Their Own Test Environment to Cheat, Cybersecurity Firm Finds",
@@ -361,14 +356,14 @@
      "url": "https://github.com/SohniSwatantra/nosana-mcp"
     },
     {
+     "full_name": "PillCrew/PillCrew",
+     "stars_per_day": 1.0,
+     "url": "https://github.com/PillCrew/PillCrew"
+    },
+    {
      "full_name": "bambini-tech/digitaldon-public",
      "stars_per_day": 1.0,
      "url": "https://github.com/bambini-tech/digitaldon-public"
-    },
-    {
-     "full_name": "PillCrew/PillCrew",
-     "stars_per_day": 0.97,
-     "url": "https://github.com/PillCrew/PillCrew"
     }
    ]
   },

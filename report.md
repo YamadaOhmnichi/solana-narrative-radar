@@ -1,6 +1,6 @@
 # Solana Narrative Radar — Fortnightly Report
 
-Generated: 2026-09-27T00:36:17+00:00  |  Methodology v0.1
+Generated: 2026-09-27T06:33:32+00:00  |  Methodology v0.1
 
 ## On-chain context (live, public RPC)
 
@@ -10,11 +10,11 @@ Generated: 2026-09-27T00:36:17+00:00  |  Methodology v0.1
 
 ## Detected Narratives (ranked)
 
-### 1. Meme & Speculation  —  confidence: High  (score 71.1)
+### 1. Meme & Speculation  —  confidence: High  (score 86.2)
 
 - GitHub repos matching: **13**  (top velocity 42.8 stars/day)
 - Headline mentions (last fortnight): **2**
-- Market 7d avg change: **6.17%**
+- Market 7d avg change: **13.69%**
 - Cross-source confirmation: **3/3**
 
   Sample headlines:
@@ -27,13 +27,13 @@ Generated: 2026-09-27T00:36:17+00:00  |  Methodology v0.1
   - [neilveriemusm/Trpjan-solana-trading-toolkit](https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit) — 3.41 stars/day
 
   **Build ideas:**
-  - Launchpad honesty score: index every pump.fun-style launch by LP lock, mint authority, holder concentration and dev-wallet behavior; surfaces the few credible launches (avg 7d change 6.17%).
+  - Launchpad honesty score: index every pump.fun-style launch by LP lock, mint authority, holder concentration and dev-wallet behavior; surfaces the few credible launches (avg 7d change 13.69%).
   - Anti-sniper launch template: open-source fair-launch program (no-bundle, capped per-wallet buys) that new launchpads can adopt — a counter-position to the sniper-bot repos in the dataset.
-  - Meme-velocity dashboard: tracks avg 7d change 6.17% so traders see which launches have real retention vs. pure rotation.
+  - Meme-velocity dashboard: tracks avg 7d change 13.69% so traders see which launches have real retention vs. pure rotation.
 
 ### 2. Wallets & UX  —  confidence: Medium  (score 65.3)
 
-- GitHub repos matching: **20**  (top velocity 65.31 stars/day)
+- GitHub repos matching: **20**  (top velocity 65.34 stars/day)
 - Headline mentions (last fortnight): **0**
 - Cross-source confirmation: **1/3**
 
@@ -43,7 +43,7 @@ Generated: 2026-09-27T00:36:17+00:00  |  Methodology v0.1
   - [openarbmev/Openarb-Trade-SDK](https://github.com/openarbmev/Openarb-Trade-SDK) — 5.38 stars/day
 
   **Build ideas:**
-  - One-tap embedded wallet for Telegram mini-apps on Solana, targeting the wallet-UX friction visible in 20 new wallet/onboarding repos at 65.31 stars/day.
+  - One-tap embedded wallet for Telegram mini-apps on Solana, targeting the wallet-UX friction visible in 20 new wallet/onboarding repos at 65.34 stars/day.
   - Session-key wallet: a SPL program that issues 24h scoped keys (spend cap, program allowlist) so dapps never touch the main key — direct answer to onboarding drop-off that wallet repos are attacking.
   - Wallet-drain canary service: continuous simulation that alerts users when a signature request would exfiltrate tokens (security headlines: 0 this period — users clearly need guardrails).
 
@@ -151,7 +151,7 @@ Generated: 2026-09-27T00:36:17+00:00  |  Methodology v0.1
 
 ### 8. Dev Tooling & Infra  —  confidence: Medium  (score 25.2)
 
-- GitHub repos matching: **42**  (top velocity 25.25 stars/day)
+- GitHub repos matching: **42**  (top velocity 25.24 stars/day)
 - Headline mentions (last fortnight): **0**
 - Cross-source confirmation: **1/3**
 
@@ -161,6 +161,6 @@ Generated: 2026-09-27T00:36:17+00:00  |  Methodology v0.1
   - [openarbmev/Openarb-Trade-SDK](https://github.com/openarbmev/Openarb-Trade-SDK) — 5.38 stars/day
 
   **Build ideas:**
-  - Local-first Solana dev container: one command that ships validator, airdropped test keypair, and explorer UI (rides the 42 tooling repos at 25.25 stars/day).
+  - Local-first Solana dev container: one command that ships validator, airdropped test keypair, and explorer UI (rides the 42 tooling repos at 25.24 stars/day).
   - Program-diff explorer: show what changed between two deployed program versions (upgrade authority audit trail) — infra trusts need this as more programs go live.
   - Free hosted RPC status page with per-method latency/limits across public providers; every new dev hits rate limits on day one.

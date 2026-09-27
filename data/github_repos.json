@@ -33,10 +33,10 @@
   "full_name": "uni-launch/token-launch-handbook",
   "url": "https://github.com/uni-launch/token-launch-handbook",
   "description": "Create and manage your own token without code \u2014 Solana, Ethereum, Base, BNB Chain and 5 more networks. Guides, costs, checklists.",
-  "stars": 41,
+  "stars": 56,
   "created": "2026-09-23T13:40:32Z",
   "language": "HTML",
-  "stars_per_day": 13.67,
+  "stars_per_day": 18.67,
   "age_days": 3,
   "topics": []
  },
@@ -116,8 +116,8 @@
   "stars": 192,
   "created": "2026-08-06T00:51:16Z",
   "language": "TypeScript",
-  "stars_per_day": 3.76,
-  "age_days": 51,
+  "stars_per_day": 3.69,
+  "age_days": 52,
   "topics": []
  },
  {
@@ -233,10 +233,10 @@
   "full_name": "nathanliow/trickshot",
   "url": "https://github.com/nathanliow/trickshot",
   "description": "Rebuild any Solana token from the chain and replay what any wallet did on it.",
-  "stars": 53,
+  "stars": 54,
   "created": "2026-08-23T22:49:51Z",
   "language": "TypeScript",
-  "stars_per_day": 1.56,
+  "stars_per_day": 1.59,
   "age_days": 34,
   "topics": []
  },
@@ -502,7 +502,7 @@
   "created": "2026-08-10T03:26:44Z",
   "language": "Rust",
   "stars_per_day": 0.21,
-  "age_days": 47,
+  "age_days": 48,
   "topics": [
    "defi",
    "magicblock",
@@ -543,7 +543,7 @@
   "created": "2026-08-08T02:49:21Z",
   "language": "HTML",
   "stars_per_day": 0.2,
-  "age_days": 49,
+  "age_days": 50,
   "topics": [
    "arbitrage",
    "blockchain",
@@ -642,8 +642,8 @@
   "stars": 2,
   "created": "2026-09-11T05:58:51Z",
   "language": "TypeScript",
-  "stars_per_day": 0.13,
-  "age_days": 15,
+  "stars_per_day": 0.12,
+  "age_days": 16,
   "topics": [
    "anchor",
    "blockchain",
@@ -840,7 +840,7 @@
   "created": "2026-09-14T01:47:19Z",
   "language": "Rust",
   "stars_per_day": 0.08,
-  "age_days": 12,
+  "age_days": 13,
   "topics": []
  },
  {
@@ -853,26 +853,6 @@
   "stars_per_day": 0.07,
   "age_days": 15,
   "topics": []
- },
- {
-  "full_name": "keelwright/slipway",
-  "url": "https://github.com/keelwright/slipway",
-  "description": "A scaffold for on-chain utility projects on Solana \u2014 program, launch, site, indexer, deploy, and every trap already mapped.",
-  "stars": 2,
-  "created": "2026-08-21T06:17:43Z",
-  "language": "JavaScript",
-  "stars_per_day": 0.06,
-  "age_days": 36,
-  "topics": [
-   "agents",
-   "ai-agents",
-   "anchor",
-   "boilerplate",
-   "bonding-curve",
-   "cloudflare-workers",
-   "defi",
-   "meteora"
-  ]
  },
  {
   "full_name": "ChiefWoods/hylo-programs",
@@ -980,6 +960,26 @@
   "topics": []
  },
  {
+  "full_name": "keelwright/slipway",
+  "url": "https://github.com/keelwright/slipway",
+  "description": "A scaffold for on-chain utility projects on Solana \u2014 program, launch, site, indexer, deploy, and every trap already mapped.",
+  "stars": 2,
+  "created": "2026-08-21T06:17:43Z",
+  "language": "JavaScript",
+  "stars_per_day": 0.05,
+  "age_days": 37,
+  "topics": [
+   "agents",
+   "ai-agents",
+   "anchor",
+   "boilerplate",
+   "bonding-curve",
+   "cloudflare-workers",
+   "defi",
+   "meteora"
+  ]
+ },
+ {
   "full_name": "ChiefWoods/interest-rate-exchange",
   "url": "https://github.com/ChiefWoods/interest-rate-exchange",
   "description": "PT/ST pool-based yield stripping program",
@@ -987,7 +987,7 @@
   "created": "2026-09-05T06:17:30Z",
   "language": "Rust",
   "stars_per_day": 0.05,
-  "age_days": 21,
+  "age_days": 22,
   "topics": [
    "quasar",
    "solana"
@@ -1113,17 +1113,6 @@
   ]
  },
  {
-  "full_name": "drp457/solana-wallet-comparison",
-  "url": "https://github.com/drp457/solana-wallet-comparison",
-  "description": "solana wallet app\uff1a\u9009\u5bf9\u94b1\u5305\uff0c\u65b0\u624b\u4e5f\u80fd\u8f7b\u677e\u7ba1\u7406 SOL\u3001\u8d28\u62bc\u548c DeFi",
-  "stars": 1,
-  "created": "2026-09-04T06:32:44Z",
-  "language": null,
-  "stars_per_day": 0.05,
-  "age_days": 22,
-  "topics": []
- },
- {
   "full_name": "jeel-p/voice-rag-with-web3",
   "url": "https://github.com/jeel-p/voice-rag-with-web3",
   "description": "Voice-first multilingual RAG over MSMARCO-XI Sarvam streaming STT \u2192 adaptive hybrid retrieval (FAISS IVF-PQ + BM25 + RRF) \u2192 grounded answer with SHA-256 Proof-of-Answer \u2192 optional Solana Devnet anchor",
@@ -1194,6 +1183,17 @@
   ]
  },
  {
+  "full_name": "drp457/solana-wallet-comparison",
+  "url": "https://github.com/drp457/solana-wallet-comparison",
+  "description": "solana wallet app\uff1a\u9009\u5bf9\u94b1\u5305\uff0c\u65b0\u624b\u4e5f\u80fd\u8f7b\u677e\u7ba1\u7406 SOL\u3001\u8d28\u62bc\u548c DeFi",
+  "stars": 1,
+  "created": "2026-09-04T06:32:44Z",
+  "language": null,
+  "stars_per_day": 0.04,
+  "age_days": 23,
+  "topics": []
+ },
+ {
   "full_name": "andrzejsantocki/tidify-program",
   "url": "https://github.com/andrzejsantocki/tidify-program",
   "description": "Public reproducible source and IDL for the Tidify Solana program",
@@ -1212,7 +1212,7 @@
   "created": "2026-08-27T03:53:37Z",
   "language": "Rust",
   "stars_per_day": 0.03,
-  "age_days": 30,
+  "age_days": 31,
   "topics": [
    "anchor",
    "solana"
@@ -1259,7 +1259,7 @@
   "created": "2026-08-23T04:02:06Z",
   "language": "TypeScript",
   "stars_per_day": 0.03,
-  "age_days": 34,
+  "age_days": 35,
   "topics": []
  },
  {
@@ -1434,7 +1434,7 @@
   "created": "2026-08-13T01:05:33Z",
   "language": null,
   "stars_per_day": 0.02,
-  "age_days": 44,
+  "age_days": 45,
   "topics": []
  },
  {

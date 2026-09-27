@@ -1,36 +1,36 @@
 {
- "generated_at": "2026-09-27T12:32:51+00:00",
+ "generated_at": "2026-09-27T18:30:36+00:00",
  "narratives": [
   {
    "narrative": "Meme & Speculation",
-   "score": 90.2,
+   "score": 81.1,
    "confidence": "High",
    "evidence": {
     "github_repos": 13,
-    "github_top_velocity": 40.75,
+    "github_top_velocity": 40.92,
     "headline_hits": 2,
     "sample_headlines": [
      "Fomo overtakes Pump.fun in daily revenue on Solana",
      "Fomo overtakes Pump.fun in daily revenue on Solana"
     ],
-    "market_avg_7d_pct": 16.75,
+    "market_avg_7d_pct": 12.1,
     "sources_confirming": 3
    },
    "member_repos": [
     {
      "full_name": "nhovongoc0-max/meme-radar",
-     "stars_per_day": 30.25,
+     "stars_per_day": 30.5,
      "url": "https://github.com/nhovongoc0-max/meme-radar"
-    },
-    {
-     "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
-     "stars_per_day": 3.41,
-     "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
     },
     {
      "full_name": "dartkomnitibe/solana-meme-tool",
      "stars_per_day": 3.38,
      "url": "https://github.com/dartkomnitibe/solana-meme-tool"
+    },
+    {
+     "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
+     "stars_per_day": 3.33,
+     "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
     },
     {
      "full_name": "OnlyTerp/papertrench",
@@ -46,11 +46,11 @@
   },
   {
    "narrative": "Wallets & UX",
-   "score": 64.0,
+   "score": 54.4,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 20,
-    "github_top_velocity": 64.03,
+    "github_top_velocity": 54.36,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -59,7 +59,7 @@
    "member_repos": [
     {
      "full_name": "uni-launch/solana-token-creator",
-     "stars_per_day": 37.0,
+     "stars_per_day": 27.75,
      "url": "https://github.com/uni-launch/solana-token-creator"
     },
     {
@@ -69,28 +69,28 @@
     },
     {
      "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 5.38,
+     "stars_per_day": 5.06,
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
-    },
-    {
-     "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
-     "stars_per_day": 3.41,
-     "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
     },
     {
      "full_name": "dartkomnitibe/solana-meme-tool",
      "stars_per_day": 3.38,
      "url": "https://github.com/dartkomnitibe/solana-meme-tool"
+    },
+    {
+     "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
+     "stars_per_day": 3.33,
+     "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
     }
    ]
   },
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 50.4,
+   "score": 48.6,
    "confidence": "High",
    "evidence": {
     "github_repos": 48,
-    "github_top_velocity": 26.36,
+    "github_top_velocity": 24.62,
     "headline_hits": 3,
     "sample_headlines": [
      "Kraken brings DeFi yield to tokenized stocks and ETFs",
@@ -103,23 +103,23 @@
    "member_repos": [
     {
      "full_name": "Oryc11/Free-Demonstration-Guide",
-     "stars_per_day": 6.5,
+     "stars_per_day": 5.2,
      "url": "https://github.com/Oryc11/Free-Demonstration-Guide"
     },
     {
      "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 5.38,
+     "stars_per_day": 5.06,
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
-    },
-    {
-     "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
-     "stars_per_day": 3.41,
-     "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
     },
     {
      "full_name": "dartkomnitibe/solana-meme-tool",
      "stars_per_day": 3.38,
      "url": "https://github.com/dartkomnitibe/solana-meme-tool"
+    },
+    {
+     "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
+     "stars_per_day": 3.33,
+     "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
     },
     {
      "full_name": "mangiapanejohn-dev/MOBIUS-Searcher",
@@ -129,88 +129,17 @@
    ]
   },
   {
-   "narrative": "Security & Threats",
-   "score": 48.0,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 2,
-    "github_top_velocity": 0.04,
-    "headline_hits": 6,
-    "sample_headlines": [
-     "AI Agents Hacked Their Own Test Environment to Cheat, Cybersecurity Firm Finds",
-     "Circle and Tether Freeze Stablecoins Tied to Bitget Hack\u2014But Most Funds Slip Away",
-     "Bitget Hack Losses Climb to $387M: Here\u2019s What Happened, and Why North Korea Is a Suspect"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "KarloAldrete/universal-proxy",
-     "stars_per_day": 0.02,
-     "url": "https://github.com/KarloAldrete/universal-proxy"
-    },
-    {
-     "full_name": "leafwithered/clawledger",
-     "stars_per_day": 0.02,
-     "url": "https://github.com/leafwithered/clawledger"
-    }
-   ]
-  },
-  {
-   "narrative": "Consumer & Social",
-   "score": 46.2,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 7,
-    "github_top_velocity": 38.21,
-    "headline_hits": 1,
-    "sample_headlines": [
-     "Magic Eden Warns Old Ethereum NFT Listings Are Exposed to Payment Processor Exploit"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "uni-launch/solana-token-creator",
-     "stars_per_day": 37.0,
-     "url": "https://github.com/uni-launch/solana-token-creator"
-    },
-    {
-     "full_name": "livid/exe-hub",
-     "stars_per_day": 0.46,
-     "url": "https://github.com/livid/exe-hub"
-    },
-    {
-     "full_name": "blueshift-gg/solana-awesome",
-     "stars_per_day": 0.38,
-     "url": "https://github.com/blueshift-gg/solana-awesome"
-    },
-    {
-     "full_name": "accretion-xyz/awesome-solana-security",
-     "stars_per_day": 0.22,
-     "url": "https://github.com/accretion-xyz/awesome-solana-security"
-    },
-    {
-     "full_name": "subhdotsol/solana-programs",
-     "stars_per_day": 0.11,
-     "url": "https://github.com/subhdotsol/solana-programs"
-    }
-   ]
-  },
-  {
    "narrative": "AI Agents on Solana",
-   "score": 37.7,
+   "score": 45.6,
    "confidence": "High",
    "evidence": {
     "github_repos": 19,
-    "github_top_velocity": 5.68,
-    "headline_hits": 4,
+    "github_top_velocity": 5.64,
+    "headline_hits": 5,
     "sample_headlines": [
+     "AI Agents Keep Escaping Their Creators' Control\u2014Here's What We Know",
      "AI Agents Are Racing to Make Quantum-Safe Bitcoin Cheap\u2014And Winning",
-     "Google Just Made Free 1080p AI Video Generation Available to Anyone",
-     "AI Agents Hacked Their Own Test Environment to Cheat, Cybersecurity Firm Finds"
+     "Google Just Made Free 1080p AI Video Generation Available to Anyone"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -238,23 +167,131 @@
     },
     {
      "full_name": "Floopi10/trench-mcp",
-     "stars_per_day": 0.73,
+     "stars_per_day": 0.69,
      "url": "https://github.com/Floopi10/trench-mcp"
     }
    ]
   },
   {
+   "narrative": "Security & Threats",
+   "score": 32.0,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 2,
+    "github_top_velocity": 0.04,
+    "headline_hits": 4,
+    "sample_headlines": [
+     "AI Agents Hacked Their Own Test Environment to Cheat, Cybersecurity Firm Finds",
+     "Circle and Tether Freeze Stablecoins Tied to Bitget Hack\u2014But Most Funds Slip Away",
+     "More Markets lending reserve drained for $410,000: Blockaid"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "KarloAldrete/universal-proxy",
+     "stars_per_day": 0.02,
+     "url": "https://github.com/KarloAldrete/universal-proxy"
+    },
+    {
+     "full_name": "leafwithered/clawledger",
+     "stars_per_day": 0.02,
+     "url": "https://github.com/leafwithered/clawledger"
+    }
+   ]
+  },
+  {
+   "narrative": "Consumer & Social",
+   "score": 29.0,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 7,
+    "github_top_velocity": 28.96,
+    "headline_hits": 0,
+    "sample_headlines": [],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "uni-launch/solana-token-creator",
+     "stars_per_day": 27.75,
+     "url": "https://github.com/uni-launch/solana-token-creator"
+    },
+    {
+     "full_name": "livid/exe-hub",
+     "stars_per_day": 0.46,
+     "url": "https://github.com/livid/exe-hub"
+    },
+    {
+     "full_name": "blueshift-gg/solana-awesome",
+     "stars_per_day": 0.38,
+     "url": "https://github.com/blueshift-gg/solana-awesome"
+    },
+    {
+     "full_name": "accretion-xyz/awesome-solana-security",
+     "stars_per_day": 0.22,
+     "url": "https://github.com/accretion-xyz/awesome-solana-security"
+    },
+    {
+     "full_name": "subhdotsol/solana-programs",
+     "stars_per_day": 0.11,
+     "url": "https://github.com/subhdotsol/solana-programs"
+    }
+   ]
+  },
+  {
+   "narrative": "Dev Tooling & Infra",
+   "score": 22.0,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 42,
+    "github_top_velocity": 21.96,
+    "headline_hits": 0,
+    "sample_headlines": [],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "propavingk/SlotDrift",
+     "stars_per_day": 9.29,
+     "url": "https://github.com/propavingk/SlotDrift"
+    },
+    {
+     "full_name": "Oryc11/Free-Demonstration-Guide",
+     "stars_per_day": 5.2,
+     "url": "https://github.com/Oryc11/Free-Demonstration-Guide"
+    },
+    {
+     "full_name": "openarbmev/Openarb-Trade-SDK",
+     "stars_per_day": 5.06,
+     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
+    },
+    {
+     "full_name": "SohniSwatantra/nosana-mcp",
+     "stars_per_day": 1.0,
+     "url": "https://github.com/SohniSwatantra/nosana-mcp"
+    },
+    {
+     "full_name": "livid/exe-hub",
+     "stars_per_day": 0.46,
+     "url": "https://github.com/livid/exe-hub"
+    }
+   ]
+  },
+  {
    "narrative": "Payments & Stablecoins",
-   "score": 30.7,
+   "score": 21.4,
    "confidence": "High",
    "evidence": {
     "github_repos": 5,
-    "github_top_velocity": 6.74,
-    "headline_hits": 3,
+    "github_top_velocity": 5.44,
+    "headline_hits": 2,
     "sample_headlines": [
      "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
-     "Circle and Tether Freeze Stablecoins Tied to Bitget Hack\u2014But Most Funds Slip Away",
-     "Magic Eden Warns Old Ethereum NFT Listings Are Exposed to Payment Processor Exploit"
+     "Circle and Tether Freeze Stablecoins Tied to Bitget Hack\u2014But Most Funds Slip Away"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -262,7 +299,7 @@
    "member_repos": [
     {
      "full_name": "Oryc11/Free-Demonstration-Guide",
-     "stars_per_day": 6.5,
+     "stars_per_day": 5.2,
      "url": "https://github.com/Oryc11/Free-Demonstration-Guide"
     },
     {
@@ -284,46 +321,6 @@
      "full_name": "PaystreamFinance/app",
      "stars_per_day": 0.02,
      "url": "https://github.com/PaystreamFinance/app"
-    }
-   ]
-  },
-  {
-   "narrative": "Dev Tooling & Infra",
-   "score": 23.6,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 42,
-    "github_top_velocity": 23.58,
-    "headline_hits": 0,
-    "sample_headlines": [],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "propavingk/SlotDrift",
-     "stars_per_day": 9.29,
-     "url": "https://github.com/propavingk/SlotDrift"
-    },
-    {
-     "full_name": "Oryc11/Free-Demonstration-Guide",
-     "stars_per_day": 6.5,
-     "url": "https://github.com/Oryc11/Free-Demonstration-Guide"
-    },
-    {
-     "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 5.38,
-     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
-    },
-    {
-     "full_name": "SohniSwatantra/nosana-mcp",
-     "stars_per_day": 1.0,
-     "url": "https://github.com/SohniSwatantra/nosana-mcp"
-    },
-    {
-     "full_name": "livid/exe-hub",
-     "stars_per_day": 0.46,
-     "url": "https://github.com/livid/exe-hub"
     }
    ]
   },

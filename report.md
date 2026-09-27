@@ -1,6 +1,6 @@
 # Solana Narrative Radar — Fortnightly Report
 
-Generated: 2026-09-26T18:30:33+00:00  |  Methodology v0.1
+Generated: 2026-09-27T00:36:17+00:00  |  Methodology v0.1
 
 ## On-chain context (live, public RPC)
 
@@ -10,11 +10,11 @@ Generated: 2026-09-26T18:30:33+00:00  |  Methodology v0.1
 
 ## Detected Narratives (ranked)
 
-### 1. Meme & Speculation  —  confidence: High  (score 70.2)
+### 1. Meme & Speculation  —  confidence: High  (score 71.1)
 
-- GitHub repos matching: **13**  (top velocity 42.86 stars/day)
+- GitHub repos matching: **13**  (top velocity 42.8 stars/day)
 - Headline mentions (last fortnight): **2**
-- Market 7d avg change: **5.65%**
+- Market 7d avg change: **6.17%**
 - Cross-source confirmation: **3/3**
 
   Sample headlines:
@@ -27,13 +27,13 @@ Generated: 2026-09-26T18:30:33+00:00  |  Methodology v0.1
   - [neilveriemusm/Trpjan-solana-trading-toolkit](https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit) — 3.41 stars/day
 
   **Build ideas:**
-  - Launchpad honesty score: index every pump.fun-style launch by LP lock, mint authority, holder concentration and dev-wallet behavior; surfaces the few credible launches (avg 7d change 5.65%).
+  - Launchpad honesty score: index every pump.fun-style launch by LP lock, mint authority, holder concentration and dev-wallet behavior; surfaces the few credible launches (avg 7d change 6.17%).
   - Anti-sniper launch template: open-source fair-launch program (no-bundle, capped per-wallet buys) that new launchpads can adopt — a counter-position to the sniper-bot repos in the dataset.
-  - Meme-velocity dashboard: tracks avg 7d change 5.65% so traders see which launches have real retention vs. pure rotation.
+  - Meme-velocity dashboard: tracks avg 7d change 6.17% so traders see which launches have real retention vs. pure rotation.
 
-### 2. Wallets & UX  —  confidence: Medium  (score 65.4)
+### 2. Wallets & UX  —  confidence: Medium  (score 65.3)
 
-- GitHub repos matching: **20**  (top velocity 65.36 stars/day)
+- GitHub repos matching: **20**  (top velocity 65.31 stars/day)
 - Headline mentions (last fortnight): **0**
 - Cross-source confirmation: **1/3**
 
@@ -43,13 +43,13 @@ Generated: 2026-09-26T18:30:33+00:00  |  Methodology v0.1
   - [openarbmev/Openarb-Trade-SDK](https://github.com/openarbmev/Openarb-Trade-SDK) — 5.38 stars/day
 
   **Build ideas:**
-  - One-tap embedded wallet for Telegram mini-apps on Solana, targeting the wallet-UX friction visible in 20 new wallet/onboarding repos at 65.36 stars/day.
+  - One-tap embedded wallet for Telegram mini-apps on Solana, targeting the wallet-UX friction visible in 20 new wallet/onboarding repos at 65.31 stars/day.
   - Session-key wallet: a SPL program that issues 24h scoped keys (spend cap, program allowlist) so dapps never touch the main key — direct answer to onboarding drop-off that wallet repos are attacking.
   - Wallet-drain canary service: continuous simulation that alerts users when a signature request would exfiltrate tokens (security headlines: 0 this period — users clearly need guardrails).
 
-### 3. DeFi / Trading Infra  —  confidence: High  (score 51.1)
+### 3. DeFi / Trading Infra  —  confidence: High  (score 50.7)
 
-- GitHub repos matching: **48**  (top velocity 27.08 stars/day)
+- GitHub repos matching: **48**  (top velocity 26.71 stars/day)
 - Headline mentions (last fortnight): **3**
 - Cross-source confirmation: **2/3**
 
@@ -64,7 +64,7 @@ Generated: 2026-09-26T18:30:33+00:00  |  Methodology v0.1
   - [dartkomnitibe/solana-meme-tool](https://github.com/dartkomnitibe/solana-meme-tool) — 3.45 stars/day
 
   **Build ideas:**
-  - Copy-trading guardrail bot: open-source program + bot that mirrors KOL wallets but with hard loss caps and sandwich-protection, riding the 48 trading-infrastructure repos at 27.08 stars/day.
+  - Copy-trading guardrail bot: open-source program + bot that mirrors KOL wallets but with hard loss caps and sandwich-protection, riding the 48 trading-infrastructure repos at 26.71 stars/day.
   - Perp risk dashboard: real-time liquidation-heat map over Solana perps using public RPC; headlines show perp/DeFi coverage (3 hits) while retail seeks clearer risk tooling.
   - Intent-based DEX aggregator SDK with MEV-protection defaults — the aggregator lane is crowded but the intent/MEV-protection angle is under-served based on repo descriptions sampled.
 
@@ -107,9 +107,9 @@ Generated: 2026-09-26T18:30:33+00:00  |  Methodology v0.1
   - On-chain achievements protocol: signed attestations for in-game/player milestones, composable across games.
   - NFT-backed ticketing kit for IRL events with transfer rules and anti-scalp caps.
 
-### 6. AI Agents on Solana  —  confidence: High  (score 38.3)
+### 6. AI Agents on Solana  —  confidence: High  (score 38.2)
 
-- GitHub repos matching: **19**  (top velocity 6.31 stars/day)
+- GitHub repos matching: **19**  (top velocity 6.16 stars/day)
 - Headline mentions (last fortnight): **4**
 - Cross-source confirmation: **2/3**
 
@@ -119,18 +119,18 @@ Generated: 2026-09-26T18:30:33+00:00  |  Methodology v0.1
   - AI Agents Hacked Their Own Test Environment to Cheat, Cybersecurity Firm Finds
 
   Top repos:
-  - [PillCrew/claimchain](https://github.com/PillCrew/claimchain) — 1.17 stars/day
+  - [PillCrew/claimchain](https://github.com/PillCrew/claimchain) — 1.12 stars/day
   - [SohniSwatantra/nosana-mcp](https://github.com/SohniSwatantra/nosana-mcp) — 1.05 stars/day
-  - [PillCrew/PillCrew](https://github.com/PillCrew/PillCrew) — 1.0 stars/day
+  - [Zyxel89/proof-of-strategy](https://github.com/Zyxel89/proof-of-strategy) — 1.0 stars/day
 
   **Build ideas:**
-  - Agent-wallet runtime: a Go/Type SDK that gives every AI agent a non-custodial Solana wallet with per-action spend limits and an auditable on-chain action log (rides the 25 new agent repos at 6.31 stars/day).
+  - Agent-wallet runtime: a Go/Type SDK that gives every AI agent a non-custodial Solana wallet with per-action spend limits and an auditable on-chain action log (rides the 25 new agent repos at 6.16 stars/day).
   - Agent-to-agent escrow program: an Anchor program where two agents lock funds against a task hash and release on verifiable completion — targets the trust gap visible in PillCrew/claimchain-style automation repos.
   - Agent fee rail: x402-style HTTP 402 paywall in Rust/TS that lets any API monetize per-call for AI agents paying in USDC — stablecoin rail already has deep volume/mcap ratio on Solana.
 
 ### 7. Payments & Stablecoins  —  confidence: High  (score 30.7)
 
-- GitHub repos matching: **4**  (top velocity 6.72 stars/day)
+- GitHub repos matching: **5**  (top velocity 6.74 stars/day)
 - Headline mentions (last fortnight): **3**
 - Cross-source confirmation: **2/3**
 

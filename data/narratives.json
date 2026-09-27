@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-09-26T18:30:33+00:00",
+ "generated_at": "2026-09-27T00:36:17+00:00",
  "narratives": [
   {
    "narrative": "Meme & Speculation",
-   "score": 70.2,
+   "score": 71.1,
    "confidence": "High",
    "evidence": {
     "github_repos": 13,
-    "github_top_velocity": 42.86,
+    "github_top_velocity": 42.8,
     "headline_hits": 2,
     "sample_headlines": [
      "Fomo overtakes Pump.fun in daily revenue on Solana",
      "Fomo overtakes Pump.fun in daily revenue on Solana"
     ],
-    "market_avg_7d_pct": 5.65,
+    "market_avg_7d_pct": 6.17,
     "sources_confirming": 3
    },
    "member_repos": [
@@ -34,23 +34,23 @@
     },
     {
      "full_name": "OnlyTerp/papertrench",
-     "stars_per_day": 1.34,
+     "stars_per_day": 1.36,
      "url": "https://github.com/OnlyTerp/papertrench"
     },
     {
      "full_name": "PillCrew/claimchain",
-     "stars_per_day": 1.17,
+     "stars_per_day": 1.12,
      "url": "https://github.com/PillCrew/claimchain"
     }
    ]
   },
   {
    "narrative": "Wallets & UX",
-   "score": 65.4,
+   "score": 65.3,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 20,
-    "github_top_velocity": 65.36,
+    "github_top_velocity": 65.31,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -86,11 +86,11 @@
   },
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 51.1,
+   "score": 50.7,
    "confidence": "High",
    "evidence": {
     "github_repos": 48,
-    "github_top_velocity": 27.08,
+    "github_top_velocity": 26.71,
     "headline_hits": 3,
     "sample_headlines": [
      "Kraken brings DeFi yield to tokenized stocks and ETFs",
@@ -123,7 +123,7 @@
     },
     {
      "full_name": "mangiapanejohn-dev/MOBIUS-Searcher",
-     "stars_per_day": 2.17,
+     "stars_per_day": 1.86,
      "url": "https://github.com/mangiapanejohn-dev/MOBIUS-Searcher"
     }
    ]
@@ -201,11 +201,11 @@
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 38.3,
+   "score": 38.2,
    "confidence": "High",
    "evidence": {
     "github_repos": 19,
-    "github_top_velocity": 6.31,
+    "github_top_velocity": 6.16,
     "headline_hits": 4,
     "sample_headlines": [
      "AI Agents Are Racing to Make Quantum-Safe Bitcoin Cheap\u2014And Winning",
@@ -218,7 +218,7 @@
    "member_repos": [
     {
      "full_name": "PillCrew/claimchain",
-     "stars_per_day": 1.17,
+     "stars_per_day": 1.12,
      "url": "https://github.com/PillCrew/claimchain"
     },
     {
@@ -227,14 +227,14 @@
      "url": "https://github.com/SohniSwatantra/nosana-mcp"
     },
     {
-     "full_name": "PillCrew/PillCrew",
-     "stars_per_day": 1.0,
-     "url": "https://github.com/PillCrew/PillCrew"
-    },
-    {
      "full_name": "Zyxel89/proof-of-strategy",
      "stars_per_day": 1.0,
      "url": "https://github.com/Zyxel89/proof-of-strategy"
+    },
+    {
+     "full_name": "PillCrew/PillCrew",
+     "stars_per_day": 0.97,
+     "url": "https://github.com/PillCrew/PillCrew"
     },
     {
      "full_name": "Floopi10/trench-mcp",
@@ -248,8 +248,8 @@
    "score": 30.7,
    "confidence": "High",
    "evidence": {
-    "github_repos": 4,
-    "github_top_velocity": 6.72,
+    "github_repos": 5,
+    "github_top_velocity": 6.74,
     "headline_hits": 3,
     "sample_headlines": [
      "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
@@ -279,6 +279,11 @@
      "full_name": "grokloop/grokchain-programs",
      "stars_per_day": 0.03,
      "url": "https://github.com/grokloop/grokchain-programs"
+    },
+    {
+     "full_name": "PaystreamFinance/app",
+     "stars_per_day": 0.02,
+     "url": "https://github.com/PaystreamFinance/app"
     }
    ]
   },

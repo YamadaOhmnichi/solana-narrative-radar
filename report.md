@@ -1,6 +1,6 @@
 # Solana Narrative Radar — Fortnightly Report
 
-Generated: 2026-09-27T06:33:32+00:00  |  Methodology v0.1
+Generated: 2026-09-27T12:32:51+00:00  |  Methodology v0.1
 
 ## On-chain context (live, public RPC)
 
@@ -10,11 +10,11 @@ Generated: 2026-09-27T06:33:32+00:00  |  Methodology v0.1
 
 ## Detected Narratives (ranked)
 
-### 1. Meme & Speculation  —  confidence: High  (score 86.2)
+### 1. Meme & Speculation  —  confidence: High  (score 90.2)
 
-- GitHub repos matching: **13**  (top velocity 42.8 stars/day)
+- GitHub repos matching: **13**  (top velocity 40.75 stars/day)
 - Headline mentions (last fortnight): **2**
-- Market 7d avg change: **13.69%**
+- Market 7d avg change: **16.75%**
 - Cross-source confirmation: **3/3**
 
   Sample headlines:
@@ -22,34 +22,34 @@ Generated: 2026-09-27T06:33:32+00:00  |  Methodology v0.1
   - Fomo overtakes Pump.fun in daily revenue on Solana
 
   Top repos:
-  - [nhovongoc0-max/meme-radar](https://github.com/nhovongoc0-max/meme-radar) — 32.2 stars/day
-  - [dartkomnitibe/solana-meme-tool](https://github.com/dartkomnitibe/solana-meme-tool) — 3.45 stars/day
+  - [nhovongoc0-max/meme-radar](https://github.com/nhovongoc0-max/meme-radar) — 30.25 stars/day
   - [neilveriemusm/Trpjan-solana-trading-toolkit](https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit) — 3.41 stars/day
+  - [dartkomnitibe/solana-meme-tool](https://github.com/dartkomnitibe/solana-meme-tool) — 3.38 stars/day
 
   **Build ideas:**
-  - Launchpad honesty score: index every pump.fun-style launch by LP lock, mint authority, holder concentration and dev-wallet behavior; surfaces the few credible launches (avg 7d change 13.69%).
+  - Launchpad honesty score: index every pump.fun-style launch by LP lock, mint authority, holder concentration and dev-wallet behavior; surfaces the few credible launches (avg 7d change 16.75%).
   - Anti-sniper launch template: open-source fair-launch program (no-bundle, capped per-wallet buys) that new launchpads can adopt — a counter-position to the sniper-bot repos in the dataset.
-  - Meme-velocity dashboard: tracks avg 7d change 13.69% so traders see which launches have real retention vs. pure rotation.
+  - Meme-velocity dashboard: tracks avg 7d change 16.75% so traders see which launches have real retention vs. pure rotation.
 
-### 2. Wallets & UX  —  confidence: Medium  (score 65.3)
+### 2. Wallets & UX  —  confidence: Medium  (score 64.0)
 
-- GitHub repos matching: **20**  (top velocity 65.34 stars/day)
+- GitHub repos matching: **20**  (top velocity 64.03 stars/day)
 - Headline mentions (last fortnight): **0**
 - Cross-source confirmation: **1/3**
 
   Top repos:
   - [uni-launch/solana-token-creator](https://github.com/uni-launch/solana-token-creator) — 37.0 stars/day
-  - [Kylerkrausemdzyra64/Crypto-Checker](https://github.com/Kylerkrausemdzyra64/Crypto-Checker) — 11.12 stars/day
+  - [Kylerkrausemdzyra64/Crypto-Checker](https://github.com/Kylerkrausemdzyra64/Crypto-Checker) — 9.89 stars/day
   - [openarbmev/Openarb-Trade-SDK](https://github.com/openarbmev/Openarb-Trade-SDK) — 5.38 stars/day
 
   **Build ideas:**
-  - One-tap embedded wallet for Telegram mini-apps on Solana, targeting the wallet-UX friction visible in 20 new wallet/onboarding repos at 65.34 stars/day.
+  - One-tap embedded wallet for Telegram mini-apps on Solana, targeting the wallet-UX friction visible in 20 new wallet/onboarding repos at 64.03 stars/day.
   - Session-key wallet: a SPL program that issues 24h scoped keys (spend cap, program allowlist) so dapps never touch the main key — direct answer to onboarding drop-off that wallet repos are attacking.
   - Wallet-drain canary service: continuous simulation that alerts users when a signature request would exfiltrate tokens (security headlines: 0 this period — users clearly need guardrails).
 
-### 3. DeFi / Trading Infra  —  confidence: High  (score 50.7)
+### 3. DeFi / Trading Infra  —  confidence: High  (score 50.4)
 
-- GitHub repos matching: **48**  (top velocity 26.71 stars/day)
+- GitHub repos matching: **48**  (top velocity 26.36 stars/day)
 - Headline mentions (last fortnight): **3**
 - Cross-source confirmation: **2/3**
 
@@ -61,10 +61,10 @@ Generated: 2026-09-27T06:33:32+00:00  |  Methodology v0.1
   Top repos:
   - [Oryc11/Free-Demonstration-Guide](https://github.com/Oryc11/Free-Demonstration-Guide) — 6.5 stars/day
   - [openarbmev/Openarb-Trade-SDK](https://github.com/openarbmev/Openarb-Trade-SDK) — 5.38 stars/day
-  - [dartkomnitibe/solana-meme-tool](https://github.com/dartkomnitibe/solana-meme-tool) — 3.45 stars/day
+  - [neilveriemusm/Trpjan-solana-trading-toolkit](https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit) — 3.41 stars/day
 
   **Build ideas:**
-  - Copy-trading guardrail bot: open-source program + bot that mirrors KOL wallets but with hard loss caps and sandwich-protection, riding the 48 trading-infrastructure repos at 26.71 stars/day.
+  - Copy-trading guardrail bot: open-source program + bot that mirrors KOL wallets but with hard loss caps and sandwich-protection, riding the 48 trading-infrastructure repos at 26.36 stars/day.
   - Perp risk dashboard: real-time liquidation-heat map over Solana perps using public RPC; headlines show perp/DeFi coverage (3 hits) while retail seeks clearer risk tooling.
   - Intent-based DEX aggregator SDK with MEV-protection defaults — the aggregator lane is crowded but the intent/MEV-protection angle is under-served based on repo descriptions sampled.
 
@@ -90,7 +90,7 @@ Generated: 2026-09-27T06:33:32+00:00  |  Methodology v0.1
 
 ### 5. Consumer & Social  —  confidence: Medium  (score 46.2)
 
-- GitHub repos matching: **7**  (top velocity 38.24 stars/day)
+- GitHub repos matching: **7**  (top velocity 38.21 stars/day)
 - Headline mentions (last fortnight): **1**
 - Cross-source confirmation: **1/3**
 
@@ -99,17 +99,17 @@ Generated: 2026-09-27T06:33:32+00:00  |  Methodology v0.1
 
   Top repos:
   - [uni-launch/solana-token-creator](https://github.com/uni-launch/solana-token-creator) — 37.0 stars/day
-  - [livid/exe-hub](https://github.com/livid/exe-hub) — 0.48 stars/day
-  - [blueshift-gg/solana-awesome](https://github.com/blueshift-gg/solana-awesome) — 0.39 stars/day
+  - [livid/exe-hub](https://github.com/livid/exe-hub) — 0.46 stars/day
+  - [blueshift-gg/solana-awesome](https://github.com/blueshift-gg/solana-awesome) — 0.38 stars/day
 
   **Build ideas:**
   - Creator-tipping rail: portable tipping widget (Solana Pay + SPL transfers) embeddable on any site — consumer/social repos number 7 this period.
   - On-chain achievements protocol: signed attestations for in-game/player milestones, composable across games.
   - NFT-backed ticketing kit for IRL events with transfer rules and anti-scalp caps.
 
-### 6. AI Agents on Solana  —  confidence: High  (score 38.2)
+### 6. AI Agents on Solana  —  confidence: High  (score 37.7)
 
-- GitHub repos matching: **19**  (top velocity 6.16 stars/day)
+- GitHub repos matching: **19**  (top velocity 5.68 stars/day)
 - Headline mentions (last fortnight): **4**
 - Cross-source confirmation: **2/3**
 
@@ -120,11 +120,11 @@ Generated: 2026-09-27T06:33:32+00:00  |  Methodology v0.1
 
   Top repos:
   - [PillCrew/claimchain](https://github.com/PillCrew/claimchain) — 1.12 stars/day
-  - [SohniSwatantra/nosana-mcp](https://github.com/SohniSwatantra/nosana-mcp) — 1.05 stars/day
-  - [Zyxel89/proof-of-strategy](https://github.com/Zyxel89/proof-of-strategy) — 1.0 stars/day
+  - [SohniSwatantra/nosana-mcp](https://github.com/SohniSwatantra/nosana-mcp) — 1.0 stars/day
+  - [PillCrew/PillCrew](https://github.com/PillCrew/PillCrew) — 0.97 stars/day
 
   **Build ideas:**
-  - Agent-wallet runtime: a Go/Type SDK that gives every AI agent a non-custodial Solana wallet with per-action spend limits and an auditable on-chain action log (rides the 25 new agent repos at 6.16 stars/day).
+  - Agent-wallet runtime: a Go/Type SDK that gives every AI agent a non-custodial Solana wallet with per-action spend limits and an auditable on-chain action log (rides the 25 new agent repos at 5.68 stars/day).
   - Agent-to-agent escrow program: an Anchor program where two agents lock funds against a task hash and release on verifiable completion — targets the trust gap visible in PillCrew/claimchain-style automation repos.
   - Agent fee rail: x402-style HTTP 402 paywall in Rust/TS that lets any API monetize per-call for AI agents paying in USDC — stablecoin rail already has deep volume/mcap ratio on Solana.
 
@@ -149,18 +149,18 @@ Generated: 2026-09-27T06:33:32+00:00  |  Methodology v0.1
   - Subscription billing program: SPL streaming contract with cancel-anytime semantics for SaaS pricing on-chain.
   - Cross-border payroll pilot: batch USDC payouts with memo-based reconciliation; targets remittance-adjacent repos and stablecoin volume signals.
 
-### 8. Dev Tooling & Infra  —  confidence: Medium  (score 25.2)
+### 8. Dev Tooling & Infra  —  confidence: Medium  (score 23.6)
 
-- GitHub repos matching: **42**  (top velocity 25.24 stars/day)
+- GitHub repos matching: **42**  (top velocity 23.58 stars/day)
 - Headline mentions (last fortnight): **0**
 - Cross-source confirmation: **1/3**
 
   Top repos:
-  - [propavingk/SlotDrift](https://github.com/propavingk/SlotDrift) — 10.83 stars/day
+  - [propavingk/SlotDrift](https://github.com/propavingk/SlotDrift) — 9.29 stars/day
   - [Oryc11/Free-Demonstration-Guide](https://github.com/Oryc11/Free-Demonstration-Guide) — 6.5 stars/day
   - [openarbmev/Openarb-Trade-SDK](https://github.com/openarbmev/Openarb-Trade-SDK) — 5.38 stars/day
 
   **Build ideas:**
-  - Local-first Solana dev container: one command that ships validator, airdropped test keypair, and explorer UI (rides the 42 tooling repos at 25.24 stars/day).
+  - Local-first Solana dev container: one command that ships validator, airdropped test keypair, and explorer UI (rides the 42 tooling repos at 23.58 stars/day).
   - Program-diff explorer: show what changed between two deployed program versions (upgrade authority audit trail) — infra trusts need this as more programs go live.
   - Free hosted RPC status page with per-method latency/limits across public providers; every new dev hits rate limits on day one.

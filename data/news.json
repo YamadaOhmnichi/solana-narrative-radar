@@ -63,6 +63,36 @@
  ],
  "decrypt": [
   {
+   "title": "Strive Buys $94.5 Million in Bitcoin, Pushing Holdings Past 27,000 BTC",
+   "pub": "Mon, 28 Sep 2026 18:16:02 +0000",
+   "link": "https://decrypt.co/379465/strive-buys-94-5-million-in-bitcoin-pushing-holdings-past-27000-btc"
+  },
+  {
+   "title": "Months After the $292M Kelp Hack, Chainlink Lets Institutions Add Their Own Bridge Checks",
+   "pub": "Mon, 28 Sep 2026 17:51:14 +0000",
+   "link": "https://decrypt.co/379463/chainlink-institutions-add-bridge-checks-kelp-hack"
+  },
+  {
+   "title": "Vitalik Buterin Outlines 'Cryptographic World Computer' Plan for Ethereum",
+   "pub": "Mon, 28 Sep 2026 16:29:42 +0000",
+   "link": "https://decrypt.co/379461/vitalik-buterin-outlines-cryptographic-world-computer-plan-for-ethereum"
+  },
+  {
+   "title": "Bitcoin Falls Lower as Trump's Iran Snub Sends Oil, Yields Higher",
+   "pub": "Mon, 28 Sep 2026 15:26:28 +0000",
+   "link": "https://decrypt.co/379438/bitcoin-price-falls-trump-iran-oil-yields"
+  },
+  {
+   "title": "Tom Lee's Bitmine Buys Another $47M of ETH, Taking It to 4.9% of Ethereum Supply",
+   "pub": "Mon, 28 Sep 2026 13:27:40 +0000",
+   "link": "https://decrypt.co/379418/tom-lees-bitmine-buys-another-47m-of-eth-taking-it-to-4-9-of-ethereum-supply"
+  },
+  {
+   "title": "Strategy Sets New BTC Holdings Record After $143M Bitcoin Purchase",
+   "pub": "Mon, 28 Sep 2026 12:45:41 +0000",
+   "link": "https://decrypt.co/379415/strategy-sets-new-btc-holdings-record-after-143m-bitcoin-purchase"
+  },
+  {
    "title": "Morning Minute: SEC Clears Token Buybacks for Crypto Networks",
    "pub": "Mon, 28 Sep 2026 12:03:21 +0000",
    "link": "https://decrypt.co/379412/morning-minute-sec-clears-token-buybacks-for-crypto-networks"
@@ -91,36 +121,68 @@
    "title": "Bitcoin ETFs Notch Seven-Day Winning Streak as 2026 Flows Turn Green",
    "pub": "Sat, 26 Sep 2026 17:01:03 +0000",
    "link": "https://decrypt.co/379391/bitcoin-etfs-notch-seven-day-winning-streak-as-2026-flows-turn-green"
+  }
+ ],
+ "cryptonews": [
+  {
+   "title": "Altseason is coming \u2014 and traders are more discerning this time",
+   "pub": "Mon, 28 Sep 2026 13:30:00 +0000",
+   "link": "https://cointelegraph.com/magazine/altseason-is-coming-and-traders-are-more-discerning-this-time?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
   },
   {
-   "title": "How Crypto Stopped Waiting for Congress and Learned to Love the Regulators",
-   "pub": "Sat, 26 Sep 2026 16:06:03 +0000",
-   "link": "https://decrypt.co/379383/how-crypto-stopped-waiting-congress-learned-love-regulators"
+   "title": "Winners and losers of the SEC\u2019s new tokenized stocks rules",
+   "pub": "Wed, 23 Sep 2026 13:30:00 +0000",
+   "link": "https://cointelegraph.com/magazine/winners-and-losers-of-the-secs-new-tokenized-stocks-rules?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
   },
   {
-   "title": "AI Agents Are Racing to Make Quantum-Safe Bitcoin Cheap\u2014And Winning",
-   "pub": "Sat, 26 Sep 2026 15:01:05 +0000",
-   "link": "https://decrypt.co/379378/ai-agents-racing-make-quantum-safe-bitcoin-cheap"
+   "title": "Crypto\u2019s wild boom-and-bust cycles are fading, Solstice CEO says",
+   "pub": "Tue, 22 Sep 2026 08:06:23 +0000",
+   "link": "https://cointelegraph.com/news/crypto-bull-runs-liquidity-solstice-ceo?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
   },
   {
-   "title": "Google Just Made Free 1080p AI Video Generation Available to Anyone",
-   "pub": "Sat, 26 Sep 2026 13:01:03 +0000",
-   "link": "https://decrypt.co/379353/google-free-1080p-ai-video-generation"
+   "title": "Dragonfly\u2019s Qureshi calls for end to Zcash dev fund after 2028",
+   "pub": "Fri, 18 Sep 2026 11:22:24 +0000",
+   "link": "https://cointelegraph.com/news/dragonflys-qureshi-end-zcash-dev-fund-2028?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
   },
   {
-   "title": "US Prosecutors Want $84.2 Million From a Bank Tied to Tether",
-   "pub": "Fri, 25 Sep 2026 21:25:35 +0000",
-   "link": "https://decrypt.co/379380/us-prosecutors-84-million-bank-tether-and-bitfinex"
+   "title": "BIS paper finds major gap in Bitcoin onchain transfer estimates",
+   "pub": "Tue, 15 Sep 2026 21:23:00 +0000",
+   "link": "https://cointelegraph.com/news/bis-paper-finds-major-gap-in-bitcoin-onchain-transfer-estimates?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
   },
   {
-   "title": "AI Agents Hacked Their Own Test Environment to Cheat, Cybersecurity Firm Finds",
-   "pub": "Fri, 25 Sep 2026 19:45:39 +0000",
-   "link": "https://decrypt.co/379369/ai-agents-hacked-test-environment-cheat-darktrace"
+   "title": "Balancer eyes wind-down after restructuring fails to revive revenue",
+   "pub": "Tue, 15 Sep 2026 03:33:23 +0000",
+   "link": "https://cointelegraph.com/news/balancer-eyes-wind-down-after-restructuring-fails-revive-revenue?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
   },
   {
-   "title": "Google Built an AI That Hunts Its Own Security Bugs",
-   "pub": "Fri, 25 Sep 2026 19:16:04 +0000",
-   "link": "https://decrypt.co/379364/google-built-ai-hunts-security-bugs"
+   "title": "Kraken brings DeFi yield to tokenized stocks and ETFs",
+   "pub": "Mon, 14 Sep 2026 20:54:10 +0000",
+   "link": "https://cointelegraph.com/news/kraken-brings-defi-yield-to-tokenized-stocks-and-etfs?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+  },
+  {
+   "title": "Standard Chartered forecasts SKY rising fivefold to $0.325 by 2028",
+   "pub": "Fri, 11 Sep 2026 10:44:28 +0000",
+   "link": "https://cointelegraph.com/news/sky-value-token-holders-standard-chartered?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+  },
+  {
+   "title": "Fomo overtakes Pump.fun in daily revenue on Solana",
+   "pub": "Mon, 07 Sep 2026 07:45:39 +0000",
+   "link": "https://cointelegraph.com/news/fomo-pumpfun-revenue-app-solana?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+  },
+  {
+   "title": "Token buybacks are booming. But are they good for crypto projects?",
+   "pub": "Fri, 04 Sep 2026 13:30:00 +0000",
+   "link": "https://cointelegraph.com/magazine/token-buybacks-are-booming-but-are-they-good-for-crypto-projects?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+  },
+  {
+   "title": "Sui DeFi protocol Full Sail to wind down after Switchboard incident",
+   "pub": "Wed, 02 Sep 2026 13:40:03 +0000",
+   "link": "https://cointelegraph.com/news/full-sail-sui-wind-down-switchboard-incident?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+  },
+  {
+   "title": "More Markets lending reserve drained for $410,000: Blockaid",
+   "pub": "Mon, 31 Aug 2026 08:59:00 +0000",
+   "link": "https://cointelegraph.com/news/more-markets-lending-reserve-drained-93m?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
   }
  ]
 }

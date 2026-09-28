@@ -63,6 +63,16 @@
  ],
  "decrypt": [
   {
+   "title": "Morning Minute: SEC Clears Token Buybacks for Crypto Networks",
+   "pub": "Mon, 28 Sep 2026 12:03:21 +0000",
+   "link": "https://decrypt.co/379412/morning-minute-sec-clears-token-buybacks-for-crypto-networks"
+  },
+  {
+   "title": "California Bans Public Officials From Issuing Meme Coins Under New Newsom Law",
+   "pub": "Mon, 28 Sep 2026 10:16:25 +0000",
+   "link": "https://decrypt.co/379404/california-bans-public-officials-from-issuing-meme-coins-under-new-newsom-law"
+  },
+  {
    "title": "AI Agents Keep Escaping Their Creators' Control\u2014Here's What We Know",
    "pub": "Sun, 27 Sep 2026 16:01:03 +0000",
    "link": "https://decrypt.co/379402/ai-agents-keep-escaping-creators-control"
@@ -111,78 +121,6 @@
    "title": "Google Built an AI That Hunts Its Own Security Bugs",
    "pub": "Fri, 25 Sep 2026 19:16:04 +0000",
    "link": "https://decrypt.co/379364/google-built-ai-hunts-security-bugs"
-  },
-  {
-   "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack\u2014But Most Funds Slip Away",
-   "pub": "Fri, 25 Sep 2026 18:42:51 +0000",
-   "link": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack"
-  },
-  {
-   "title": "OpenAI Is Building a $500 per Month ChatGPT Pro Max Plan, Leaks Suggest",
-   "pub": "Fri, 25 Sep 2026 17:46:05 +0000",
-   "link": "https://decrypt.co/379359/openai-500-per-month-chatgpt-pro-max-plan"
-  }
- ],
- "cryptonews": [
-  {
-   "title": "Winners and losers of the SEC\u2019s new tokenized stocks rules",
-   "pub": "Wed, 23 Sep 2026 13:30:00 +0000",
-   "link": "https://cointelegraph.com/magazine/winners-and-losers-of-the-secs-new-tokenized-stocks-rules?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Crypto\u2019s wild boom-and-bust cycles are fading, Solstice CEO says",
-   "pub": "Tue, 22 Sep 2026 08:06:23 +0000",
-   "link": "https://cointelegraph.com/news/crypto-bull-runs-liquidity-solstice-ceo?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Dragonfly\u2019s Qureshi calls for end to Zcash dev fund after 2028",
-   "pub": "Fri, 18 Sep 2026 11:22:24 +0000",
-   "link": "https://cointelegraph.com/news/dragonflys-qureshi-end-zcash-dev-fund-2028?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "BIS paper finds major gap in Bitcoin onchain transfer estimates",
-   "pub": "Tue, 15 Sep 2026 21:23:00 +0000",
-   "link": "https://cointelegraph.com/news/bis-paper-finds-major-gap-in-bitcoin-onchain-transfer-estimates?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Balancer eyes wind-down after restructuring fails to revive revenue",
-   "pub": "Tue, 15 Sep 2026 03:33:23 +0000",
-   "link": "https://cointelegraph.com/news/balancer-eyes-wind-down-after-restructuring-fails-revive-revenue?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Kraken brings DeFi yield to tokenized stocks and ETFs",
-   "pub": "Mon, 14 Sep 2026 20:54:10 +0000",
-   "link": "https://cointelegraph.com/news/kraken-brings-defi-yield-to-tokenized-stocks-and-etfs?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Standard Chartered forecasts SKY rising fivefold to $0.325 by 2028",
-   "pub": "Fri, 11 Sep 2026 10:44:28 +0000",
-   "link": "https://cointelegraph.com/news/sky-value-token-holders-standard-chartered?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Fomo overtakes Pump.fun in daily revenue on Solana",
-   "pub": "Mon, 07 Sep 2026 07:45:39 +0000",
-   "link": "https://cointelegraph.com/news/fomo-pumpfun-revenue-app-solana?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Token buybacks are booming. But are they good for crypto projects?",
-   "pub": "Fri, 04 Sep 2026 13:30:00 +0000",
-   "link": "https://cointelegraph.com/magazine/token-buybacks-are-booming-but-are-they-good-for-crypto-projects?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Sui DeFi protocol Full Sail to wind down after Switchboard incident",
-   "pub": "Wed, 02 Sep 2026 13:40:03 +0000",
-   "link": "https://cointelegraph.com/news/full-sail-sui-wind-down-switchboard-incident?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "More Markets lending reserve drained for $410,000: Blockaid",
-   "pub": "Mon, 31 Aug 2026 08:59:00 +0000",
-   "link": "https://cointelegraph.com/news/more-markets-lending-reserve-drained-93m?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Term Finance loses estimated $8.5M in vault governance exploit",
-   "pub": "Mon, 24 Aug 2026 03:59:29 +0000",
-   "link": "https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
   }
  ]
 }

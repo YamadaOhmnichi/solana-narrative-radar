@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-09-27T18:30:36+00:00",
+ "generated_at": "2026-09-28T00:37:48+00:00",
  "narratives": [
   {
    "narrative": "Meme & Speculation",
-   "score": 81.1,
+   "score": 82.0,
    "confidence": "High",
    "evidence": {
     "github_repos": 13,
-    "github_top_velocity": 40.92,
+    "github_top_velocity": 40.85,
     "headline_hits": 2,
     "sample_headlines": [
      "Fomo overtakes Pump.fun in daily revenue on Solana",
      "Fomo overtakes Pump.fun in daily revenue on Solana"
     ],
-    "market_avg_7d_pct": 12.1,
+    "market_avg_7d_pct": 12.6,
     "sources_confirming": 3
    },
    "member_repos": [
@@ -39,18 +39,18 @@
     },
     {
      "full_name": "PillCrew/claimchain",
-     "stars_per_day": 1.12,
+     "stars_per_day": 1.08,
      "url": "https://github.com/PillCrew/claimchain"
     }
    ]
   },
   {
    "narrative": "Wallets & UX",
-   "score": 54.4,
+   "score": 54.3,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 20,
-    "github_top_velocity": 54.36,
+    "github_repos": 19,
+    "github_top_velocity": 54.31,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -86,11 +86,11 @@
   },
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 48.6,
+   "score": 48.3,
    "confidence": "High",
    "evidence": {
-    "github_repos": 48,
-    "github_top_velocity": 24.62,
+    "github_repos": 49,
+    "github_top_velocity": 24.32,
     "headline_hits": 3,
     "sample_headlines": [
      "Kraken brings DeFi yield to tokenized stocks and ETFs",
@@ -122,19 +122,19 @@
      "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
     },
     {
-     "full_name": "mangiapanejohn-dev/MOBIUS-Searcher",
-     "stars_per_day": 1.86,
-     "url": "https://github.com/mangiapanejohn-dev/MOBIUS-Searcher"
+     "full_name": "tayohya/solprobe",
+     "stars_per_day": 1.62,
+     "url": "https://github.com/tayohya/solprobe"
     }
    ]
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 45.6,
+   "score": 45.5,
    "confidence": "High",
    "evidence": {
-    "github_repos": 19,
-    "github_top_velocity": 5.64,
+    "github_repos": 20,
+    "github_top_velocity": 5.54,
     "headline_hits": 5,
     "sample_headlines": [
      "AI Agents Keep Escaping Their Creators' Control\u2014Here's What We Know",
@@ -147,7 +147,7 @@
    "member_repos": [
     {
      "full_name": "PillCrew/claimchain",
-     "stars_per_day": 1.12,
+     "stars_per_day": 1.08,
      "url": "https://github.com/PillCrew/claimchain"
     },
     {
@@ -157,7 +157,7 @@
     },
     {
      "full_name": "PillCrew/PillCrew",
-     "stars_per_day": 0.97,
+     "stars_per_day": 0.95,
      "url": "https://github.com/PillCrew/PillCrew"
     },
     {
@@ -286,8 +286,8 @@
    "score": 21.4,
    "confidence": "High",
    "evidence": {
-    "github_repos": 5,
-    "github_top_velocity": 5.44,
+    "github_repos": 6,
+    "github_top_velocity": 5.45,
     "headline_hits": 2,
     "sample_headlines": [
      "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
@@ -304,7 +304,7 @@
     },
     {
      "full_name": "nirholas/onchain-agent-wallets",
-     "stars_per_day": 0.16,
+     "stars_per_day": 0.15,
      "url": "https://github.com/nirholas/onchain-agent-wallets"
     },
     {

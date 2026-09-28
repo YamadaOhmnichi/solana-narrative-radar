@@ -3,10 +3,10 @@
   "full_name": "nhovongoc0-max/meme-radar",
   "url": "https://github.com/nhovongoc0-max/meme-radar",
   "description": "Meme\u96f7\u8fbe\u5f00\u6e90\u7248\uff1a\u672c\u5730\u53ea\u8bfb\u3001\u591a\u94fe Meme \u5019\u9009\u626b\u63cf\u4e0e\u4eba\u5de5\u590d\u6838\u5de5\u5177",
-  "stars": 488,
+  "stars": 489,
   "created": "2026-09-11T12:14:57Z",
   "language": "JavaScript",
-  "stars_per_day": 30.5,
+  "stars_per_day": 30.56,
   "age_days": 16,
   "topics": [
    "bsc",
@@ -33,10 +33,10 @@
   "full_name": "uni-launch/token-launch-handbook",
   "url": "https://github.com/uni-launch/token-launch-handbook",
   "description": "Create and manage your own token without code \u2014 Solana, Ethereum, Base, BNB Chain and 5 more networks. Guides, costs, checklists.",
-  "stars": 90,
+  "stars": 98,
   "created": "2026-09-23T13:40:32Z",
   "language": "HTML",
-  "stars_per_day": 22.5,
+  "stars_per_day": 24.5,
   "age_days": 4,
   "topics": []
  },
@@ -116,8 +116,8 @@
   "stars": 192,
   "created": "2026-08-06T00:51:16Z",
   "language": "TypeScript",
-  "stars_per_day": 3.69,
-  "age_days": 52,
+  "stars_per_day": 3.62,
+  "age_days": 53,
   "topics": []
  },
  {
@@ -162,10 +162,10 @@
   "full_name": "solana-foundation/solana-microscope",
   "url": "https://github.com/solana-foundation/solana-microscope",
   "description": "Solana Microscope",
-  "stars": 32,
+  "stars": 33,
   "created": "2026-09-15T15:39:09Z",
   "language": "Rust",
-  "stars_per_day": 2.67,
+  "stars_per_day": 2.75,
   "age_days": 12,
   "topics": []
  },
@@ -197,6 +197,26 @@
   "stars_per_day": 2.12,
   "age_days": 8,
   "topics": []
+ },
+ {
+  "full_name": "Parad0x-Labs/vool",
+  "url": "https://github.com/Parad0x-Labs/vool",
+  "description": "VOOL \u2014 the local-first personal agent runtime by Parad0x Labs: local LLM by default, memory, tools, permissions and signed receipts. macOS beta.",
+  "stars": 15,
+  "created": "2026-09-18T22:06:01Z",
+  "language": "Python",
+  "stars_per_day": 1.67,
+  "age_days": 9,
+  "topics": [
+   "agent",
+   "ai",
+   "llm",
+   "local-first",
+   "ollama",
+   "personal-assistant",
+   "solana",
+   "web0"
+  ]
  },
  {
   "full_name": "tayohya/solprobe",
@@ -497,13 +517,22 @@
  {
   "full_name": "blalou80/solana-defi-dashboard",
   "url": "https://github.com/blalou80/solana-defi-dashboard",
-  "description": "Production-ready Solana DeFi analytics & risk management toolkit. Real-time Jupiter slippage analysis, Orca/Raydium concentrated liquidity monitor, and Streamlit dashboard.",
+  "description": "Independent read-only Solana DeFi analytics: live balances, Orca CL positions, realized-slippage receipts, durable alerts. Unavailable beats fabricated.",
   "stars": 4,
   "created": "2026-09-09T14:29:31Z",
   "language": "Python",
   "stars_per_day": 0.22,
   "age_days": 18,
-  "topics": []
+  "topics": [
+   "analytics",
+   "blockchain",
+   "defi",
+   "jupiter",
+   "orca",
+   "portfolio-tracking",
+   "python",
+   "risk-management"
+  ]
  },
  {
   "full_name": "GuiBibeau/phoenix-private-prop-mm",
@@ -512,8 +541,8 @@
   "stars": 10,
   "created": "2026-08-10T03:26:44Z",
   "language": "Rust",
-  "stars_per_day": 0.21,
-  "age_days": 48,
+  "stars_per_day": 0.2,
+  "age_days": 49,
   "topics": [
    "defi",
    "magicblock",
@@ -532,7 +561,7 @@
   "created": "2026-08-08T02:49:21Z",
   "language": "HTML",
   "stars_per_day": 0.2,
-  "age_days": 50,
+  "age_days": 51,
   "topics": [
    "arbitrage",
    "blockchain",
@@ -553,17 +582,6 @@
   "language": "TypeScript",
   "stars_per_day": 0.2,
   "age_days": 20,
-  "topics": []
- },
- {
-  "full_name": "o-mid/guardrail-agent",
-  "url": "https://github.com/o-mid/guardrail-agent",
-  "description": "NL intent \u2192 schema \u2192 Go policy \u2192 HITL \u2192 local EVM/Solana execution",
-  "stars": 11,
-  "created": "2026-08-01T08:29:05Z",
-  "language": "TypeScript",
-  "stars_per_day": 0.19,
-  "age_days": 57,
   "topics": []
  },
  {
@@ -654,7 +672,7 @@
   "created": "2026-09-11T05:58:51Z",
   "language": "TypeScript",
   "stars_per_day": 0.12,
-  "age_days": 16,
+  "age_days": 17,
   "topics": [
    "anchor",
    "blockchain",
@@ -682,26 +700,6 @@
    "sbpf",
    "smart-contracts",
    "solana"
-  ]
- },
- {
-  "full_name": "samuelcampozano/nodus",
-  "url": "https://github.com/samuelcampozano/nodus",
-  "description": "Nodus \u2014 Programmable Sovereign Cloud Vault powered by Walrus & Sui",
-  "stars": 1,
-  "created": "2026-09-18T01:27:17Z",
-  "language": "JavaScript",
-  "stars_per_day": 0.11,
-  "age_days": 9,
-  "topics": [
-   "ai",
-   "colosseum",
-   "computer-vision",
-   "decentralized-storage",
-   "hackathon",
-   "move",
-   "nextjs",
-   "privacy"
   ]
  },
  {
@@ -839,17 +837,6 @@
   ]
  },
  {
-  "full_name": "Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
-  "url": "https://github.com/Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
-  "description": "",
-  "stars": 1,
-  "created": "2026-09-14T01:47:19Z",
-  "language": "Rust",
-  "stars_per_day": 0.08,
-  "age_days": 13,
-  "topics": []
- },
- {
   "full_name": "ChiefWoods/yield-tranche-market",
   "url": "https://github.com/ChiefWoods/yield-tranche-market",
   "description": "Yield tranching program with multi-model configuration",
@@ -862,6 +849,17 @@
    "quasar",
    "solana"
   ]
+ },
+ {
+  "full_name": "Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
+  "url": "https://github.com/Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
+  "description": "",
+  "stars": 1,
+  "created": "2026-09-14T01:47:19Z",
+  "language": "Rust",
+  "stars_per_day": 0.07,
+  "age_days": 14,
+  "topics": []
  },
  {
   "full_name": "blueshift-gg/solana-winternitz",
@@ -953,7 +951,7 @@
   "created": "2026-08-21T06:17:43Z",
   "language": "JavaScript",
   "stars_per_day": 0.05,
-  "age_days": 37,
+  "age_days": 38,
   "topics": [
    "agents",
    "ai-agents",
@@ -980,18 +978,15 @@
   ]
  },
  {
-  "full_name": "ChiefWoods/interest-rate-exchange",
-  "url": "https://github.com/ChiefWoods/interest-rate-exchange",
-  "description": "PT/ST pool-based yield stripping program",
+  "full_name": "WINGS-N/wingsvpn-federation-pay",
+  "url": "https://github.com/WINGS-N/wingsvpn-federation-pay",
+  "description": "Solana payout program for the WINGS V federation: treasury, epochs, donor stakes",
   "stars": 1,
-  "created": "2026-09-05T06:17:30Z",
+  "created": "2026-09-07T13:17:31Z",
   "language": "Rust",
   "stars_per_day": 0.05,
-  "age_days": 22,
-  "topics": [
-   "quasar",
-   "solana"
-  ]
+  "age_days": 20,
+  "topics": []
  },
  {
   "full_name": "daronthedragon/solana-rent-reclaim",
@@ -1033,26 +1028,6 @@
   ]
  },
  {
-  "full_name": "daronthedragon/wallet-forensics",
-  "url": "https://github.com/daronthedragon/wallet-forensics",
-  "description": "Forensic report for any Ethereum or Solana address: realized PnL, fees burned, MEV extracted from you, approval risk, and what your bags are actually worth if you tried to sell them.",
-  "stars": 2,
-  "created": "2026-08-18T21:36:29Z",
-  "language": "TypeScript",
-  "stars_per_day": 0.05,
-  "age_days": 40,
-  "topics": [
-   "blockchain-analytics",
-   "cli",
-   "defi",
-   "ethereum",
-   "mev",
-   "solana",
-   "typescript",
-   "viem"
-  ]
- },
- {
   "full_name": "daronthedragon/token2022-fingerprint",
   "url": "https://github.com/daronthedragon/token2022-fingerprint",
   "description": "What does this Solana mint actually do to your transfers? Reports Token-2022 extensions - permanent delegates, transfer hooks, fees - and rates them by how they are actually configured.",
@@ -1070,6 +1045,26 @@
    "spl-token",
    "token-2022",
    "transfer-hook"
+  ]
+ },
+ {
+  "full_name": "daronthedragon/wallet-forensics",
+  "url": "https://github.com/daronthedragon/wallet-forensics",
+  "description": "Forensic report for any Ethereum or Solana address: realized PnL, fees burned, MEV extracted from you, approval risk, and what your bags are actually worth if you tried to sell them.",
+  "stars": 2,
+  "created": "2026-08-18T21:36:29Z",
+  "language": "TypeScript",
+  "stars_per_day": 0.05,
+  "age_days": 40,
+  "topics": [
+   "blockchain-analytics",
+   "cli",
+   "defi",
+   "ethereum",
+   "mev",
+   "solana",
+   "typescript",
+   "viem"
   ]
  },
  {
@@ -1143,6 +1138,20 @@
   ]
  },
  {
+  "full_name": "ChiefWoods/interest-rate-exchange",
+  "url": "https://github.com/ChiefWoods/interest-rate-exchange",
+  "description": "PT/ST pool-based yield stripping program",
+  "stars": 1,
+  "created": "2026-09-05T06:17:30Z",
+  "language": "Rust",
+  "stars_per_day": 0.04,
+  "age_days": 23,
+  "topics": [
+   "quasar",
+   "solana"
+  ]
+ },
+ {
   "full_name": "CryptoGnome/dlmmbot",
   "url": "https://github.com/CryptoGnome/dlmmbot",
   "description": "Automated Meteora DLMM LP bot for Solana \u2014 scans hot pools, vets tokens, opens one-sided SOL liquidity, and exits by fixed rules. Paper mode first.",
@@ -1170,7 +1179,7 @@
   "created": "2026-09-04T06:32:44Z",
   "language": null,
   "stars_per_day": 0.04,
-  "age_days": 23,
+  "age_days": 24,
   "topics": []
  },
  {
@@ -1212,7 +1221,7 @@
   "created": "2026-08-27T03:53:37Z",
   "language": "Rust",
   "stars_per_day": 0.03,
-  "age_days": 31,
+  "age_days": 32,
   "topics": [
    "anchor",
    "solana"
@@ -1259,7 +1268,7 @@
   "created": "2026-08-23T04:02:06Z",
   "language": "TypeScript",
   "stars_per_day": 0.03,
-  "age_days": 35,
+  "age_days": 36,
   "topics": []
  },
  {
@@ -1414,7 +1423,7 @@
   "created": "2026-08-13T01:05:33Z",
   "language": "TypeScript",
   "stars_per_day": 0.02,
-  "age_days": 45,
+  "age_days": 46,
   "topics": []
  },
  {

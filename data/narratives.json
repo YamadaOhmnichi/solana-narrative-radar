@@ -1,20 +1,20 @@
 {
- "generated_at": "2026-09-29T00:36:28+00:00",
+ "generated_at": "2026-09-29T06:35:48+00:00",
  "narratives": [
   {
    "narrative": "Meme & Speculation",
-   "score": 67.4,
+   "score": 55.0,
    "confidence": "High",
    "evidence": {
     "github_repos": 13,
-    "github_top_velocity": 38.99,
+    "github_top_velocity": 39.01,
     "headline_hits": 2,
     "sample_headlines": [
      "Fomo overtakes Pump.fun in daily revenue on Solana",
      "Fomo overtakes Pump.fun in daily revenue on Solana"
     ],
-    "market_avg_7d_pct": -6.2,
-    "sources_confirming": 3
+    "market_avg_7d_pct": null,
+    "sources_confirming": 2
    },
    "member_repos": [
     {
@@ -29,7 +29,7 @@
     },
     {
      "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
-     "stars_per_day": 3.26,
+     "stars_per_day": 3.28,
      "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
     },
     {
@@ -46,11 +46,11 @@
   },
   {
    "narrative": "Wallets & UX",
-   "score": 49.6,
+   "score": 48.8,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 20,
-    "github_top_velocity": 49.56,
+    "github_top_velocity": 48.75,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -79,18 +79,18 @@
     },
     {
      "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
-     "stars_per_day": 3.26,
+     "stars_per_day": 3.28,
      "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
     }
    ]
   },
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 48.5,
+   "score": 47.7,
    "confidence": "High",
    "evidence": {
     "github_repos": 48,
-    "github_top_velocity": 24.47,
+    "github_top_velocity": 23.66,
     "headline_hits": 3,
     "sample_headlines": [
      "A Clever RSA Attack Fooled a Hardware Vault\u2014Here's What It Means for Crypto",
@@ -118,23 +118,23 @@
     },
     {
      "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
-     "stars_per_day": 3.26,
+     "stars_per_day": 3.28,
      "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
     },
     {
      "full_name": "2274802010922/picachu__",
-     "stars_per_day": 2.5,
+     "stars_per_day": 1.67,
      "url": "https://github.com/2274802010922/picachu__"
     }
    ]
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 24.9,
+   "score": 24.0,
    "confidence": "High",
    "evidence": {
     "github_repos": 21,
-    "github_top_velocity": 8.86,
+    "github_top_velocity": 8.03,
     "headline_hits": 2,
     "sample_headlines": [
      "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify",
@@ -146,7 +146,7 @@
    "member_repos": [
     {
      "full_name": "2274802010922/picachu__",
-     "stars_per_day": 2.5,
+     "stars_per_day": 1.67,
      "url": "https://github.com/2274802010922/picachu__"
     },
     {
@@ -196,49 +196,6 @@
    ]
   },
   {
-   "narrative": "Payments & Stablecoins",
-   "score": 23.3,
-   "confidence": "High",
-   "evidence": {
-    "github_repos": 8,
-    "github_top_velocity": 7.28,
-    "headline_hits": 2,
-    "sample_headlines": [
-     "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
-     "Citi Clients Can Now Take Stablecoin Payments Through Coinbase\u2014Without Touching Crypto"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 2
-   },
-   "member_repos": [
-    {
-     "full_name": "Oryc11/Free-Demonstration-Guide",
-     "stars_per_day": 4.33,
-     "url": "https://github.com/Oryc11/Free-Demonstration-Guide"
-    },
-    {
-     "full_name": "2274802010922/picachu__",
-     "stars_per_day": 2.5,
-     "url": "https://github.com/2274802010922/picachu__"
-    },
-    {
-     "full_name": "penguinpecker/propstrade",
-     "stars_per_day": 0.17,
-     "url": "https://github.com/penguinpecker/propstrade"
-    },
-    {
-     "full_name": "nirholas/onchain-agent-wallets",
-     "stars_per_day": 0.15,
-     "url": "https://github.com/nirholas/onchain-agent-wallets"
-    },
-    {
-     "full_name": "WINGS-N/wingsvpn-federation-pay",
-     "stars_per_day": 0.05,
-     "url": "https://github.com/WINGS-N/wingsvpn-federation-pay"
-    }
-   ]
-  },
-  {
    "narrative": "Consumer & Social",
    "score": 23.2,
    "confidence": "Medium",
@@ -275,6 +232,49 @@
      "full_name": "sapir-pirski/fate-solana-games",
      "stars_per_day": 0.02,
      "url": "https://github.com/sapir-pirski/fate-solana-games"
+    }
+   ]
+  },
+  {
+   "narrative": "Payments & Stablecoins",
+   "score": 22.4,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 8,
+    "github_top_velocity": 6.45,
+    "headline_hits": 2,
+    "sample_headlines": [
+     "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
+     "Citi Clients Can Now Take Stablecoin Payments Through Coinbase\u2014Without Touching Crypto"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 2
+   },
+   "member_repos": [
+    {
+     "full_name": "Oryc11/Free-Demonstration-Guide",
+     "stars_per_day": 4.33,
+     "url": "https://github.com/Oryc11/Free-Demonstration-Guide"
+    },
+    {
+     "full_name": "2274802010922/picachu__",
+     "stars_per_day": 1.67,
+     "url": "https://github.com/2274802010922/picachu__"
+    },
+    {
+     "full_name": "penguinpecker/propstrade",
+     "stars_per_day": 0.17,
+     "url": "https://github.com/penguinpecker/propstrade"
+    },
+    {
+     "full_name": "nirholas/onchain-agent-wallets",
+     "stars_per_day": 0.15,
+     "url": "https://github.com/nirholas/onchain-agent-wallets"
+    },
+    {
+     "full_name": "WINGS-N/wingsvpn-federation-pay",
+     "stars_per_day": 0.05,
+     "url": "https://github.com/WINGS-N/wingsvpn-federation-pay"
     }
    ]
   },

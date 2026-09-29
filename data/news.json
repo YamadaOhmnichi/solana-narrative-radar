@@ -63,6 +63,36 @@
  ],
  "decrypt": [
   {
+   "title": "OpenAI Halts Model Training as Rogue Agents Target US Government Sites",
+   "pub": "Mon, 28 Sep 2026 21:46:03 +0000",
+   "link": "https://decrypt.co/379508/openai-ai-agents-target-us-government-sites"
+  },
+  {
+   "title": "A Clever RSA Attack Fooled a Hardware Vault\u2014Here's What It Means for Crypto",
+   "pub": "Mon, 28 Sep 2026 21:16:03 +0000",
+   "link": "https://decrypt.co/379505/rsa-attack-without-stealing-key-what-it-means-crypto"
+  },
+  {
+   "title": "Citi Clients Can Now Take Stablecoin Payments Through Coinbase\u2014Without Touching Crypto",
+   "pub": "Mon, 28 Sep 2026 20:36:03 +0000",
+   "link": "https://decrypt.co/379497/citi-stablecoin-payments-coinbase-without-touching-crypto"
+  },
+  {
+   "title": "Anthropic's Claude Sonnet 5.5 Is Out, Beats Opus 5.5 at Coding for Half the Price",
+   "pub": "Mon, 28 Sep 2026 20:06:03 +0000",
+   "link": "https://decrypt.co/379482/anthropic-claude-sonnet-5-5-release"
+  },
+  {
+   "title": "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify",
+   "pub": "Mon, 28 Sep 2026 19:36:21 +0000",
+   "link": "https://decrypt.co/379481/australia-sam-altman-dario-amodei-ai-hack"
+  },
+  {
+   "title": "Nvidia Built a Kill Switch for AI Agents Because They Keep Getting Out",
+   "pub": "Mon, 28 Sep 2026 18:46:03 +0000",
+   "link": "https://decrypt.co/379468/nvidia-kill-switch-ai-agents"
+  },
+  {
    "title": "Strive Buys $94.5 Million in Bitcoin, Pushing Holdings Past 27,000 BTC",
    "pub": "Mon, 28 Sep 2026 18:16:02 +0000",
    "link": "https://decrypt.co/379465/strive-buys-94-5-million-in-bitcoin-pushing-holdings-past-27000-btc"
@@ -91,36 +121,6 @@
    "title": "Strategy Sets New BTC Holdings Record After $143M Bitcoin Purchase",
    "pub": "Mon, 28 Sep 2026 12:45:41 +0000",
    "link": "https://decrypt.co/379415/strategy-sets-new-btc-holdings-record-after-143m-bitcoin-purchase"
-  },
-  {
-   "title": "Morning Minute: SEC Clears Token Buybacks for Crypto Networks",
-   "pub": "Mon, 28 Sep 2026 12:03:21 +0000",
-   "link": "https://decrypt.co/379412/morning-minute-sec-clears-token-buybacks-for-crypto-networks"
-  },
-  {
-   "title": "California Bans Public Officials From Issuing Meme Coins Under New Newsom Law",
-   "pub": "Mon, 28 Sep 2026 10:16:25 +0000",
-   "link": "https://decrypt.co/379404/california-bans-public-officials-from-issuing-meme-coins-under-new-newsom-law"
-  },
-  {
-   "title": "AI Agents Keep Escaping Their Creators' Control\u2014Here's What We Know",
-   "pub": "Sun, 27 Sep 2026 16:01:03 +0000",
-   "link": "https://decrypt.co/379402/ai-agents-keep-escaping-creators-control"
-  },
-  {
-   "title": "Bitcoin's Quantum Problem: Three Ways Researchers Are Trying to Fix It",
-   "pub": "Sun, 27 Sep 2026 15:01:03 +0000",
-   "link": "https://decrypt.co/379400/bitcoins-quantum-problem-three-ways-researchers-are-trying-to-fix-it"
-  },
-  {
-   "title": "SEC Staff Says Token Buybacks Don't Make Crypto a Security\u2014If the Network Works",
-   "pub": "Sun, 27 Sep 2026 13:01:03 +0000",
-   "link": "https://decrypt.co/379398/sec-staff-token-buybacks-dont-make-crypto-security"
-  },
-  {
-   "title": "Bitcoin ETFs Notch Seven-Day Winning Streak as 2026 Flows Turn Green",
-   "pub": "Sat, 26 Sep 2026 17:01:03 +0000",
-   "link": "https://decrypt.co/379391/bitcoin-etfs-notch-seven-day-winning-streak-as-2026-flows-turn-green"
   }
  ],
  "cryptonews": [

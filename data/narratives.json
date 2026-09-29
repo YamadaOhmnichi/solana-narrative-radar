@@ -1,26 +1,25 @@
 {
- "generated_at": "2026-09-28T18:33:34+00:00",
+ "generated_at": "2026-09-29T00:36:28+00:00",
  "narratives": [
   {
    "narrative": "Meme & Speculation",
-   "score": 72.9,
+   "score": 67.4,
    "confidence": "High",
    "evidence": {
     "github_repos": 13,
-    "github_top_velocity": 39.0,
-    "headline_hits": 3,
+    "github_top_velocity": 38.99,
+    "headline_hits": 2,
     "sample_headlines": [
      "Fomo overtakes Pump.fun in daily revenue on Solana",
-     "California Bans Public Officials From Issuing Meme Coins Under New Newsom Law",
      "Fomo overtakes Pump.fun in daily revenue on Solana"
     ],
-    "market_avg_7d_pct": -4.97,
-    "sources_confirming": 2
+    "market_avg_7d_pct": -6.2,
+    "sources_confirming": 3
    },
    "member_repos": [
     {
      "full_name": "nhovongoc0-max/meme-radar",
-     "stars_per_day": 28.82,
+     "stars_per_day": 28.88,
      "url": "https://github.com/nhovongoc0-max/meme-radar"
     },
     {
@@ -40,7 +39,7 @@
     },
     {
      "full_name": "PillCrew/claimchain",
-     "stars_per_day": 1.08,
+     "stars_per_day": 1.04,
      "url": "https://github.com/PillCrew/claimchain"
     }
    ]
@@ -51,7 +50,7 @@
    "confidence": "Medium",
    "evidence": {
     "github_repos": 20,
-    "github_top_velocity": 49.6,
+    "github_top_velocity": 49.56,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -87,13 +86,14 @@
   },
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 40.7,
+   "score": 48.5,
    "confidence": "High",
    "evidence": {
     "github_repos": 48,
-    "github_top_velocity": 24.72,
-    "headline_hits": 2,
+    "github_top_velocity": 24.47,
+    "headline_hits": 3,
     "sample_headlines": [
+     "A Clever RSA Attack Fooled a Hardware Vault\u2014Here's What It Means for Crypto",
      "Kraken brings DeFi yield to tokenized stocks and ETFs",
      "Sui DeFi protocol Full Sail to wind down after Switchboard incident"
     ],
@@ -129,12 +129,122 @@
    ]
   },
   {
-   "narrative": "Consumer & Social",
-   "score": 23.4,
+   "narrative": "AI Agents on Solana",
+   "score": 24.9,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 21,
+    "github_top_velocity": 8.86,
+    "headline_hits": 2,
+    "sample_headlines": [
+     "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify",
+     "Nvidia Built a Kill Switch for AI Agents Because They Keep Getting Out"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 2
+   },
+   "member_repos": [
+    {
+     "full_name": "2274802010922/picachu__",
+     "stars_per_day": 2.5,
+     "url": "https://github.com/2274802010922/picachu__"
+    },
+    {
+     "full_name": "Parad0x-Labs/vool",
+     "stars_per_day": 1.5,
+     "url": "https://github.com/Parad0x-Labs/vool"
+    },
+    {
+     "full_name": "PillCrew/claimchain",
+     "stars_per_day": 1.04,
+     "url": "https://github.com/PillCrew/claimchain"
+    },
+    {
+     "full_name": "SohniSwatantra/nosana-mcp",
+     "stars_per_day": 0.96,
+     "url": "https://github.com/SohniSwatantra/nosana-mcp"
+    },
+    {
+     "full_name": "PillCrew/PillCrew",
+     "stars_per_day": 0.92,
+     "url": "https://github.com/PillCrew/PillCrew"
+    }
+   ]
+  },
+  {
+   "narrative": "Security & Threats",
+   "score": 24.0,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 7,
-    "github_top_velocity": 23.38,
+    "github_repos": 1,
+    "github_top_velocity": 0.02,
+    "headline_hits": 3,
+    "sample_headlines": [
+     "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify",
+     "Months After the $292M Kelp Hack, Chainlink Lets Institutions Add Their Own Bridge Checks",
+     "More Markets lending reserve drained for $410,000: Blockaid"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "leafwithered/clawledger",
+     "stars_per_day": 0.02,
+     "url": "https://github.com/leafwithered/clawledger"
+    }
+   ]
+  },
+  {
+   "narrative": "Payments & Stablecoins",
+   "score": 23.3,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 8,
+    "github_top_velocity": 7.28,
+    "headline_hits": 2,
+    "sample_headlines": [
+     "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
+     "Citi Clients Can Now Take Stablecoin Payments Through Coinbase\u2014Without Touching Crypto"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 2
+   },
+   "member_repos": [
+    {
+     "full_name": "Oryc11/Free-Demonstration-Guide",
+     "stars_per_day": 4.33,
+     "url": "https://github.com/Oryc11/Free-Demonstration-Guide"
+    },
+    {
+     "full_name": "2274802010922/picachu__",
+     "stars_per_day": 2.5,
+     "url": "https://github.com/2274802010922/picachu__"
+    },
+    {
+     "full_name": "penguinpecker/propstrade",
+     "stars_per_day": 0.17,
+     "url": "https://github.com/penguinpecker/propstrade"
+    },
+    {
+     "full_name": "nirholas/onchain-agent-wallets",
+     "stars_per_day": 0.15,
+     "url": "https://github.com/nirholas/onchain-agent-wallets"
+    },
+    {
+     "full_name": "WINGS-N/wingsvpn-federation-pay",
+     "stars_per_day": 0.05,
+     "url": "https://github.com/WINGS-N/wingsvpn-federation-pay"
+    }
+   ]
+  },
+  {
+   "narrative": "Consumer & Social",
+   "score": 23.2,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 6,
+    "github_top_velocity": 23.16,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -157,14 +267,14 @@
      "url": "https://github.com/blueshift-gg/solana-awesome"
     },
     {
-     "full_name": "accretion-xyz/awesome-solana-security",
-     "stars_per_day": 0.22,
-     "url": "https://github.com/accretion-xyz/awesome-solana-security"
-    },
-    {
      "full_name": "subhdotsol/solana-programs",
      "stars_per_day": 0.1,
      "url": "https://github.com/subhdotsol/solana-programs"
+    },
+    {
+     "full_name": "sapir-pirski/fate-solana-games",
+     "stars_per_day": 0.02,
+     "url": "https://github.com/sapir-pirski/fate-solana-games"
     }
    ]
   },
@@ -174,7 +284,7 @@
    "confidence": "Medium",
    "evidence": {
     "github_repos": 43,
-    "github_top_velocity": 20.51,
+    "github_top_velocity": 20.48,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -205,48 +315,6 @@
      "full_name": "SohniSwatantra/nosana-mcp",
      "stars_per_day": 0.96,
      "url": "https://github.com/SohniSwatantra/nosana-mcp"
-    }
-   ]
-  },
-  {
-   "narrative": "AI Agents on Solana",
-   "score": 17.1,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 20,
-    "github_top_velocity": 9.1,
-    "headline_hits": 1,
-    "sample_headlines": [
-     "AI Agents Keep Escaping Their Creators' Control\u2014Here's What We Know"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "2274802010922/picachu__",
-     "stars_per_day": 2.5,
-     "url": "https://github.com/2274802010922/picachu__"
-    },
-    {
-     "full_name": "Parad0x-Labs/vool",
-     "stars_per_day": 1.67,
-     "url": "https://github.com/Parad0x-Labs/vool"
-    },
-    {
-     "full_name": "PillCrew/claimchain",
-     "stars_per_day": 1.08,
-     "url": "https://github.com/PillCrew/claimchain"
-    },
-    {
-     "full_name": "SohniSwatantra/nosana-mcp",
-     "stars_per_day": 0.96,
-     "url": "https://github.com/SohniSwatantra/nosana-mcp"
-    },
-    {
-     "full_name": "PillCrew/PillCrew",
-     "stars_per_day": 0.95,
-     "url": "https://github.com/PillCrew/PillCrew"
     }
    ]
   },
@@ -285,71 +353,6 @@
      "full_name": "thesithunyein/equxi",
      "stars_per_day": 0.03,
      "url": "https://github.com/thesithunyein/equxi"
-    }
-   ]
-  },
-  {
-   "narrative": "Security & Threats",
-   "score": 16.0,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 1,
-    "github_top_velocity": 0.02,
-    "headline_hits": 2,
-    "sample_headlines": [
-     "Months After the $292M Kelp Hack, Chainlink Lets Institutions Add Their Own Bridge Checks",
-     "More Markets lending reserve drained for $410,000: Blockaid"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "leafwithered/clawledger",
-     "stars_per_day": 0.02,
-     "url": "https://github.com/leafwithered/clawledger"
-    }
-   ]
-  },
-  {
-   "narrative": "Payments & Stablecoins",
-   "score": 15.3,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 8,
-    "github_top_velocity": 7.31,
-    "headline_hits": 1,
-    "sample_headlines": [
-     "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "Oryc11/Free-Demonstration-Guide",
-     "stars_per_day": 4.33,
-     "url": "https://github.com/Oryc11/Free-Demonstration-Guide"
-    },
-    {
-     "full_name": "2274802010922/picachu__",
-     "stars_per_day": 2.5,
-     "url": "https://github.com/2274802010922/picachu__"
-    },
-    {
-     "full_name": "penguinpecker/propstrade",
-     "stars_per_day": 0.2,
-     "url": "https://github.com/penguinpecker/propstrade"
-    },
-    {
-     "full_name": "nirholas/onchain-agent-wallets",
-     "stars_per_day": 0.15,
-     "url": "https://github.com/nirholas/onchain-agent-wallets"
-    },
-    {
-     "full_name": "WINGS-N/wingsvpn-federation-pay",
-     "stars_per_day": 0.05,
-     "url": "https://github.com/WINGS-N/wingsvpn-federation-pay"
     }
    ]
   },

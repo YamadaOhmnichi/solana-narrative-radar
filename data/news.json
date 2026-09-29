@@ -1,6 +1,11 @@
 {
  "cointelegraph": [
   {
+   "title": "US crypto ETF inflows cool after $3.3B week but streaks hold",
+   "pub": "Tue, 29 Sep 2026 10:15:19 +0000",
+   "link": "https://cointelegraph.com/markets/us-crypto-etf-inflows-cool-bitcoin-ether-solana-xrp?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
+  },
+  {
    "title": "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
    "pub": "Thu, 24 Sep 2026 13:00:00 +0000",
    "link": "https://cointelegraph.com/news/solana-foundation-binance-cmo-payments-executive?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
@@ -54,14 +59,24 @@
    "title": "Bitcoin\u2019s new quantum defenses, 18.9M SOL cancelled: Hodler\u2019s Digest",
    "pub": "Sun, 30 Aug 2026 23:36:16 +0000",
    "link": "https://cointelegraph.com/magazine/bitcoins-new-quantum-defenses-189m-sol-cancelled-hodlers-digest?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Real Trump Coins denies launching GOLD token, blames \u2018bad actors\u2019",
-   "pub": "Sun, 30 Aug 2026 08:04:56 +0000",
-   "link": "https://cointelegraph.com/news/real-trump-coins-denies-gold-token-launch?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
   }
  ],
  "decrypt": [
+  {
+   "title": "Morning Minute: Citi and Coinbase Just Made Stablecoins Invisible",
+   "pub": "Tue, 29 Sep 2026 12:05:18 +0000",
+   "link": "https://decrypt.co/379526/morning-minute-citi-and-coinbase-just-made-stablecoins-invisible"
+  },
+  {
+   "title": "Canada's 'Crypto King' Aiden Pleterski to Represent Himself at Fraud Trial",
+   "pub": "Tue, 29 Sep 2026 10:38:29 +0000",
+   "link": "https://decrypt.co/379523/canadas-crypto-king-aiden-pleterski-to-represent-himself-at-fraud-trial"
+  },
+  {
+   "title": "Coinbase Now Owns Every Layer of Its Derivatives Stack After CFTC Approval",
+   "pub": "Tue, 29 Sep 2026 09:38:57 +0000",
+   "link": "https://decrypt.co/379516/coinbase-now-owns-every-layer-of-its-derivatives-stack-after-cftc-approval"
+  },
   {
    "title": "OpenAI Halts Model Training as Rogue Agents Target US Government Sites",
    "pub": "Mon, 28 Sep 2026 21:46:03 +0000",
@@ -106,21 +121,6 @@
    "title": "Vitalik Buterin Outlines 'Cryptographic World Computer' Plan for Ethereum",
    "pub": "Mon, 28 Sep 2026 16:29:42 +0000",
    "link": "https://decrypt.co/379461/vitalik-buterin-outlines-cryptographic-world-computer-plan-for-ethereum"
-  },
-  {
-   "title": "Bitcoin Falls Lower as Trump's Iran Snub Sends Oil, Yields Higher",
-   "pub": "Mon, 28 Sep 2026 15:26:28 +0000",
-   "link": "https://decrypt.co/379438/bitcoin-price-falls-trump-iran-oil-yields"
-  },
-  {
-   "title": "Tom Lee's Bitmine Buys Another $47M of ETH, Taking It to 4.9% of Ethereum Supply",
-   "pub": "Mon, 28 Sep 2026 13:27:40 +0000",
-   "link": "https://decrypt.co/379418/tom-lees-bitmine-buys-another-47m-of-eth-taking-it-to-4-9-of-ethereum-supply"
-  },
-  {
-   "title": "Strategy Sets New BTC Holdings Record After $143M Bitcoin Purchase",
-   "pub": "Mon, 28 Sep 2026 12:45:41 +0000",
-   "link": "https://decrypt.co/379415/strategy-sets-new-btc-holdings-record-after-143m-bitcoin-purchase"
   }
  ],
  "cryptonews": [

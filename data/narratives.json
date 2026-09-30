@@ -1,57 +1,13 @@
 {
- "generated_at": "2026-09-29T18:34:48+00:00",
+ "generated_at": "2026-09-30T00:39:15+00:00",
  "narratives": [
   {
-   "narrative": "DeFi / Trading Infra",
-   "score": 56.9,
-   "confidence": "High",
-   "evidence": {
-    "github_repos": 48,
-    "github_top_velocity": 32.88,
-    "headline_hits": 3,
-    "sample_headlines": [
-     "A Clever RSA Attack Fooled a Hardware Vault\u2014Here's What It Means for Crypto",
-     "Kraken brings DeFi yield to tokenized stocks and ETFs",
-     "Sui DeFi protocol Full Sail to wind down after Switchboard incident"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 2
-   },
-   "member_repos": [
-    {
-     "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 14.0,
-     "url": "https://github.com/recogardtech/AutoPilotPM"
-    },
-    {
-     "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 4.53,
-     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
-    },
-    {
-     "full_name": "dartkomnitibe/solana-meme-tool",
-     "stars_per_day": 3.23,
-     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
-    },
-    {
-     "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
-     "stars_per_day": 3.21,
-     "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
-    },
-    {
-     "full_name": "2274802010922/picachu__",
-     "stars_per_day": 1.67,
-     "url": "https://github.com/2274802010922/picachu__"
-    }
-   ]
-  },
-  {
    "narrative": "Meme & Speculation",
-   "score": 53.3,
+   "score": 53.2,
    "confidence": "High",
    "evidence": {
     "github_repos": 13,
-    "github_top_velocity": 37.28,
+    "github_top_velocity": 37.22,
     "headline_hits": 2,
     "sample_headlines": [
      "Fomo overtakes Pump.fun in daily revenue on Solana",
@@ -83,18 +39,61 @@
     },
     {
      "full_name": "PillCrew/claimchain",
-     "stars_per_day": 1.04,
+     "stars_per_day": 1.0,
      "url": "https://github.com/PillCrew/claimchain"
     }
    ]
   },
   {
+   "narrative": "DeFi / Trading Infra",
+   "score": 50.7,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 50,
+    "github_top_velocity": 34.68,
+    "headline_hits": 2,
+    "sample_headlines": [
+     "Kraken brings DeFi yield to tokenized stocks and ETFs",
+     "Sui DeFi protocol Full Sail to wind down after Switchboard incident"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 2
+   },
+   "member_repos": [
+    {
+     "full_name": "recogardtech/AutoPilotPM",
+     "stars_per_day": 16.0,
+     "url": "https://github.com/recogardtech/AutoPilotPM"
+    },
+    {
+     "full_name": "openarbmev/Openarb-Trade-SDK",
+     "stars_per_day": 4.53,
+     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
+    },
+    {
+     "full_name": "dartkomnitibe/solana-meme-tool",
+     "stars_per_day": 3.23,
+     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
+    },
+    {
+     "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
+     "stars_per_day": 3.21,
+     "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
+    },
+    {
+     "full_name": "2274802010922/picachu__",
+     "stars_per_day": 1.67,
+     "url": "https://github.com/2274802010922/picachu__"
+    }
+   ]
+  },
+  {
    "narrative": "Wallets & UX",
-   "score": 40.3,
+   "score": 40.2,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 20,
-    "github_top_velocity": 40.29,
+    "github_top_velocity": 40.25,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -130,15 +129,15 @@
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 37.6,
+   "score": 39.4,
    "confidence": "High",
    "evidence": {
-    "github_repos": 23,
-    "github_top_velocity": 21.61,
+    "github_repos": 22,
+    "github_top_velocity": 23.38,
     "headline_hits": 2,
     "sample_headlines": [
-     "BBC Director-General Deems AI-Generated Doctor Who Episode 'Pretty Good'",
-     "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify"
+     "OpenAI Gave AI Agents Their Own Computers at DevDay 2026. Here's Everything It Announced",
+     "BBC Director-General Deems AI-Generated Doctor Who Episode 'Pretty Good'"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -146,7 +145,7 @@
    "member_repos": [
     {
      "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 14.0,
+     "stars_per_day": 16.0,
      "url": "https://github.com/recogardtech/AutoPilotPM"
     },
     {
@@ -156,74 +155,31 @@
     },
     {
      "full_name": "Parad0x-Labs/vool",
-     "stars_per_day": 1.5,
+     "stars_per_day": 1.36,
      "url": "https://github.com/Parad0x-Labs/vool"
     },
     {
      "full_name": "PillCrew/claimchain",
-     "stars_per_day": 1.04,
+     "stars_per_day": 1.0,
      "url": "https://github.com/PillCrew/claimchain"
     },
     {
-     "full_name": "PillCrew/PillCrew",
+     "full_name": "SohniSwatantra/nosana-mcp",
      "stars_per_day": 0.92,
-     "url": "https://github.com/PillCrew/PillCrew"
-    }
-   ]
-  },
-  {
-   "narrative": "Payments & Stablecoins",
-   "score": 25.9,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 6,
-    "github_top_velocity": 1.95,
-    "headline_hits": 3,
-    "sample_headlines": [
-     "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
-     "Morning Minute: Citi and Coinbase Just Made Stablecoins Invisible",
-     "Citi Clients Can Now Take Stablecoin Payments Through Coinbase\u2014Without Touching Crypto"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "2274802010922/picachu__",
-     "stars_per_day": 1.67,
-     "url": "https://github.com/2274802010922/picachu__"
-    },
-    {
-     "full_name": "nirholas/onchain-agent-wallets",
-     "stars_per_day": 0.15,
-     "url": "https://github.com/nirholas/onchain-agent-wallets"
-    },
-    {
-     "full_name": "WINGS-N/wingsvpn-federation-pay",
-     "stars_per_day": 0.05,
-     "url": "https://github.com/WINGS-N/wingsvpn-federation-pay"
-    },
-    {
-     "full_name": "nemorixgroup/Solana-Knowledge-Base",
-     "stars_per_day": 0.03,
-     "url": "https://github.com/nemorixgroup/Solana-Knowledge-Base"
-    },
-    {
-     "full_name": "grokloop/grokchain-programs",
-     "stars_per_day": 0.03,
-     "url": "https://github.com/grokloop/grokchain-programs"
+     "url": "https://github.com/SohniSwatantra/nosana-mcp"
     }
    ]
   },
   {
    "narrative": "RWA & Tokenization",
-   "score": 16.2,
+   "score": 24.3,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 4,
-    "github_top_velocity": 0.25,
-    "headline_hits": 2,
+    "github_repos": 5,
+    "github_top_velocity": 0.27,
+    "headline_hits": 3,
     "sample_headlines": [
+     "Cboe's New S&amp;P Deal Opens the Door to Tokenized Options",
      "Winners and losers of the SEC\u2019s new tokenized stocks rules",
      "Kraken brings DeFi yield to tokenized stocks and ETFs"
     ],
@@ -250,41 +206,25 @@
      "full_name": "thesithunyein/equxi",
      "stars_per_day": 0.03,
      "url": "https://github.com/thesithunyein/equxi"
-    }
-   ]
-  },
-  {
-   "narrative": "Security & Threats",
-   "score": 16.0,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 1,
-    "github_top_velocity": 0.02,
-    "headline_hits": 2,
-    "sample_headlines": [
-     "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify",
-     "More Markets lending reserve drained for $410,000: Blockaid"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
+    },
     {
-     "full_name": "leafwithered/clawledger",
+     "full_name": "RedDuckTeam/staking",
      "stars_per_day": 0.02,
-     "url": "https://github.com/leafwithered/clawledger"
+     "url": "https://github.com/RedDuckTeam/staking"
     }
    ]
   },
   {
    "narrative": "Consumer & Social",
-   "score": 15.9,
+   "score": 23.9,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 6,
     "github_top_velocity": 15.93,
-    "headline_hits": 0,
-    "sample_headlines": [],
+    "headline_hits": 1,
+    "sample_headlines": [
+     "Someone Finally Jailbroke the PS5\u2014Just After Sony Said Players Don\u2019t Own Their Games"
+    ],
     "market_avg_7d_pct": null,
     "sources_confirming": 1
    },
@@ -317,12 +257,55 @@
    ]
   },
   {
-   "narrative": "Dev Tooling & Infra",
-   "score": 14.3,
+   "narrative": "Payments & Stablecoins",
+   "score": 18.1,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 41,
-    "github_top_velocity": 14.34,
+    "github_repos": 6,
+    "github_top_velocity": 2.07,
+    "headline_hits": 2,
+    "sample_headlines": [
+     "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
+     "Morning Minute: Citi and Coinbase Just Made Stablecoins Invisible"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "2274802010922/picachu__",
+     "stars_per_day": 1.67,
+     "url": "https://github.com/2274802010922/picachu__"
+    },
+    {
+     "full_name": "nirholas/onchain-agent-wallets",
+     "stars_per_day": 0.15,
+     "url": "https://github.com/nirholas/onchain-agent-wallets"
+    },
+    {
+     "full_name": "penguinpecker/propstrade",
+     "stars_per_day": 0.14,
+     "url": "https://github.com/penguinpecker/propstrade"
+    },
+    {
+     "full_name": "WINGS-N/wingsvpn-federation-pay",
+     "stars_per_day": 0.05,
+     "url": "https://github.com/WINGS-N/wingsvpn-federation-pay"
+    },
+    {
+     "full_name": "nemorixgroup/Solana-Knowledge-Base",
+     "stars_per_day": 0.03,
+     "url": "https://github.com/nemorixgroup/Solana-Knowledge-Base"
+    }
+   ]
+  },
+  {
+   "narrative": "Dev Tooling & Infra",
+   "score": 14.4,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 42,
+    "github_top_velocity": 14.38,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -353,6 +336,28 @@
      "full_name": "livid/exe-hub",
      "stars_per_day": 0.43,
      "url": "https://github.com/livid/exe-hub"
+    }
+   ]
+  },
+  {
+   "narrative": "Security & Threats",
+   "score": 8.0,
+   "confidence": "Low",
+   "evidence": {
+    "github_repos": 1,
+    "github_top_velocity": 0.02,
+    "headline_hits": 1,
+    "sample_headlines": [
+     "More Markets lending reserve drained for $410,000: Blockaid"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 0
+   },
+   "member_repos": [
+    {
+     "full_name": "leafwithered/clawledger",
+     "stars_per_day": 0.02,
+     "url": "https://github.com/leafwithered/clawledger"
     }
    ]
   },

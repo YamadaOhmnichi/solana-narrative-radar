@@ -3,10 +3,10 @@
   "full_name": "nhovongoc0-max/meme-radar",
   "url": "https://github.com/nhovongoc0-max/meme-radar",
   "description": "Meme\u96f7\u8fbe\u5f00\u6e90\u7248\uff1a\u672c\u5730\u53ea\u8bfb\u3001\u591a\u94fe Meme \u5019\u9009\u626b\u63cf\u4e0e\u4eba\u5de5\u590d\u6838\u5de5\u5177",
-  "stars": 492,
+  "stars": 494,
   "created": "2026-09-11T12:14:57Z",
   "language": "JavaScript",
-  "stars_per_day": 27.33,
+  "stars_per_day": 27.44,
   "age_days": 18,
   "topics": [
    "bsc",
@@ -22,10 +22,10 @@
   "full_name": "uni-launch/token-launch-handbook",
   "url": "https://github.com/uni-launch/token-launch-handbook",
   "description": "Create and manage your own token without code \u2014 Solana, Ethereum, Base, BNB Chain and 5 more networks. Guides, costs, checklists.",
-  "stars": 98,
+  "stars": 100,
   "created": "2026-09-23T13:40:32Z",
   "language": "HTML",
-  "stars_per_day": 16.33,
+  "stars_per_day": 16.67,
   "age_days": 6,
   "topics": []
  },
@@ -109,8 +109,8 @@
   "stars": 192,
   "created": "2026-08-06T00:51:16Z",
   "language": "TypeScript",
-  "stars_per_day": 3.56,
-  "age_days": 54,
+  "stars_per_day": 3.49,
+  "age_days": 55,
   "topics": []
  },
  {
@@ -190,25 +190,6 @@
   "stars_per_day": 1.8,
   "age_days": 10,
   "topics": []
- },
- {
-  "full_name": "2274802010922/picachu__",
-  "url": "https://github.com/2274802010922/picachu__",
-  "description": "Vietnamese-first Solana borrowing assistant: explore risk, plan repayments, and keep control of your wallet. Devnet MVP.",
-  "stars": 5,
-  "created": "2026-09-26T03:55:36Z",
-  "language": "TypeScript",
-  "stars_per_day": 1.67,
-  "age_days": 3,
-  "topics": [
-   "defi",
-   "devnet",
-   "nextjs",
-   "openrouter",
-   "solana",
-   "typescript",
-   "vietnamese"
-  ]
  },
  {
   "full_name": "tayohya/solprobe",
@@ -293,6 +274,25 @@
   ]
  },
  {
+  "full_name": "2274802010922/picachu__",
+  "url": "https://github.com/2274802010922/picachu__",
+  "description": "Vietnamese-first Solana borrowing assistant: explore risk, plan repayments, and keep control of your wallet. Devnet MVP.",
+  "stars": 5,
+  "created": "2026-09-26T03:55:36Z",
+  "language": "TypeScript",
+  "stars_per_day": 1.25,
+  "age_days": 4,
+  "topics": [
+   "defi",
+   "devnet",
+   "nextjs",
+   "openrouter",
+   "solana",
+   "typescript",
+   "vietnamese"
+  ]
+ },
+ {
   "full_name": "PillCrew/claimchain",
   "url": "https://github.com/PillCrew/claimchain",
   "description": "Verify that an AI agent's on-chain claims are actually true. A claim-level groundedness checker for Solana / memecoin agents.",
@@ -373,10 +373,10 @@
   "full_name": "blueshift-gg/solana-ecvrf",
   "url": "https://github.com/blueshift-gg/solana-ecvrf",
   "description": "ECVRF-EDWARDS25519-SHA512-TAI verification for Solana programs.",
-  "stars": 12,
+  "stars": 13,
   "created": "2026-09-07T11:34:00Z",
   "language": "Rust",
-  "stars_per_day": 0.55,
+  "stars_per_day": 0.59,
   "age_days": 22,
   "topics": [
    "ecvrf",
@@ -547,7 +547,7 @@
   "created": "2026-08-10T03:26:44Z",
   "language": "Rust",
   "stars_per_day": 0.2,
-  "age_days": 50,
+  "age_days": 51,
   "topics": [
    "defi",
    "magicblock",
@@ -613,7 +613,7 @@
   "created": "2026-08-08T02:49:21Z",
   "language": "HTML",
   "stars_per_day": 0.19,
-  "age_days": 52,
+  "age_days": 53,
   "topics": [
    "arbitrage",
    "blockchain",
@@ -626,14 +626,25 @@
   ]
  },
  {
+  "full_name": "nirholas/flock-defi-index",
+  "url": "https://github.com/nirholas/flock-defi-index",
+  "description": "Methodology, screening and rebalance proposals for the Flock DeFi Index (FDI) on Solana",
+  "stars": 4,
+  "created": "2026-09-07T21:43:35Z",
+  "language": "TypeScript",
+  "stars_per_day": 0.18,
+  "age_days": 22,
+  "topics": []
+ },
+ {
   "full_name": "samuelcampozano/nodus",
   "url": "https://github.com/samuelcampozano/nodus",
   "description": "Nodus \u2014 Programmable Sovereign Cloud Vault powered by Walrus & Sui",
   "stars": 2,
   "created": "2026-09-18T01:27:17Z",
   "language": "JavaScript",
-  "stars_per_day": 0.18,
-  "age_days": 11,
+  "stars_per_day": 0.17,
+  "age_days": 12,
   "topics": [
    "ai",
    "colosseum",
@@ -644,17 +655,6 @@
    "nextjs",
    "privacy"
   ]
- },
- {
-  "full_name": "nirholas/flock-defi-index",
-  "url": "https://github.com/nirholas/flock-defi-index",
-  "description": "Methodology, screening and rebalance proposals for the Flock DeFi Index (FDI) on Solana",
-  "stars": 4,
-  "created": "2026-09-07T21:43:35Z",
-  "language": "TypeScript",
-  "stars_per_day": 0.18,
-  "age_days": 22,
-  "topics": []
  },
  {
   "full_name": "alizeeshan1234/svmScope",
@@ -764,7 +764,7 @@
   "created": "2026-09-11T05:58:51Z",
   "language": "TypeScript",
   "stars_per_day": 0.11,
-  "age_days": 18,
+  "age_days": 19,
   "topics": [
    "anchor",
    "blockchain",
@@ -929,17 +929,6 @@
   ]
  },
  {
-  "full_name": "Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
-  "url": "https://github.com/Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
-  "description": "",
-  "stars": 1,
-  "created": "2026-09-14T01:47:19Z",
-  "language": "Rust",
-  "stars_per_day": 0.07,
-  "age_days": 15,
-  "topics": []
- },
- {
   "full_name": "blueshift-gg/solana-winternitz",
   "url": "https://github.com/blueshift-gg/solana-winternitz",
   "description": "Target-sum Winternitz and XMSS signatures for Solana programs.",
@@ -965,6 +954,17 @@
   ]
  },
  {
+  "full_name": "Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
+  "url": "https://github.com/Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
+  "description": "",
+  "stars": 1,
+  "created": "2026-09-14T01:47:19Z",
+  "language": "Rust",
+  "stars_per_day": 0.06,
+  "age_days": 16,
+  "topics": []
+ },
+ {
   "full_name": "amoeba-farm/amoeba-program",
   "url": "https://github.com/amoeba-farm/amoeba-program",
   "description": "Open-source Solana Devnet program for Amoeba Farm",
@@ -983,7 +983,7 @@
   "created": "2026-08-21T06:17:43Z",
   "language": "JavaScript",
   "stars_per_day": 0.05,
-  "age_days": 39,
+  "age_days": 40,
   "topics": [
    "agents",
    "ai-agents",
@@ -1080,26 +1080,6 @@
   ]
  },
  {
-  "full_name": "daronthedragon/token2022-fingerprint",
-  "url": "https://github.com/daronthedragon/token2022-fingerprint",
-  "description": "What does this Solana mint actually do to your transfers? Reports Token-2022 extensions - permanent delegates, transfer hooks, fees - and rates them by how they are actually configured.",
-  "stars": 2,
-  "created": "2026-08-18T22:52:27Z",
-  "language": "TypeScript",
-  "stars_per_day": 0.05,
-  "age_days": 42,
-  "topics": [
-   "blockchain",
-   "cli",
-   "defi",
-   "security",
-   "solana",
-   "spl-token",
-   "token-2022",
-   "transfer-hook"
-  ]
- },
- {
   "full_name": "daronthedragon/wallet-forensics",
   "url": "https://github.com/daronthedragon/wallet-forensics",
   "description": "Forensic report for any Ethereum or Solana address: realized PnL, fees burned, MEV extracted from you, approval risk, and what your bags are actually worth if you tried to sell them.",
@@ -1117,6 +1097,26 @@
    "solana",
    "typescript",
    "viem"
+  ]
+ },
+ {
+  "full_name": "daronthedragon/token2022-fingerprint",
+  "url": "https://github.com/daronthedragon/token2022-fingerprint",
+  "description": "What does this Solana mint actually do to your transfers? Reports Token-2022 extensions - permanent delegates, transfer hooks, fees - and rates them by how they are actually configured.",
+  "stars": 2,
+  "created": "2026-08-18T22:52:27Z",
+  "language": "TypeScript",
+  "stars_per_day": 0.05,
+  "age_days": 42,
+  "topics": [
+   "blockchain",
+   "cli",
+   "defi",
+   "security",
+   "solana",
+   "spl-token",
+   "token-2022",
+   "transfer-hook"
   ]
  },
  {
@@ -1226,7 +1226,7 @@
   "created": "2026-09-05T06:17:30Z",
   "language": "Rust",
   "stars_per_day": 0.04,
-  "age_days": 24,
+  "age_days": 25,
   "topics": [
    "quasar",
    "solana"
@@ -1260,7 +1260,7 @@
   "created": "2026-09-04T06:32:44Z",
   "language": null,
   "stars_per_day": 0.04,
-  "age_days": 25,
+  "age_days": 26,
   "topics": []
  },
  {
@@ -1293,7 +1293,7 @@
   "created": "2026-08-27T03:53:37Z",
   "language": "Rust",
   "stars_per_day": 0.03,
-  "age_days": 33,
+  "age_days": 34,
   "topics": [
    "anchor",
    "solana"
@@ -1340,7 +1340,7 @@
   "created": "2026-08-23T04:02:06Z",
   "language": "TypeScript",
   "stars_per_day": 0.03,
-  "age_days": 37,
+  "age_days": 38,
   "topics": []
  },
  {
@@ -1454,7 +1454,7 @@
   "created": "2026-08-13T01:05:33Z",
   "language": "TypeScript",
   "stars_per_day": 0.02,
-  "age_days": 47,
+  "age_days": 48,
   "topics": []
  },
  {

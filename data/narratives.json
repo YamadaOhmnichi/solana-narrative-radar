@@ -1,25 +1,25 @@
 {
- "generated_at": "2026-09-30T00:39:15+00:00",
+ "generated_at": "2026-09-30T06:36:20+00:00",
  "narratives": [
   {
    "narrative": "Meme & Speculation",
-   "score": 53.2,
+   "score": 75.9,
    "confidence": "High",
    "evidence": {
     "github_repos": 13,
-    "github_top_velocity": 37.22,
+    "github_top_velocity": 37.33,
     "headline_hits": 2,
     "sample_headlines": [
      "Fomo overtakes Pump.fun in daily revenue on Solana",
      "Fomo overtakes Pump.fun in daily revenue on Solana"
     ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 2
+    "market_avg_7d_pct": -11.29,
+    "sources_confirming": 3
    },
    "member_repos": [
     {
      "full_name": "nhovongoc0-max/meme-radar",
-     "stars_per_day": 27.33,
+     "stars_per_day": 27.44,
      "url": "https://github.com/nhovongoc0-max/meme-radar"
     },
     {
@@ -46,11 +46,11 @@
   },
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 50.7,
+   "score": 50.3,
    "confidence": "High",
    "evidence": {
     "github_repos": 50,
-    "github_top_velocity": 34.68,
+    "github_top_velocity": 34.26,
     "headline_hits": 2,
     "sample_headlines": [
      "Kraken brings DeFi yield to tokenized stocks and ETFs",
@@ -81,19 +81,19 @@
      "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
     },
     {
-     "full_name": "2274802010922/picachu__",
-     "stars_per_day": 1.67,
-     "url": "https://github.com/2274802010922/picachu__"
+     "full_name": "tayohya/solprobe",
+     "stars_per_day": 1.55,
+     "url": "https://github.com/tayohya/solprobe"
     }
    ]
   },
   {
    "narrative": "Wallets & UX",
-   "score": 40.2,
+   "score": 39.8,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 20,
-    "github_top_velocity": 40.25,
+    "github_top_velocity": 39.83,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -129,11 +129,11 @@
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 39.4,
+   "score": 39.0,
    "confidence": "High",
    "evidence": {
     "github_repos": 22,
-    "github_top_velocity": 23.38,
+    "github_top_velocity": 22.96,
     "headline_hits": 2,
     "sample_headlines": [
      "OpenAI Gave AI Agents Their Own Computers at DevDay 2026. Here's Everything It Announced",
@@ -149,14 +149,14 @@
      "url": "https://github.com/recogardtech/AutoPilotPM"
     },
     {
-     "full_name": "2274802010922/picachu__",
-     "stars_per_day": 1.67,
-     "url": "https://github.com/2274802010922/picachu__"
-    },
-    {
      "full_name": "Parad0x-Labs/vool",
      "stars_per_day": 1.36,
      "url": "https://github.com/Parad0x-Labs/vool"
+    },
+    {
+     "full_name": "2274802010922/picachu__",
+     "stars_per_day": 1.25,
+     "url": "https://github.com/2274802010922/picachu__"
     },
     {
      "full_name": "PillCrew/claimchain",
@@ -258,11 +258,11 @@
   },
   {
    "narrative": "Payments & Stablecoins",
-   "score": 18.1,
+   "score": 17.6,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 6,
-    "github_top_velocity": 2.07,
+    "github_top_velocity": 1.65,
     "headline_hits": 2,
     "sample_headlines": [
      "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
@@ -274,7 +274,7 @@
    "member_repos": [
     {
      "full_name": "2274802010922/picachu__",
-     "stars_per_day": 1.67,
+     "stars_per_day": 1.25,
      "url": "https://github.com/2274802010922/picachu__"
     },
     {

@@ -1,31 +1,26 @@
 {
- "generated_at": "2026-09-30T06:36:20+00:00",
+ "generated_at": "2026-09-30T12:40:13+00:00",
  "narratives": [
   {
    "narrative": "Meme & Speculation",
-   "score": 75.9,
+   "score": 69.5,
    "confidence": "High",
    "evidence": {
     "github_repos": 13,
-    "github_top_velocity": 37.33,
+    "github_top_velocity": 35.76,
     "headline_hits": 2,
     "sample_headlines": [
      "Fomo overtakes Pump.fun in daily revenue on Solana",
      "Fomo overtakes Pump.fun in daily revenue on Solana"
     ],
-    "market_avg_7d_pct": -11.29,
+    "market_avg_7d_pct": -8.87,
     "sources_confirming": 3
    },
    "member_repos": [
     {
      "full_name": "nhovongoc0-max/meme-radar",
-     "stars_per_day": 27.44,
+     "stars_per_day": 25.95,
      "url": "https://github.com/nhovongoc0-max/meme-radar"
-    },
-    {
-     "full_name": "dartkomnitibe/solana-meme-tool",
-     "stars_per_day": 3.23,
-     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
     },
     {
      "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
@@ -33,8 +28,13 @@
      "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
     },
     {
+     "full_name": "dartkomnitibe/solana-meme-tool",
+     "stars_per_day": 3.17,
+     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
+    },
+    {
      "full_name": "OnlyTerp/papertrench",
-     "stars_per_day": 1.29,
+     "stars_per_day": 1.27,
      "url": "https://github.com/OnlyTerp/papertrench"
     },
     {
@@ -46,13 +46,14 @@
   },
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 50.3,
+   "score": 59.1,
    "confidence": "High",
    "evidence": {
     "github_repos": 50,
-    "github_top_velocity": 34.26,
-    "headline_hits": 2,
+    "github_top_velocity": 35.15,
+    "headline_hits": 3,
     "sample_headlines": [
+     "Morning Minute: Robinhood Adds Perps, Weekend Stocks, and AI Traders",
      "Kraken brings DeFi yield to tokenized stocks and ETFs",
      "Sui DeFi protocol Full Sail to wind down after Switchboard incident"
     ],
@@ -62,7 +63,7 @@
    "member_repos": [
     {
      "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 16.0,
+     "stars_per_day": 17.0,
      "url": "https://github.com/recogardtech/AutoPilotPM"
     },
     {
@@ -71,73 +72,34 @@
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
     },
     {
-     "full_name": "dartkomnitibe/solana-meme-tool",
-     "stars_per_day": 3.23,
-     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
-    },
-    {
      "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
      "stars_per_day": 3.21,
      "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
     },
     {
+     "full_name": "dartkomnitibe/solana-meme-tool",
+     "stars_per_day": 3.17,
+     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
+    },
+    {
      "full_name": "tayohya/solprobe",
-     "stars_per_day": 1.55,
+     "stars_per_day": 1.52,
      "url": "https://github.com/tayohya/solprobe"
     }
    ]
   },
   {
-   "narrative": "Wallets & UX",
-   "score": 39.8,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 20,
-    "github_top_velocity": 39.83,
-    "headline_hits": 0,
-    "sample_headlines": [],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "uni-launch/solana-token-creator",
-     "stars_per_day": 15.0,
-     "url": "https://github.com/uni-launch/solana-token-creator"
-    },
-    {
-     "full_name": "Kylerkrausemdzyra64/Crypto-Checker",
-     "stars_per_day": 8.09,
-     "url": "https://github.com/Kylerkrausemdzyra64/Crypto-Checker"
-    },
-    {
-     "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 4.53,
-     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
-    },
-    {
-     "full_name": "dartkomnitibe/solana-meme-tool",
-     "stars_per_day": 3.23,
-     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
-    },
-    {
-     "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
-     "stars_per_day": 3.21,
-     "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
-    }
-   ]
-  },
-  {
    "narrative": "AI Agents on Solana",
-   "score": 39.0,
+   "score": 55.8,
    "confidence": "High",
    "evidence": {
     "github_repos": 22,
-    "github_top_velocity": 22.96,
-    "headline_hits": 2,
+    "github_top_velocity": 23.83,
+    "headline_hits": 4,
     "sample_headlines": [
-     "OpenAI Gave AI Agents Their Own Computers at DevDay 2026. Here's Everything It Announced",
-     "BBC Director-General Deems AI-Generated Doctor Who Episode 'Pretty Good'"
+     "Morning Minute: Robinhood Adds Perps, Weekend Stocks, and AI Traders",
+     "McDonald's AI \u2018Pricing Engine\u2019 Gauges What Customers Will Pay for a Big Mac: Report",
+     "OpenAI Gave AI Agents Their Own Computers at DevDay 2026. Here's Everything It Announced"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -145,7 +107,7 @@
    "member_repos": [
     {
      "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 16.0,
+     "stars_per_day": 17.0,
      "url": "https://github.com/recogardtech/AutoPilotPM"
     },
     {
@@ -164,9 +126,49 @@
      "url": "https://github.com/PillCrew/claimchain"
     },
     {
-     "full_name": "SohniSwatantra/nosana-mcp",
-     "stars_per_day": 0.92,
-     "url": "https://github.com/SohniSwatantra/nosana-mcp"
+     "full_name": "PillCrew/PillCrew",
+     "stars_per_day": 0.9,
+     "url": "https://github.com/PillCrew/PillCrew"
+    }
+   ]
+  },
+  {
+   "narrative": "Wallets & UX",
+   "score": 39.1,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 20,
+    "github_top_velocity": 39.09,
+    "headline_hits": 0,
+    "sample_headlines": [],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "uni-launch/solana-token-creator",
+     "stars_per_day": 15.0,
+     "url": "https://github.com/uni-launch/solana-token-creator"
+    },
+    {
+     "full_name": "Kylerkrausemdzyra64/Crypto-Checker",
+     "stars_per_day": 7.42,
+     "url": "https://github.com/Kylerkrausemdzyra64/Crypto-Checker"
+    },
+    {
+     "full_name": "openarbmev/Openarb-Trade-SDK",
+     "stars_per_day": 4.53,
+     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
+    },
+    {
+     "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
+     "stars_per_day": 3.21,
+     "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
+    },
+    {
+     "full_name": "dartkomnitibe/solana-meme-tool",
+     "stars_per_day": 3.17,
+     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
     }
    ]
   },
@@ -176,7 +178,7 @@
    "confidence": "Medium",
    "evidence": {
     "github_repos": 5,
-    "github_top_velocity": 0.27,
+    "github_top_velocity": 0.26,
     "headline_hits": 3,
     "sample_headlines": [
      "Cboe's New S&amp;P Deal Opens the Door to Tokenized Options",
@@ -189,7 +191,7 @@
    "member_repos": [
     {
      "full_name": "thesithunyein/owed",
-     "stars_per_day": 0.12,
+     "stars_per_day": 0.11,
      "url": "https://github.com/thesithunyein/owed"
     },
     {
@@ -220,7 +222,7 @@
    "confidence": "Medium",
    "evidence": {
     "github_repos": 6,
-    "github_top_velocity": 15.93,
+    "github_top_velocity": 15.91,
     "headline_hits": 1,
     "sample_headlines": [
      "Someone Finally Jailbroke the PS5\u2014Just After Sony Said Players Don\u2019t Own Their Games"
@@ -236,12 +238,12 @@
     },
     {
      "full_name": "livid/exe-hub",
-     "stars_per_day": 0.43,
+     "stars_per_day": 0.42,
      "url": "https://github.com/livid/exe-hub"
     },
     {
      "full_name": "blueshift-gg/solana-awesome",
-     "stars_per_day": 0.36,
+     "stars_per_day": 0.35,
      "url": "https://github.com/blueshift-gg/solana-awesome"
     },
     {
@@ -257,19 +259,58 @@
    ]
   },
   {
-   "narrative": "Payments & Stablecoins",
-   "score": 17.6,
+   "narrative": "Dev Tooling & Infra",
+   "score": 13.6,
    "confidence": "Medium",
+   "evidence": {
+    "github_repos": 42,
+    "github_top_velocity": 13.6,
+    "headline_hits": 0,
+    "sample_headlines": [],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "propavingk/SlotDrift",
+     "stars_per_day": 6.4,
+     "url": "https://github.com/propavingk/SlotDrift"
+    },
+    {
+     "full_name": "openarbmev/Openarb-Trade-SDK",
+     "stars_per_day": 4.53,
+     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
+    },
+    {
+     "full_name": "SohniSwatantra/nosana-mcp",
+     "stars_per_day": 0.88,
+     "url": "https://github.com/SohniSwatantra/nosana-mcp"
+    },
+    {
+     "full_name": "gothamgodzilla/deepwake",
+     "stars_per_day": 0.5,
+     "url": "https://github.com/gothamgodzilla/deepwake"
+    },
+    {
+     "full_name": "livid/exe-hub",
+     "stars_per_day": 0.42,
+     "url": "https://github.com/livid/exe-hub"
+    }
+   ]
+  },
+  {
+   "narrative": "Payments & Stablecoins",
+   "score": 9.7,
+   "confidence": "Low",
    "evidence": {
     "github_repos": 6,
     "github_top_velocity": 1.65,
-    "headline_hits": 2,
+    "headline_hits": 1,
     "sample_headlines": [
-     "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
-     "Morning Minute: Citi and Coinbase Just Made Stablecoins Invisible"
+     "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand"
     ],
     "market_avg_7d_pct": null,
-    "sources_confirming": 1
+    "sources_confirming": 0
    },
    "member_repos": [
     {
@@ -296,46 +337,6 @@
      "full_name": "nemorixgroup/Solana-Knowledge-Base",
      "stars_per_day": 0.03,
      "url": "https://github.com/nemorixgroup/Solana-Knowledge-Base"
-    }
-   ]
-  },
-  {
-   "narrative": "Dev Tooling & Infra",
-   "score": 14.4,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 42,
-    "github_top_velocity": 14.38,
-    "headline_hits": 0,
-    "sample_headlines": [],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "propavingk/SlotDrift",
-     "stars_per_day": 7.11,
-     "url": "https://github.com/propavingk/SlotDrift"
-    },
-    {
-     "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 4.53,
-     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
-    },
-    {
-     "full_name": "SohniSwatantra/nosana-mcp",
-     "stars_per_day": 0.92,
-     "url": "https://github.com/SohniSwatantra/nosana-mcp"
-    },
-    {
-     "full_name": "gothamgodzilla/deepwake",
-     "stars_per_day": 0.5,
-     "url": "https://github.com/gothamgodzilla/deepwake"
-    },
-    {
-     "full_name": "livid/exe-hub",
-     "stars_per_day": 0.43,
-     "url": "https://github.com/livid/exe-hub"
     }
    ]
   },
@@ -367,7 +368,7 @@
    "confidence": "Low",
    "evidence": {
     "github_repos": 1,
-    "github_top_velocity": 0.92,
+    "github_top_velocity": 0.88,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -376,7 +377,7 @@
    "member_repos": [
     {
      "full_name": "SohniSwatantra/nosana-mcp",
-     "stars_per_day": 0.92,
+     "stars_per_day": 0.88,
      "url": "https://github.com/SohniSwatantra/nosana-mcp"
     }
    ]

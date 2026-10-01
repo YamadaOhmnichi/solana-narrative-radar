@@ -1,25 +1,25 @@
 {
- "generated_at": "2026-09-30T18:33:05+00:00",
+ "generated_at": "2026-10-01T00:39:58+00:00",
  "narratives": [
   {
    "narrative": "Meme & Speculation",
-   "score": 52.7,
+   "score": 54.5,
    "confidence": "High",
    "evidence": {
-    "github_repos": 13,
-    "github_top_velocity": 35.86,
+    "github_repos": 12,
+    "github_top_velocity": 34.62,
     "headline_hits": 2,
     "sample_headlines": [
      "Fomo overtakes Pump.fun in daily revenue on Solana",
      "Fomo overtakes Pump.fun in daily revenue on Solana"
     ],
-    "market_avg_7d_pct": -0.43,
+    "market_avg_7d_pct": -1.96,
     "sources_confirming": 2
    },
    "member_repos": [
     {
      "full_name": "nhovongoc0-max/meme-radar",
-     "stars_per_day": 26.11,
+     "stars_per_day": 26.16,
      "url": "https://github.com/nhovongoc0-max/meme-radar"
     },
     {
@@ -33,27 +33,26 @@
      "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
     },
     {
-     "full_name": "OnlyTerp/papertrench",
-     "stars_per_day": 1.27,
-     "url": "https://github.com/OnlyTerp/papertrench"
+     "full_name": "PillCrew/claimchain",
+     "stars_per_day": 0.96,
+     "url": "https://github.com/PillCrew/claimchain"
     },
     {
-     "full_name": "PillCrew/claimchain",
-     "stars_per_day": 1.0,
-     "url": "https://github.com/PillCrew/claimchain"
+     "full_name": "PillCrew/PillCrew",
+     "stars_per_day": 0.88,
+     "url": "https://github.com/PillCrew/PillCrew"
     }
    ]
   },
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 50.9,
+   "score": 41.8,
    "confidence": "High",
    "evidence": {
     "github_repos": 50,
-    "github_top_velocity": 26.86,
-    "headline_hits": 3,
+    "github_top_velocity": 25.84,
+    "headline_hits": 2,
     "sample_headlines": [
-     "Morning Minute: Robinhood Adds Perps, Weekend Stocks, and AI Traders",
      "Kraken brings DeFi yield to tokenized stocks and ETFs",
      "Sui DeFi protocol Full Sail to wind down after Switchboard incident"
     ],
@@ -90,16 +89,16 @@
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 39.8,
+   "score": 39.6,
    "confidence": "High",
    "evidence": {
-    "github_repos": 22,
-    "github_top_velocity": 15.8,
+    "github_repos": 20,
+    "github_top_velocity": 15.6,
     "headline_hits": 3,
     "sample_headlines": [
-     "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia",
-     "Morning Minute: Robinhood Adds Perps, Weekend Stocks, and AI Traders",
-     "McDonald's AI \u2018Pricing Engine\u2019 Gauges What Customers Will Pay for a Big Mac: Report"
+     "Gemini 4 Is Here, and Google\u2019s Flagship Tops All Other AI Models on Cybersecurity",
+     "US Government's New AI Chatbot Has a Weird Minecraft Secret",
+     "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -112,7 +111,7 @@
     },
     {
      "full_name": "Parad0x-Labs/vool",
-     "stars_per_day": 1.36,
+     "stars_per_day": 1.25,
      "url": "https://github.com/Parad0x-Labs/vool"
     },
     {
@@ -122,12 +121,12 @@
     },
     {
      "full_name": "PillCrew/claimchain",
-     "stars_per_day": 1.0,
+     "stars_per_day": 0.96,
      "url": "https://github.com/PillCrew/claimchain"
     },
     {
      "full_name": "PillCrew/PillCrew",
-     "stars_per_day": 0.9,
+     "stars_per_day": 0.88,
      "url": "https://github.com/PillCrew/PillCrew"
     }
    ]
@@ -138,7 +137,7 @@
    "confidence": "Medium",
    "evidence": {
     "github_repos": 20,
-    "github_top_velocity": 36.62,
+    "github_top_velocity": 36.58,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -174,14 +173,13 @@
   },
   {
    "narrative": "RWA & Tokenization",
-   "score": 24.2,
+   "score": 16.2,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 5,
     "github_top_velocity": 0.25,
-    "headline_hits": 3,
+    "headline_hits": 2,
     "sample_headlines": [
-     "Cboe's New S&amp;P Deal Opens the Door to Tokenized Options",
      "Winners and losers of the SEC\u2019s new tokenized stocks rules",
      "Kraken brings DeFi yield to tokenized stocks and ETFs"
     ],
@@ -261,8 +259,8 @@
    "score": 13.2,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 42,
-    "github_top_velocity": 13.19,
+    "github_repos": 41,
+    "github_top_velocity": 13.17,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -298,11 +296,11 @@
   },
   {
    "narrative": "Payments & Stablecoins",
-   "score": 9.6,
+   "score": 9.7,
    "confidence": "Low",
    "evidence": {
-    "github_repos": 6,
-    "github_top_velocity": 1.64,
+    "github_repos": 8,
+    "github_top_velocity": 1.65,
     "headline_hits": 1,
     "sample_headlines": [
      "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand"
@@ -318,12 +316,12 @@
     },
     {
      "full_name": "nirholas/onchain-agent-wallets",
-     "stars_per_day": 0.15,
+     "stars_per_day": 0.14,
      "url": "https://github.com/nirholas/onchain-agent-wallets"
     },
     {
      "full_name": "penguinpecker/propstrade",
-     "stars_per_day": 0.14,
+     "stars_per_day": 0.12,
      "url": "https://github.com/penguinpecker/propstrade"
     },
     {
@@ -335,28 +333,6 @@
      "full_name": "nemorixgroup/Solana-Knowledge-Base",
      "stars_per_day": 0.03,
      "url": "https://github.com/nemorixgroup/Solana-Knowledge-Base"
-    }
-   ]
-  },
-  {
-   "narrative": "Security & Threats",
-   "score": 8.0,
-   "confidence": "Low",
-   "evidence": {
-    "github_repos": 1,
-    "github_top_velocity": 0.02,
-    "headline_hits": 1,
-    "sample_headlines": [
-     "More Markets lending reserve drained for $410,000: Blockaid"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 0
-   },
-   "member_repos": [
-    {
-     "full_name": "leafwithered/clawledger",
-     "stars_per_day": 0.02,
-     "url": "https://github.com/leafwithered/clawledger"
     }
    ]
   },

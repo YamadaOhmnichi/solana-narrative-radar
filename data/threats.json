@@ -2,21 +2,21 @@
  {
   "full_name": "MetaMask-AI/metamask-desktop",
   "url": "https://github.com/MetaMask-AI/metamask-desktop",
-  "description": "MetaMask Desktop (\u5c0f\u72d0\u72f8\u94b1\u5305\u684c\u9762\u7aef / \u30e1\u30bf\u30de\u30b9\u30af \u30c7\u30b9\u30af\u30c8\u30c3\u30d7) \u2014 Safe cross-platform Web3 crypto wallet app for Windows, macOS and Linux.",
+  "description": "Metamask Desktop client and Web3 dApp browser for Windows, macOS, and Linux. Built with EVM and Solana support.",
   "stars": 1235,
   "created": "2026-08-28T08:07:10Z",
   "language": "CSS",
   "stars_per_day": 37.42,
   "age_days": 33,
   "topics": [
-   "bitcoin",
-   "crypto",
+   "blockchain-integration",
    "cryptocoins",
    "cryptocurrency",
    "dapp",
-   "ethereum",
-   "ethereum-blockchain",
-   "ethereum-wallet"
+   "dapp-browser",
+   "desktop-wallet",
+   "electron-app",
+   "ethereum-blockchain"
   ],
   "flag": "brand-impersonation"
  },

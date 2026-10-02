@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-02T00:38:00+00:00",
+ "generated_at": "2026-10-02T06:36:44+00:00",
  "narratives": [
   {
    "narrative": "Meme & Speculation",
-   "score": 57.8,
+   "score": 50.7,
    "confidence": "High",
    "evidence": {
     "github_repos": 13,
@@ -13,7 +13,7 @@
      "Fomo overtakes Pump.fun in daily revenue on Solana",
      "Fomo overtakes Pump.fun in daily revenue on Solana"
     ],
-    "market_avg_7d_pct": -3.88,
+    "market_avg_7d_pct": 0.34,
     "sources_confirming": 2
    },
    "member_repos": [
@@ -46,11 +46,11 @@
   },
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 38.4,
+   "score": 38.2,
    "confidence": "High",
    "evidence": {
     "github_repos": 51,
-    "github_top_velocity": 22.41,
+    "github_top_velocity": 22.24,
     "headline_hits": 2,
     "sample_headlines": [
      "Kraken brings DeFi yield to tokenized stocks and ETFs",
@@ -93,7 +93,7 @@
    "confidence": "High",
    "evidence": {
     "github_repos": 19,
-    "github_top_velocity": 11.18,
+    "github_top_velocity": 11.17,
     "headline_hits": 3,
     "sample_headlines": [
      "Reddit Is Killing RSS Feeds and Public API Access to Fight AI Scrapers",
@@ -298,11 +298,11 @@
   },
   {
    "narrative": "Payments & Stablecoins",
-   "score": 9.4,
+   "score": 9.2,
    "confidence": "Low",
    "evidence": {
     "github_repos": 7,
-    "github_top_velocity": 1.37,
+    "github_top_velocity": 1.2,
     "headline_hits": 1,
     "sample_headlines": [
      "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand"
@@ -313,7 +313,7 @@
    "member_repos": [
     {
      "full_name": "2274802010922/picachu__",
-     "stars_per_day": 1.0,
+     "stars_per_day": 0.83,
      "url": "https://github.com/2274802010922/picachu__"
     },
     {

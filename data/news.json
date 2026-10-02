@@ -63,6 +63,26 @@
  ],
  "decrypt": [
   {
+   "title": "Once a $2.3 Billion Network, Ethereum Layer-2 Blast Is Shutting Down",
+   "pub": "Fri, 02 Oct 2026 17:47:06 +0000",
+   "link": "https://decrypt.co/379972/ethereum-layer-2-blast-shutting-down"
+  },
+  {
+   "title": "Nvidia Hits Record High as Market Value Reaches $5.7 Trillion",
+   "pub": "Fri, 02 Oct 2026 17:30:40 +0000",
+   "link": "https://decrypt.co/379959/nvidia-hits-record-high-market-value-5-7-trillion"
+  },
+  {
+   "title": "Bitcoin Heads Higher on Macro Moves: Where Does BTC Go Next?",
+   "pub": "Fri, 02 Oct 2026 16:45:52 +0000",
+   "link": "https://decrypt.co/379936/bitcoin-heads-higher-fed-jobs-where-does-btc-go-next"
+  },
+  {
+   "title": "'Uptober' Off With a Bang as Bitcoin Surges to $86K",
+   "pub": "Fri, 02 Oct 2026 12:58:25 +0000",
+   "link": "https://decrypt.co/379932/uptober-off-with-a-bang-as-bitcoin-surges-to-86k"
+  },
+  {
    "title": "Morning Minute: NEAR Intents Hacked for $3.8M - Was It A Bullish Hack?",
    "pub": "Fri, 02 Oct 2026 12:19:00 +0000",
    "link": "https://decrypt.co/379929/morning-minute-near-intents-hacked-for-3-8m-was-it-a-bullish-hack"
@@ -101,29 +121,14 @@
    "title": "Meta Pushes Back on Claim That Muse AI Read a User's Messages Without Consent",
    "pub": "Thu, 01 Oct 2026 19:16:03 +0000",
    "link": "https://decrypt.co/379868/meta-muse-ai-agent-read-messages-without-permission"
-  },
-  {
-   "title": "The 'Largest Pure-Play' XRP Treasury Is About to Go Public",
-   "pub": "Thu, 01 Oct 2026 18:46:03 +0000",
-   "link": "https://decrypt.co/379856/the-largest-pure-play-xrp-treasury-is-about-to-go-public"
-  },
-  {
-   "title": "OpenAI Fires Three Safety Researchers Over Alleged Leak to Outside Group",
-   "pub": "Thu, 01 Oct 2026 18:12:04 +0000",
-   "link": "https://decrypt.co/379857/openai-fires-researchers-alledged-leak-safety-group"
-  },
-  {
-   "title": "It's the Start of Uptober. Will Bitcoin Live Up to It?",
-   "pub": "Thu, 01 Oct 2026 17:11:44 +0000",
-   "link": "https://decrypt.co/379833/uptober-will-bitcoin-live-up-to-it"
-  },
-  {
-   "title": "Illinois Delays Controversial Crypto Tax Amid Industry Lawsuit",
-   "pub": "Thu, 01 Oct 2026 16:16:03 +0000",
-   "link": "https://decrypt.co/379830/illinois-delays-controversial-crypto-tax"
   }
  ],
  "cryptonews": [
+  {
+   "title": "Furious debate about THORChain vs NEAR shows idealism has limits",
+   "pub": "Fri, 02 Oct 2026 13:30:00 +0000",
+   "link": "https://cointelegraph.com/magazine/furious-debate-about-thorchain-vs-near-shows-idealism-has-limits?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+  },
   {
    "title": "Altseason is coming \u2014 and traders are more discerning this time",
    "pub": "Mon, 28 Sep 2026 13:30:00 +0000",
@@ -178,11 +183,6 @@
    "title": "Sui DeFi protocol Full Sail to wind down after Switchboard incident",
    "pub": "Wed, 02 Sep 2026 13:40:03 +0000",
    "link": "https://cointelegraph.com/news/full-sail-sui-wind-down-switchboard-incident?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "More Markets lending reserve drained for $410,000: Blockaid",
-   "pub": "Mon, 31 Aug 2026 08:59:00 +0000",
-   "link": "https://cointelegraph.com/news/more-markets-lending-reserve-drained-93m?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
   }
  ]
 }

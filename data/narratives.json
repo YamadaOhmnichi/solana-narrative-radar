@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-10-01T18:35:45+00:00",
+ "generated_at": "2026-10-02T00:38:00+00:00",
  "narratives": [
   {
    "narrative": "Meme & Speculation",
-   "score": 58.8,
+   "score": 57.8,
    "confidence": "High",
    "evidence": {
-    "github_repos": 12,
-    "github_top_velocity": 33.27,
+    "github_repos": 13,
+    "github_top_velocity": 34.02,
     "headline_hits": 2,
     "sample_headlines": [
      "Fomo overtakes Pump.fun in daily revenue on Solana",
      "Fomo overtakes Pump.fun in daily revenue on Solana"
     ],
-    "market_avg_7d_pct": -4.76,
+    "market_avg_7d_pct": -3.88,
     "sources_confirming": 2
    },
    "member_repos": [
@@ -34,23 +34,23 @@
     },
     {
      "full_name": "PillCrew/claimchain",
-     "stars_per_day": 0.96,
+     "stars_per_day": 0.93,
      "url": "https://github.com/PillCrew/claimchain"
     },
     {
      "full_name": "PillCrew/PillCrew",
-     "stars_per_day": 0.88,
+     "stars_per_day": 0.85,
      "url": "https://github.com/PillCrew/PillCrew"
     }
    ]
   },
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 38.2,
+   "score": 38.4,
    "confidence": "High",
    "evidence": {
-    "github_repos": 50,
-    "github_top_velocity": 22.24,
+    "github_repos": 51,
+    "github_top_velocity": 22.41,
     "headline_hits": 2,
     "sample_headlines": [
      "Kraken brings DeFi yield to tokenized stocks and ETFs",
@@ -88,12 +88,56 @@
    ]
   },
   {
+   "narrative": "AI Agents on Solana",
+   "score": 35.2,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 19,
+    "github_top_velocity": 11.18,
+    "headline_hits": 3,
+    "sample_headlines": [
+     "Reddit Is Killing RSS Feeds and Public API Access to Fight AI Scrapers",
+     "OpenAI Says People Linked to China's Moonshot Tried to Copy Its AI's Hidden Reasoning",
+     "Meta Pushes Back on Claim That Muse AI Read a User's Messages Without Consent"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 2
+   },
+   "member_repos": [
+    {
+     "full_name": "recogardtech/AutoPilotPM",
+     "stars_per_day": 6.0,
+     "url": "https://github.com/recogardtech/AutoPilotPM"
+    },
+    {
+     "full_name": "Parad0x-Labs/vool",
+     "stars_per_day": 1.15,
+     "url": "https://github.com/Parad0x-Labs/vool"
+    },
+    {
+     "full_name": "PillCrew/claimchain",
+     "stars_per_day": 0.93,
+     "url": "https://github.com/PillCrew/claimchain"
+    },
+    {
+     "full_name": "PillCrew/PillCrew",
+     "stars_per_day": 0.85,
+     "url": "https://github.com/PillCrew/PillCrew"
+    },
+    {
+     "full_name": "SohniSwatantra/nosana-mcp",
+     "stars_per_day": 0.85,
+     "url": "https://github.com/SohniSwatantra/nosana-mcp"
+    }
+   ]
+  },
+  {
    "narrative": "Wallets & UX",
    "score": 25.6,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 19,
-    "github_top_velocity": 25.62,
+    "github_top_velocity": 25.58,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -128,54 +172,12 @@
    ]
   },
   {
-   "narrative": "AI Agents on Solana",
-   "score": 19.3,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 19,
-    "github_top_velocity": 11.34,
-    "headline_hits": 1,
-    "sample_headlines": [
-     "Gemini 4 Is Here, and Google\u2019s Flagship Tops All Other AI Models on Cybersecurity"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 6.0,
-     "url": "https://github.com/recogardtech/AutoPilotPM"
-    },
-    {
-     "full_name": "Parad0x-Labs/vool",
-     "stars_per_day": 1.25,
-     "url": "https://github.com/Parad0x-Labs/vool"
-    },
-    {
-     "full_name": "PillCrew/claimchain",
-     "stars_per_day": 0.96,
-     "url": "https://github.com/PillCrew/claimchain"
-    },
-    {
-     "full_name": "PillCrew/PillCrew",
-     "stars_per_day": 0.88,
-     "url": "https://github.com/PillCrew/PillCrew"
-    },
-    {
-     "full_name": "SohniSwatantra/nosana-mcp",
-     "stars_per_day": 0.85,
-     "url": "https://github.com/SohniSwatantra/nosana-mcp"
-    }
-   ]
-  },
-  {
    "narrative": "RWA & Tokenization",
-   "score": 16.7,
+   "score": 17.1,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 6,
-    "github_top_velocity": 0.73,
+    "github_top_velocity": 1.06,
     "headline_hits": 2,
     "sample_headlines": [
      "Winners and losers of the SEC\u2019s new tokenized stocks rules",
@@ -187,7 +189,7 @@
    "member_repos": [
     {
      "full_name": "vectorix-cross/CrossYield",
-     "stars_per_day": 0.5,
+     "stars_per_day": 0.83,
      "url": "https://github.com/vectorix-cross/CrossYield"
     },
     {
@@ -214,11 +216,11 @@
   },
   {
    "narrative": "Consumer & Social",
-   "score": 12.9,
+   "score": 13.7,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 6,
-    "github_top_velocity": 4.88,
+    "github_repos": 7,
+    "github_top_velocity": 5.71,
     "headline_hits": 1,
     "sample_headlines": [
      "Minecraft, Candy Crush Among 11 Games in EU Virtual Currency Crackdown"
@@ -231,6 +233,11 @@
      "full_name": "uni-launch/solana-token-creator",
      "stars_per_day": 4.0,
      "url": "https://github.com/uni-launch/solana-token-creator"
+    },
+    {
+     "full_name": "vectorix-cross/My-web3-projects",
+     "stars_per_day": 0.83,
+     "url": "https://github.com/vectorix-cross/My-web3-projects"
     },
     {
      "full_name": "livid/exe-hub",
@@ -246,11 +253,6 @@
      "full_name": "subhdotsol/solana-programs",
      "stars_per_day": 0.09,
      "url": "https://github.com/subhdotsol/solana-programs"
-    },
-    {
-     "full_name": "sapir-pirski/fate-solana-games",
-     "stars_per_day": 0.02,
-     "url": "https://github.com/sapir-pirski/fate-solana-games"
     }
    ]
   },
@@ -260,7 +262,7 @@
    "confidence": "Medium",
    "evidence": {
     "github_repos": 41,
-    "github_top_velocity": 12.21,
+    "github_top_velocity": 12.2,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -300,7 +302,7 @@
    "confidence": "Low",
    "evidence": {
     "github_repos": 7,
-    "github_top_velocity": 1.38,
+    "github_top_velocity": 1.37,
     "headline_hits": 1,
     "sample_headlines": [
      "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand"
@@ -321,7 +323,7 @@
     },
     {
      "full_name": "penguinpecker/propstrade",
-     "stars_per_day": 0.12,
+     "stars_per_day": 0.11,
      "url": "https://github.com/penguinpecker/propstrade"
     },
     {

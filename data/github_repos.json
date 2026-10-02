@@ -70,13 +70,24 @@
   ]
  },
  {
+  "full_name": "blueshift-gg/solana-intent-system",
+  "url": "https://github.com/blueshift-gg/solana-intent-system",
+  "description": "An intent system for Solana: sign what may leave and what must arrive, anyone fills it, the program enforces the outcome",
+  "stars": 5,
+  "created": "2026-10-01T08:27:31Z",
+  "language": "Rust",
+  "stars_per_day": 5.0,
+  "age_days": 1,
+  "topics": []
+ },
+ {
   "full_name": "uni-launch/token-launch-handbook",
   "url": "https://github.com/uni-launch/token-launch-handbook",
   "description": "Create and manage your own token without code \u2014 Solana, Ethereum, Base, BNB Chain and 5 more networks. Guides, costs, checklists.",
-  "stars": 35,
+  "stars": 36,
   "created": "2026-09-23T13:40:32Z",
   "language": "HTML",
-  "stars_per_day": 4.38,
+  "stars_per_day": 4.5,
   "age_days": 8,
   "topics": []
  },
@@ -100,17 +111,6 @@
   "language": "HTML",
   "stars_per_day": 4.0,
   "age_days": 8,
-  "topics": []
- },
- {
-  "full_name": "blueshift-gg/solana-intent-system",
-  "url": "https://github.com/blueshift-gg/solana-intent-system",
-  "description": "An intent system for Solana: sign what may leave and what must arrive, anyone fills it, the program enforces the outcome",
-  "stars": 4,
-  "created": "2026-10-01T08:27:31Z",
-  "language": "Rust",
-  "stars_per_day": 4.0,
-  "age_days": 1,
   "topics": []
  },
  {
@@ -220,8 +220,8 @@
   "stars": 55,
   "created": "2026-08-23T22:49:51Z",
   "language": "TypeScript",
-  "stars_per_day": 1.45,
-  "age_days": 38,
+  "stars_per_day": 1.41,
+  "age_days": 39,
   "topics": []
  },
  {
@@ -231,8 +231,8 @@
   "stars": 15,
   "created": "2026-09-18T22:06:01Z",
   "language": "Python",
-  "stars_per_day": 1.25,
-  "age_days": 12,
+  "stars_per_day": 1.15,
+  "age_days": 13,
   "topics": [
    "agent",
    "ai",
@@ -251,8 +251,8 @@
   "stars": 13,
   "created": "2026-09-19T19:45:43Z",
   "language": "Rust",
-  "stars_per_day": 1.18,
-  "age_days": 11,
+  "stars_per_day": 1.08,
+  "age_days": 12,
   "topics": [
    "arbitrage",
    "jito",
@@ -291,8 +291,8 @@
   "stars": 27,
   "created": "2026-09-02T23:40:59Z",
   "language": "Python",
-  "stars_per_day": 0.96,
-  "age_days": 28,
+  "stars_per_day": 0.93,
+  "age_days": 29,
   "topics": [
    "ai-agents",
    "crypto-trading",
@@ -311,8 +311,8 @@
   "stars": 35,
   "created": "2026-08-21T21:14:09Z",
   "language": "JavaScript",
-  "stars_per_day": 0.88,
-  "age_days": 40,
+  "stars_per_day": 0.85,
+  "age_days": 41,
   "topics": [
    "ai",
    "ai-agents",
@@ -342,6 +342,42 @@
    "minimax",
    "model-context-protocol",
    "nosana"
+  ]
+ },
+ {
+  "full_name": "vectorix-cross/CrossYield",
+  "url": "https://github.com/vectorix-cross/CrossYield",
+  "description": "CrossYield: Ethereum RWA deposit, Wormhole VAA, Solana vault shares, harvest loop.",
+  "stars": 15,
+  "created": "2026-09-13T17:36:27Z",
+  "language": "Solidity",
+  "stars_per_day": 0.83,
+  "age_days": 18,
+  "topics": [
+   "defi",
+   "ethereum",
+   "rwa",
+   "solana",
+   "web3"
+  ]
+ },
+ {
+  "full_name": "vectorix-cross/My-web3-projects",
+  "url": "https://github.com/vectorix-cross/My-web3-projects",
+  "description": "Index of Vectorix Web3 kinds: trading bots, token launch, NFT, x402, other chains.",
+  "stars": 15,
+  "created": "2026-09-13T17:36:07Z",
+  "language": null,
+  "stars_per_day": 0.83,
+  "age_days": 18,
+  "topics": [
+   "crypto",
+   "memecoin",
+   "polymarket",
+   "solana",
+   "token-launch",
+   "trading-bot",
+   "web3"
   ]
  },
  {
@@ -382,23 +418,6 @@
   ]
  },
  {
-  "full_name": "vectorix-cross/CrossYield",
-  "url": "https://github.com/vectorix-cross/CrossYield",
-  "description": "CrossYield: Ethereum RWA deposit, Wormhole VAA, Solana vault shares, harvest loop.",
-  "stars": 9,
-  "created": "2026-09-13T17:36:27Z",
-  "language": "Solidity",
-  "stars_per_day": 0.5,
-  "age_days": 18,
-  "topics": [
-   "defi",
-   "ethereum",
-   "rwa",
-   "solana",
-   "web3"
-  ]
- },
- {
   "full_name": "livid/exe-hub",
   "url": "https://github.com/livid/exe-hub",
   "description": "A small public feed for exe nodes in one Go binary: ed25519-signed posts, SQLite, pictures on IPFS, an optional Solana token gate, hub-to-hub replication, and public pages that install as a PWA.",
@@ -413,24 +432,6 @@
    "golang",
    "ipfs",
    "social-feed"
-  ]
- },
- {
-  "full_name": "New1Direction/repo.ing",
-  "url": "https://github.com/New1Direction/repo.ing",
-  "description": "The market layer for open source. GitHub repository markets on Solana, builder earnings, and transparent protocol accounting.",
-  "stars": 2,
-  "created": "2026-09-25T21:47:28Z",
-  "language": "JavaScript",
-  "stars_per_day": 0.4,
-  "age_days": 5,
-  "topics": [
-   "defi",
-   "github",
-   "meteora",
-   "nextjs",
-   "open-source",
-   "solana"
   ]
  },
  {
@@ -465,14 +466,32 @@
   "topics": []
  },
  {
+  "full_name": "New1Direction/repo.ing",
+  "url": "https://github.com/New1Direction/repo.ing",
+  "description": "The market layer for open source. GitHub repository markets on Solana, builder earnings, and transparent protocol accounting.",
+  "stars": 2,
+  "created": "2026-09-25T21:47:28Z",
+  "language": "JavaScript",
+  "stars_per_day": 0.33,
+  "age_days": 6,
+  "topics": [
+   "defi",
+   "github",
+   "meteora",
+   "nextjs",
+   "open-source",
+   "solana"
+  ]
+ },
+ {
   "full_name": "ZeroHackz/cyberleek-viewer",
   "url": "https://github.com/ZeroHackz/cyberleek-viewer",
   "description": "CyberleekViewer - Solana on-chain viewer for CYBERLEEK site data (no browser needed)",
   "stars": 12,
   "created": "2026-08-22T20:30:54Z",
   "language": "Python",
-  "stars_per_day": 0.31,
-  "age_days": 39,
+  "stars_per_day": 0.3,
+  "age_days": 40,
   "topics": [
    "cyberleek",
    "gta",
@@ -507,6 +526,25 @@
   "topics": []
  },
  {
+  "full_name": "GuiBibeau/phoenix-private-prop-mm",
+  "url": "https://github.com/GuiBibeau/phoenix-private-prop-mm",
+  "description": "Experiment: privacy-preserving capital intake (MagicBlock-style PERs) + program-owned market making on Phoenix Perps. Pinocchio vault with PDA trader authority, validated against the real mainnet bina",
+  "stars": 10,
+  "created": "2026-08-10T03:26:44Z",
+  "language": "Rust",
+  "stars_per_day": 0.19,
+  "age_days": 52,
+  "topics": [
+   "defi",
+   "magicblock",
+   "market-making",
+   "phoenix",
+   "pinocchio",
+   "solana",
+   "surfpool"
+  ]
+ },
+ {
   "full_name": "qiaopengjun5162/onchain-arbitrage-colearn",
   "url": "https://github.com/qiaopengjun5162/onchain-arbitrage-colearn",
   "description": "\u94fe\u4e0a\u5957\u5229\u6b8b\u9177\u5171\u5b66\u77e5\u8bc6\u5e93\uff1aDeFi\u6e05\u7b97/\u8de8\u6240\u4ef7\u5dee/\u8d44\u91d1\u8d39\u7387/DEX\u5957\u5229\u7814\u7a76\u7b14\u8bb0 + 8\u4e2a\u76d1\u63a7\u54e8\u5175 + Python/Rust\u53cc\u5b9e\u73b0",
@@ -524,25 +562,6 @@
    "rust",
    "solana",
    "web3"
-  ]
- },
- {
-  "full_name": "GuiBibeau/phoenix-private-prop-mm",
-  "url": "https://github.com/GuiBibeau/phoenix-private-prop-mm",
-  "description": "Experiment: privacy-preserving capital intake (MagicBlock-style PERs) + program-owned market making on Phoenix Perps. Pinocchio vault with PDA trader authority, validated against the real mainnet bina",
-  "stars": 10,
-  "created": "2026-08-10T03:26:44Z",
-  "language": "Rust",
-  "stars_per_day": 0.19,
-  "age_days": 52,
-  "topics": [
-   "defi",
-   "magicblock",
-   "market-making",
-   "phoenix",
-   "pinocchio",
-   "solana",
-   "surfpool"
   ]
  },
  {
@@ -615,7 +634,7 @@
   "created": "2026-09-07T21:43:35Z",
   "language": "TypeScript",
   "stars_per_day": 0.17,
-  "age_days": 23,
+  "age_days": 24,
   "topics": []
  },
  {
@@ -666,7 +685,7 @@
   "created": "2026-08-19T21:23:29Z",
   "language": "JavaScript",
   "stars_per_day": 0.14,
-  "age_days": 42,
+  "age_days": 43,
   "topics": [
    "agent-payments",
    "agent-wallet",
@@ -721,8 +740,8 @@
   "stars": 1,
   "created": "2026-09-22T21:49:34Z",
   "language": "TypeScript",
-  "stars_per_day": 0.12,
-  "age_days": 8,
+  "stars_per_day": 0.11,
+  "age_days": 9,
   "topics": [
    "anchor",
    "defi",
@@ -732,6 +751,26 @@
    "prop-trading",
    "react",
    "rust"
+  ]
+ },
+ {
+  "full_name": "Kelows/million",
+  "url": "https://github.com/Kelows/million",
+  "description": "Personal Solana memecoin intelligence dashboard: an open-source, self-hosted whale tracker and copy-trading deck you run by talking to your AI coding agent.",
+  "stars": 4,
+  "created": "2026-08-26T21:55:09Z",
+  "language": "TypeScript",
+  "stars_per_day": 0.11,
+  "age_days": 36,
+  "topics": [
+   "ai-agents",
+   "claude-code",
+   "copy-trading",
+   "crypto-intelligence",
+   "dashboard",
+   "defi",
+   "helius",
+   "jupiter"
   ]
  },
  {
@@ -793,26 +832,6 @@
   ]
  },
  {
-  "full_name": "Kelows/million",
-  "url": "https://github.com/Kelows/million",
-  "description": "Personal Solana memecoin intelligence dashboard: an open-source, self-hosted whale tracker and copy-trading deck you run by talking to your AI coding agent.",
-  "stars": 3,
-  "created": "2026-08-26T21:55:09Z",
-  "language": "TypeScript",
-  "stars_per_day": 0.09,
-  "age_days": 35,
-  "topics": [
-   "ai-agents",
-   "claude-code",
-   "copy-trading",
-   "crypto-intelligence",
-   "dashboard",
-   "defi",
-   "helius",
-   "jupiter"
-  ]
- },
- {
   "full_name": "dinsoul09/Ortaq",
   "url": "https://github.com/dinsoul09/Ortaq",
   "description": "\u041e\u0431\u0449\u0430\u044f \u043a\u0430\u0441\u0441\u0430 \u0431\u0435\u0437 \u043a\u0430\u0437\u043d\u0430\u0447\u0435\u044f: \u0441\u0431\u043e\u0440 \u0434\u0435\u0440\u0436\u0438\u0442 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430 \u043d\u0430 Solana \u2014 \u0434\u043e \u0446\u0435\u043b\u0438 \u0434\u0435\u043d\u044c\u0433\u0438 \u043d\u0435 \u0442\u0440\u043e\u0433\u0430\u0435\u0442 \u043d\u0438\u043a\u0442\u043e, \u043d\u0435 \u0441\u043e\u0431\u0440\u0430\u043b\u0438 \u2014 \u0432\u0437\u043d\u043e\u0441\u044b \u0432\u043e\u0437\u0432\u0440\u0430\u0449\u0430\u044e\u0442\u0441\u044f",
@@ -851,17 +870,6 @@
   "language": "Rust",
   "stars_per_day": 0.07,
   "age_days": 14,
-  "topics": []
- },
- {
-  "full_name": "nazmiefearmutcu/skinsoll",
-  "url": "https://github.com/nazmiefearmutcu/skinsoll",
-  "description": "Skinsoll - gaming-skins marketplace on Solana (Anchor program + Node backend + React frontend)",
-  "stars": 1,
-  "created": "2026-09-15T21:38:53Z",
-  "language": "TypeScript",
-  "stars_per_day": 0.07,
-  "age_days": 15,
   "topics": []
  },
  {
@@ -912,7 +920,7 @@
   "created": "2026-09-16T23:35:14Z",
   "language": "JavaScript",
   "stars_per_day": 0.07,
-  "age_days": 14,
+  "age_days": 15,
   "topics": []
  },
  {
@@ -928,6 +936,17 @@
    "quasar",
    "solana"
   ]
+ },
+ {
+  "full_name": "nazmiefearmutcu/skinsoll",
+  "url": "https://github.com/nazmiefearmutcu/skinsoll",
+  "description": "Skinsoll - gaming-skins marketplace on Solana (Anchor program + Node backend + React frontend)",
+  "stars": 1,
+  "created": "2026-09-15T21:38:53Z",
+  "language": "TypeScript",
+  "stars_per_day": 0.06,
+  "age_days": 16,
+  "topics": []
  },
  {
   "full_name": "Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
@@ -1049,7 +1068,7 @@
   "created": "2026-08-18T22:52:27Z",
   "language": "TypeScript",
   "stars_per_day": 0.05,
-  "age_days": 43,
+  "age_days": 44,
   "topics": [
    "blockchain",
    "cli",
@@ -1069,7 +1088,7 @@
   "created": "2026-08-18T21:36:29Z",
   "language": "TypeScript",
   "stars_per_day": 0.05,
-  "age_days": 43,
+  "age_days": 44,
   "topics": [
    "blockchain-analytics",
    "cli",
@@ -1089,7 +1108,7 @@
   "created": "2026-08-18T21:58:21Z",
   "language": "JavaScript",
   "stars_per_day": 0.05,
-  "age_days": 43,
+  "age_days": 44,
   "topics": [
    "agent-skill",
    "claude-skill",
@@ -1109,7 +1128,7 @@
   "created": "2026-08-19T18:54:25Z",
   "language": "Python",
   "stars_per_day": 0.05,
-  "age_days": 42,
+  "age_days": 43,
   "topics": [
    "automated-trading",
    "crypto",
@@ -1129,7 +1148,7 @@
   "created": "2026-09-10T20:54:50Z",
   "language": "TypeScript",
   "stars_per_day": 0.05,
-  "age_days": 20,
+  "age_days": 21,
   "topics": [
    "amm",
    "blockchain",
@@ -1149,7 +1168,7 @@
   "created": "2026-08-05T22:36:50Z",
   "language": "TypeScript",
   "stars_per_day": 0.05,
-  "age_days": 56,
+  "age_days": 57,
   "topics": [
    "anchor",
    "dapp",
@@ -1294,7 +1313,7 @@
   "created": "2026-08-23T20:09:23Z",
   "language": null,
   "stars_per_day": 0.03,
-  "age_days": 38,
+  "age_days": 39,
   "topics": []
  },
  {
@@ -1305,7 +1324,7 @@
   "created": "2026-08-27T19:19:49Z",
   "language": "Rust",
   "stars_per_day": 0.03,
-  "age_days": 34,
+  "age_days": 35,
   "topics": []
  },
  {
@@ -1350,17 +1369,6 @@
   "language": "Zig",
   "stars_per_day": 0.02,
   "age_days": 57,
-  "topics": []
- },
- {
-  "full_name": "spacemandev-git/solana-poker-escrow",
-  "url": "https://github.com/spacemandev-git/solana-poker-escrow",
-  "description": "Solana program and app for holding escrow funds for poker",
-  "stars": 1,
-  "created": "2026-08-02T20:17:44Z",
-  "language": "TypeScript",
-  "stars_per_day": 0.02,
-  "age_days": 59,
   "topics": []
  },
  {
@@ -1423,7 +1431,7 @@
   "created": "2026-08-12T21:57:13Z",
   "language": "Rust",
   "stars_per_day": 0.02,
-  "age_days": 49,
+  "age_days": 50,
   "topics": [
    "amm",
    "blockchain",
@@ -1520,7 +1528,7 @@
   "created": "2026-08-13T20:53:14Z",
   "language": "TypeScript",
   "stars_per_day": 0.02,
-  "age_days": 48,
+  "age_days": 49,
   "topics": []
  },
  {

@@ -1,6 +1,6 @@
 # Solana Narrative Radar — Fortnightly Report
 
-Generated: 2026-10-02T18:34:35+00:00  |  Methodology v0.1
+Generated: 2026-10-03T00:36:25+00:00  |  Methodology v0.1
 
 ## On-chain context (live, public RPC)
 
@@ -10,9 +10,25 @@ Generated: 2026-10-02T18:34:35+00:00  |  Methodology v0.1
 
 ## Detected Narratives (ranked)
 
-### 1. DeFi / Trading Infra  —  confidence: High  (score 103.6)
+### 1. Dev Tooling & Infra  —  confidence: Medium  (score 138.2)
 
-- GitHub repos matching: **52**  (top velocity 87.57 stars/day)
+- GitHub repos matching: **42**  (top velocity 138.19 stars/day)
+- Headline mentions (last fortnight): **0**
+- Cross-source confirmation: **1/3**
+
+  Top repos:
+  - [NuvexNetwork/nuvex-services](https://github.com/NuvexNetwork/nuvex-services) — 72.0 stars/day
+  - [NuvexNetwork/nuvex](https://github.com/NuvexNetwork/nuvex) — 55.0 stars/day
+  - [propavingk/SlotDrift](https://github.com/propavingk/SlotDrift) — 5.33 stars/day
+
+  **Build ideas:**
+  - Local-first Solana dev container: one command that ships validator, airdropped test keypair, and explorer UI (rides the 42 tooling repos at 138.19 stars/day).
+  - Program-diff explorer: show what changed between two deployed program versions (upgrade authority audit trail) — infra trusts need this as more programs go live.
+  - Free hosted RPC status page with per-method latency/limits across public providers; every new dev hits rate limits on day one.
+
+### 2. DeFi / Trading Infra  —  confidence: High  (score 108.2)
+
+- GitHub repos matching: **51**  (top velocity 92.21 stars/day)
 - Headline mentions (last fortnight): **2**
 - Cross-source confirmation: **2/3**
 
@@ -21,58 +37,58 @@ Generated: 2026-10-02T18:34:35+00:00  |  Methodology v0.1
   - Sui DeFi protocol Full Sail to wind down after Switchboard incident
 
   Top repos:
-  - [NuvexNetwork/nuvex-services](https://github.com/NuvexNetwork/nuvex-services) — 68.0 stars/day
-  - [recogardtech/AutoPilotPM](https://github.com/recogardtech/AutoPilotPM) — 4.5 stars/day
+  - [NuvexNetwork/nuvex-services](https://github.com/NuvexNetwork/nuvex-services) — 72.0 stars/day
+  - [recogardtech/AutoPilotPM](https://github.com/recogardtech/AutoPilotPM) — 5.25 stars/day
   - [openarbmev/Openarb-Trade-SDK](https://github.com/openarbmev/Openarb-Trade-SDK) — 3.86 stars/day
 
   **Build ideas:**
-  - Copy-trading guardrail bot: open-source program + bot that mirrors KOL wallets but with hard loss caps and sandwich-protection, riding the 52 trading-infrastructure repos at 87.57 stars/day.
+  - Copy-trading guardrail bot: open-source program + bot that mirrors KOL wallets but with hard loss caps and sandwich-protection, riding the 51 trading-infrastructure repos at 92.21 stars/day.
   - Perp risk dashboard: real-time liquidation-heat map over Solana perps using public RPC; headlines show perp/DeFi coverage (2 hits) while retail seeks clearer risk tooling.
   - Intent-based DEX aggregator SDK with MEV-protection defaults — the aggregator lane is crowded but the intent/MEV-protection angle is under-served based on repo descriptions sampled.
 
-### 2. AI Agents on Solana  —  confidence: High  (score 101.0)
+### 3. AI Agents on Solana  —  confidence: High  (score 105.6)
 
-- GitHub repos matching: **19**  (top velocity 77.03 stars/day)
+- GitHub repos matching: **19**  (top velocity 81.64 stars/day)
 - Headline mentions (last fortnight): **3**
 - Cross-source confirmation: **2/3**
 
   Sample headlines:
-  - Reddit Is Killing RSS Feeds and Public API Access to Fight AI Scrapers
-  - OpenAI Says People Linked to China's Moonshot Tried to Copy Its AI's Hidden Reasoning
-  - Meta Pushes Back on Claim That Muse AI Read a User's Messages Without Consent
+  - California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test
+  - Ethereum Now Lets You Pay for AI Without Revealing Who You Are
+  - This AI Is Already Fooling People on Video Calls Into Thinking It's Human, Company Says
 
   Top repos:
-  - [NuvexNetwork/nuvex-services](https://github.com/NuvexNetwork/nuvex-services) — 68.0 stars/day
-  - [recogardtech/AutoPilotPM](https://github.com/recogardtech/AutoPilotPM) — 4.5 stars/day
-  - [Parad0x-Labs/vool](https://github.com/Parad0x-Labs/vool) — 1.15 stars/day
+  - [NuvexNetwork/nuvex-services](https://github.com/NuvexNetwork/nuvex-services) — 72.0 stars/day
+  - [recogardtech/AutoPilotPM](https://github.com/recogardtech/AutoPilotPM) — 5.25 stars/day
+  - [Parad0x-Labs/vool](https://github.com/Parad0x-Labs/vool) — 1.07 stars/day
 
   **Build ideas:**
-  - Agent-wallet runtime: a Go/Type SDK that gives every AI agent a non-custodial Solana wallet with per-action spend limits and an auditable on-chain action log (rides the 25 new agent repos at 77.03 stars/day).
+  - Agent-wallet runtime: a Go/Type SDK that gives every AI agent a non-custodial Solana wallet with per-action spend limits and an auditable on-chain action log (rides the 25 new agent repos at 81.64 stars/day).
   - Agent-to-agent escrow program: an Anchor program where two agents lock funds against a task hash and release on verifiable completion — targets the trust gap visible in NuvexNetwork/nuvex-services-style automation repos.
   - Agent fee rail: x402-style HTTP 402 paywall in Rust/TS that lets any API monetize per-call for AI agents paying in USDC — stablecoin rail already has deep volume/mcap ratio on Solana.
 
-### 3. Dev Tooling & Infra  —  confidence: Medium  (score 94.2)
+### 4. Wallets & UX  —  confidence: Medium  (score 79.1)
 
-- GitHub repos matching: **42**  (top velocity 94.2 stars/day)
+- GitHub repos matching: **20**  (top velocity 79.1 stars/day)
 - Headline mentions (last fortnight): **0**
 - Cross-source confirmation: **1/3**
 
   Top repos:
-  - [NuvexNetwork/nuvex-services](https://github.com/NuvexNetwork/nuvex-services) — 68.0 stars/day
-  - [NuvexNetwork/nuvex](https://github.com/NuvexNetwork/nuvex) — 15.0 stars/day
-  - [propavingk/SlotDrift](https://github.com/propavingk/SlotDrift) — 5.33 stars/day
+  - [NuvexNetwork/nuvex](https://github.com/NuvexNetwork/nuvex) — 55.0 stars/day
+  - [Kylerkrausemdzyra64/Crypto-Checker](https://github.com/Kylerkrausemdzyra64/Crypto-Checker) — 6.36 stars/day
+  - [openarbmev/Openarb-Trade-SDK](https://github.com/openarbmev/Openarb-Trade-SDK) — 3.86 stars/day
 
   **Build ideas:**
-  - Local-first Solana dev container: one command that ships validator, airdropped test keypair, and explorer UI (rides the 42 tooling repos at 94.2 stars/day).
-  - Program-diff explorer: show what changed between two deployed program versions (upgrade authority audit trail) — infra trusts need this as more programs go live.
-  - Free hosted RPC status page with per-method latency/limits across public providers; every new dev hits rate limits on day one.
+  - One-tap embedded wallet for Telegram mini-apps on Solana, targeting the wallet-UX friction visible in 20 new wallet/onboarding repos at 79.1 stars/day.
+  - Session-key wallet: a SPL program that issues 24h scoped keys (spend cap, program allowlist) so dapps never touch the main key — direct answer to onboarding drop-off that wallet repos are attacking.
+  - Wallet-drain canary service: continuous simulation that alerts users when a signature request would exfiltrate tokens (security headlines: 0 this period — users clearly need guardrails).
 
-### 4. Meme & Speculation  —  confidence: High  (score 55.8)
+### 5. Meme & Speculation  —  confidence: High  (score 62.4)
 
-- GitHub repos matching: **13**  (top velocity 32.01 stars/day)
+- GitHub repos matching: **13**  (top velocity 31.98 stars/day)
 - Headline mentions (last fortnight): **2**
-- Market 7d avg change: **-3.88%**
-- Cross-source confirmation: **2/3**
+- Market 7d avg change: **-7.21%**
+- Cross-source confirmation: **3/3**
 
   Sample headlines:
   - Fomo overtakes Pump.fun in daily revenue on Solana
@@ -80,33 +96,37 @@ Generated: 2026-10-02T18:34:35+00:00  |  Methodology v0.1
 
   Top repos:
   - [nhovongoc0-max/meme-radar](https://github.com/nhovongoc0-max/meme-radar) — 23.1 stars/day
-  - [dartkomnitibe/solana-meme-tool](https://github.com/dartkomnitibe/solana-meme-tool) — 3.04 stars/day
+  - [dartkomnitibe/solana-meme-tool](https://github.com/dartkomnitibe/solana-meme-tool) — 3.06 stars/day
   - [neilveriemusm/Trpjan-solana-trading-toolkit](https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit) — 3.02 stars/day
 
   **Build ideas:**
-  - Launchpad honesty score: index every pump.fun-style launch by LP lock, mint authority, holder concentration and dev-wallet behavior; surfaces the few credible launches (avg 7d change -3.88%).
+  - Launchpad honesty score: index every pump.fun-style launch by LP lock, mint authority, holder concentration and dev-wallet behavior; surfaces the few credible launches (avg 7d change -7.21%).
   - Anti-sniper launch template: open-source fair-launch program (no-bundle, capped per-wallet buys) that new launchpads can adopt — a counter-position to the sniper-bot repos in the dataset.
-  - Meme-velocity dashboard: tracks avg 7d change -3.88% so traders see which launches have real retention vs. pure rotation.
+  - Meme-velocity dashboard: tracks avg 7d change -7.21% so traders see which launches have real retention vs. pure rotation.
 
-### 5. Wallets & UX  —  confidence: Medium  (score 39.1)
+### 6. Payments & Stablecoins  —  confidence: High  (score 23.2)
 
-- GitHub repos matching: **20**  (top velocity 39.11 stars/day)
-- Headline mentions (last fortnight): **0**
-- Cross-source confirmation: **1/3**
+- GitHub repos matching: **8**  (top velocity 7.19 stars/day)
+- Headline mentions (last fortnight): **2**
+- Cross-source confirmation: **2/3**
+
+  Sample headlines:
+  - Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand
+  - Circle Pushes Back on MiCA's Bank-Deposit Mandate for Stablecoins
 
   Top repos:
-  - [NuvexNetwork/nuvex](https://github.com/NuvexNetwork/nuvex) — 15.0 stars/day
-  - [Kylerkrausemdzyra64/Crypto-Checker](https://github.com/Kylerkrausemdzyra64/Crypto-Checker) — 6.36 stars/day
-  - [openarbmev/Openarb-Trade-SDK](https://github.com/openarbmev/Openarb-Trade-SDK) — 3.86 stars/day
+  - [blueshift-gg/solana-pull-program](https://github.com/blueshift-gg/solana-pull-program) — 6.0 stars/day
+  - [2274802010922/picachu__](https://github.com/2274802010922/picachu__) — 0.83 stars/day
+  - [nirholas/onchain-agent-wallets](https://github.com/nirholas/onchain-agent-wallets) — 0.14 stars/day
 
   **Build ideas:**
-  - One-tap embedded wallet for Telegram mini-apps on Solana, targeting the wallet-UX friction visible in 20 new wallet/onboarding repos at 39.11 stars/day.
-  - Session-key wallet: a SPL program that issues 24h scoped keys (spend cap, program allowlist) so dapps never touch the main key — direct answer to onboarding drop-off that wallet repos are attacking.
-  - Wallet-drain canary service: continuous simulation that alerts users when a signature request would exfiltrate tokens (security headlines: 0 this period — users clearly need guardrails).
+  - Invoice-or implementation: Solana Pay QR + email fallback + automatic USDC settlement for freelancers in emerging markets (stablecoin rails have deep volume/mcap ratio).
+  - Subscription billing program: SPL streaming contract with cancel-anytime semantics for SaaS pricing on-chain.
+  - Cross-border payroll pilot: batch USDC payouts with memo-based reconciliation; targets remittance-adjacent repos and stablecoin volume signals.
 
-### 6. RWA & Tokenization  —  confidence: Medium  (score 17.0)
+### 7. RWA & Tokenization  —  confidence: Medium  (score 17.0)
 
-- GitHub repos matching: **6**  (top velocity 1.01 stars/day)
+- GitHub repos matching: **5**  (top velocity 0.99 stars/day)
 - Headline mentions (last fortnight): **2**
 - Cross-source confirmation: **1/3**
 
@@ -120,28 +140,9 @@ Generated: 2026-10-02T18:34:35+00:00  |  Methodology v0.1
   - [keelwright/slipway](https://github.com/keelwright/slipway) — 0.05 stars/day
 
   **Build ideas:**
-  - RWA disclosure registry: standard JSON schema + on-chain hash for tokenized asset disclosures; low-current-signal (6 repos, Medium confidence) makes this a land-grab moment.
+  - RWA disclosure registry: standard JSON schema + on-chain hash for tokenized asset disclosures; low-current-signal (5 repos, Medium confidence) makes this a land-grab moment.
   - Treasury-bill yield mirror: transparent program mirroring T-bill yields to a SPL token with per-epoch attestation.
   - Commodity tokenization starter kit (warehouse-receipt model) for regional exchanges.
-
-### 7. Payments & Stablecoins  —  confidence: Medium  (score 15.2)
-
-- GitHub repos matching: **8**  (top velocity 7.2 stars/day)
-- Headline mentions (last fortnight): **1**
-- Cross-source confirmation: **1/3**
-
-  Sample headlines:
-  - Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand
-
-  Top repos:
-  - [blueshift-gg/solana-pull-program](https://github.com/blueshift-gg/solana-pull-program) — 6.0 stars/day
-  - [2274802010922/picachu__](https://github.com/2274802010922/picachu__) — 0.83 stars/day
-  - [nirholas/onchain-agent-wallets](https://github.com/nirholas/onchain-agent-wallets) — 0.14 stars/day
-
-  **Build ideas:**
-  - Invoice-or implementation: Solana Pay QR + email fallback + automatic USDC settlement for freelancers in emerging markets (stablecoin rails have deep volume/mcap ratio).
-  - Subscription billing program: SPL streaming contract with cancel-anytime semantics for SaaS pricing on-chain.
-  - Cross-border payroll pilot: batch USDC payouts with memo-based reconciliation; targets remittance-adjacent repos and stablecoin volume signals.
 
 ### 8. Consumer & Social  —  confidence: Medium  (score 5.2)
 

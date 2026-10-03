@@ -63,6 +63,26 @@
  ],
  "decrypt": [
   {
+   "title": "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test",
+   "pub": "Fri, 02 Oct 2026 21:16:04 +0000",
+   "link": "https://decrypt.co/379998/california-subpoena-openai-ai-models-hack"
+  },
+  {
+   "title": "Ethereum Now Lets You Pay for AI Without Revealing Who You Are",
+   "pub": "Fri, 02 Oct 2026 20:16:04 +0000",
+   "link": "https://decrypt.co/379991/ethereum-now-pay-for-ai-without-revealing-identity"
+  },
+  {
+   "title": "Circle Pushes Back on MiCA's Bank-Deposit Mandate for Stablecoins",
+   "pub": "Fri, 02 Oct 2026 19:46:03 +0000",
+   "link": "https://decrypt.co/379984/circle-pushes-back-on-micas-bank-deposit-mandate-for-stablecoins"
+  },
+  {
+   "title": "This AI Is Already Fooling People on Video Calls Into Thinking It's Human, Company Says",
+   "pub": "Fri, 02 Oct 2026 19:05:35 +0000",
+   "link": "https://decrypt.co/379975/tavus-griffin-ai-fools-people-video-thinking-human"
+  },
+  {
    "title": "Once a $2.3 Billion Network, Ethereum Layer-2 Blast Is Shutting Down",
    "pub": "Fri, 02 Oct 2026 17:47:06 +0000",
    "link": "https://decrypt.co/379972/ethereum-layer-2-blast-shutting-down"
@@ -101,26 +121,6 @@
    "title": "Zcash Drops 21% From Recent High\u2014Here\u2019s Why the Rally May Not Be Over",
    "pub": "Thu, 01 Oct 2026 21:31:03 +0000",
    "link": "https://decrypt.co/379901/zcash-price-drops-etf-flows-rally"
-  },
-  {
-   "title": "SEC Proposes Rules to Clear Up How Advisers and Funds Can Hold Crypto",
-   "pub": "Thu, 01 Oct 2026 20:46:03 +0000",
-   "link": "https://decrypt.co/379899/sec-proposes-rules-advisers-funds-hold-crypto"
-  },
-  {
-   "title": "Reddit Is Killing RSS Feeds and Public API Access to Fight AI Scrapers",
-   "pub": "Thu, 01 Oct 2026 20:31:03 +0000",
-   "link": "https://decrypt.co/379892/reddit-killing-rss-feeds-public-api-access-ai-scrapers"
-  },
-  {
-   "title": "OpenAI Says People Linked to China's Moonshot Tried to Copy Its AI's Hidden Reasoning",
-   "pub": "Thu, 01 Oct 2026 19:46:03 +0000",
-   "link": "https://decrypt.co/379890/openai-china-moonshot-copy-ai-hidden-reasoning"
-  },
-  {
-   "title": "Meta Pushes Back on Claim That Muse AI Read a User's Messages Without Consent",
-   "pub": "Thu, 01 Oct 2026 19:16:03 +0000",
-   "link": "https://decrypt.co/379868/meta-muse-ai-agent-read-messages-without-permission"
   }
  ],
  "cryptonews": [

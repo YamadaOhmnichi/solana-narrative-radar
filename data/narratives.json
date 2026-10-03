@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-03T00:36:25+00:00",
+ "generated_at": "2026-10-03T06:44:36+00:00",
  "narratives": [
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 138.2,
+   "score": 181.7,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 42,
-    "github_top_velocity": 138.19,
+    "github_top_velocity": 181.65,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -15,14 +15,14 @@
    },
    "member_repos": [
     {
-     "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 72.0,
-     "url": "https://github.com/NuvexNetwork/nuvex-services"
+     "full_name": "NuvexNetwork/nuvex",
+     "stars_per_day": 94.0,
+     "url": "https://github.com/NuvexNetwork/nuvex"
     },
     {
-     "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 55.0,
-     "url": "https://github.com/NuvexNetwork/nuvex"
+     "full_name": "NuvexNetwork/nuvex-services",
+     "stars_per_day": 76.5,
+     "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
      "full_name": "propavingk/SlotDrift",
@@ -31,7 +31,7 @@
     },
     {
      "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 3.86,
+     "stars_per_day": 3.82,
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
     },
     {
@@ -42,12 +42,52 @@
    ]
   },
   {
+   "narrative": "Wallets & UX",
+   "score": 118.1,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 20,
+    "github_top_velocity": 118.06,
+    "headline_hits": 0,
+    "sample_headlines": [],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "NuvexNetwork/nuvex",
+     "stars_per_day": 94.0,
+     "url": "https://github.com/NuvexNetwork/nuvex"
+    },
+    {
+     "full_name": "Kylerkrausemdzyra64/Crypto-Checker",
+     "stars_per_day": 6.36,
+     "url": "https://github.com/Kylerkrausemdzyra64/Crypto-Checker"
+    },
+    {
+     "full_name": "openarbmev/Openarb-Trade-SDK",
+     "stars_per_day": 3.82,
+     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
+    },
+    {
+     "full_name": "uni-launch/solana-token-creator",
+     "stars_per_day": 3.56,
+     "url": "https://github.com/uni-launch/solana-token-creator"
+    },
+    {
+     "full_name": "dartkomnitibe/solana-meme-tool",
+     "stars_per_day": 3.06,
+     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
+    }
+   ]
+  },
+  {
    "narrative": "DeFi / Trading Infra",
-   "score": 108.2,
+   "score": 112.6,
    "confidence": "High",
    "evidence": {
     "github_repos": 51,
-    "github_top_velocity": 92.21,
+    "github_top_velocity": 96.63,
     "headline_hits": 2,
     "sample_headlines": [
      "Kraken brings DeFi yield to tokenized stocks and ETFs",
@@ -59,7 +99,7 @@
    "member_repos": [
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 72.0,
+     "stars_per_day": 76.5,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
@@ -69,7 +109,7 @@
     },
     {
      "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 3.86,
+     "stars_per_day": 3.82,
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
     },
     {
@@ -86,11 +126,11 @@
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 105.6,
+   "score": 110.1,
    "confidence": "High",
    "evidence": {
     "github_repos": 19,
-    "github_top_velocity": 81.64,
+    "github_top_velocity": 86.13,
     "headline_hits": 3,
     "sample_headlines": [
      "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test",
@@ -103,7 +143,7 @@
    "member_repos": [
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 72.0,
+     "stars_per_day": 76.5,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
@@ -129,64 +169,24 @@
    ]
   },
   {
-   "narrative": "Wallets & UX",
-   "score": 79.1,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 20,
-    "github_top_velocity": 79.1,
-    "headline_hits": 0,
-    "sample_headlines": [],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 55.0,
-     "url": "https://github.com/NuvexNetwork/nuvex"
-    },
-    {
-     "full_name": "Kylerkrausemdzyra64/Crypto-Checker",
-     "stars_per_day": 6.36,
-     "url": "https://github.com/Kylerkrausemdzyra64/Crypto-Checker"
-    },
-    {
-     "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 3.86,
-     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
-    },
-    {
-     "full_name": "uni-launch/solana-token-creator",
-     "stars_per_day": 3.56,
-     "url": "https://github.com/uni-launch/solana-token-creator"
-    },
-    {
-     "full_name": "dartkomnitibe/solana-meme-tool",
-     "stars_per_day": 3.06,
-     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
-    }
-   ]
-  },
-  {
    "narrative": "Meme & Speculation",
-   "score": 62.4,
+   "score": 62.0,
    "confidence": "High",
    "evidence": {
     "github_repos": 13,
-    "github_top_velocity": 31.98,
+    "github_top_velocity": 32.02,
     "headline_hits": 2,
     "sample_headlines": [
      "Fomo overtakes Pump.fun in daily revenue on Solana",
      "Fomo overtakes Pump.fun in daily revenue on Solana"
     ],
-    "market_avg_7d_pct": -7.21,
+    "market_avg_7d_pct": -7.0,
     "sources_confirming": 3
    },
    "member_repos": [
     {
      "full_name": "nhovongoc0-max/meme-radar",
-     "stars_per_day": 23.1,
+     "stars_per_day": 23.14,
      "url": "https://github.com/nhovongoc0-max/meme-radar"
     },
     {
@@ -213,11 +213,11 @@
   },
   {
    "narrative": "Payments & Stablecoins",
-   "score": 23.2,
+   "score": 23.1,
    "confidence": "High",
    "evidence": {
     "github_repos": 8,
-    "github_top_velocity": 7.19,
+    "github_top_velocity": 7.07,
     "headline_hits": 2,
     "sample_headlines": [
      "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
@@ -234,7 +234,7 @@
     },
     {
      "full_name": "2274802010922/picachu__",
-     "stars_per_day": 0.83,
+     "stars_per_day": 0.71,
      "url": "https://github.com/2274802010922/picachu__"
     },
     {

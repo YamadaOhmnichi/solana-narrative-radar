@@ -1,31 +1,12 @@
 [
  {
-  "full_name": "NuvexNetwork/nuvex-services",
-  "url": "https://github.com/NuvexNetwork/nuvex-services",
-  "description": "Off-chain services for Nuvex. This repository does not deploy programs and it is not a source of protocol truth.",
-  "stars": 144,
-  "created": "2026-09-30T07:55:06Z",
-  "language": "TypeScript",
-  "stars_per_day": 72.0,
-  "age_days": 2,
-  "topics": [
-   "ai",
-   "api",
-   "indexer",
-   "infra",
-   "off-chai",
-   "postgresql",
-   "solana"
-  ]
- },
- {
   "full_name": "NuvexNetwork/nuvex",
   "url": "https://github.com/NuvexNetwork/nuvex",
   "description": "Solana-native verifiable compute and oracle protocol.  Programs accept a job, an input, constraints, and a callback. Randomness is the first job. An active node can fulfill a VRF request with an ECVRF",
-  "stars": 55,
+  "stars": 94,
   "created": "2026-10-02T15:38:29Z",
   "language": "Rust",
-  "stars_per_day": 55.0,
+  "stars_per_day": 94.0,
   "age_days": 1,
   "topics": [
    "cli",
@@ -38,13 +19,32 @@
   ]
  },
  {
+  "full_name": "NuvexNetwork/nuvex-services",
+  "url": "https://github.com/NuvexNetwork/nuvex-services",
+  "description": "Off-chain services for Nuvex. This repository does not deploy programs and it is not a source of protocol truth.",
+  "stars": 153,
+  "created": "2026-09-30T07:55:06Z",
+  "language": "TypeScript",
+  "stars_per_day": 76.5,
+  "age_days": 2,
+  "topics": [
+   "ai",
+   "api",
+   "indexer",
+   "infra",
+   "off-chai",
+   "postgresql",
+   "solana"
+  ]
+ },
+ {
   "full_name": "nhovongoc0-max/meme-radar",
   "url": "https://github.com/nhovongoc0-max/meme-radar",
   "description": "Meme\u96f7\u8fbe\u5f00\u6e90\u7248\uff1a\u672c\u5730\u53ea\u8bfb\u3001\u591a\u94fe Meme \u5019\u9009\u626b\u63cf\u4e0e\u4eba\u5de5\u590d\u6838\u5de5\u5177",
-  "stars": 485,
+  "stars": 486,
   "created": "2026-09-11T12:14:57Z",
   "language": "JavaScript",
-  "stars_per_day": 23.1,
+  "stars_per_day": 23.14,
   "age_days": 21,
   "topics": [
    "bsc",
@@ -133,10 +133,10 @@
   "full_name": "openarbmev/Openarb-Trade-SDK",
   "url": "https://github.com/openarbmev/Openarb-Trade-SDK",
   "description": "Rust SDK for low-latency Solana DEX trading bots",
-  "stars": 85,
+  "stars": 84,
   "created": "2026-09-10T15:55:21Z",
   "language": "Rust",
-  "stars_per_day": 3.86,
+  "stars_per_day": 3.82,
   "age_days": 22,
   "topics": []
  },
@@ -158,8 +158,8 @@
   "stars": 191,
   "created": "2026-08-06T00:51:16Z",
   "language": "TypeScript",
-  "stars_per_day": 3.35,
-  "age_days": 57,
+  "stars_per_day": 3.29,
+  "age_days": 58,
   "topics": []
  },
  {
@@ -343,26 +343,6 @@
   ]
  },
  {
-  "full_name": "2274802010922/picachu__",
-  "url": "https://github.com/2274802010922/picachu__",
-  "description": "Goal-based Solana repayment planner with finite-grid allocation, shared reserves and verified Kamino Devnet receipts. Live demo and presentation kit.",
-  "stars": 5,
-  "created": "2026-09-26T03:55:36Z",
-  "language": "TypeScript",
-  "stars_per_day": 0.83,
-  "age_days": 6,
-  "topics": [
-   "defi",
-   "devnet",
-   "hackathon",
-   "kamino",
-   "nextjs",
-   "openrouter",
-   "repayment-planner",
-   "solana"
-  ]
- },
- {
   "full_name": "SohniSwatantra/nosana-mcp",
   "url": "https://github.com/SohniSwatantra/nosana-mcp",
   "description": "Nosana MCP: let AI agents rent GPUs on Nosana and deploy templates such as MiniMax H3 with account credits. MCP server + nosana-deploy CLI.",
@@ -416,6 +396,26 @@
    "token-launch",
    "trading-bot",
    "web3"
+  ]
+ },
+ {
+  "full_name": "2274802010922/picachu__",
+  "url": "https://github.com/2274802010922/picachu__",
+  "description": "Goal-based Solana repayment planner with finite-grid allocation, shared reserves and verified Kamino Devnet receipts. VI/EN narrated demos.",
+  "stars": 5,
+  "created": "2026-09-26T03:55:36Z",
+  "language": "TypeScript",
+  "stars_per_day": 0.71,
+  "age_days": 7,
+  "topics": [
+   "defi",
+   "devnet",
+   "hackathon",
+   "kamino",
+   "nextjs",
+   "openrouter",
+   "repayment-planner",
+   "solana"
   ]
  },
  {
@@ -534,7 +534,7 @@
   "created": "2026-08-10T03:26:44Z",
   "language": "Rust",
   "stars_per_day": 0.19,
-  "age_days": 53,
+  "age_days": 54,
   "topics": [
    "defi",
    "magicblock",
@@ -553,7 +553,7 @@
   "created": "2026-08-08T02:49:21Z",
   "language": "HTML",
   "stars_per_day": 0.18,
-  "age_days": 55,
+  "age_days": 56,
   "topics": [
    "arbitrage",
    "blockchain",
@@ -657,26 +657,6 @@
   ]
  },
  {
-  "full_name": "samuelcampozano/nodus",
-  "url": "https://github.com/samuelcampozano/nodus",
-  "description": "Nodus \u2014 Programmable Sovereign Cloud Vault powered by Walrus & Sui",
-  "stars": 2,
-  "created": "2026-09-18T01:27:17Z",
-  "language": "JavaScript",
-  "stars_per_day": 0.14,
-  "age_days": 14,
-  "topics": [
-   "ai",
-   "colosseum",
-   "computer-vision",
-   "decentralized-storage",
-   "hackathon",
-   "move",
-   "nextjs",
-   "privacy"
-  ]
- },
- {
   "full_name": "FernoLabs/firestrat-program",
   "url": "https://github.com/FernoLabs/firestrat-program",
   "description": "FireStrategy: the on-chain program behind Fire tokens on Solana (source-available excerpt)",
@@ -697,6 +677,26 @@
   "stars_per_day": 0.14,
   "age_days": 7,
   "topics": []
+ },
+ {
+  "full_name": "samuelcampozano/nodus",
+  "url": "https://github.com/samuelcampozano/nodus",
+  "description": "Nodus \u2014 Programmable Sovereign Cloud Vault powered by Walrus & Sui",
+  "stars": 2,
+  "created": "2026-09-18T01:27:17Z",
+  "language": "JavaScript",
+  "stars_per_day": 0.13,
+  "age_days": 15,
+  "topics": [
+   "ai",
+   "colosseum",
+   "computer-vision",
+   "decentralized-storage",
+   "hackathon",
+   "move",
+   "nextjs",
+   "privacy"
+  ]
  },
  {
   "full_name": "udaysharmadev/Web-3-Free-Resources",
@@ -755,26 +755,6 @@
   ]
  },
  {
-  "full_name": "antonkarasbiz/solana-program-examples",
-  "url": "https://github.com/antonkarasbiz/solana-program-examples",
-  "description": "Solana program examples in Anchor, Pinocchio, and native Rust for on-chain engineers.",
-  "stars": 2,
-  "created": "2026-09-11T05:58:51Z",
-  "language": "TypeScript",
-  "stars_per_day": 0.1,
-  "age_days": 21,
-  "topics": [
-   "anchor",
-   "blockchain",
-   "examples",
-   "pinocchio",
-   "rust",
-   "smart-contracts",
-   "solana",
-   "web3"
-  ]
- },
- {
   "full_name": "penguinpecker/propstrade",
   "url": "https://github.com/penguinpecker/propstrade",
   "description": "Onchain prop firm on Solana: simulated evaluations, real funded perps traded from a program-owned USDC vault, 80/20 payouts by program",
@@ -810,6 +790,26 @@
    "sbpf",
    "smart-contracts",
    "solana"
+  ]
+ },
+ {
+  "full_name": "antonkarasbiz/solana-program-examples",
+  "url": "https://github.com/antonkarasbiz/solana-program-examples",
+  "description": "Solana program examples in Anchor, Pinocchio, and native Rust for on-chain engineers.",
+  "stars": 2,
+  "created": "2026-09-11T05:58:51Z",
+  "language": "TypeScript",
+  "stars_per_day": 0.09,
+  "age_days": 22,
+  "topics": [
+   "anchor",
+   "blockchain",
+   "examples",
+   "pinocchio",
+   "rust",
+   "smart-contracts",
+   "solana",
+   "web3"
   ]
  },
  {
@@ -925,17 +925,6 @@
   "topics": []
  },
  {
-  "full_name": "Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
-  "url": "https://github.com/Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
-  "description": "",
-  "stars": 1,
-  "created": "2026-09-14T01:47:19Z",
-  "language": "Rust",
-  "stars_per_day": 0.06,
-  "age_days": 18,
-  "topics": []
- },
- {
   "full_name": "tyofthestars11-lab/phi-ledger-cookie-chain",
   "url": "https://github.com/tyofthestars11-lab/phi-ledger-cookie-chain",
   "description": "PHI LEDGER \u2014 analytics dashboard cApp on Cookie Chain (Solana SVM L2): live chain pulse, phi-ledger analytics, mining telemetry, on-chain seal anchoring.",
@@ -965,7 +954,7 @@
   "created": "2026-08-21T06:17:43Z",
   "language": "JavaScript",
   "stars_per_day": 0.05,
-  "age_days": 42,
+  "age_days": 43,
   "topics": [
    "agents",
    "ai-agents",
@@ -1122,6 +1111,17 @@
   ]
  },
  {
+  "full_name": "Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
+  "url": "https://github.com/Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
+  "description": "",
+  "stars": 1,
+  "created": "2026-09-14T01:47:19Z",
+  "language": "Rust",
+  "stars_per_day": 0.05,
+  "age_days": 19,
+  "topics": []
+ },
+ {
   "full_name": "InstarCage/instar",
   "url": "https://github.com/InstarCage/instar",
   "description": "A persistent world of adult fruit flies, each driven by the complete Janelia MaleCNS connectome, settled on Solana. The fly is the asset.",
@@ -1163,7 +1163,7 @@
   "created": "2026-09-05T06:17:30Z",
   "language": "Rust",
   "stars_per_day": 0.04,
-  "age_days": 27,
+  "age_days": 28,
   "topics": [
    "quasar",
    "solana"
@@ -1261,17 +1261,6 @@
   ]
  },
  {
-  "full_name": "drp457/solana-wallet-comparison",
-  "url": "https://github.com/drp457/solana-wallet-comparison",
-  "description": "solana wallet app\uff1a\u9009\u5bf9\u94b1\u5305\uff0c\u65b0\u624b\u4e5f\u80fd\u8f7b\u677e\u7ba1\u7406 SOL\u3001\u8d28\u62bc\u548c DeFi",
-  "stars": 1,
-  "created": "2026-09-04T06:32:44Z",
-  "language": null,
-  "stars_per_day": 0.04,
-  "age_days": 28,
-  "topics": []
- },
- {
   "full_name": "jeel-p/voice-rag-with-web3",
   "url": "https://github.com/jeel-p/voice-rag-with-web3",
   "description": "Voice-first multilingual RAG over MSMARCO-XI Sarvam streaming STT \u2192 adaptive hybrid retrieval (FAISS IVF-PQ + BM25 + RRF) \u2192 grounded answer with SHA-256 Proof-of-Answer \u2192 optional Solana Devnet anchor",
@@ -1320,7 +1309,7 @@
   "created": "2026-08-27T03:53:37Z",
   "language": "Rust",
   "stars_per_day": 0.03,
-  "age_days": 36,
+  "age_days": 37,
   "topics": [
    "anchor",
    "solana"
@@ -1357,6 +1346,17 @@
   "language": "JavaScript",
   "stars_per_day": 0.03,
   "age_days": 40,
+  "topics": []
+ },
+ {
+  "full_name": "drp457/solana-wallet-comparison",
+  "url": "https://github.com/drp457/solana-wallet-comparison",
+  "description": "solana wallet app\uff1a\u9009\u5bf9\u94b1\u5305\uff0c\u65b0\u624b\u4e5f\u80fd\u8f7b\u677e\u7ba1\u7406 SOL\u3001\u8d28\u62bc\u548c DeFi",
+  "stars": 1,
+  "created": "2026-09-04T06:32:44Z",
+  "language": null,
+  "stars_per_day": 0.03,
+  "age_days": 29,
   "topics": []
  },
  {
@@ -1430,7 +1430,7 @@
   "created": "2026-08-13T01:05:33Z",
   "language": "TypeScript",
   "stars_per_day": 0.02,
-  "age_days": 50,
+  "age_days": 51,
   "topics": []
  },
  {

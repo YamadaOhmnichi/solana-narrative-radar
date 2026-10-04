@@ -3,10 +3,10 @@
   "full_name": "NuvexNetwork/nuvex",
   "url": "https://github.com/NuvexNetwork/nuvex",
   "description": "Solana-native verifiable compute and oracle protocol.  Programs accept a job, an input, constraints, and a callback. Randomness is the first job. An active node can fulfill a VRF request with an ECVRF",
-  "stars": 140,
+  "stars": 151,
   "created": "2026-10-02T15:38:29Z",
   "language": "Rust",
-  "stars_per_day": 140.0,
+  "stars_per_day": 151.0,
   "age_days": 1,
   "topics": [
    "cli",
@@ -22,10 +22,10 @@
   "full_name": "NuvexNetwork/nuvex-services",
   "url": "https://github.com/NuvexNetwork/nuvex-services",
   "description": "Off-chain services for Nuvex. This repository does not deploy programs and it is not a source of protocol truth.",
-  "stars": 172,
+  "stars": 178,
   "created": "2026-09-30T07:55:06Z",
   "language": "TypeScript",
-  "stars_per_day": 57.33,
+  "stars_per_day": 59.33,
   "age_days": 3,
   "topics": [
    "ai",
@@ -136,8 +136,8 @@
   "stars": 191,
   "created": "2026-08-06T00:51:16Z",
   "language": "TypeScript",
-  "stars_per_day": 3.29,
-  "age_days": 58,
+  "stars_per_day": 3.24,
+  "age_days": 59,
   "topics": []
  },
  {
@@ -247,8 +247,8 @@
   "stars": 55,
   "created": "2026-08-23T22:49:51Z",
   "language": "TypeScript",
-  "stars_per_day": 1.38,
-  "age_days": 40,
+  "stars_per_day": 1.34,
+  "age_days": 41,
   "topics": []
  },
  {
@@ -344,8 +344,8 @@
   "stars": 27,
   "created": "2026-09-02T23:40:59Z",
   "language": "Python",
-  "stars_per_day": 0.9,
-  "age_days": 30,
+  "stars_per_day": 0.87,
+  "age_days": 31,
   "topics": [
    "ai-agents",
    "crypto-trading",
@@ -528,8 +528,8 @@
   "stars": 6,
   "created": "2026-09-11T22:46:57Z",
   "language": null,
-  "stars_per_day": 0.29,
-  "age_days": 21,
+  "stars_per_day": 0.27,
+  "age_days": 22,
   "topics": [
    "bioinformatics",
    "bsc",
@@ -577,8 +577,8 @@
   "stars": 10,
   "created": "2026-08-10T03:26:44Z",
   "language": "Rust",
-  "stars_per_day": 0.19,
-  "age_days": 54,
+  "stars_per_day": 0.18,
+  "age_days": 55,
   "topics": [
    "defi",
    "magicblock",
@@ -597,7 +597,7 @@
   "created": "2026-08-08T02:49:21Z",
   "language": "HTML",
   "stars_per_day": 0.18,
-  "age_days": 56,
+  "age_days": 57,
   "topics": [
    "arbitrage",
    "blockchain",
@@ -712,26 +712,6 @@
   ]
  },
  {
-  "full_name": "samuelcampozano/nodus",
-  "url": "https://github.com/samuelcampozano/nodus",
-  "description": "Nodus \u2014 Programmable Sovereign Cloud Vault powered by Walrus & Sui",
-  "stars": 2,
-  "created": "2026-09-18T01:27:17Z",
-  "language": "JavaScript",
-  "stars_per_day": 0.13,
-  "age_days": 15,
-  "topics": [
-   "ai",
-   "colosseum",
-   "computer-vision",
-   "decentralized-storage",
-   "hackathon",
-   "move",
-   "nextjs",
-   "privacy"
-  ]
- },
- {
   "full_name": "udaysharmadev/Web-3-Free-Resources",
   "url": "https://github.com/udaysharmadev/Web-3-Free-Resources",
   "description": "\ud83c\udf10 32+ Free Web3, Blockchain & Solidity resources with learning roadmaps, mermaid diagrams, and Hindi YouTube tutorials from zero to dApp builder. \u20b90 cost.",
@@ -749,6 +729,26 @@
    "defi",
    "ethereum",
    "free-resources"
+  ]
+ },
+ {
+  "full_name": "samuelcampozano/nodus",
+  "url": "https://github.com/samuelcampozano/nodus",
+  "description": "Nodus \u2014 Programmable Sovereign Cloud Vault powered by Walrus & Sui",
+  "stars": 2,
+  "created": "2026-09-18T01:27:17Z",
+  "language": "JavaScript",
+  "stars_per_day": 0.12,
+  "age_days": 16,
+  "topics": [
+   "ai",
+   "colosseum",
+   "computer-vision",
+   "decentralized-storage",
+   "hackathon",
+   "move",
+   "nextjs",
+   "privacy"
   ]
  },
  {
@@ -927,24 +927,6 @@
   ]
  },
  {
-  "full_name": "thanhhau15112000-dev/NexusWallet",
-  "url": "https://github.com/thanhhau15112000-dev/NexusWallet",
-  "description": "Spending-policy wallet for AI agents on Solana: agents propose payments over MCP, an owner-set policy signs, escalates or denies; multi-step tasks use an on-chain Anchor capability vault (Devnet).",
-  "stars": 1,
-  "created": "2026-09-18T01:49:44Z",
-  "language": "TypeScript",
-  "stars_per_day": 0.07,
-  "age_days": 15,
-  "topics": [
-   "ai-agents",
-   "anchor",
-   "devnet",
-   "mcp",
-   "model-context-protocol",
-   "solana"
-  ]
- },
- {
   "full_name": "kunal171/tidebook",
   "url": "https://github.com/kunal171/tidebook",
   "description": "A research-driven on-chain central limit order book for Solana, built  with Anchor, LiteSVM, and a companion web app.",
@@ -976,6 +958,24 @@
   "stars_per_day": 0.06,
   "age_days": 18,
   "topics": []
+ },
+ {
+  "full_name": "thanhhau15112000-dev/NexusWallet",
+  "url": "https://github.com/thanhhau15112000-dev/NexusWallet",
+  "description": "Spending-policy wallet for AI agents on Solana: agents propose payments over MCP, an owner-set policy signs, escalates or denies; multi-step tasks use an on-chain Anchor capability vault (Devnet).",
+  "stars": 1,
+  "created": "2026-09-18T01:49:44Z",
+  "language": "TypeScript",
+  "stars_per_day": 0.06,
+  "age_days": 16,
+  "topics": [
+   "ai-agents",
+   "anchor",
+   "devnet",
+   "mcp",
+   "model-context-protocol",
+   "solana"
+  ]
  },
  {
   "full_name": "keelwright/slipway",
@@ -1110,7 +1110,7 @@
   "created": "2026-09-14T01:47:19Z",
   "language": "Rust",
   "stars_per_day": 0.05,
-  "age_days": 19,
+  "age_days": 20,
   "topics": []
  },
  {
@@ -1210,7 +1210,7 @@
   "created": "2026-08-18T22:52:27Z",
   "language": "TypeScript",
   "stars_per_day": 0.04,
-  "age_days": 45,
+  "age_days": 46,
   "topics": [
    "blockchain",
    "cli",
@@ -1441,7 +1441,7 @@
   "created": "2026-08-13T01:05:33Z",
   "language": "TypeScript",
   "stars_per_day": 0.02,
-  "age_days": 51,
+  "age_days": 52,
   "topics": []
  },
  {

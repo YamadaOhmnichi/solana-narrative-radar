@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-03T22:39:59+00:00",
+ "generated_at": "2026-10-04T03:51:22+00:00",
  "narratives": [
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 209.6,
+   "score": 222.6,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 42,
-    "github_top_velocity": 209.57,
+    "github_top_velocity": 222.57,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -16,12 +16,12 @@
    "member_repos": [
     {
      "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 140.0,
+     "stars_per_day": 151.0,
      "url": "https://github.com/NuvexNetwork/nuvex"
     },
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 57.33,
+     "stars_per_day": 59.33,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
@@ -43,11 +43,11 @@
   },
   {
    "narrative": "Wallets & UX",
-   "score": 162.9,
+   "score": 173.9,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 21,
-    "github_top_velocity": 162.92,
+    "github_top_velocity": 173.87,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -56,7 +56,7 @@
    "member_repos": [
     {
      "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 140.0,
+     "stars_per_day": 151.0,
      "url": "https://github.com/NuvexNetwork/nuvex"
     },
     {
@@ -83,11 +83,11 @@
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 114.3,
+   "score": 116.3,
    "confidence": "High",
    "evidence": {
     "github_repos": 20,
-    "github_top_velocity": 66.34,
+    "github_top_velocity": 68.3,
     "headline_hits": 6,
     "sample_headlines": [
      "Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea",
@@ -100,7 +100,7 @@
    "member_repos": [
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 57.33,
+     "stars_per_day": 59.33,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
@@ -115,7 +115,7 @@
     },
     {
      "full_name": "PillCrew/claimchain",
-     "stars_per_day": 0.9,
+     "stars_per_day": 0.87,
      "url": "https://github.com/PillCrew/claimchain"
     },
     {
@@ -127,11 +127,11 @@
   },
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 93.1,
+   "score": 95.0,
    "confidence": "High",
    "evidence": {
     "github_repos": 53,
-    "github_top_velocity": 77.07,
+    "github_top_velocity": 79.04,
     "headline_hits": 2,
     "sample_headlines": [
      "Kraken brings DeFi yield to tokenized stocks and ETFs",
@@ -143,7 +143,7 @@
    "member_repos": [
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 57.33,
+     "stars_per_day": 59.33,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
@@ -170,18 +170,18 @@
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 61.7,
+   "score": 64.4,
    "confidence": "High",
    "evidence": {
     "github_repos": 13,
-    "github_top_velocity": 30.84,
+    "github_top_velocity": 30.81,
     "headline_hits": 3,
     "sample_headlines": [
      "Fomo overtakes Pump.fun in daily revenue on Solana",
      "Trump Is Hosting Yet Another Meme Coin Dinner: Here Are the Details",
      "Fomo overtakes Pump.fun in daily revenue on Solana"
     ],
-    "market_avg_7d_pct": -3.44,
+    "market_avg_7d_pct": -4.79,
     "sources_confirming": 2
    },
    "member_repos": [
@@ -202,7 +202,7 @@
     },
     {
      "full_name": "PillCrew/claimchain",
-     "stars_per_day": 0.9,
+     "stars_per_day": 0.87,
      "url": "https://github.com/PillCrew/claimchain"
     },
     {
@@ -218,7 +218,7 @@
    "confidence": "High",
    "evidence": {
     "github_repos": 7,
-    "github_top_velocity": 4.0,
+    "github_top_velocity": 3.99,
     "headline_hits": 2,
     "sample_headlines": [
      "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
@@ -245,7 +245,7 @@
     },
     {
      "full_name": "thanhhau15112000-dev/NexusWallet",
-     "stars_per_day": 0.07,
+     "stars_per_day": 0.06,
      "url": "https://github.com/thanhhau15112000-dev/NexusWallet"
     },
     {

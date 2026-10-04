@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-04T13:41:17+00:00",
+ "generated_at": "2026-10-04T21:15:53+00:00",
  "narratives": [
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 222.1,
+   "score": 144.1,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 41,
-    "github_top_velocity": 222.1,
+    "github_top_velocity": 144.11,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -16,12 +16,12 @@
    "member_repos": [
     {
      "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 162.0,
+     "stars_per_day": 83.0,
      "url": "https://github.com/NuvexNetwork/nuvex"
     },
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 46.75,
+     "stars_per_day": 47.25,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
@@ -31,7 +31,7 @@
     },
     {
      "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 3.65,
+     "stars_per_day": 3.5,
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
     },
     {
@@ -42,57 +42,17 @@
    ]
   },
   {
-   "narrative": "Wallets & UX",
-   "score": 184.4,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 20,
-    "github_top_velocity": 184.36,
-    "headline_hits": 0,
-    "sample_headlines": [],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 162.0,
-     "url": "https://github.com/NuvexNetwork/nuvex"
-    },
-    {
-     "full_name": "Kylerkrausemdzyra64/Crypto-Checker",
-     "stars_per_day": 5.62,
-     "url": "https://github.com/Kylerkrausemdzyra64/Crypto-Checker"
-    },
-    {
-     "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 3.65,
-     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
-    },
-    {
-     "full_name": "uni-launch/solana-token-creator",
-     "stars_per_day": 3.1,
-     "url": "https://github.com/uni-launch/solana-token-creator"
-    },
-    {
-     "full_name": "dartkomnitibe/solana-meme-tool",
-     "stars_per_day": 2.94,
-     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
-    }
-   ]
-  },
-  {
    "narrative": "AI Agents on Solana",
-   "score": 104.1,
+   "score": 111.9,
    "confidence": "High",
    "evidence": {
-    "github_repos": 21,
-    "github_top_velocity": 56.06,
-    "headline_hits": 6,
+    "github_repos": 20,
+    "github_top_velocity": 55.87,
+    "headline_hits": 7,
     "sample_headlines": [
+     "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
      "Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea",
-     "OpenAI Banned PewDiePie Twice While He Built Ajax, an Uncensored AI That Will Run on Your PC",
-     "The Pope Has Thoughts on AI Art\u2014And They're Not Flattering"
+     "OpenAI Banned PewDiePie Twice While He Built Ajax, an Uncensored AI That Will Run on Your PC"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -100,12 +60,12 @@
    "member_repos": [
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 46.75,
+     "stars_per_day": 47.25,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
      "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 5.2,
+     "stars_per_day": 4.5,
      "url": "https://github.com/recogardtech/AutoPilotPM"
     },
     {
@@ -120,40 +80,37 @@
     },
     {
      "full_name": "PillCrew/PillCrew",
-     "stars_per_day": 0.81,
+     "stars_per_day": 0.8,
      "url": "https://github.com/PillCrew/PillCrew"
     }
    ]
   },
   {
-   "narrative": "DeFi / Trading Infra",
-   "score": 82.8,
-   "confidence": "High",
+   "narrative": "Wallets & UX",
+   "score": 104.9,
+   "confidence": "Medium",
    "evidence": {
-    "github_repos": 52,
-    "github_top_velocity": 66.78,
-    "headline_hits": 2,
-    "sample_headlines": [
-     "Kraken brings DeFi yield to tokenized stocks and ETFs",
-     "Sui DeFi protocol Full Sail to wind down after Switchboard incident"
-    ],
+    "github_repos": 20,
+    "github_top_velocity": 104.91,
+    "headline_hits": 0,
+    "sample_headlines": [],
     "market_avg_7d_pct": null,
-    "sources_confirming": 2
+    "sources_confirming": 1
    },
    "member_repos": [
     {
-     "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 46.75,
-     "url": "https://github.com/NuvexNetwork/nuvex-services"
+     "full_name": "NuvexNetwork/nuvex",
+     "stars_per_day": 83.0,
+     "url": "https://github.com/NuvexNetwork/nuvex"
     },
     {
-     "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 5.2,
-     "url": "https://github.com/recogardtech/AutoPilotPM"
+     "full_name": "Kylerkrausemdzyra64/Crypto-Checker",
+     "stars_per_day": 5.62,
+     "url": "https://github.com/Kylerkrausemdzyra64/Crypto-Checker"
     },
     {
      "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 3.65,
+     "stars_per_day": 3.5,
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
     },
     {
@@ -169,20 +126,63 @@
    ]
   },
   {
+   "narrative": "DeFi / Trading Infra",
+   "score": 87.5,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 51,
+    "github_top_velocity": 71.49,
+    "headline_hits": 2,
+    "sample_headlines": [
+     "Kraken brings DeFi yield to tokenized stocks and ETFs",
+     "Sui DeFi protocol Full Sail to wind down after Switchboard incident"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 2
+   },
+   "member_repos": [
+    {
+     "full_name": "NuvexNetwork/nuvex-services",
+     "stars_per_day": 47.25,
+     "url": "https://github.com/NuvexNetwork/nuvex-services"
+    },
+    {
+     "full_name": "HandcuffAttorney/yieldboard",
+     "stars_per_day": 5.0,
+     "url": "https://github.com/HandcuffAttorney/yieldboard"
+    },
+    {
+     "full_name": "recogardtech/AutoPilotPM",
+     "stars_per_day": 4.5,
+     "url": "https://github.com/recogardtech/AutoPilotPM"
+    },
+    {
+     "full_name": "openarbmev/Openarb-Trade-SDK",
+     "stars_per_day": 3.5,
+     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
+    },
+    {
+     "full_name": "dartkomnitibe/solana-meme-tool",
+     "stars_per_day": 2.94,
+     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
+    }
+   ]
+  },
+  {
    "narrative": "Meme & Speculation",
-   "score": 66.0,
+   "score": 65.6,
    "confidence": "High",
    "evidence": {
     "github_repos": 12,
-    "github_top_velocity": 29.72,
+    "github_top_velocity": 31.62,
     "headline_hits": 3,
     "sample_headlines": [
      "Fomo overtakes Pump.fun in daily revenue on Solana",
      "Trump Is Hosting Yet Another Meme Coin Dinner: Here Are the Details",
      "Fomo overtakes Pump.fun in daily revenue on Solana"
     ],
-    "market_avg_7d_pct": -6.14,
-    "sources_confirming": 3
+    "market_avg_7d_pct": -4.99,
+    "sources_confirming": 2
    },
    "member_repos": [
     {
@@ -201,14 +201,14 @@
      "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
     },
     {
+     "full_name": "blixvip/blixtrade",
+     "stars_per_day": 2.0,
+     "url": "https://github.com/blixvip/blixtrade"
+    },
+    {
      "full_name": "PillCrew/claimchain",
      "stars_per_day": 0.87,
      "url": "https://github.com/PillCrew/claimchain"
-    },
-    {
-     "full_name": "PillCrew/PillCrew",
-     "stars_per_day": 0.81,
-     "url": "https://github.com/PillCrew/PillCrew"
     }
    ]
   },
@@ -261,7 +261,7 @@
    "confidence": "Medium",
    "evidence": {
     "github_repos": 5,
-    "github_top_velocity": 1.9,
+    "github_top_velocity": 1.86,
     "headline_hits": 2,
     "sample_headlines": [
      "Winners and losers of the SEC\u2019s new tokenized stocks rules",
@@ -278,7 +278,7 @@
     },
     {
      "full_name": "vectorix-cross/CrossYield",
-     "stars_per_day": 0.75,
+     "stars_per_day": 0.71,
      "url": "https://github.com/vectorix-cross/CrossYield"
     },
     {
@@ -300,11 +300,11 @@
   },
   {
    "narrative": "Consumer & Social",
-   "score": 4.7,
+   "score": 4.3,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 6,
-    "github_top_velocity": 4.65,
+    "github_top_velocity": 4.33,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -313,12 +313,12 @@
    "member_repos": [
     {
      "full_name": "uni-launch/solana-token-creator",
-     "stars_per_day": 3.1,
+     "stars_per_day": 2.82,
      "url": "https://github.com/uni-launch/solana-token-creator"
     },
     {
      "full_name": "vectorix-cross/My-web3-projects",
-     "stars_per_day": 0.75,
+     "stars_per_day": 0.71,
      "url": "https://github.com/vectorix-cross/My-web3-projects"
     },
     {
@@ -344,7 +344,7 @@
    "confidence": "Low",
    "evidence": {
     "github_repos": 1,
-    "github_top_velocity": 0.76,
+    "github_top_velocity": 0.79,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -353,7 +353,7 @@
    "member_repos": [
     {
      "full_name": "SohniSwatantra/nosana-mcp",
-     "stars_per_day": 0.76,
+     "stars_per_day": 0.79,
      "url": "https://github.com/SohniSwatantra/nosana-mcp"
     }
    ]

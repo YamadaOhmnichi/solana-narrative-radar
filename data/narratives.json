@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-05T00:40:51+00:00",
+ "generated_at": "2026-10-05T06:42:38+00:00",
  "narratives": [
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 145.4,
+   "score": 147.0,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 42,
-    "github_top_velocity": 145.36,
+    "github_repos": 43,
+    "github_top_velocity": 146.98,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -16,12 +16,12 @@
    "member_repos": [
     {
      "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 84.0,
+     "stars_per_day": 85.5,
      "url": "https://github.com/NuvexNetwork/nuvex"
     },
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 47.5,
+     "stars_per_day": 48.25,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
@@ -43,11 +43,11 @@
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 112.2,
+   "score": 113.2,
    "confidence": "High",
    "evidence": {
     "github_repos": 22,
-    "github_top_velocity": 56.24,
+    "github_top_velocity": 57.16,
     "headline_hits": 7,
     "sample_headlines": [
      "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
@@ -60,12 +60,12 @@
    "member_repos": [
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 47.5,
+     "stars_per_day": 48.25,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
      "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 4.5,
+     "stars_per_day": 4.67,
      "url": "https://github.com/recogardtech/AutoPilotPM"
     },
     {
@@ -87,11 +87,11 @@
   },
   {
    "narrative": "Wallets & UX",
-   "score": 103.8,
+   "score": 105.3,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 19,
-    "github_top_velocity": 103.77,
+    "github_top_velocity": 105.3,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -100,7 +100,7 @@
    "member_repos": [
     {
      "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 84.0,
+     "stars_per_day": 85.5,
      "url": "https://github.com/NuvexNetwork/nuvex"
     },
     {
@@ -127,11 +127,11 @@
   },
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 86.7,
+   "score": 87.7,
    "confidence": "High",
    "evidence": {
-    "github_repos": 53,
-    "github_top_velocity": 70.74,
+    "github_repos": 54,
+    "github_top_velocity": 71.66,
     "headline_hits": 2,
     "sample_headlines": [
      "Kraken brings DeFi yield to tokenized stocks and ETFs",
@@ -143,7 +143,7 @@
    "member_repos": [
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 47.5,
+     "stars_per_day": 48.25,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
@@ -153,7 +153,7 @@
     },
     {
      "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 4.5,
+     "stars_per_day": 4.67,
      "url": "https://github.com/recogardtech/AutoPilotPM"
     },
     {
@@ -170,7 +170,7 @@
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 59.5,
+   "score": 55.1,
    "confidence": "High",
    "evidence": {
     "github_repos": 13,
@@ -181,7 +181,7 @@
      "Trump Is Hosting Yet Another Meme Coin Dinner: Here Are the Details",
      "Fomo overtakes Pump.fun in daily revenue on Solana"
     ],
-    "market_avg_7d_pct": -2.34,
+    "market_avg_7d_pct": -0.14,
     "sources_confirming": 2
    },
    "member_repos": [
@@ -214,18 +214,18 @@
   },
   {
    "narrative": "Payments & Stablecoins",
-   "score": 19.9,
-   "confidence": "High",
+   "score": 18.9,
+   "confidence": "Medium",
    "evidence": {
-    "github_repos": 9,
-    "github_top_velocity": 3.93,
+    "github_repos": 8,
+    "github_top_velocity": 2.87,
     "headline_hits": 2,
     "sample_headlines": [
      "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
      "Circle Pushes Back on MiCA's Bank-Deposit Mandate for Stablecoins"
     ],
     "market_avg_7d_pct": null,
-    "sources_confirming": 2
+    "sources_confirming": 1
    },
    "member_repos": [
     {
@@ -234,13 +234,8 @@
      "url": "https://github.com/blueshift-gg/solana-pull-program"
     },
     {
-     "full_name": "2274802010922/pipicachu",
-     "stars_per_day": 1.0,
-     "url": "https://github.com/2274802010922/pipicachu"
-    },
-    {
      "full_name": "2274802010922/picachu__",
-     "stars_per_day": 0.62,
+     "stars_per_day": 0.56,
      "url": "https://github.com/2274802010922/picachu__"
     },
     {
@@ -252,6 +247,11 @@
      "full_name": "thanhhau15112000-dev/NexusWallet",
      "stars_per_day": 0.06,
      "url": "https://github.com/thanhhau15112000-dev/NexusWallet"
+    },
+    {
+     "full_name": "WINGS-N/wingsvpn-federation-pay",
+     "stars_per_day": 0.04,
+     "url": "https://github.com/WINGS-N/wingsvpn-federation-pay"
     }
    ]
   },
@@ -261,7 +261,7 @@
    "confidence": "Medium",
    "evidence": {
     "github_repos": 6,
-    "github_top_velocity": 1.9,
+    "github_top_velocity": 1.89,
     "headline_hits": 2,
     "sample_headlines": [
      "Winners and losers of the SEC\u2019s new tokenized stocks rules",
@@ -288,7 +288,7 @@
     },
     {
      "full_name": "keelwright/slipway",
-     "stars_per_day": 0.05,
+     "stars_per_day": 0.04,
      "url": "https://github.com/keelwright/slipway"
     },
     {

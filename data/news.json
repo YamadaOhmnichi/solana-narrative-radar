@@ -63,6 +63,36 @@
  ],
  "decrypt": [
   {
+   "title": "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
+   "pub": "Mon, 05 Oct 2026 18:12:28 +0000",
+   "link": "https://decrypt.co/380108/sec-clears-3x-leveraged-bitcoin-ethereum-funds"
+  },
+  {
+   "title": "CFTC Unveils Plan to Bring Crypto Exchanges Under Federal Oversight",
+   "pub": "Mon, 05 Oct 2026 16:46:03 +0000",
+   "link": "https://decrypt.co/380090/cftc-plan-crypto-exchanges-federal-oversight-leverage"
+  },
+  {
+   "title": "Bitcoin Just Flashed a Second, Stronger Golden Cross: Here's What That Means",
+   "pub": "Mon, 05 Oct 2026 16:10:00 +0000",
+   "link": "https://decrypt.co/380067/bitcoin-price-golden-cross-fed-rate"
+  },
+  {
+   "title": "NEXTPredict Founder: 'Nobody Was Serving' Prediction Markets' Enormous Audience",
+   "pub": "Mon, 05 Oct 2026 16:03:03 +0000",
+   "link": "https://decrypt.co/379935/nextpredict-founder-nobody-was-serving-prediction-markets-enormous-audience"
+  },
+  {
+   "title": "Bitmine Buys $41M More Ethereum, Reaching 99% of Its 'Alchemy of 5%' Target",
+   "pub": "Mon, 05 Oct 2026 14:54:17 +0000",
+   "link": "https://decrypt.co/380059/bitmine-41m-more-ethereum-alchemy-of-5-target"
+  },
+  {
+   "title": "Strategy Posts $21B Q3 Gain, Buys $29M in BTC, Repurchases $176M in STRC",
+   "pub": "Mon, 05 Oct 2026 12:51:42 +0000",
+   "link": "https://decrypt.co/380056/strategy-posts-21b-q3-gain-buys-29m-in-btc-repurchases-176m-in-strc"
+  },
+  {
    "title": "Metaplanet Sold 10,000 Bitcoin and Bought Back 11,000 to Prove a Point",
    "pub": "Mon, 05 Oct 2026 12:04:01 +0000",
    "link": "https://decrypt.co/380053/metaplanet-sold-10000-bitcoin-and-bought-back-11000-to-prove-a-point"
@@ -91,39 +121,14 @@
    "title": "Banking Group Sues to Block Crypto's 'Side Door' Into the Banking System",
    "pub": "Sun, 04 Oct 2026 16:01:03 +0000",
    "link": "https://decrypt.co/380017/banking-group-sues-block-crypto-side-door-banking"
-  },
-  {
-   "title": "'Uptober' Starts Green as Bitcoin ETFs Draw $134 Million",
-   "pub": "Sun, 04 Oct 2026 15:01:03 +0000",
-   "link": "https://decrypt.co/380007/uptober-starts-green-bitcoin-etfs-draw-134-million"
-  },
-  {
-   "title": "'We Have Identified You, Sir': Near Intents Recovers $3.8 Million After 48-Hour Ultimatum",
-   "pub": "Sun, 04 Oct 2026 13:01:03 +0000",
-   "link": "https://decrypt.co/380014/near-intents-recovers-3-8-million-after-48-hour-ultimatum"
-  },
-  {
-   "title": "Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea",
-   "pub": "Sat, 03 Oct 2026 17:01:03 +0000",
-   "link": "https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea"
-  },
-  {
-   "title": "OpenAI Banned PewDiePie Twice While He Built Ajax, an Uncensored AI That Will Run on Your PC",
-   "pub": "Sat, 03 Oct 2026 16:01:03 +0000",
-   "link": "https://decrypt.co/380001/openai-banned-pewdiepie-twice-ajax-uncensored-ai"
-  },
-  {
-   "title": "Trump Is Hosting Yet Another Meme Coin Dinner: Here Are the Details",
-   "pub": "Sat, 03 Oct 2026 15:01:03 +0000",
-   "link": "https://decrypt.co/380002/trump-third-meme-coin-dinner-details"
-  },
-  {
-   "title": "The Pope Has Thoughts on AI Art\u2014And They're Not Flattering",
-   "pub": "Sat, 03 Oct 2026 13:01:04 +0000",
-   "link": "https://decrypt.co/379983/pope-leo-human-art-ai-creation"
   }
  ],
  "cryptonews": [
+  {
+   "title": "S&P Global brings risk assessments to growing crypto lending vault sector",
+   "pub": "Mon, 05 Oct 2026 17:58:58 +0000",
+   "link": "https://cointelegraph.com/news/sp-global-launches-risk-assessments-for-10b-crypto-lending-vault-market?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+  },
   {
    "title": "Furious debate about THORChain vs NEAR shows idealism has limits",
    "pub": "Fri, 02 Oct 2026 13:30:00 +0000",
@@ -178,11 +183,6 @@
    "title": "Token buybacks are booming. But are they good for crypto projects?",
    "pub": "Fri, 04 Sep 2026 13:30:00 +0000",
    "link": "https://cointelegraph.com/magazine/token-buybacks-are-booming-but-are-they-good-for-crypto-projects?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Sui DeFi protocol Full Sail to wind down after Switchboard incident",
-   "pub": "Wed, 02 Sep 2026 13:40:03 +0000",
-   "link": "https://cointelegraph.com/news/full-sail-sui-wind-down-switchboard-incident?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
   }
  ]
 }

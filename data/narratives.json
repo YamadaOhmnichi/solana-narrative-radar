@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-06T06:37:45+00:00",
+ "generated_at": "2026-10-06T12:37:24+00:00",
  "narratives": [
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 97.8,
+   "score": 91.1,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 42,
-    "github_top_velocity": 97.8,
+    "github_top_velocity": 91.06,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -16,38 +16,38 @@
    "member_repos": [
     {
      "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 49.0,
+     "stars_per_day": 50.33,
      "url": "https://github.com/NuvexNetwork/nuvex"
     },
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 31.4,
+     "stars_per_day": 26.67,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
-     "full_name": "2274802010922/pipicachu",
-     "stars_per_day": 6.0,
-     "url": "https://github.com/2274802010922/pipicachu"
-    },
-    {
      "full_name": "propavingk/SlotDrift",
-     "stars_per_day": 4.27,
+     "stars_per_day": 4.0,
      "url": "https://github.com/propavingk/SlotDrift"
     },
     {
      "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 3.36,
+     "stars_per_day": 3.32,
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
+    },
+    {
+     "full_name": "2274802010922/pipicachu",
+     "stars_per_day": 3.0,
+     "url": "https://github.com/2274802010922/pipicachu"
     }
    ]
   },
   {
    "narrative": "Wallets & UX",
-   "score": 86.3,
+   "score": 87.5,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 18,
-    "github_top_velocity": 78.3,
+    "github_top_velocity": 79.53,
     "headline_hits": 1,
     "sample_headlines": [
      "Treasury Kills Crypto 'Unhosted Wallet' and Mixer Surveillance Rules"
@@ -58,7 +58,7 @@
    "member_repos": [
     {
      "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 49.0,
+     "stars_per_day": 50.33,
      "url": "https://github.com/NuvexNetwork/nuvex"
     },
     {
@@ -68,33 +68,33 @@
     },
     {
      "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 3.36,
+     "stars_per_day": 3.32,
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
-    },
-    {
-     "full_name": "dartkomnitibe/solana-meme-tool",
-     "stars_per_day": 2.72,
-     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
     },
     {
      "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
      "stars_per_day": 2.68,
      "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
+    },
+    {
+     "full_name": "dartkomnitibe/solana-meme-tool",
+     "stars_per_day": 2.67,
+     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
     }
    ]
   },
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 83.0,
+   "score": 86.2,
    "confidence": "High",
    "evidence": {
     "github_repos": 54,
-    "github_top_velocity": 51.03,
-    "headline_hits": 4,
+    "github_top_velocity": 46.18,
+    "headline_hits": 5,
     "sample_headlines": [
+     "Don Davis Bill Would Fine Candidates $10K for Trading on Their Own Elections",
      "DeFi Development Corp Adds $3 Million in Solana as SOL Buys Slow",
-     "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
-     "S&P Global brings risk assessments to growing crypto lending vault sector"
+     "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -102,7 +102,7 @@
    "member_repos": [
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 31.4,
+     "stars_per_day": 26.67,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
@@ -112,51 +112,51 @@
     },
     {
      "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 3.36,
+     "stars_per_day": 3.32,
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
-    },
-    {
-     "full_name": "dartkomnitibe/solana-meme-tool",
-     "stars_per_day": 2.72,
-     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
     },
     {
      "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
      "stars_per_day": 2.68,
      "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
+    },
+    {
+     "full_name": "dartkomnitibe/solana-meme-tool",
+     "stars_per_day": 2.67,
+     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
     }
    ]
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 52.8,
+   "score": 47.8,
    "confidence": "High",
    "evidence": {
     "github_repos": 10,
-    "github_top_velocity": 28.87,
+    "github_top_velocity": 28.05,
     "headline_hits": 2,
     "sample_headlines": [
      "Fomo overtakes Pump.fun in daily revenue on Solana",
      "Fomo overtakes Pump.fun in daily revenue on Solana"
     ],
-    "market_avg_7d_pct": 3.96,
+    "market_avg_7d_pct": 1.9,
     "sources_confirming": 2
    },
    "member_repos": [
     {
      "full_name": "nhovongoc0-max/meme-radar",
-     "stars_per_day": 20.33,
+     "stars_per_day": 19.56,
      "url": "https://github.com/nhovongoc0-max/meme-radar"
-    },
-    {
-     "full_name": "dartkomnitibe/solana-meme-tool",
-     "stars_per_day": 2.72,
-     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
     },
     {
      "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
      "stars_per_day": 2.68,
      "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
+    },
+    {
+     "full_name": "dartkomnitibe/solana-meme-tool",
+     "stars_per_day": 2.67,
+     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
     },
     {
      "full_name": "PillCrew/claimchain",
@@ -172,11 +172,11 @@
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 39.6,
+   "score": 34.8,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 20,
-    "github_top_velocity": 39.56,
+    "github_top_velocity": 34.78,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -185,7 +185,7 @@
    "member_repos": [
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 31.4,
+     "stars_per_day": 26.67,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
@@ -255,11 +255,11 @@
   },
   {
    "narrative": "Payments & Stablecoins",
-   "score": 16.3,
+   "score": 13.0,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 9,
-    "github_top_velocity": 8.31,
+    "github_top_velocity": 5.01,
     "headline_hits": 1,
     "sample_headlines": [
      "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand"
@@ -270,12 +270,12 @@
    "member_repos": [
     {
      "full_name": "2274802010922/pipicachu",
-     "stars_per_day": 6.0,
+     "stars_per_day": 3.0,
      "url": "https://github.com/2274802010922/pipicachu"
     },
     {
      "full_name": "blueshift-gg/solana-pull-program",
-     "stars_per_day": 1.5,
+     "stars_per_day": 1.2,
      "url": "https://github.com/blueshift-gg/solana-pull-program"
     },
     {
@@ -301,7 +301,7 @@
    "confidence": "Medium",
    "evidence": {
     "github_repos": 5,
-    "github_top_velocity": 4.01,
+    "github_top_velocity": 3.99,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -320,12 +320,12 @@
     },
     {
      "full_name": "livid/exe-hub",
-     "stars_per_day": 0.36,
+     "stars_per_day": 0.35,
      "url": "https://github.com/livid/exe-hub"
     },
     {
      "full_name": "blueshift-gg/solana-awesome",
-     "stars_per_day": 0.31,
+     "stars_per_day": 0.3,
      "url": "https://github.com/blueshift-gg/solana-awesome"
     },
     {
@@ -337,11 +337,11 @@
   },
   {
    "narrative": "DePIN & Physical Infra",
-   "score": 0.8,
+   "score": 0.7,
    "confidence": "Low",
    "evidence": {
     "github_repos": 1,
-    "github_top_velocity": 0.77,
+    "github_top_velocity": 0.74,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -350,7 +350,7 @@
    "member_repos": [
     {
      "full_name": "SohniSwatantra/nosana-mcp",
-     "stars_per_day": 0.77,
+     "stars_per_day": 0.74,
      "url": "https://github.com/SohniSwatantra/nosana-mcp"
     }
    ]

@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-06T00:41:36+00:00",
+ "generated_at": "2026-10-06T06:37:45+00:00",
  "narratives": [
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 94.8,
+   "score": 97.8,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 43,
-    "github_top_velocity": 94.8,
+    "github_repos": 42,
+    "github_top_velocity": 97.8,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -16,12 +16,12 @@
    "member_repos": [
     {
      "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 47.0,
+     "stars_per_day": 49.0,
      "url": "https://github.com/NuvexNetwork/nuvex"
     },
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 30.4,
+     "stars_per_day": 31.4,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
@@ -43,11 +43,11 @@
   },
   {
    "narrative": "Wallets & UX",
-   "score": 84.3,
+   "score": 86.3,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 18,
-    "github_top_velocity": 76.31,
+    "github_top_velocity": 78.3,
     "headline_hits": 1,
     "sample_headlines": [
      "Treasury Kills Crypto 'Unhosted Wallet' and Mixer Surveillance Rules"
@@ -58,7 +58,7 @@
    "member_repos": [
     {
      "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 47.0,
+     "stars_per_day": 49.0,
      "url": "https://github.com/NuvexNetwork/nuvex"
     },
     {
@@ -85,11 +85,11 @@
   },
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 84.2,
+   "score": 83.0,
    "confidence": "High",
    "evidence": {
-    "github_repos": 56,
-    "github_top_velocity": 52.16,
+    "github_repos": 54,
+    "github_top_velocity": 51.03,
     "headline_hits": 4,
     "sample_headlines": [
      "DeFi Development Corp Adds $3 Million in Solana as SOL Buys Slow",
@@ -102,17 +102,12 @@
    "member_repos": [
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 30.4,
+     "stars_per_day": 31.4,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
-     "full_name": "HandcuffAttorney/yieldboard",
-     "stars_per_day": 5.0,
-     "url": "https://github.com/HandcuffAttorney/yieldboard"
-    },
-    {
      "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 4.14,
+     "stars_per_day": 4.29,
      "url": "https://github.com/recogardtech/AutoPilotPM"
     },
     {
@@ -124,23 +119,28 @@
      "full_name": "dartkomnitibe/solana-meme-tool",
      "stars_per_day": 2.72,
      "url": "https://github.com/dartkomnitibe/solana-meme-tool"
+    },
+    {
+     "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
+     "stars_per_day": 2.68,
+     "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
     }
    ]
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 55.3,
+   "score": 52.8,
    "confidence": "High",
    "evidence": {
-    "github_repos": 11,
+    "github_repos": 10,
     "github_top_velocity": 28.87,
     "headline_hits": 2,
     "sample_headlines": [
      "Fomo overtakes Pump.fun in daily revenue on Solana",
      "Fomo overtakes Pump.fun in daily revenue on Solana"
     ],
-    "market_avg_7d_pct": 5.2,
-    "sources_confirming": 3
+    "market_avg_7d_pct": 3.96,
+    "sources_confirming": 2
    },
    "member_repos": [
     {
@@ -172,11 +172,11 @@
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 38.4,
+   "score": 39.6,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 20,
-    "github_top_velocity": 38.42,
+    "github_top_velocity": 39.56,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -185,12 +185,12 @@
    "member_repos": [
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 30.4,
+     "stars_per_day": 31.4,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
      "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 4.14,
+     "stars_per_day": 4.29,
      "url": "https://github.com/recogardtech/AutoPilotPM"
     },
     {
@@ -255,11 +255,11 @@
   },
   {
    "narrative": "Payments & Stablecoins",
-   "score": 16.4,
+   "score": 16.3,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 9,
-    "github_top_velocity": 8.37,
+    "github_top_velocity": 8.31,
     "headline_hits": 1,
     "sample_headlines": [
      "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand"
@@ -280,7 +280,7 @@
     },
     {
      "full_name": "2274802010922/picachu__",
-     "stars_per_day": 0.56,
+     "stars_per_day": 0.5,
      "url": "https://github.com/2274802010922/picachu__"
     },
     {

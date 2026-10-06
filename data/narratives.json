@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-05T18:37:08+00:00",
+ "generated_at": "2026-10-06T00:41:36+00:00",
  "narratives": [
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 95.0,
+   "score": 94.8,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 42,
-    "github_top_velocity": 94.97,
+    "github_repos": 43,
+    "github_top_velocity": 94.8,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -16,7 +16,7 @@
    "member_repos": [
     {
      "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 46.67,
+     "stars_per_day": 47.0,
      "url": "https://github.com/NuvexNetwork/nuvex"
     },
     {
@@ -42,65 +42,23 @@
    ]
   },
   {
-   "narrative": "DeFi / Trading Infra",
-   "score": 84.5,
-   "confidence": "High",
-   "evidence": {
-    "github_repos": 54,
-    "github_top_velocity": 52.47,
-    "headline_hits": 4,
-    "sample_headlines": [
-     "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
-     "OKX and NYSE Owner ICE Plan 24/7 Tokenized Stock Trading Under SEC Exemption",
-     "S&P Global brings risk assessments to growing crypto lending vault sector"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 2
-   },
-   "member_repos": [
-    {
-     "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 30.4,
-     "url": "https://github.com/NuvexNetwork/nuvex-services"
-    },
-    {
-     "full_name": "HandcuffAttorney/yieldboard",
-     "stars_per_day": 5.0,
-     "url": "https://github.com/HandcuffAttorney/yieldboard"
-    },
-    {
-     "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 4.0,
-     "url": "https://github.com/recogardtech/AutoPilotPM"
-    },
-    {
-     "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 3.36,
-     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
-    },
-    {
-     "full_name": "dartkomnitibe/solana-meme-tool",
-     "stars_per_day": 2.72,
-     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
-    }
-   ]
-  },
-  {
    "narrative": "Wallets & UX",
-   "score": 76.0,
+   "score": 84.3,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 19,
-    "github_top_velocity": 76.01,
-    "headline_hits": 0,
-    "sample_headlines": [],
+    "github_repos": 18,
+    "github_top_velocity": 76.31,
+    "headline_hits": 1,
+    "sample_headlines": [
+     "Treasury Kills Crypto 'Unhosted Wallet' and Mixer Surveillance Rules"
+    ],
     "market_avg_7d_pct": null,
     "sources_confirming": 1
    },
    "member_repos": [
     {
      "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 46.67,
+     "stars_per_day": 47.0,
      "url": "https://github.com/NuvexNetwork/nuvex"
     },
     {
@@ -126,19 +84,63 @@
    ]
   },
   {
+   "narrative": "DeFi / Trading Infra",
+   "score": 84.2,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 56,
+    "github_top_velocity": 52.16,
+    "headline_hits": 4,
+    "sample_headlines": [
+     "DeFi Development Corp Adds $3 Million in Solana as SOL Buys Slow",
+     "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
+     "S&P Global brings risk assessments to growing crypto lending vault sector"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 2
+   },
+   "member_repos": [
+    {
+     "full_name": "NuvexNetwork/nuvex-services",
+     "stars_per_day": 30.4,
+     "url": "https://github.com/NuvexNetwork/nuvex-services"
+    },
+    {
+     "full_name": "HandcuffAttorney/yieldboard",
+     "stars_per_day": 5.0,
+     "url": "https://github.com/HandcuffAttorney/yieldboard"
+    },
+    {
+     "full_name": "recogardtech/AutoPilotPM",
+     "stars_per_day": 4.14,
+     "url": "https://github.com/recogardtech/AutoPilotPM"
+    },
+    {
+     "full_name": "openarbmev/Openarb-Trade-SDK",
+     "stars_per_day": 3.36,
+     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
+    },
+    {
+     "full_name": "dartkomnitibe/solana-meme-tool",
+     "stars_per_day": 2.72,
+     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
+    }
+   ]
+  },
+  {
    "narrative": "Meme & Speculation",
-   "score": 50.4,
+   "score": 55.3,
    "confidence": "High",
    "evidence": {
     "github_repos": 11,
-    "github_top_velocity": 29.27,
+    "github_top_velocity": 28.87,
     "headline_hits": 2,
     "sample_headlines": [
      "Fomo overtakes Pump.fun in daily revenue on Solana",
      "Fomo overtakes Pump.fun in daily revenue on Solana"
     ],
-    "market_avg_7d_pct": 2.55,
-    "sources_confirming": 2
+    "market_avg_7d_pct": 5.2,
+    "sources_confirming": 3
    },
    "member_repos": [
     {
@@ -157,28 +159,26 @@
      "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
     },
     {
-     "full_name": "blixvip/blixtrade",
-     "stars_per_day": 1.0,
-     "url": "https://github.com/blixvip/blixtrade"
+     "full_name": "PillCrew/claimchain",
+     "stars_per_day": 0.82,
+     "url": "https://github.com/PillCrew/claimchain"
     },
     {
-     "full_name": "PillCrew/claimchain",
-     "stars_per_day": 0.84,
-     "url": "https://github.com/PillCrew/claimchain"
+     "full_name": "PillCrew/PillCrew",
+     "stars_per_day": 0.78,
+     "url": "https://github.com/PillCrew/PillCrew"
     }
    ]
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 46.4,
+   "score": 38.4,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 21,
-    "github_top_velocity": 38.38,
-    "headline_hits": 1,
-    "sample_headlines": [
-     "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push"
-    ],
+    "github_repos": 20,
+    "github_top_velocity": 38.42,
+    "headline_hits": 0,
+    "sample_headlines": [],
     "market_avg_7d_pct": null,
     "sources_confirming": 1
    },
@@ -190,36 +190,35 @@
     },
     {
      "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 4.0,
+     "stars_per_day": 4.14,
      "url": "https://github.com/recogardtech/AutoPilotPM"
     },
     {
      "full_name": "Parad0x-Labs/vool",
-     "stars_per_day": 0.94,
+     "stars_per_day": 0.88,
      "url": "https://github.com/Parad0x-Labs/vool"
     },
     {
      "full_name": "PillCrew/claimchain",
-     "stars_per_day": 0.84,
+     "stars_per_day": 0.82,
      "url": "https://github.com/PillCrew/claimchain"
     },
     {
      "full_name": "PillCrew/PillCrew",
-     "stars_per_day": 0.8,
+     "stars_per_day": 0.78,
      "url": "https://github.com/PillCrew/PillCrew"
     }
    ]
   },
   {
    "narrative": "RWA & Tokenization",
-   "score": 25.4,
+   "score": 17.4,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 6,
     "github_top_velocity": 1.35,
-    "headline_hits": 3,
+    "headline_hits": 2,
     "sample_headlines": [
-     "OKX and NYSE Owner ICE Plan 24/7 Tokenized Stock Trading Under SEC Exemption",
      "Winners and losers of the SEC\u2019s new tokenized stocks rules",
      "Kraken brings DeFi yield to tokenized stocks and ETFs"
     ],
@@ -301,8 +300,8 @@
    "score": 4.0,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 6,
-    "github_top_velocity": 4.03,
+    "github_repos": 5,
+    "github_top_velocity": 4.01,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,

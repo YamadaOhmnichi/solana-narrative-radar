@@ -14,9 +14,9 @@
    "cryptocurrency",
    "dapp",
    "dapp-browser",
+   "dapp-example",
    "desktop-wallet",
-   "electron-app",
-   "ethereum-blockchain"
+   "electron-app"
   ],
   "flag": "brand-impersonation"
  },

@@ -1,12 +1,30 @@
 [
  {
+  "full_name": "h100envy/gem-search",
+  "url": "https://github.com/h100envy/gem-search",
+  "description": "Rainbow spider that X-rays memecoins: bundles, linked wallets, dev history. Scanner, Telegram bot, live Bundle Index.",
+  "stars": 150,
+  "created": "2026-10-05T13:12:12Z",
+  "language": "Python",
+  "stars_per_day": 150.0,
+  "age_days": 1,
+  "topics": [
+   "memecoin",
+   "open-source",
+   "pumpfun",
+   "scanner",
+   "solana",
+   "telegram-bot"
+  ]
+ },
+ {
   "full_name": "NuvexNetwork/nuvex",
   "url": "https://github.com/NuvexNetwork/nuvex",
   "description": "Solana-native verifiable compute and oracle protocol.  Programs accept a job, an input, constraints, and a callback. Randomness is the first job. An active node can fulfill a VRF request with an ECVRF",
-  "stars": 154,
+  "stars": 158,
   "created": "2026-10-02T15:38:29Z",
   "language": "Rust",
-  "stars_per_day": 38.5,
+  "stars_per_day": 39.5,
   "age_days": 4,
   "topics": [
    "cli",
@@ -42,10 +60,10 @@
   "full_name": "NuvexNetwork/nuvex-services",
   "url": "https://github.com/NuvexNetwork/nuvex-services",
   "description": "Off-chain services for Nuvex. This repository does not deploy programs and it is not a source of protocol truth.",
-  "stars": 163,
+  "stars": 165,
   "created": "2026-09-30T07:55:06Z",
   "language": "TypeScript",
-  "stars_per_day": 27.17,
+  "stars_per_day": 27.5,
   "age_days": 6,
   "topics": [
    "ai",
@@ -61,10 +79,10 @@
   "full_name": "nhovongoc0-max/meme-radar",
   "url": "https://github.com/nhovongoc0-max/meme-radar",
   "description": "Meme\u96f7\u8fbe\u5f00\u6e90\u7248\uff1a\u672c\u5730\u53ea\u8bfb\u3001\u591a\u94fe Meme \u5019\u9009\u626b\u63cf\u4e0e\u4eba\u5de5\u590d\u6838\u5de5\u5177",
-  "stars": 490,
+  "stars": 493,
   "created": "2026-09-11T12:14:57Z",
   "language": "JavaScript",
-  "stars_per_day": 19.6,
+  "stars_per_day": 19.72,
   "age_days": 25,
   "topics": [
    "bsc",
@@ -188,26 +206,6 @@
   "topics": []
  },
  {
-  "full_name": "HandcuffAttorney/yieldboard",
-  "url": "https://github.com/HandcuffAttorney/yieldboard",
-  "description": "yieldboard - open source utility, updated 2026-10-04",
-  "stars": 5,
-  "created": "2026-10-04T03:40:40Z",
-  "language": "C++",
-  "stars_per_day": 2.5,
-  "age_days": 2,
-  "topics": [
-   "apy",
-   "arbitrum",
-   "cpp",
-   "crypto",
-   "defi",
-   "desktop-app",
-   "ethereum",
-   "finance"
-  ]
- },
- {
   "full_name": "uni-launch/solana-token-creator",
   "url": "https://github.com/uni-launch/solana-token-creator",
   "description": "Create a Solana token without code \u2014 SPL and Token-2022, authorities, metadata, rent, fees and liquidity. Practical guides.",
@@ -239,6 +237,26 @@
   "stars_per_day": 1.76,
   "age_days": 21,
   "topics": []
+ },
+ {
+  "full_name": "HandcuffAttorney/yieldboard",
+  "url": "https://github.com/HandcuffAttorney/yieldboard",
+  "description": "yieldboard - open source utility, updated 2026-10-04",
+  "stars": 5,
+  "created": "2026-10-04T03:40:40Z",
+  "language": "C++",
+  "stars_per_day": 1.67,
+  "age_days": 3,
+  "topics": [
+   "apy",
+   "arbitrum",
+   "cpp",
+   "crypto",
+   "defi",
+   "desktop-app",
+   "ethereum",
+   "finance"
+  ]
  },
  {
   "full_name": "tayohya/solprobe",
@@ -436,44 +454,6 @@
   ]
  },
  {
-  "full_name": "ChiefWoods/oracle-demo",
-  "url": "https://github.com/ChiefWoods/oracle-demo",
-  "description": "Anchor program showing how to read from common Solana price oracles.",
-  "stars": 1,
-  "created": "2026-10-04T05:55:20Z",
-  "language": "Rust",
-  "stars_per_day": 0.5,
-  "age_days": 2,
-  "topics": [
-   "anchor-lang",
-   "chainlink",
-   "pyth-network",
-   "redstone",
-   "solana",
-   "switchboard"
-  ]
- },
- {
-  "full_name": "2274802010922/picachu__",
-  "url": "https://github.com/2274802010922/picachu__",
-  "description": "Goal-based Solana repayment planner with finite-grid allocation, shared reserves and verified Kamino Devnet receipts. VI/EN narrated demos.",
-  "stars": 5,
-  "created": "2026-09-26T03:55:36Z",
-  "language": "TypeScript",
-  "stars_per_day": 0.5,
-  "age_days": 10,
-  "topics": [
-   "defi",
-   "devnet",
-   "hackathon",
-   "kamino",
-   "nextjs",
-   "openrouter",
-   "repayment-planner",
-   "solana"
-  ]
- },
- {
   "full_name": "blixvip/blixtrade",
   "url": "https://github.com/blixvip/blixtrade",
   "description": "Open-source Solana memecoin terminal with a free API and MCP server (a GMGN / Axiom / Fomo API alternative). Live pump.fun feed, holder ledgers with snipers and bundles, real Jupiter quotes, Claude + ",
@@ -532,6 +512,26 @@
   ]
  },
  {
+  "full_name": "2274802010922/picachu__",
+  "url": "https://github.com/2274802010922/picachu__",
+  "description": "Goal-based Solana repayment planner with finite-grid allocation, shared reserves and verified Kamino Devnet receipts. VI/EN narrated demos.",
+  "stars": 5,
+  "created": "2026-09-26T03:55:36Z",
+  "language": "TypeScript",
+  "stars_per_day": 0.45,
+  "age_days": 11,
+  "topics": [
+   "defi",
+   "devnet",
+   "hackathon",
+   "kamino",
+   "nextjs",
+   "openrouter",
+   "repayment-planner",
+   "solana"
+  ]
+ },
+ {
   "full_name": "chainstacklabs/fomo-solana-rh-listeners",
   "url": "https://github.com/chainstacklabs/fomo-solana-rh-listeners",
   "description": "Onchain listeners and a technical reference for the FOMO trading app on Solana and Robinhood Chain",
@@ -565,6 +565,24 @@
    "golang",
    "ipfs",
    "social-feed"
+  ]
+ },
+ {
+  "full_name": "ChiefWoods/oracle-demo",
+  "url": "https://github.com/ChiefWoods/oracle-demo",
+  "description": "Anchor program showing how to read from common Solana price oracles.",
+  "stars": 1,
+  "created": "2026-10-04T05:55:20Z",
+  "language": "Rust",
+  "stars_per_day": 0.33,
+  "age_days": 3,
+  "topics": [
+   "anchor-lang",
+   "chainlink",
+   "pyth-network",
+   "redstone",
+   "solana",
+   "switchboard"
   ]
  },
  {
@@ -612,26 +630,6 @@
   "stars_per_day": 0.3,
   "age_days": 43,
   "topics": []
- },
- {
-  "full_name": "ZeroHackz/cyberleek-viewer",
-  "url": "https://github.com/ZeroHackz/cyberleek-viewer",
-  "description": "CyberleekViewer - Solana on-chain viewer for CYBERLEEK site data (no browser needed)",
-  "stars": 12,
-  "created": "2026-08-22T20:30:54Z",
-  "language": "Python",
-  "stars_per_day": 0.27,
-  "age_days": 45,
-  "topics": [
-   "cyberleek",
-   "gta",
-   "gta6",
-   "gtavi",
-   "hack",
-   "hacks",
-   "leaks",
-   "leeks"
-  ]
  },
  {
   "full_name": "MuhKar1/zk-ballot-solana__Anchor-Light-Protocol-V2-ZK-Compression-Noir",
@@ -692,7 +690,7 @@
   "created": "2026-08-10T03:26:44Z",
   "language": "Rust",
   "stars_per_day": 0.19,
-  "age_days": 57,
+  "age_days": 58,
   "topics": [
    "defi",
    "magicblock",
@@ -760,7 +758,7 @@
   "created": "2026-08-08T02:49:21Z",
   "language": "HTML",
   "stars_per_day": 0.17,
-  "age_days": 59,
+  "age_days": 60,
   "topics": [
    "arbitrage",
    "blockchain",
@@ -891,7 +889,7 @@
   "created": "2026-09-18T01:27:17Z",
   "language": "JavaScript",
   "stars_per_day": 0.11,
-  "age_days": 18,
+  "age_days": 19,
   "topics": [
    "ai",
    "colosseum",
@@ -962,7 +960,7 @@
   "created": "2026-09-11T05:58:51Z",
   "language": "TypeScript",
   "stars_per_day": 0.08,
-  "age_days": 25,
+  "age_days": 26,
   "topics": [
    "anchor",
    "blockchain",
@@ -998,7 +996,7 @@
   "created": "2026-09-09T01:00:13Z",
   "language": "Python",
   "stars_per_day": 0.07,
-  "age_days": 27,
+  "age_days": 28,
   "topics": [
    "alpha",
    "bsc",
@@ -1070,24 +1068,6 @@
   ]
  },
  {
-  "full_name": "thanhhau15112000-dev/NexusWallet",
-  "url": "https://github.com/thanhhau15112000-dev/NexusWallet",
-  "description": "Spending-policy wallet for AI agents on Solana: agents propose payments over MCP, an owner-set policy signs, escalates or denies; multi-step tasks use an on-chain Anchor capability vault (Devnet).",
-  "stars": 1,
-  "created": "2026-09-18T01:49:44Z",
-  "language": "TypeScript",
-  "stars_per_day": 0.06,
-  "age_days": 18,
-  "topics": [
-   "ai-agents",
-   "anchor",
-   "devnet",
-   "mcp",
-   "model-context-protocol",
-   "solana"
-  ]
- },
- {
   "full_name": "kunal171/tidebook",
   "url": "https://github.com/kunal171/tidebook",
   "description": "A research-driven on-chain central limit order book for Solana, built  with Anchor, LiteSVM, and a companion web app.",
@@ -1121,15 +1101,22 @@
   "topics": []
  },
  {
-  "full_name": "Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
-  "url": "https://github.com/Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
-  "description": "",
+  "full_name": "thanhhau15112000-dev/NexusWallet",
+  "url": "https://github.com/thanhhau15112000-dev/NexusWallet",
+  "description": "Spending-policy wallet for AI agents on Solana: agents propose payments over MCP, an owner-set policy signs, escalates or denies; multi-step tasks use an on-chain Anchor capability vault (Devnet).",
   "stars": 1,
-  "created": "2026-09-14T01:47:19Z",
-  "language": "Rust",
+  "created": "2026-09-18T01:49:44Z",
+  "language": "TypeScript",
   "stars_per_day": 0.05,
-  "age_days": 22,
-  "topics": []
+  "age_days": 19,
+  "topics": [
+   "ai-agents",
+   "anchor",
+   "devnet",
+   "mcp",
+   "model-context-protocol",
+   "solana"
+  ]
  },
  {
   "full_name": "amoeba-farm/amoeba-program",
@@ -1150,7 +1137,7 @@
   "created": "2026-08-21T06:17:43Z",
   "language": "JavaScript",
   "stars_per_day": 0.04,
-  "age_days": 46,
+  "age_days": 47,
   "topics": [
    "agents",
    "ai-agents",
@@ -1352,6 +1339,17 @@
   "topics": []
  },
  {
+  "full_name": "Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
+  "url": "https://github.com/Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
+  "description": "",
+  "stars": 1,
+  "created": "2026-09-14T01:47:19Z",
+  "language": "Rust",
+  "stars_per_day": 0.04,
+  "age_days": 23,
+  "topics": []
+ },
+ {
   "full_name": "drexthealpha/Knos",
   "url": "https://github.com/drexthealpha/Knos",
   "description": "Knos pays for software work on signed acceptance: terms fixed before the work, a GitHub-signed run attests they were met, a Solana program settles.",
@@ -1359,7 +1357,7 @@
   "created": "2026-09-01T05:03:43Z",
   "language": "Python",
   "stars_per_day": 0.03,
-  "age_days": 35,
+  "age_days": 36,
   "topics": [
    "agent-payments",
    "ai-agents",
@@ -1379,23 +1377,9 @@
   "created": "2026-09-05T06:17:30Z",
   "language": "Rust",
   "stars_per_day": 0.03,
-  "age_days": 31,
+  "age_days": 32,
   "topics": [
    "quasar",
-   "solana"
-  ]
- },
- {
-  "full_name": "ChiefWoods/permissionless-fee-router",
-  "url": "https://github.com/ChiefWoods/permissionless-fee-router",
-  "description": "Locked-balance weighted fee sharing program for star.fun Superteam Earn bounty",
-  "stars": 1,
-  "created": "2026-08-27T03:53:37Z",
-  "language": "Rust",
-  "stars_per_day": 0.03,
-  "age_days": 40,
-  "topics": [
-   "anchor",
    "solana"
   ]
  },
@@ -1429,7 +1413,7 @@
   "created": "2026-09-04T06:32:44Z",
   "language": null,
   "stars_per_day": 0.03,
-  "age_days": 32,
+  "age_days": 33,
   "topics": []
  },
  {
@@ -1474,6 +1458,20 @@
   "topics": []
  },
  {
+  "full_name": "ChiefWoods/permissionless-fee-router",
+  "url": "https://github.com/ChiefWoods/permissionless-fee-router",
+  "description": "Locked-balance weighted fee sharing program for star.fun Superteam Earn bounty",
+  "stars": 1,
+  "created": "2026-08-27T03:53:37Z",
+  "language": "Rust",
+  "stars_per_day": 0.02,
+  "age_days": 41,
+  "topics": [
+   "anchor",
+   "solana"
+  ]
+ },
+ {
   "full_name": "nemorixgroup/Solana-Knowledge-Base",
   "url": "https://github.com/nemorixgroup/Solana-Knowledge-Base",
   "description": "A comprehensive, in-depth technical guide to the Solana blockchain - covering its account model, transaction structure, RPC interface, token programs, and payment primitives (Solana Pay, Subscriptions",
@@ -1511,7 +1509,7 @@
   "created": "2026-08-13T01:05:33Z",
   "language": "TypeScript",
   "stars_per_day": 0.02,
-  "age_days": 54,
+  "age_days": 55,
   "topics": []
  },
  {

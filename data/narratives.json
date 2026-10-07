@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-07T00:42:16+00:00",
+ "generated_at": "2026-10-07T06:37:09+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 104.2,
+   "score": 252.9,
    "confidence": "High",
    "evidence": {
-    "github_repos": 55,
-    "github_top_velocity": 80.21,
+    "github_repos": 56,
+    "github_top_velocity": 228.89,
     "headline_hits": 3,
     "sample_headlines": [
      "Flash Loan Attacks Drained $1.2B From DeFi Between 2020 and 2024: Study",
@@ -19,13 +19,18 @@
    },
    "member_repos": [
     {
+     "full_name": "h100envy/gem-search",
+     "stars_per_day": 150.0,
+     "url": "https://github.com/h100envy/gem-search"
+    },
+    {
      "full_name": "TINGLISE/auto-trading-bot-pumpfun-solana-V2",
      "stars_per_day": 35.0,
      "url": "https://github.com/TINGLISE/auto-trading-bot-pumpfun-solana-V2"
     },
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 27.17,
+     "stars_per_day": 27.5,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
@@ -37,21 +42,16 @@
      "full_name": "openarbmev/Openarb-Trade-SDK",
      "stars_per_day": 3.19,
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
-    },
-    {
-     "full_name": "dartkomnitibe/solana-meme-tool",
-     "stars_per_day": 2.67,
-     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
     }
    ]
   },
   {
    "narrative": "Wallets & UX",
-   "score": 94.1,
+   "score": 244.9,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 19,
-    "github_top_velocity": 94.11,
+    "github_repos": 20,
+    "github_top_velocity": 244.92,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -59,8 +59,13 @@
    },
    "member_repos": [
     {
+     "full_name": "h100envy/gem-search",
+     "stars_per_day": 150.0,
+     "url": "https://github.com/h100envy/gem-search"
+    },
+    {
      "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 38.5,
+     "stars_per_day": 39.5,
      "url": "https://github.com/NuvexNetwork/nuvex"
     },
     {
@@ -77,30 +82,30 @@
      "full_name": "openarbmev/Openarb-Trade-SDK",
      "stars_per_day": 3.19,
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
-    },
-    {
-     "full_name": "dartkomnitibe/solana-meme-tool",
-     "stars_per_day": 2.67,
-     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
     }
    ]
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 81.3,
+   "score": 241.6,
    "confidence": "High",
    "evidence": {
-    "github_repos": 10,
-    "github_top_velocity": 62.76,
+    "github_repos": 11,
+    "github_top_velocity": 212.84,
     "headline_hits": 2,
     "sample_headlines": [
      "Mistral AI Drops 'Le Chonk': A Massive AI Model Named After a Cat Meme",
      "Fomo overtakes Pump.fun in daily revenue on Solana"
     ],
-    "market_avg_7d_pct": -1.25,
-    "sources_confirming": 2
+    "market_avg_7d_pct": -6.39,
+    "sources_confirming": 3
    },
    "member_repos": [
+    {
+     "full_name": "h100envy/gem-search",
+     "stars_per_day": 150.0,
+     "url": "https://github.com/h100envy/gem-search"
+    },
     {
      "full_name": "TINGLISE/auto-trading-bot-pumpfun-solana-V2",
      "stars_per_day": 35.0,
@@ -108,7 +113,7 @@
     },
     {
      "full_name": "nhovongoc0-max/meme-radar",
-     "stars_per_day": 19.6,
+     "stars_per_day": 19.72,
      "url": "https://github.com/nhovongoc0-max/meme-radar"
     },
     {
@@ -120,21 +125,16 @@
      "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
      "stars_per_day": 2.63,
      "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
-    },
-    {
-     "full_name": "PillCrew/claimchain",
-     "stars_per_day": 0.79,
-     "url": "https://github.com/PillCrew/claimchain"
     }
    ]
   },
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 78.5,
+   "score": 79.7,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 41,
-    "github_top_velocity": 78.54,
+    "github_top_velocity": 79.7,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -143,12 +143,12 @@
    "member_repos": [
     {
      "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 38.5,
+     "stars_per_day": 39.5,
      "url": "https://github.com/NuvexNetwork/nuvex"
     },
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 27.17,
+     "stars_per_day": 27.5,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
@@ -170,11 +170,11 @@
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 50.1,
+   "score": 50.5,
    "confidence": "High",
    "evidence": {
     "github_repos": 19,
-    "github_top_velocity": 34.13,
+    "github_top_velocity": 34.46,
     "headline_hits": 2,
     "sample_headlines": [
      "Capital starting to rotate back to crypto from AI: Raoul Pal",
@@ -186,7 +186,7 @@
    "member_repos": [
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 27.17,
+     "stars_per_day": 27.5,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
@@ -235,11 +235,11 @@
   },
   {
    "narrative": "Payments & Stablecoins",
-   "score": 29.0,
+   "score": 28.9,
    "confidence": "High",
    "evidence": {
     "github_repos": 9,
-    "github_top_velocity": 4.99,
+    "github_top_velocity": 4.93,
     "headline_hits": 3,
     "sample_headlines": [
      "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
@@ -262,7 +262,7 @@
     },
     {
      "full_name": "2274802010922/picachu__",
-     "stars_per_day": 0.5,
+     "stars_per_day": 0.45,
      "url": "https://github.com/2274802010922/picachu__"
     },
     {
@@ -272,7 +272,7 @@
     },
     {
      "full_name": "thanhhau15112000-dev/NexusWallet",
-     "stars_per_day": 0.06,
+     "stars_per_day": 0.05,
      "url": "https://github.com/thanhhau15112000-dev/NexusWallet"
     }
    ]

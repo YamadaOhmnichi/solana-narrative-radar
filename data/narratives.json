@@ -1,24 +1,67 @@
 {
- "generated_at": "2026-10-07T18:36:17+00:00",
+ "generated_at": "2026-10-08T00:41:36+00:00",
  "narratives": [
   {
-   "narrative": "Meme & Speculation",
-   "score": 151.9,
+   "narrative": "DeFi / Trading Infra",
+   "score": 154.6,
    "confidence": "High",
    "evidence": {
-    "github_repos": 12,
-    "github_top_velocity": 122.62,
-    "headline_hits": 1,
+    "github_repos": 56,
+    "github_top_velocity": 138.62,
+    "headline_hits": 2,
     "sample_headlines": [
-     "Fomo overtakes Pump.fun in daily revenue on Solana"
+     "S&P Global brings risk assessments to growing crypto lending vault sector",
+     "Kraken brings DeFi yield to tokenized stocks and ETFs"
     ],
-    "market_avg_7d_pct": -10.63,
+    "market_avg_7d_pct": null,
     "sources_confirming": 2
    },
    "member_repos": [
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 86.5,
+     "stars_per_day": 89.5,
+     "url": "https://github.com/h100envy/gem-search"
+    },
+    {
+     "full_name": "NuvexNetwork/nuvex-services",
+     "stars_per_day": 24.29,
+     "url": "https://github.com/NuvexNetwork/nuvex-services"
+    },
+    {
+     "full_name": "xmaxco/exlipse",
+     "stars_per_day": 9.0,
+     "url": "https://github.com/xmaxco/exlipse"
+    },
+    {
+     "full_name": "recogardtech/AutoPilotPM",
+     "stars_per_day": 3.56,
+     "url": "https://github.com/recogardtech/AutoPilotPM"
+    },
+    {
+     "full_name": "openarbmev/Openarb-Trade-SDK",
+     "stars_per_day": 3.07,
+     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
+    }
+   ]
+  },
+  {
+   "narrative": "Meme & Speculation",
+   "score": 146.6,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 12,
+    "github_top_velocity": 125.48,
+    "headline_hits": 1,
+    "sample_headlines": [
+     "Fomo overtakes Pump.fun in daily revenue on Solana"
+    ],
+    "market_avg_7d_pct": -6.58,
+    "sources_confirming": 2
+   },
+   "member_repos": [
+    {
+     "full_name": "h100envy/gem-search",
+     "stars_per_day": 89.5,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
@@ -44,66 +87,21 @@
    ]
   },
   {
-   "narrative": "DeFi / Trading Infra",
-   "score": 151.5,
-   "confidence": "High",
-   "evidence": {
-    "github_repos": 56,
-    "github_top_velocity": 135.47,
-    "headline_hits": 2,
-    "sample_headlines": [
-     "S&P Global brings risk assessments to growing crypto lending vault sector",
-     "Kraken brings DeFi yield to tokenized stocks and ETFs"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 2
-   },
-   "member_repos": [
-    {
-     "full_name": "h100envy/gem-search",
-     "stars_per_day": 86.5,
-     "url": "https://github.com/h100envy/gem-search"
-    },
-    {
-     "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 24.14,
-     "url": "https://github.com/NuvexNetwork/nuvex-services"
-    },
-    {
-     "full_name": "xmaxco/exlipse",
-     "stars_per_day": 9.0,
-     "url": "https://github.com/xmaxco/exlipse"
-    },
-    {
-     "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 3.56,
-     "url": "https://github.com/recogardtech/AutoPilotPM"
-    },
-    {
-     "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 3.07,
-     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
-    }
-   ]
-  },
-  {
    "narrative": "Wallets & UX",
-   "score": 146.9,
+   "score": 139.2,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 19,
-    "github_top_velocity": 138.92,
-    "headline_hits": 1,
-    "sample_headlines": [
-     "Europol Warns Crypto Wallets Are 'Primary Risk' for Quantum Attacks"
-    ],
+    "github_top_velocity": 139.22,
+    "headline_hits": 0,
+    "sample_headlines": [],
     "market_avg_7d_pct": null,
     "sources_confirming": 1
    },
    "member_repos": [
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 86.5,
+     "stars_per_day": 89.5,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
@@ -113,7 +111,7 @@
     },
     {
      "full_name": "thaorivera/crypto-wallet-generator-cracker",
-     "stars_per_day": 8.0,
+     "stars_per_day": 5.33,
      "url": "https://github.com/thaorivera/crypto-wallet-generator-cracker"
     },
     {
@@ -134,7 +132,7 @@
    "confidence": "Medium",
    "evidence": {
     "github_repos": 42,
-    "github_top_velocity": 67.84,
+    "github_top_velocity": 67.82,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -148,7 +146,7 @@
     },
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 24.14,
+     "stars_per_day": 24.29,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
@@ -170,22 +168,24 @@
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 38.9,
-   "confidence": "Medium",
+   "score": 63.0,
+   "confidence": "High",
    "evidence": {
     "github_repos": 20,
-    "github_top_velocity": 30.94,
-    "headline_hits": 1,
+    "github_top_velocity": 31.01,
+    "headline_hits": 4,
     "sample_headlines": [
-     "Capital starting to rotate back to crypto from AI: Raoul Pal"
+     "Capital starting to rotate back to crypto from AI: Raoul Pal",
+     "OpenAI Says a Secret AI Model Cracked Hundreds of Open Math Problems in One Prompt\u2014Mathematicians Want Receipts",
+     "Ethereum Researcher Says AI May Break Encryption Before Quantum Does"
     ],
     "market_avg_7d_pct": null,
-    "sources_confirming": 1
+    "sources_confirming": 2
    },
    "member_repos": [
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 24.14,
+     "stars_per_day": 24.29,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
@@ -195,18 +195,62 @@
     },
     {
      "full_name": "Parad0x-Labs/vool",
-     "stars_per_day": 0.83,
+     "stars_per_day": 0.79,
      "url": "https://github.com/Parad0x-Labs/vool"
     },
     {
      "full_name": "PillCrew/claimchain",
-     "stars_per_day": 0.79,
+     "stars_per_day": 0.77,
      "url": "https://github.com/PillCrew/claimchain"
     },
     {
      "full_name": "PillCrew/PillCrew",
-     "stars_per_day": 0.76,
+     "stars_per_day": 0.74,
      "url": "https://github.com/PillCrew/PillCrew"
+    }
+   ]
+  },
+  {
+   "narrative": "RWA & Tokenization",
+   "score": 25.0,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 6,
+    "github_top_velocity": 1.02,
+    "headline_hits": 3,
+    "sample_headlines": [
+     "Tether Signs Deal With Kazakhstan's Central Bank to Explore a Stablecoin and Tokenized Assets",
+     "Winners and losers of the SEC\u2019s new tokenized stocks rules",
+     "Kraken brings DeFi yield to tokenized stocks and ETFs"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "vectorix-cross/CrossYield",
+     "stars_per_day": 0.62,
+     "url": "https://github.com/vectorix-cross/CrossYield"
+    },
+    {
+     "full_name": "Zyxel89/owncurve",
+     "stars_per_day": 0.25,
+     "url": "https://github.com/Zyxel89/owncurve"
+    },
+    {
+     "full_name": "thesithunyein/owed",
+     "stars_per_day": 0.06,
+     "url": "https://github.com/thesithunyein/owed"
+    },
+    {
+     "full_name": "keelwright/slipway",
+     "stars_per_day": 0.04,
+     "url": "https://github.com/keelwright/slipway"
+    },
+    {
+     "full_name": "WINGS-N/wingsvpn-federation-pay",
+     "stars_per_day": 0.03,
+     "url": "https://github.com/WINGS-N/wingsvpn-federation-pay"
     }
    ]
   },
@@ -258,11 +302,11 @@
    "confidence": "High",
    "evidence": {
     "github_repos": 9,
-    "github_top_velocity": 3.73,
+    "github_top_velocity": 3.72,
     "headline_hits": 2,
     "sample_headlines": [
      "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
-     "Circle Welcomes DJ Khaled to 'Team USDC' and Crypto Twitter Is Furious"
+     "Tether Signs Deal With Kazakhstan's Central Bank to Explore a Stablecoin and Tokenized Assets"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -292,49 +336,6 @@
      "full_name": "thanhhau15112000-dev/NexusWallet",
      "stars_per_day": 0.05,
      "url": "https://github.com/thanhhau15112000-dev/NexusWallet"
-    }
-   ]
-  },
-  {
-   "narrative": "RWA & Tokenization",
-   "score": 17.0,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 6,
-    "github_top_velocity": 1.02,
-    "headline_hits": 2,
-    "sample_headlines": [
-     "Winners and losers of the SEC\u2019s new tokenized stocks rules",
-     "Kraken brings DeFi yield to tokenized stocks and ETFs"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "vectorix-cross/CrossYield",
-     "stars_per_day": 0.62,
-     "url": "https://github.com/vectorix-cross/CrossYield"
-    },
-    {
-     "full_name": "Zyxel89/owncurve",
-     "stars_per_day": 0.25,
-     "url": "https://github.com/Zyxel89/owncurve"
-    },
-    {
-     "full_name": "thesithunyein/owed",
-     "stars_per_day": 0.06,
-     "url": "https://github.com/thesithunyein/owed"
-    },
-    {
-     "full_name": "keelwright/slipway",
-     "stars_per_day": 0.04,
-     "url": "https://github.com/keelwright/slipway"
-    },
-    {
-     "full_name": "WINGS-N/wingsvpn-federation-pay",
-     "stars_per_day": 0.03,
-     "url": "https://github.com/WINGS-N/wingsvpn-federation-pay"
     }
    ]
   }

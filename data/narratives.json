@@ -1,34 +1,32 @@
 {
- "generated_at": "2026-10-08T12:40:08+00:00",
+ "generated_at": "2026-10-08T18:36:07+00:00",
  "narratives": [
   {
    "narrative": "Wallets & UX",
-   "score": 229.6,
+   "score": 147.8,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 20,
-    "github_top_velocity": 221.61,
-    "headline_hits": 1,
-    "sample_headlines": [
-     "Samsung Wallet Taps Solana for USDC Transfers on 82M US Galaxy Devices"
-    ],
+    "github_top_velocity": 147.85,
+    "headline_hits": 0,
+    "sample_headlines": [],
     "market_avg_7d_pct": null,
     "sources_confirming": 1
    },
    "member_repos": [
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 92.5,
+     "stars_per_day": 62.0,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
      "full_name": "Janina21/Crypto-Checker",
-     "stars_per_day": 79.0,
+     "stars_per_day": 41.5,
      "url": "https://github.com/Janina21/Crypto-Checker"
     },
     {
      "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 32.8,
+     "stars_per_day": 27.33,
      "url": "https://github.com/NuvexNetwork/nuvex"
     },
     {
@@ -38,20 +36,21 @@
     },
     {
      "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 3.11,
+     "stars_per_day": 3.0,
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
     }
    ]
   },
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 155.2,
+   "score": 132.2,
    "confidence": "High",
    "evidence": {
     "github_repos": 55,
-    "github_top_velocity": 139.25,
-    "headline_hits": 2,
+    "github_top_velocity": 108.24,
+    "headline_hits": 3,
     "sample_headlines": [
+     "Solana DeFi Firms Orca and Loopscale Merge Under New Formation Brand",
      "S&P Global brings risk assessments to growing crypto lending vault sector",
      "Kraken brings DeFi yield to tokenized stocks and ETFs"
     ],
@@ -61,7 +60,7 @@
    "member_repos": [
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 92.5,
+     "stars_per_day": 62.0,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
@@ -76,39 +75,37 @@
     },
     {
      "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 3.56,
+     "stars_per_day": 3.2,
      "url": "https://github.com/recogardtech/AutoPilotPM"
     },
     {
      "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 3.11,
+     "stars_per_day": 3.0,
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
     }
    ]
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 153.3,
+   "score": 125.7,
    "confidence": "High",
    "evidence": {
     "github_repos": 12,
-    "github_top_velocity": 129.66,
-    "headline_hits": 1,
-    "sample_headlines": [
-     "Fomo overtakes Pump.fun in daily revenue on Solana"
-    ],
-    "market_avg_7d_pct": -7.81,
+    "github_top_velocity": 99.32,
+    "headline_hits": 0,
+    "sample_headlines": [],
+    "market_avg_7d_pct": -13.17,
     "sources_confirming": 2
    },
    "member_repos": [
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 92.5,
+     "stars_per_day": 62.0,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
      "full_name": "nhovongoc0-max/meme-radar",
-     "stars_per_day": 18.48,
+     "stars_per_day": 18.7,
      "url": "https://github.com/nhovongoc0-max/meme-radar"
     },
     {
@@ -117,29 +114,29 @@
      "url": "https://github.com/xmaxco/exlipse"
     },
     {
-     "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
-     "stars_per_day": 2.58,
-     "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
-    },
-    {
      "full_name": "dartkomnitibe/solana-meme-tool",
      "stars_per_day": 2.57,
      "url": "https://github.com/dartkomnitibe/solana-meme-tool"
+    },
+    {
+     "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
+     "stars_per_day": 2.54,
+     "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
     }
    ]
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 75.9,
+   "score": 59.6,
    "confidence": "High",
    "evidence": {
     "github_repos": 19,
-    "github_top_velocity": 27.9,
-    "headline_hits": 6,
+    "github_top_velocity": 27.57,
+    "headline_hits": 4,
     "sample_headlines": [
      "Capital starting to rotate back to crypto from AI: Raoul Pal",
-     "AI Video Game Mod Mashups Are Taking Off\u2014Here Are the Wackiest Examples",
-     "Morning Minute: Ethereum Researcher Says AI May Break Crypto Encryption Before Quantum"
+     "Will AI Break Crypto Encryption? Ethereum\u2019s Vitalik Buterin Weighs In on 'Bunker Mode' Shift",
+     "AI Video Game Mod Mashups Are Taking Off\u2014Here Are the Wackiest Examples"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -152,7 +149,7 @@
     },
     {
      "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 3.56,
+     "stars_per_day": 3.2,
      "url": "https://github.com/recogardtech/AutoPilotPM"
     },
     {
@@ -174,11 +171,11 @@
   },
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 64.3,
+   "score": 58.7,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 42,
-    "github_top_velocity": 64.33,
+    "github_top_velocity": 58.67,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -187,7 +184,7 @@
    "member_repos": [
     {
      "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 32.8,
+     "stars_per_day": 27.33,
      "url": "https://github.com/NuvexNetwork/nuvex"
     },
     {
@@ -202,7 +199,7 @@
     },
     {
      "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 3.11,
+     "stars_per_day": 3.0,
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
     },
     {
@@ -213,20 +210,104 @@
    ]
   },
   {
+   "narrative": "RWA & Tokenization",
+   "score": 26.4,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 7,
+    "github_top_velocity": 2.45,
+    "headline_hits": 3,
+    "sample_headlines": [
+     "Securitize Brings Nvidia, Apple and Amazon Onchain With Tokenized Stocks on Solana",
+     "Winners and losers of the SEC\u2019s new tokenized stocks rules",
+     "Kraken brings DeFi yield to tokenized stocks and ETFs"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "2274802010922/pipicachu",
+     "stars_per_day": 1.5,
+     "url": "https://github.com/2274802010922/pipicachu"
+    },
+    {
+     "full_name": "vectorix-cross/CrossYield",
+     "stars_per_day": 0.6,
+     "url": "https://github.com/vectorix-cross/CrossYield"
+    },
+    {
+     "full_name": "Zyxel89/owncurve",
+     "stars_per_day": 0.2,
+     "url": "https://github.com/Zyxel89/owncurve"
+    },
+    {
+     "full_name": "thesithunyein/owed",
+     "stars_per_day": 0.06,
+     "url": "https://github.com/thesithunyein/owed"
+    },
+    {
+     "full_name": "keelwright/slipway",
+     "stars_per_day": 0.04,
+     "url": "https://github.com/keelwright/slipway"
+    }
+   ]
+  },
+  {
+   "narrative": "Consumer & Social",
+   "score": 20.4,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 6,
+    "github_top_velocity": 12.4,
+    "headline_hits": 1,
+    "sample_headlines": [
+     "AI Video Game Mod Mashups Are Taking Off\u2014Here Are the Wackiest Examples"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "xmaxco/exlipse",
+     "stars_per_day": 9.0,
+     "url": "https://github.com/xmaxco/exlipse"
+    },
+    {
+     "full_name": "uni-launch/solana-token-creator",
+     "stars_per_day": 2.07,
+     "url": "https://github.com/uni-launch/solana-token-creator"
+    },
+    {
+     "full_name": "vectorix-cross/My-web3-projects",
+     "stars_per_day": 0.6,
+     "url": "https://github.com/vectorix-cross/My-web3-projects"
+    },
+    {
+     "full_name": "livid/exe-hub",
+     "stars_per_day": 0.36,
+     "url": "https://github.com/livid/exe-hub"
+    },
+    {
+     "full_name": "blueshift-gg/solana-awesome",
+     "stars_per_day": 0.29,
+     "url": "https://github.com/blueshift-gg/solana-awesome"
+    }
+   ]
+  },
+  {
    "narrative": "Payments & Stablecoins",
-   "score": 27.0,
-   "confidence": "High",
+   "score": 11.0,
+   "confidence": "Medium",
    "evidence": {
     "github_repos": 8,
     "github_top_velocity": 3.02,
-    "headline_hits": 3,
+    "headline_hits": 1,
     "sample_headlines": [
-     "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
-     "Samsung Wallet Taps Solana for USDC Transfers on 82M US Galaxy Devices",
-     "Tether Signs Deal With Kazakhstan's Central Bank to Explore a Stablecoin and Tokenized Assets"
+     "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand"
     ],
     "market_avg_7d_pct": null,
-    "sources_confirming": 2
+    "sources_confirming": 1
    },
    "member_repos": [
     {
@@ -253,92 +334,6 @@
      "full_name": "thanhhau15112000-dev/NexusWallet",
      "stars_per_day": 0.05,
      "url": "https://github.com/thanhhau15112000-dev/NexusWallet"
-    }
-   ]
-  },
-  {
-   "narrative": "RWA & Tokenization",
-   "score": 26.5,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 7,
-    "github_top_velocity": 2.52,
-    "headline_hits": 3,
-    "sample_headlines": [
-     "Tether Signs Deal With Kazakhstan's Central Bank to Explore a Stablecoin and Tokenized Assets",
-     "Winners and losers of the SEC\u2019s new tokenized stocks rules",
-     "Kraken brings DeFi yield to tokenized stocks and ETFs"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "2274802010922/pipicachu",
-     "stars_per_day": 1.5,
-     "url": "https://github.com/2274802010922/pipicachu"
-    },
-    {
-     "full_name": "vectorix-cross/CrossYield",
-     "stars_per_day": 0.62,
-     "url": "https://github.com/vectorix-cross/CrossYield"
-    },
-    {
-     "full_name": "Zyxel89/owncurve",
-     "stars_per_day": 0.25,
-     "url": "https://github.com/Zyxel89/owncurve"
-    },
-    {
-     "full_name": "thesithunyein/owed",
-     "stars_per_day": 0.06,
-     "url": "https://github.com/thesithunyein/owed"
-    },
-    {
-     "full_name": "keelwright/slipway",
-     "stars_per_day": 0.04,
-     "url": "https://github.com/keelwright/slipway"
-    }
-   ]
-  },
-  {
-   "narrative": "Consumer & Social",
-   "score": 20.6,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 6,
-    "github_top_velocity": 12.56,
-    "headline_hits": 1,
-    "sample_headlines": [
-     "AI Video Game Mod Mashups Are Taking Off\u2014Here Are the Wackiest Examples"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "xmaxco/exlipse",
-     "stars_per_day": 9.0,
-     "url": "https://github.com/xmaxco/exlipse"
-    },
-    {
-     "full_name": "uni-launch/solana-token-creator",
-     "stars_per_day": 2.21,
-     "url": "https://github.com/uni-launch/solana-token-creator"
-    },
-    {
-     "full_name": "vectorix-cross/My-web3-projects",
-     "stars_per_day": 0.62,
-     "url": "https://github.com/vectorix-cross/My-web3-projects"
-    },
-    {
-     "full_name": "livid/exe-hub",
-     "stars_per_day": 0.36,
-     "url": "https://github.com/livid/exe-hub"
-    },
-    {
-     "full_name": "blueshift-gg/solana-awesome",
-     "stars_per_day": 0.29,
-     "url": "https://github.com/blueshift-gg/solana-awesome"
     }
    ]
   }

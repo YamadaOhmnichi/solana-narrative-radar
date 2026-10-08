@@ -1,13 +1,55 @@
 {
- "generated_at": "2026-10-08T06:39:20+00:00",
+ "generated_at": "2026-10-08T12:40:08+00:00",
  "narratives": [
   {
+   "narrative": "Wallets & UX",
+   "score": 229.6,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 20,
+    "github_top_velocity": 221.61,
+    "headline_hits": 1,
+    "sample_headlines": [
+     "Samsung Wallet Taps Solana for USDC Transfers on 82M US Galaxy Devices"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "h100envy/gem-search",
+     "stars_per_day": 92.5,
+     "url": "https://github.com/h100envy/gem-search"
+    },
+    {
+     "full_name": "Janina21/Crypto-Checker",
+     "stars_per_day": 79.0,
+     "url": "https://github.com/Janina21/Crypto-Checker"
+    },
+    {
+     "full_name": "NuvexNetwork/nuvex",
+     "stars_per_day": 32.8,
+     "url": "https://github.com/NuvexNetwork/nuvex"
+    },
+    {
+     "full_name": "thaorivera/crypto-wallet-generator-cracker",
+     "stars_per_day": 5.33,
+     "url": "https://github.com/thaorivera/crypto-wallet-generator-cracker"
+    },
+    {
+     "full_name": "openarbmev/Openarb-Trade-SDK",
+     "stars_per_day": 3.11,
+     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
+    }
+   ]
+  },
+  {
    "narrative": "DeFi / Trading Infra",
-   "score": 157.3,
+   "score": 155.2,
    "confidence": "High",
    "evidence": {
-    "github_repos": 56,
-    "github_top_velocity": 141.34,
+    "github_repos": 55,
+    "github_top_velocity": 139.25,
     "headline_hits": 2,
     "sample_headlines": [
      "S&P Global brings risk assessments to growing crypto lending vault sector",
@@ -19,12 +61,12 @@
    "member_repos": [
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 91.5,
+     "stars_per_day": 92.5,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 24.43,
+     "stars_per_day": 21.38,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
@@ -39,34 +81,34 @@
     },
     {
      "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 3.07,
+     "stars_per_day": 3.11,
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
     }
    ]
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 156.7,
+   "score": 153.3,
    "confidence": "High",
    "evidence": {
-    "github_repos": 13,
-    "github_top_velocity": 129.38,
+    "github_repos": 12,
+    "github_top_velocity": 129.66,
     "headline_hits": 1,
     "sample_headlines": [
      "Fomo overtakes Pump.fun in daily revenue on Solana"
     ],
-    "market_avg_7d_pct": -9.65,
+    "market_avg_7d_pct": -7.81,
     "sources_confirming": 2
    },
    "member_repos": [
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 91.5,
+     "stars_per_day": 92.5,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
      "full_name": "nhovongoc0-max/meme-radar",
-     "stars_per_day": 19.15,
+     "stars_per_day": 18.48,
      "url": "https://github.com/nhovongoc0-max/meme-radar"
     },
     {
@@ -75,109 +117,29 @@
      "url": "https://github.com/xmaxco/exlipse"
     },
     {
-     "full_name": "dartkomnitibe/solana-meme-tool",
-     "stars_per_day": 2.62,
-     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
-    },
-    {
      "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
      "stars_per_day": 2.58,
      "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
-    }
-   ]
-  },
-  {
-   "narrative": "Wallets & UX",
-   "score": 141.4,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 19,
-    "github_top_velocity": 141.42,
-    "headline_hits": 0,
-    "sample_headlines": [],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "h100envy/gem-search",
-     "stars_per_day": 91.5,
-     "url": "https://github.com/h100envy/gem-search"
-    },
-    {
-     "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 32.4,
-     "url": "https://github.com/NuvexNetwork/nuvex"
-    },
-    {
-     "full_name": "thaorivera/crypto-wallet-generator-cracker",
-     "stars_per_day": 5.33,
-     "url": "https://github.com/thaorivera/crypto-wallet-generator-cracker"
-    },
-    {
-     "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 3.07,
-     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
     },
     {
      "full_name": "dartkomnitibe/solana-meme-tool",
-     "stars_per_day": 2.62,
+     "stars_per_day": 2.57,
      "url": "https://github.com/dartkomnitibe/solana-meme-tool"
-    }
-   ]
-  },
-  {
-   "narrative": "Dev Tooling & Infra",
-   "score": 67.6,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 42,
-    "github_top_velocity": 67.63,
-    "headline_hits": 0,
-    "sample_headlines": [],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 32.4,
-     "url": "https://github.com/NuvexNetwork/nuvex"
-    },
-    {
-     "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 24.43,
-     "url": "https://github.com/NuvexNetwork/nuvex-services"
-    },
-    {
-     "full_name": "propavingk/SlotDrift",
-     "stars_per_day": 3.76,
-     "url": "https://github.com/propavingk/SlotDrift"
-    },
-    {
-     "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 3.07,
-     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
-    },
-    {
-     "full_name": "2274802010922/pipicachu",
-     "stars_per_day": 2.0,
-     "url": "https://github.com/2274802010922/pipicachu"
     }
    ]
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 63.1,
+   "score": 75.9,
    "confidence": "High",
    "evidence": {
     "github_repos": 19,
-    "github_top_velocity": 31.15,
-    "headline_hits": 4,
+    "github_top_velocity": 27.9,
+    "headline_hits": 6,
     "sample_headlines": [
      "Capital starting to rotate back to crypto from AI: Raoul Pal",
-     "OpenAI Says a Secret AI Model Cracked Hundreds of Open Math Problems in One Prompt\u2014Mathematicians Want Receipts",
-     "Ethereum Researcher Says AI May Break Encryption Before Quantum Does"
+     "AI Video Game Mod Mashups Are Taking Off\u2014Here Are the Wackiest Examples",
+     "Morning Minute: Ethereum Researcher Says AI May Break Crypto Encryption Before Quantum"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -185,7 +147,7 @@
    "member_repos": [
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 24.43,
+     "stars_per_day": 21.38,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
@@ -211,17 +173,57 @@
    ]
   },
   {
-   "narrative": "RWA & Tokenization",
+   "narrative": "Dev Tooling & Infra",
+   "score": 64.3,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 42,
+    "github_top_velocity": 64.33,
+    "headline_hits": 0,
+    "sample_headlines": [],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "NuvexNetwork/nuvex",
+     "stars_per_day": 32.8,
+     "url": "https://github.com/NuvexNetwork/nuvex"
+    },
+    {
+     "full_name": "NuvexNetwork/nuvex-services",
+     "stars_per_day": 21.38,
+     "url": "https://github.com/NuvexNetwork/nuvex-services"
+    },
+    {
+     "full_name": "propavingk/SlotDrift",
+     "stars_per_day": 3.56,
+     "url": "https://github.com/propavingk/SlotDrift"
+    },
+    {
+     "full_name": "openarbmev/Openarb-Trade-SDK",
+     "stars_per_day": 3.11,
+     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
+    },
+    {
+     "full_name": "2274802010922/pipicachu",
+     "stars_per_day": 1.5,
+     "url": "https://github.com/2274802010922/pipicachu"
+    }
+   ]
+  },
+  {
+   "narrative": "Payments & Stablecoins",
    "score": 27.0,
    "confidence": "High",
    "evidence": {
-    "github_repos": 7,
+    "github_repos": 8,
     "github_top_velocity": 3.02,
     "headline_hits": 3,
     "sample_headlines": [
-     "Tether Signs Deal With Kazakhstan's Central Bank to Explore a Stablecoin and Tokenized Assets",
-     "Winners and losers of the SEC\u2019s new tokenized stocks rules",
-     "Kraken brings DeFi yield to tokenized stocks and ETFs"
+     "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
+     "Samsung Wallet Taps Solana for USDC Transfers on 82M US Galaxy Devices",
+     "Tether Signs Deal With Kazakhstan's Central Bank to Explore a Stablecoin and Tokenized Assets"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -229,7 +231,51 @@
    "member_repos": [
     {
      "full_name": "2274802010922/pipicachu",
-     "stars_per_day": 2.0,
+     "stars_per_day": 1.5,
+     "url": "https://github.com/2274802010922/pipicachu"
+    },
+    {
+     "full_name": "blueshift-gg/solana-pull-program",
+     "stars_per_day": 0.86,
+     "url": "https://github.com/blueshift-gg/solana-pull-program"
+    },
+    {
+     "full_name": "2274802010922/picachu__",
+     "stars_per_day": 0.42,
+     "url": "https://github.com/2274802010922/picachu__"
+    },
+    {
+     "full_name": "nirholas/onchain-agent-wallets",
+     "stars_per_day": 0.12,
+     "url": "https://github.com/nirholas/onchain-agent-wallets"
+    },
+    {
+     "full_name": "thanhhau15112000-dev/NexusWallet",
+     "stars_per_day": 0.05,
+     "url": "https://github.com/thanhhau15112000-dev/NexusWallet"
+    }
+   ]
+  },
+  {
+   "narrative": "RWA & Tokenization",
+   "score": 26.5,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 7,
+    "github_top_velocity": 2.52,
+    "headline_hits": 3,
+    "sample_headlines": [
+     "Tether Signs Deal With Kazakhstan's Central Bank to Explore a Stablecoin and Tokenized Assets",
+     "Winners and losers of the SEC\u2019s new tokenized stocks rules",
+     "Kraken brings DeFi yield to tokenized stocks and ETFs"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "2274802010922/pipicachu",
+     "stars_per_day": 1.5,
      "url": "https://github.com/2274802010922/pipicachu"
     },
     {
@@ -260,10 +306,10 @@
    "confidence": "Medium",
    "evidence": {
     "github_repos": 6,
-    "github_top_velocity": 12.55,
+    "github_top_velocity": 12.56,
     "headline_hits": 1,
     "sample_headlines": [
-     "Google Lets You Build a Video Game by Typing a Description"
+     "AI Video Game Mod Mashups Are Taking Off\u2014Here Are the Wackiest Examples"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 1
@@ -286,56 +332,13 @@
     },
     {
      "full_name": "livid/exe-hub",
-     "stars_per_day": 0.34,
+     "stars_per_day": 0.36,
      "url": "https://github.com/livid/exe-hub"
     },
     {
      "full_name": "blueshift-gg/solana-awesome",
-     "stars_per_day": 0.3,
+     "stars_per_day": 0.29,
      "url": "https://github.com/blueshift-gg/solana-awesome"
-    }
-   ]
-  },
-  {
-   "narrative": "Payments & Stablecoins",
-   "score": 19.7,
-   "confidence": "High",
-   "evidence": {
-    "github_repos": 8,
-    "github_top_velocity": 3.66,
-    "headline_hits": 2,
-    "sample_headlines": [
-     "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
-     "Tether Signs Deal With Kazakhstan's Central Bank to Explore a Stablecoin and Tokenized Assets"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 2
-   },
-   "member_repos": [
-    {
-     "full_name": "2274802010922/pipicachu",
-     "stars_per_day": 2.0,
-     "url": "https://github.com/2274802010922/pipicachu"
-    },
-    {
-     "full_name": "blueshift-gg/solana-pull-program",
-     "stars_per_day": 1.0,
-     "url": "https://github.com/blueshift-gg/solana-pull-program"
-    },
-    {
-     "full_name": "2274802010922/picachu__",
-     "stars_per_day": 0.42,
-     "url": "https://github.com/2274802010922/picachu__"
-    },
-    {
-     "full_name": "nirholas/onchain-agent-wallets",
-     "stars_per_day": 0.12,
-     "url": "https://github.com/nirholas/onchain-agent-wallets"
-    },
-    {
-     "full_name": "thanhhau15112000-dev/NexusWallet",
-     "stars_per_day": 0.05,
-     "url": "https://github.com/thanhhau15112000-dev/NexusWallet"
     }
    ]
   }

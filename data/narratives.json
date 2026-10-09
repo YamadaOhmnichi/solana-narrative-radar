@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-09T06:39:19+00:00",
+ "generated_at": "2026-10-09T12:36:54+00:00",
  "narratives": [
   {
    "narrative": "Wallets & UX",
-   "score": 148.9,
+   "score": 149.0,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 21,
-    "github_top_velocity": 148.88,
+    "github_top_velocity": 149.01,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -26,7 +26,7 @@
     },
     {
      "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 28.0,
+     "stars_per_day": 28.17,
      "url": "https://github.com/NuvexNetwork/nuvex"
     },
     {
@@ -43,11 +43,11 @@
   },
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 134.3,
+   "score": 127.5,
    "confidence": "High",
    "evidence": {
     "github_repos": 56,
-    "github_top_velocity": 110.33,
+    "github_top_velocity": 103.48,
     "headline_hits": 3,
     "sample_headlines": [
      "Solana DeFi Firms Orca and Loopscale Merge Under New Formation Brand",
@@ -65,12 +65,12 @@
     },
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 21.62,
+     "stars_per_day": 19.33,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
      "full_name": "xmaxco/exlipse",
-     "stars_per_day": 9.0,
+     "stars_per_day": 4.5,
      "url": "https://github.com/xmaxco/exlipse"
     },
     {
@@ -87,14 +87,14 @@
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 125.9,
+   "score": 120.8,
    "confidence": "High",
    "evidence": {
     "github_repos": 11,
-    "github_top_velocity": 101.5,
+    "github_top_velocity": 96.45,
     "headline_hits": 0,
     "sample_headlines": [],
-    "market_avg_7d_pct": -12.21,
+    "market_avg_7d_pct": -12.18,
     "sources_confirming": 2
    },
    "member_repos": [
@@ -105,12 +105,12 @@
     },
     {
      "full_name": "nhovongoc0-max/meme-radar",
-     "stars_per_day": 19.19,
+     "stars_per_day": 18.68,
      "url": "https://github.com/nhovongoc0-max/meme-radar"
     },
     {
      "full_name": "xmaxco/exlipse",
-     "stars_per_day": 9.0,
+     "stars_per_day": 4.5,
      "url": "https://github.com/xmaxco/exlipse"
     },
     {
@@ -119,19 +119,19 @@
      "url": "https://github.com/BordrlessDex/bordrless-programs"
     },
     {
-     "full_name": "dartkomnitibe/solana-meme-tool",
-     "stars_per_day": 2.57,
-     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
+     "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
+     "stars_per_day": 2.54,
+     "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
     }
    ]
   },
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 59.3,
+   "score": 56.7,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 43,
-    "github_top_velocity": 59.31,
+    "github_repos": 42,
+    "github_top_velocity": 56.68,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -140,17 +140,17 @@
    "member_repos": [
     {
      "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 28.0,
+     "stars_per_day": 28.17,
      "url": "https://github.com/NuvexNetwork/nuvex"
     },
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 21.62,
+     "stars_per_day": 19.33,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
      "full_name": "propavingk/SlotDrift",
-     "stars_per_day": 3.56,
+     "stars_per_day": 3.37,
      "url": "https://github.com/propavingk/SlotDrift"
     },
     {
@@ -160,18 +160,18 @@
     },
     {
      "full_name": "2274802010922/pipicachu",
-     "stars_per_day": 1.5,
+     "stars_per_day": 1.2,
      "url": "https://github.com/2274802010922/pipicachu"
     }
    ]
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 52.7,
+   "score": 50.4,
    "confidence": "High",
    "evidence": {
     "github_repos": 20,
-    "github_top_velocity": 28.72,
+    "github_top_velocity": 26.42,
     "headline_hits": 3,
     "sample_headlines": [
      "Capital starting to rotate back to crypto from AI: Raoul Pal",
@@ -184,7 +184,7 @@
    "member_repos": [
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 21.62,
+     "stars_per_day": 19.33,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
@@ -211,14 +211,13 @@
   },
   {
    "narrative": "RWA & Tokenization",
-   "score": 26.4,
+   "score": 18.1,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 7,
-    "github_top_velocity": 2.45,
-    "headline_hits": 3,
+    "github_top_velocity": 2.15,
+    "headline_hits": 2,
     "sample_headlines": [
-     "Securitize Brings Nvidia, Apple and Amazon Onchain With Tokenized Stocks on Solana",
      "Winners and losers of the SEC\u2019s new tokenized stocks rules",
      "Kraken brings DeFi yield to tokenized stocks and ETFs"
     ],
@@ -228,7 +227,7 @@
    "member_repos": [
     {
      "full_name": "2274802010922/pipicachu",
-     "stars_per_day": 1.5,
+     "stars_per_day": 1.2,
      "url": "https://github.com/2274802010922/pipicachu"
     },
     {
@@ -254,12 +253,54 @@
    ]
   },
   {
+   "narrative": "Payments & Stablecoins",
+   "score": 10.6,
+   "confidence": "Low",
+   "evidence": {
+    "github_repos": 9,
+    "github_top_velocity": 2.64,
+    "headline_hits": 1,
+    "sample_headlines": [
+     "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 0
+   },
+   "member_repos": [
+    {
+     "full_name": "2274802010922/pipicachu",
+     "stars_per_day": 1.2,
+     "url": "https://github.com/2274802010922/pipicachu"
+    },
+    {
+     "full_name": "blueshift-gg/solana-pull-program",
+     "stars_per_day": 0.75,
+     "url": "https://github.com/blueshift-gg/solana-pull-program"
+    },
+    {
+     "full_name": "2274802010922/picachu__",
+     "stars_per_day": 0.38,
+     "url": "https://github.com/2274802010922/picachu__"
+    },
+    {
+     "full_name": "nirholas/onchain-agent-wallets",
+     "stars_per_day": 0.12,
+     "url": "https://github.com/nirholas/onchain-agent-wallets"
+    },
+    {
+     "full_name": "Tdat10052499/Unihackfest-2026",
+     "stars_per_day": 0.07,
+     "url": "https://github.com/Tdat10052499/Unihackfest-2026"
+    }
+   ]
+  },
+  {
    "narrative": "Consumer & Social",
-   "score": 12.4,
+   "score": 7.9,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 6,
-    "github_top_velocity": 12.4,
+    "github_top_velocity": 7.88,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -268,7 +309,7 @@
    "member_repos": [
     {
      "full_name": "xmaxco/exlipse",
-     "stars_per_day": 9.0,
+     "stars_per_day": 4.5,
      "url": "https://github.com/xmaxco/exlipse"
     },
     {
@@ -283,55 +324,13 @@
     },
     {
      "full_name": "livid/exe-hub",
-     "stars_per_day": 0.36,
+     "stars_per_day": 0.35,
      "url": "https://github.com/livid/exe-hub"
     },
     {
      "full_name": "blueshift-gg/solana-awesome",
-     "stars_per_day": 0.29,
+     "stars_per_day": 0.28,
      "url": "https://github.com/blueshift-gg/solana-awesome"
-    }
-   ]
-  },
-  {
-   "narrative": "Payments & Stablecoins",
-   "score": 11.0,
-   "confidence": "Low",
-   "evidence": {
-    "github_repos": 8,
-    "github_top_velocity": 2.98,
-    "headline_hits": 1,
-    "sample_headlines": [
-     "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 0
-   },
-   "member_repos": [
-    {
-     "full_name": "2274802010922/pipicachu",
-     "stars_per_day": 1.5,
-     "url": "https://github.com/2274802010922/pipicachu"
-    },
-    {
-     "full_name": "blueshift-gg/solana-pull-program",
-     "stars_per_day": 0.86,
-     "url": "https://github.com/blueshift-gg/solana-pull-program"
-    },
-    {
-     "full_name": "2274802010922/picachu__",
-     "stars_per_day": 0.38,
-     "url": "https://github.com/2274802010922/picachu__"
-    },
-    {
-     "full_name": "nirholas/onchain-agent-wallets",
-     "stars_per_day": 0.12,
-     "url": "https://github.com/nirholas/onchain-agent-wallets"
-    },
-    {
-     "full_name": "thanhhau15112000-dev/NexusWallet",
-     "stars_per_day": 0.05,
-     "url": "https://github.com/thanhhau15112000-dev/NexusWallet"
     }
    ]
   }

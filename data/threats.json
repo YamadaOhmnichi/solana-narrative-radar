@@ -3,10 +3,10 @@
   "full_name": "pearlgriffin2021/Solana-Drainer-Tool",
   "url": "https://github.com/pearlgriffin2021/Solana-Drainer-Tool",
   "description": "Solana Drainer Tool \u2014 Automated SOL and SPL token drainer for Solana wallets with real-time balance monitoring, multi-wallet sweeping, Phantom/Backpack/Solflare compatibility, and stealth transaction ",
-  "stars": 40,
+  "stars": 41,
   "created": "2026-10-07T14:31:37Z",
   "language": "Python",
-  "stars_per_day": 40.0,
+  "stars_per_day": 41.0,
   "age_days": 1,
   "topics": [
    "auto-withdraw-bot",
@@ -27,8 +27,8 @@
   "stars": 1235,
   "created": "2026-08-28T08:07:10Z",
   "language": "CSS",
-  "stars_per_day": 30.12,
-  "age_days": 41,
+  "stars_per_day": 29.4,
+  "age_days": 42,
   "topics": [
    "blockchain-integration",
    "cryptocoins",

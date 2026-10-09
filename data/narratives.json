@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-09T00:44:32+00:00",
+ "generated_at": "2026-10-09T06:39:19+00:00",
  "narratives": [
   {
    "narrative": "Wallets & UX",
-   "score": 148.0,
+   "score": 148.9,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 21,
-    "github_top_velocity": 148.04,
+    "github_top_velocity": 148.88,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -16,7 +16,7 @@
    "member_repos": [
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 62.33,
+     "stars_per_day": 63.0,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
@@ -26,7 +26,7 @@
     },
     {
      "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 27.83,
+     "stars_per_day": 28.0,
      "url": "https://github.com/NuvexNetwork/nuvex"
     },
     {
@@ -43,11 +43,11 @@
   },
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 132.8,
+   "score": 134.3,
    "confidence": "High",
    "evidence": {
     "github_repos": 56,
-    "github_top_velocity": 108.79,
+    "github_top_velocity": 110.33,
     "headline_hits": 3,
     "sample_headlines": [
      "Solana DeFi Firms Orca and Loopscale Merge Under New Formation Brand",
@@ -60,12 +60,12 @@
    "member_repos": [
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 62.33,
+     "stars_per_day": 63.0,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 21.5,
+     "stars_per_day": 21.62,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
@@ -87,25 +87,25 @@
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 120.5,
+   "score": 125.9,
    "confidence": "High",
    "evidence": {
     "github_repos": 11,
-    "github_top_velocity": 99.6,
+    "github_top_velocity": 101.5,
     "headline_hits": 0,
     "sample_headlines": [],
-    "market_avg_7d_pct": -10.44,
+    "market_avg_7d_pct": -12.21,
     "sources_confirming": 2
    },
    "member_repos": [
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 62.33,
+     "stars_per_day": 63.0,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
      "full_name": "nhovongoc0-max/meme-radar",
-     "stars_per_day": 18.96,
+     "stars_per_day": 19.19,
      "url": "https://github.com/nhovongoc0-max/meme-radar"
     },
     {
@@ -114,24 +114,24 @@
      "url": "https://github.com/xmaxco/exlipse"
     },
     {
+     "full_name": "BordrlessDex/bordrless-programs",
+     "stars_per_day": 3.0,
+     "url": "https://github.com/BordrlessDex/bordrless-programs"
+    },
+    {
      "full_name": "dartkomnitibe/solana-meme-tool",
      "stars_per_day": 2.57,
      "url": "https://github.com/dartkomnitibe/solana-meme-tool"
-    },
-    {
-     "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
-     "stars_per_day": 2.54,
-     "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
     }
    ]
   },
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 59.2,
+   "score": 59.3,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 43,
-    "github_top_velocity": 59.19,
+    "github_top_velocity": 59.31,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -140,12 +140,12 @@
    "member_repos": [
     {
      "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 27.83,
+     "stars_per_day": 28.0,
      "url": "https://github.com/NuvexNetwork/nuvex"
     },
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 21.5,
+     "stars_per_day": 21.62,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
@@ -167,11 +167,11 @@
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 52.6,
+   "score": 52.7,
    "confidence": "High",
    "evidence": {
     "github_repos": 20,
-    "github_top_velocity": 28.61,
+    "github_top_velocity": 28.72,
     "headline_hits": 3,
     "sample_headlines": [
      "Capital starting to rotate back to crypto from AI: Raoul Pal",
@@ -184,7 +184,7 @@
    "member_repos": [
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 21.5,
+     "stars_per_day": 21.62,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
@@ -296,16 +296,16 @@
   {
    "narrative": "Payments & Stablecoins",
    "score": 11.0,
-   "confidence": "Medium",
+   "confidence": "Low",
    "evidence": {
     "github_repos": 8,
-    "github_top_velocity": 3.02,
+    "github_top_velocity": 2.98,
     "headline_hits": 1,
     "sample_headlines": [
      "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand"
     ],
     "market_avg_7d_pct": null,
-    "sources_confirming": 1
+    "sources_confirming": 0
    },
    "member_repos": [
     {
@@ -320,7 +320,7 @@
     },
     {
      "full_name": "2274802010922/picachu__",
-     "stars_per_day": 0.42,
+     "stars_per_day": 0.38,
      "url": "https://github.com/2274802010922/picachu__"
     },
     {

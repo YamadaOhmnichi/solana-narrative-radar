@@ -1,26 +1,5 @@
 [
  {
-  "full_name": "pearlgriffin2021/Solana-Drainer-Tool",
-  "url": "https://github.com/pearlgriffin2021/Solana-Drainer-Tool",
-  "description": "Solana Drainer Tool \u2014 Automated SOL and SPL token drainer for Solana wallets with real-time balance monitoring, multi-wallet sweeping, Phantom/Backpack/Solflare compatibility, and stealth transaction ",
-  "stars": 41,
-  "created": "2026-10-07T14:31:37Z",
-  "language": "Python",
-  "stars_per_day": 41.0,
-  "age_days": 1,
-  "topics": [
-   "auto-withdraw-bot",
-   "drain-bot",
-   "ethereum",
-   "private-key-manager",
-   "solana-payout-api",
-   "solana-trading-platform",
-   "sushiswap-pool-drain-tool",
-   "sushiswap-pool-drainer-2025"
-  ],
-  "flag": "malware-pattern"
- },
- {
   "full_name": "MetaMask-AI/metamask-desktop",
   "url": "https://github.com/MetaMask-AI/metamask-desktop",
   "description": "Metamask Desktop client and Web3 dApp browser for Windows, macOS, and Linux. Built with EVM and Solana support.",
@@ -40,5 +19,26 @@
    "electron-app"
   ],
   "flag": "brand-impersonation"
+ },
+ {
+  "full_name": "pearlgriffin2021/Solana-Drainer-Tool",
+  "url": "https://github.com/pearlgriffin2021/Solana-Drainer-Tool",
+  "description": "Solana Drainer Tool \u2014 Automated SOL and SPL token drainer for Solana wallets with real-time balance monitoring, multi-wallet sweeping, Phantom/Backpack/Solflare compatibility, and stealth transaction ",
+  "stars": 41,
+  "created": "2026-10-07T14:31:37Z",
+  "language": "Python",
+  "stars_per_day": 20.5,
+  "age_days": 2,
+  "topics": [
+   "auto-withdraw-bot",
+   "drain-bot",
+   "ethereum",
+   "private-key-manager",
+   "solana-payout-api",
+   "solana-trading-platform",
+   "sushiswap-pool-drain-tool",
+   "sushiswap-pool-drainer-2025"
+  ],
+  "flag": "malware-pattern"
  }
 ]

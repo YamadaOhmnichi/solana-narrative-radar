@@ -1,32 +1,34 @@
 {
- "generated_at": "2026-10-09T12:36:54+00:00",
+ "generated_at": "2026-10-09T18:34:32+00:00",
  "narratives": [
   {
    "narrative": "Wallets & UX",
-   "score": 149.0,
+   "score": 123.4,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 21,
-    "github_top_velocity": 149.01,
-    "headline_hits": 0,
-    "sample_headlines": [],
+    "github_top_velocity": 115.37,
+    "headline_hits": 1,
+    "sample_headlines": [
+     "Ledger Probes Potential Theft of $87M in User Funds Tied to Crypto Wallet Reseller"
+    ],
     "market_avg_7d_pct": null,
     "sources_confirming": 1
    },
    "member_repos": [
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 63.0,
+     "stars_per_day": 47.5,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
      "full_name": "Janina21/Crypto-Checker",
-     "stars_per_day": 41.5,
+     "stars_per_day": 27.67,
      "url": "https://github.com/Janina21/Crypto-Checker"
     },
     {
      "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 28.17,
+     "stars_per_day": 24.14,
      "url": "https://github.com/NuvexNetwork/nuvex"
     },
     {
@@ -36,21 +38,20 @@
     },
     {
      "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 3.0,
+     "stars_per_day": 2.9,
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
     }
    ]
   },
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 127.5,
+   "score": 103.7,
    "confidence": "High",
    "evidence": {
     "github_repos": 56,
-    "github_top_velocity": 103.48,
-    "headline_hits": 3,
+    "github_top_velocity": 87.73,
+    "headline_hits": 2,
     "sample_headlines": [
-     "Solana DeFi Firms Orca and Loopscale Merge Under New Formation Brand",
      "S&P Global brings risk assessments to growing crypto lending vault sector",
      "Kraken brings DeFi yield to tokenized stocks and ETFs"
     ],
@@ -60,12 +61,12 @@
    "member_repos": [
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 63.0,
+     "stars_per_day": 47.5,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 19.33,
+     "stars_per_day": 19.44,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
@@ -75,37 +76,37 @@
     },
     {
      "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 3.3,
+     "stars_per_day": 3.09,
      "url": "https://github.com/recogardtech/AutoPilotPM"
     },
     {
-     "full_name": "openarbmev/Openarb-Trade-SDK",
+     "full_name": "BordrlessDex/bordrless-programs",
      "stars_per_day": 3.0,
-     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
+     "url": "https://github.com/BordrlessDex/bordrless-programs"
     }
    ]
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 120.8,
+   "score": 103.5,
    "confidence": "High",
    "evidence": {
     "github_repos": 11,
-    "github_top_velocity": 96.45,
+    "github_top_velocity": 80.91,
     "headline_hits": 0,
     "sample_headlines": [],
-    "market_avg_7d_pct": -12.18,
+    "market_avg_7d_pct": -11.3,
     "sources_confirming": 2
    },
    "member_repos": [
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 63.0,
+     "stars_per_day": 47.5,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
      "full_name": "nhovongoc0-max/meme-radar",
-     "stars_per_day": 18.68,
+     "stars_per_day": 18.71,
      "url": "https://github.com/nhovongoc0-max/meme-radar"
     },
     {
@@ -119,19 +120,19 @@
      "url": "https://github.com/BordrlessDex/bordrless-programs"
     },
     {
-     "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
-     "stars_per_day": 2.54,
-     "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
+     "full_name": "dartkomnitibe/solana-meme-tool",
+     "stars_per_day": 2.53,
+     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
     }
    ]
   },
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 56.7,
+   "score": 52.7,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 42,
-    "github_top_velocity": 56.68,
+    "github_top_velocity": 52.7,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -140,12 +141,12 @@
    "member_repos": [
     {
      "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 28.17,
+     "stars_per_day": 24.14,
      "url": "https://github.com/NuvexNetwork/nuvex"
     },
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 19.33,
+     "stars_per_day": 19.44,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
@@ -155,7 +156,7 @@
     },
     {
      "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 3.0,
+     "stars_per_day": 2.9,
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
     },
     {
@@ -167,16 +168,15 @@
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 50.4,
+   "score": 42.3,
    "confidence": "High",
    "evidence": {
     "github_repos": 20,
-    "github_top_velocity": 26.42,
-    "headline_hits": 3,
+    "github_top_velocity": 26.32,
+    "headline_hits": 2,
     "sample_headlines": [
      "Capital starting to rotate back to crypto from AI: Raoul Pal",
-     "AI Startup Manus Raises $500 Million After China Nixed Meta\u2019s $2 Billion Acquisition",
-     "Will AI Break Crypto Encryption? Ethereum\u2019s Vitalik Buterin Weighs In on 'Bunker Mode' Shift"
+     "AI Startup Manus Raises $500 Million After China Nixed Meta\u2019s $2 Billion Acquisition"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -184,12 +184,12 @@
    "member_repos": [
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 19.33,
+     "stars_per_day": 19.44,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
      "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 3.3,
+     "stars_per_day": 3.09,
      "url": "https://github.com/recogardtech/AutoPilotPM"
     },
     {
@@ -214,8 +214,8 @@
    "score": 18.1,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 7,
-    "github_top_velocity": 2.15,
+    "github_repos": 6,
+    "github_top_velocity": 2.07,
     "headline_hits": 2,
     "sample_headlines": [
      "Winners and losers of the SEC\u2019s new tokenized stocks rules",
@@ -232,12 +232,12 @@
     },
     {
      "full_name": "vectorix-cross/CrossYield",
-     "stars_per_day": 0.6,
+     "stars_per_day": 0.58,
      "url": "https://github.com/vectorix-cross/CrossYield"
     },
     {
      "full_name": "Zyxel89/owncurve",
-     "stars_per_day": 0.2,
+     "stars_per_day": 0.17,
      "url": "https://github.com/Zyxel89/owncurve"
     },
     {
@@ -257,8 +257,8 @@
    "score": 10.6,
    "confidence": "Low",
    "evidence": {
-    "github_repos": 9,
-    "github_top_velocity": 2.64,
+    "github_repos": 8,
+    "github_top_velocity": 2.61,
     "headline_hits": 1,
     "sample_headlines": [
      "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand"
@@ -296,11 +296,11 @@
   },
   {
    "narrative": "Consumer & Social",
-   "score": 7.9,
+   "score": 7.7,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 6,
-    "github_top_velocity": 7.88,
+    "github_top_velocity": 7.72,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -314,12 +314,12 @@
     },
     {
      "full_name": "uni-launch/solana-token-creator",
-     "stars_per_day": 2.07,
+     "stars_per_day": 1.94,
      "url": "https://github.com/uni-launch/solana-token-creator"
     },
     {
      "full_name": "vectorix-cross/My-web3-projects",
-     "stars_per_day": 0.6,
+     "stars_per_day": 0.58,
      "url": "https://github.com/vectorix-cross/My-web3-projects"
     },
     {

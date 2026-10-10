@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-10T17:21:15+00:00",
+ "generated_at": "2026-10-10T21:46:17+00:00",
  "narratives": [
   {
    "narrative": "Wallets & UX",
-   "score": 104.0,
+   "score": 103.7,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 20,
-    "github_top_velocity": 96.04,
+    "github_repos": 19,
+    "github_top_velocity": 95.74,
     "headline_hits": 1,
     "sample_headlines": [
      "Ledger Probes Potential Theft of $87M in User Funds Tied to Crypto Wallet Reseller"
@@ -18,12 +18,12 @@
    "member_repos": [
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 39.4,
+     "stars_per_day": 39.6,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
      "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 21.5,
+     "stars_per_day": 21.75,
      "url": "https://github.com/NuvexNetwork/nuvex"
     },
     {
@@ -32,24 +32,24 @@
      "url": "https://github.com/Janina21/Crypto-Checker"
     },
     {
-     "full_name": "thaorivera/crypto-wallet-generator-cracker",
-     "stars_per_day": 3.2,
-     "url": "https://github.com/thaorivera/crypto-wallet-generator-cracker"
-    },
-    {
      "full_name": "openarbmev/Openarb-Trade-SDK",
      "stars_per_day": 2.77,
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
+    },
+    {
+     "full_name": "thaorivera/crypto-wallet-generator-cracker",
+     "stars_per_day": 2.67,
+     "url": "https://github.com/thaorivera/crypto-wallet-generator-cracker"
     }
    ]
   },
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 98.3,
+   "score": 98.7,
    "confidence": "High",
    "evidence": {
-    "github_repos": 56,
-    "github_top_velocity": 74.32,
+    "github_repos": 55,
+    "github_top_velocity": 74.72,
     "headline_hits": 3,
     "sample_headlines": [
      "THORChain exec accuses Tether of temporarily freezing USDT vaults",
@@ -62,12 +62,12 @@
    "member_repos": [
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 39.4,
+     "stars_per_day": 39.6,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 17.8,
+     "stars_per_day": 18.0,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
@@ -89,20 +89,20 @@
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 84.9,
+   "score": 84.4,
    "confidence": "High",
    "evidence": {
-    "github_repos": 11,
-    "github_top_velocity": 69.2,
+    "github_repos": 12,
+    "github_top_velocity": 69.38,
     "headline_hits": 0,
     "sample_headlines": [],
-    "market_avg_7d_pct": -7.87,
+    "market_avg_7d_pct": -7.53,
     "sources_confirming": 2
    },
    "member_repos": [
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 39.4,
+     "stars_per_day": 39.6,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
@@ -129,11 +129,11 @@
   },
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 48.0,
+   "score": 48.4,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 41,
-    "github_top_velocity": 47.97,
+    "github_top_velocity": 48.38,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -142,12 +142,12 @@
    "member_repos": [
     {
      "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 21.5,
+     "stars_per_day": 21.75,
      "url": "https://github.com/NuvexNetwork/nuvex"
     },
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 17.8,
+     "stars_per_day": 18.0,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
@@ -169,11 +169,11 @@
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 47.8,
+   "score": 47.6,
    "confidence": "High",
    "evidence": {
-    "github_repos": 20,
-    "github_top_velocity": 23.81,
+    "github_repos": 18,
+    "github_top_velocity": 23.6,
     "headline_hits": 3,
     "sample_headlines": [
      "Capital starting to rotate back to crypto from AI: Raoul Pal",
@@ -186,7 +186,7 @@
    "member_repos": [
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 17.8,
+     "stars_per_day": 18.0,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
@@ -200,14 +200,14 @@
      "url": "https://github.com/PillCrew/claimchain"
     },
     {
-     "full_name": "PillCrew/PillCrew",
-     "stars_per_day": 0.71,
-     "url": "https://github.com/PillCrew/PillCrew"
-    },
-    {
      "full_name": "Parad0x-Labs/vool",
      "stars_per_day": 0.71,
      "url": "https://github.com/Parad0x-Labs/vool"
+    },
+    {
+     "full_name": "PillCrew/PillCrew",
+     "stars_per_day": 0.7,
+     "url": "https://github.com/PillCrew/PillCrew"
     }
    ]
   },
@@ -259,8 +259,8 @@
    "score": 17.8,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 6,
-    "github_top_velocity": 1.83,
+    "github_repos": 5,
+    "github_top_velocity": 1.79,
     "headline_hits": 2,
     "sample_headlines": [
      "Winners and losers of the SEC\u2019s new tokenized stocks rules",
@@ -277,7 +277,7 @@
     },
     {
      "full_name": "vectorix-cross/CrossYield",
-     "stars_per_day": 0.58,
+     "stars_per_day": 0.56,
      "url": "https://github.com/vectorix-cross/CrossYield"
     },
     {
@@ -303,7 +303,7 @@
    "confidence": "Medium",
    "evidence": {
     "github_repos": 7,
-    "github_top_velocity": 6.59,
+    "github_top_velocity": 6.57,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -322,7 +322,7 @@
     },
     {
      "full_name": "vectorix-cross/My-web3-projects",
-     "stars_per_day": 0.58,
+     "stars_per_day": 0.56,
      "url": "https://github.com/vectorix-cross/My-web3-projects"
     },
     {

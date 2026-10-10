@@ -63,6 +63,16 @@
  ],
  "decrypt": [
   {
+   "title": "OpenAI and Anthropic Are Quietly Rehearsing for the Day After an AI Catastrophe",
+   "pub": "Fri, 09 Oct 2026 19:47:01 +0000",
+   "link": "https://decrypt.co/380621/openai-anthropic-quietly-rehearsing-ai-catastrophe"
+  },
+  {
+   "title": "Senate Democrat Presses Cantor Fitzgerald on Tether Ties and Lutnick Family Profits",
+   "pub": "Fri, 09 Oct 2026 18:46:03 +0000",
+   "link": "https://decrypt.co/380619/senate-democrat-cantor-fitzgerald-tether-lutnick"
+  },
+  {
    "title": "Blockchain.com Seeks Approval for US Prediction Markets and Crypto Derivatives",
    "pub": "Fri, 09 Oct 2026 18:06:03 +0000",
    "link": "https://decrypt.co/380612/blockchain-cftc-prediction-markets-crypto-derivatives"
@@ -111,19 +121,14 @@
    "title": "Empire Market Co-Creator Sentenced to 40 Years Over $430M Dark Web Bazaar",
    "pub": "Fri, 09 Oct 2026 10:11:51 +0000",
    "link": "https://decrypt.co/380561/empire-market-co-creator-sentenced-to-40-years-over-430m-dark-web-bazaar"
-  },
-  {
-   "title": "SIM-Swap Fraudster Who Spent Stolen Crypto on Gold Grills and Dubai Trips Jailed",
-   "pub": "Fri, 09 Oct 2026 08:59:31 +0000",
-   "link": "https://decrypt.co/380554/sim-swap-fraudster-who-spent-stolen-crypto-on-gold-grills-and-dubai-trips-jailed"
-  },
-  {
-   "title": "AI Startup Manus Raises $500 Million After China Nixed Meta\u2019s $2 Billion Acquisition",
-   "pub": "Thu, 08 Oct 2026 21:46:03 +0000",
-   "link": "https://decrypt.co/380546/maus-ai-startup-raises-500m-meta-acquisition-china"
   }
  ],
  "cryptonews": [
+  {
+   "title": "THORChain exec accuses Tether of temporarily freezing USDT vaults",
+   "pub": "Fri, 09 Oct 2026 19:04:03 +0000",
+   "link": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+  },
   {
    "title": "Crypto lending rises again\u2026 but have they solved the risks?",
    "pub": "Thu, 08 Oct 2026 13:30:00 +0000",
@@ -178,11 +183,6 @@
    "title": "Kraken brings DeFi yield to tokenized stocks and ETFs",
    "pub": "Mon, 14 Sep 2026 20:54:10 +0000",
    "link": "https://cointelegraph.com/news/kraken-brings-defi-yield-to-tokenized-stocks-and-etfs?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Standard Chartered forecasts SKY rising fivefold to $0.325 by 2028",
-   "pub": "Fri, 11 Sep 2026 10:44:28 +0000",
-   "link": "https://cointelegraph.com/news/sky-value-token-holders-standard-chartered?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
   }
  ]
 }

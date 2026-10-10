@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-10T00:42:33+00:00",
+ "generated_at": "2026-10-10T06:36:11+00:00",
  "narratives": [
   {
    "narrative": "Wallets & UX",
-   "score": 123.4,
+   "score": 123.7,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 20,
-    "github_top_velocity": 115.44,
+    "github_top_velocity": 115.69,
     "headline_hits": 1,
     "sample_headlines": [
      "Ledger Probes Potential Theft of $87M in User Funds Tied to Crypto Wallet Reseller"
@@ -18,7 +18,7 @@
    "member_repos": [
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 48.25,
+     "stars_per_day": 48.5,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
@@ -45,11 +45,11 @@
   },
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 111.1,
+   "score": 111.3,
    "confidence": "High",
    "evidence": {
     "github_repos": 56,
-    "github_top_velocity": 87.1,
+    "github_top_velocity": 87.35,
     "headline_hits": 3,
     "sample_headlines": [
      "THORChain exec accuses Tether of temporarily freezing USDT vaults",
@@ -62,7 +62,7 @@
    "member_repos": [
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 48.25,
+     "stars_per_day": 48.5,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
@@ -89,25 +89,25 @@
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 93.4,
+   "score": 91.9,
    "confidence": "High",
    "evidence": {
     "github_repos": 11,
-    "github_top_velocity": 80.15,
+    "github_top_velocity": 80.47,
     "headline_hits": 0,
     "sample_headlines": [],
-    "market_avg_7d_pct": -6.64,
+    "market_avg_7d_pct": -5.71,
     "sources_confirming": 2
    },
    "member_repos": [
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 48.25,
+     "stars_per_day": 48.5,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
      "full_name": "nhovongoc0-max/meme-radar",
-     "stars_per_day": 18.75,
+     "stars_per_day": 18.82,
      "url": "https://github.com/nhovongoc0-max/meme-radar"
     },
     {
@@ -129,11 +129,11 @@
   },
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 53.6,
+   "score": 52.8,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 42,
-    "github_top_velocity": 53.62,
+    "github_top_velocity": 52.82,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -169,11 +169,11 @@
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 43.2,
+   "score": 42.3,
    "confidence": "High",
    "evidence": {
-    "github_repos": 21,
-    "github_top_velocity": 27.24,
+    "github_repos": 20,
+    "github_top_velocity": 26.34,
     "headline_hits": 2,
     "sample_headlines": [
      "Capital starting to rotate back to crypto from AI: Raoul Pal",
@@ -199,14 +199,14 @@
      "url": "https://github.com/bonnhatnguyen/solana-agent-mcp"
     },
     {
-     "full_name": "catitodev/CoorRe",
-     "stars_per_day": 1.0,
-     "url": "https://github.com/catitodev/CoorRe"
-    },
-    {
      "full_name": "PillCrew/claimchain",
      "stars_per_day": 0.73,
      "url": "https://github.com/PillCrew/claimchain"
+    },
+    {
+     "full_name": "PillCrew/PillCrew",
+     "stars_per_day": 0.71,
+     "url": "https://github.com/PillCrew/PillCrew"
     }
    ]
   },
@@ -255,17 +255,17 @@
   },
   {
    "narrative": "Payments & Stablecoins",
-   "score": 11.6,
-   "confidence": "Medium",
+   "score": 10.6,
+   "confidence": "Low",
    "evidence": {
-    "github_repos": 10,
-    "github_top_velocity": 3.64,
+    "github_repos": 9,
+    "github_top_velocity": 2.62,
     "headline_hits": 1,
     "sample_headlines": [
      "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand"
     ],
     "market_avg_7d_pct": null,
-    "sources_confirming": 1
+    "sources_confirming": 0
    },
    "member_repos": [
     {
@@ -274,24 +274,24 @@
      "url": "https://github.com/2274802010922/pipicachu"
     },
     {
-     "full_name": "catitodev/CoorRe",
-     "stars_per_day": 1.0,
-     "url": "https://github.com/catitodev/CoorRe"
-    },
-    {
      "full_name": "blueshift-gg/solana-pull-program",
      "stars_per_day": 0.75,
      "url": "https://github.com/blueshift-gg/solana-pull-program"
     },
     {
      "full_name": "2274802010922/picachu__",
-     "stars_per_day": 0.38,
+     "stars_per_day": 0.36,
      "url": "https://github.com/2274802010922/picachu__"
     },
     {
      "full_name": "nirholas/onchain-agent-wallets",
      "stars_per_day": 0.12,
      "url": "https://github.com/nirholas/onchain-agent-wallets"
+    },
+    {
+     "full_name": "Tdat10052499/Unihackfest-2026",
+     "stars_per_day": 0.07,
+     "url": "https://github.com/Tdat10052499/Unihackfest-2026"
     }
    ]
   },
@@ -332,26 +332,6 @@
      "full_name": "blueshift-gg/solana-awesome",
      "stars_per_day": 0.28,
      "url": "https://github.com/blueshift-gg/solana-awesome"
-    }
-   ]
-  },
-  {
-   "narrative": "Security & Threats",
-   "score": 1.0,
-   "confidence": "Low",
-   "evidence": {
-    "github_repos": 1,
-    "github_top_velocity": 1.0,
-    "headline_hits": 0,
-    "sample_headlines": [],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 0
-   },
-   "member_repos": [
-    {
-     "full_name": "catitodev/CoorRe",
-     "stars_per_day": 1.0,
-     "url": "https://github.com/catitodev/CoorRe"
     }
    ]
   }

@@ -3,10 +3,10 @@
   "full_name": "h100envy/gem-search",
   "url": "https://github.com/h100envy/gem-search",
   "description": "Rainbow spider that X-rays memecoins: bundles, linked wallets, dev history. Scanner, Telegram bot, live Bundle Index.",
-  "stars": 193,
+  "stars": 194,
   "created": "2026-10-05T13:12:12Z",
   "language": "Python",
-  "stars_per_day": 48.25,
+  "stars_per_day": 48.5,
   "age_days": 4,
   "topics": [
    "memecoin",
@@ -79,10 +79,10 @@
   "full_name": "nhovongoc0-max/meme-radar",
   "url": "https://github.com/nhovongoc0-max/meme-radar",
   "description": "Meme\u96f7\u8fbe\u5f00\u6e90\u7248\uff1a\u672c\u5730\u53ea\u8bfb\u3001\u591a\u94fe Meme \u5019\u9009\u626b\u63cf\u4e0e\u4eba\u5de5\u590d\u6838\u5de5\u5177",
-  "stars": 525,
+  "stars": 527,
   "created": "2026-09-11T12:14:57Z",
   "language": "JavaScript",
-  "stars_per_day": 18.75,
+  "stars_per_day": 18.82,
   "age_days": 28,
   "topics": [
    "bsc",
@@ -291,26 +291,6 @@
   "topics": []
  },
  {
-  "full_name": "HandcuffAttorney/yieldboard",
-  "url": "https://github.com/HandcuffAttorney/yieldboard",
-  "description": "yieldboard - open source utility, updated 2026-10-04",
-  "stars": 5,
-  "created": "2026-10-04T03:40:40Z",
-  "language": "C++",
-  "stars_per_day": 1.0,
-  "age_days": 5,
-  "topics": [
-   "apy",
-   "arbitrum",
-   "cpp",
-   "crypto",
-   "defi",
-   "desktop-app",
-   "ethereum",
-   "finance"
-  ]
- },
- {
   "full_name": "bonnhatnguyen/solana-agent-mcp",
   "url": "https://github.com/bonnhatnguyen/solana-agent-mcp",
   "description": "Production Model Context Protocol (MCP) Server for Solana \u2014 Wallet Ops, Jupiter v6 DEX Swaps, SPL Tokens, Jito Staking & Pre-flight Simulation",
@@ -351,26 +331,6 @@
   ]
  },
  {
-  "full_name": "catitodev/CoorRe",
-  "url": "https://github.com/catitodev/CoorRe",
-  "description": "Verifiable mandates for AI agents that approve and release payments. Escrow on Solana, a human signature above the limit, proof anyone can check.",
-  "stars": 1,
-  "created": "2026-10-08T14:13:31Z",
-  "language": "Rust",
-  "stars_per_day": 1.0,
-  "age_days": 1,
-  "topics": [
-   "ai-agents",
-   "anchor",
-   "audit-trail",
-   "escrow",
-   "rust",
-   "solana",
-   "verifiable-credentials",
-   "webassembly"
-  ]
- },
- {
   "full_name": "Subhan-code/oxygen-ui-solana",
   "url": "https://github.com/Subhan-code/oxygen-ui-solana",
   "description": "",
@@ -380,6 +340,26 @@
   "stars_per_day": 0.9,
   "age_days": 20,
   "topics": []
+ },
+ {
+  "full_name": "HandcuffAttorney/yieldboard",
+  "url": "https://github.com/HandcuffAttorney/yieldboard",
+  "description": "yieldboard - open source utility, updated 2026-10-04",
+  "stars": 5,
+  "created": "2026-10-04T03:40:40Z",
+  "language": "C++",
+  "stars_per_day": 0.83,
+  "age_days": 6,
+  "topics": [
+   "apy",
+   "arbitrum",
+   "cpp",
+   "crypto",
+   "defi",
+   "desktop-app",
+   "ethereum",
+   "finance"
+  ]
  },
  {
   "full_name": "blueshift-gg/solana-pull-program",
@@ -565,8 +545,8 @@
   "stars": 5,
   "created": "2026-09-26T03:55:36Z",
   "language": "TypeScript",
-  "stars_per_day": 0.38,
-  "age_days": 13,
+  "stars_per_day": 0.36,
+  "age_days": 14,
   "topics": [
    "defi",
    "devnet",
@@ -614,41 +594,6 @@
   ]
  },
  {
-  "full_name": "hu4927862-debug/solana-copy-lab",
-  "url": "https://github.com/hu4927862-debug/solana-copy-lab",
-  "description": "Evidence-first Solana copy-trading research: exact amounts, offline replay, paper risk and durable accounting.",
-  "stars": 1,
-  "created": "2026-10-06T04:55:46Z",
-  "language": "TypeScript",
-  "stars_per_day": 0.33,
-  "age_days": 3,
-  "topics": [
-   "copy-trading",
-   "defi",
-   "offline-first",
-   "research-tools",
-   "risk-management",
-   "solana",
-   "transaction-decoding",
-   "typescript"
-  ]
- },
- {
-  "full_name": "tickerzhq/typeshi",
-  "url": "https://github.com/tickerzhq/typeshi",
-  "description": "lock in fn. typeshi is an open-source language over Rust that compiles to Solana programs (Anchor). Made by Tickerz.",
-  "stars": 1,
-  "created": "2026-10-06T03:37:26Z",
-  "language": "Rust",
-  "stars_per_day": 0.33,
-  "age_days": 3,
-  "topics": [
-   "rust",
-   "slang-language",
-   "solana"
-  ]
- },
- {
   "full_name": "MuhKar1/zk-ballot-solana__Anchor-Light-Protocol-V2-ZK-Compression-Noir",
   "url": "https://github.com/MuhKar1/zk-ballot-solana__Anchor-Light-Protocol-V2-ZK-Compression-Noir",
   "description": "Privacy-preserving, verifiable voting on Solana. Noir circuits prove voter eligibility and one-vote-per-race without revealing identity or choice; ballots are ElGamal-encrypted and tallied via a verif",
@@ -669,6 +614,41 @@
   "stars_per_day": 0.28,
   "age_days": 46,
   "topics": []
+ },
+ {
+  "full_name": "hu4927862-debug/solana-copy-lab",
+  "url": "https://github.com/hu4927862-debug/solana-copy-lab",
+  "description": "Evidence-first Solana copy-trading research: exact amounts, offline replay, paper risk and durable accounting.",
+  "stars": 1,
+  "created": "2026-10-06T04:55:46Z",
+  "language": "TypeScript",
+  "stars_per_day": 0.25,
+  "age_days": 4,
+  "topics": [
+   "copy-trading",
+   "defi",
+   "offline-first",
+   "research-tools",
+   "risk-management",
+   "solana",
+   "transaction-decoding",
+   "typescript"
+  ]
+ },
+ {
+  "full_name": "tickerzhq/typeshi",
+  "url": "https://github.com/tickerzhq/typeshi",
+  "description": "lock in fn. typeshi is an open-source language over Rust that compiles to Solana programs (Anchor). Made by Tickerz.",
+  "stars": 1,
+  "created": "2026-10-06T03:37:26Z",
+  "language": "Rust",
+  "stars_per_day": 0.25,
+  "age_days": 4,
+  "topics": [
+   "rust",
+   "slang-language",
+   "solana"
+  ]
  },
  {
   "full_name": "Lukecele/Lukecele",
@@ -709,24 +689,6 @@
   ]
  },
  {
-  "full_name": "ChiefWoods/oracle-demo",
-  "url": "https://github.com/ChiefWoods/oracle-demo",
-  "description": "Anchor program showing how to read from common Solana price oracles.",
-  "stars": 1,
-  "created": "2026-10-04T05:55:20Z",
-  "language": "Rust",
-  "stars_per_day": 0.2,
-  "age_days": 5,
-  "topics": [
-   "anchor-lang",
-   "chainlink",
-   "pyth-network",
-   "redstone",
-   "solana",
-   "switchboard"
-  ]
- },
- {
   "full_name": "ChiefWoods/vrf-demo",
   "url": "https://github.com/ChiefWoods/vrf-demo",
   "description": "Anchor program showing how to request and consume verifiable randomness from common providers.",
@@ -762,6 +724,24 @@
    "solana",
    "sp1",
    "zero-knowledge"
+  ]
+ },
+ {
+  "full_name": "ChiefWoods/oracle-demo",
+  "url": "https://github.com/ChiefWoods/oracle-demo",
+  "description": "Anchor program showing how to read from common Solana price oracles.",
+  "stars": 1,
+  "created": "2026-10-04T05:55:20Z",
+  "language": "Rust",
+  "stars_per_day": 0.17,
+  "age_days": 6,
+  "topics": [
+   "anchor-lang",
+   "chainlink",
+   "pyth-network",
+   "redstone",
+   "solana",
+   "switchboard"
   ]
  },
  {
@@ -833,26 +813,6 @@
   ]
  },
  {
-  "full_name": "GuiBibeau/solos",
-  "url": "https://github.com/GuiBibeau/solos",
-  "description": "Solana execution layer for LLM agents. One solos binary with an MCP server inside: swaps, lending, perps, liquidity, transfers and market reads as 49 tools your agent discovers on demand. Mainnet by d",
-  "stars": 3,
-  "created": "2026-09-16T01:11:08Z",
-  "language": "JavaScript",
-  "stars_per_day": 0.13,
-  "age_days": 23,
-  "topics": [
-   "agentic-ai",
-   "ai-agents",
-   "bun",
-   "claude",
-   "claude-code",
-   "cli",
-   "codex",
-   "cursor"
-  ]
- },
- {
   "full_name": "nirholas/onchain-agent-wallets",
   "url": "https://github.com/nirholas/onchain-agent-wallets",
   "description": "Give an AI agent a real Solana wallet without giving it your money. An MCP server for spending allowances the SPL Token program enforces on-chain, with guardrails, x402 payments, and revocable custody",
@@ -902,6 +862,26 @@
   "stars_per_day": 0.12,
   "age_days": 32,
   "topics": []
+ },
+ {
+  "full_name": "GuiBibeau/solos",
+  "url": "https://github.com/GuiBibeau/solos",
+  "description": "Solana execution layer for LLM agents. One solos binary with an MCP server inside: swaps, lending, perps, liquidity, transfers and market reads as 49 tools your agent discovers on demand. Mainnet by d",
+  "stars": 3,
+  "created": "2026-09-16T01:11:08Z",
+  "language": "JavaScript",
+  "stars_per_day": 0.12,
+  "age_days": 24,
+  "topics": [
+   "agentic-ai",
+   "ai-agents",
+   "bun",
+   "claude",
+   "claude-code",
+   "cli",
+   "codex",
+   "cursor"
+  ]
  },
  {
   "full_name": "Rishi713144/sol-counter-program",
@@ -961,8 +941,8 @@
   "stars": 2,
   "created": "2026-09-18T01:27:17Z",
   "language": "HTML",
-  "stars_per_day": 0.1,
-  "age_days": 21,
+  "stars_per_day": 0.09,
+  "age_days": 22,
   "topics": [
    "ai",
    "colosseum",
@@ -1031,7 +1011,7 @@
   "created": "2026-09-11T05:58:51Z",
   "language": "TypeScript",
   "stars_per_day": 0.07,
-  "age_days": 28,
+  "age_days": 29,
   "topics": [
    "anchor",
    "blockchain",
@@ -1064,26 +1044,6 @@
   "stars_per_day": 0.07,
   "age_days": 14,
   "topics": []
- },
- {
-  "full_name": "0xgetz/xiicoin",
-  "url": "https://github.com/0xgetz/xiicoin",
-  "description": "Single-file crypto alpha monitor + FOMO CLI for Telegram channels \u2014 DexScreener/GeckoTerminal/GoPlus, 16 rotating strategies, whale/KOL/poster watch. Stdlib-only Python.",
-  "stars": 2,
-  "created": "2026-09-09T01:00:13Z",
-  "language": "Python",
-  "stars_per_day": 0.07,
-  "age_days": 30,
-  "topics": [
-   "alpha",
-   "bsc",
-   "cli",
-   "copy-trading",
-   "crypto",
-   "cryptocurrency",
-   "defi",
-   "dexscreener"
-  ]
  },
  {
   "full_name": "bambini-tech/digitaldon-public",
@@ -1119,6 +1079,26 @@
    "python",
    "solana",
    "transaction-parsing"
+  ]
+ },
+ {
+  "full_name": "0xgetz/xiicoin",
+  "url": "https://github.com/0xgetz/xiicoin",
+  "description": "Single-file crypto alpha monitor + FOMO CLI for Telegram channels \u2014 DexScreener/GeckoTerminal/GoPlus, 16 rotating strategies, whale/KOL/poster watch. Stdlib-only Python.",
+  "stars": 2,
+  "created": "2026-09-09T01:00:13Z",
+  "language": "Python",
+  "stars_per_day": 0.06,
+  "age_days": 31,
+  "topics": [
+   "alpha",
+   "bsc",
+   "cli",
+   "copy-trading",
+   "crypto",
+   "cryptocurrency",
+   "defi",
+   "dexscreener"
   ]
  },
  {
@@ -1179,7 +1159,7 @@
   "created": "2026-09-18T01:49:44Z",
   "language": "TypeScript",
   "stars_per_day": 0.05,
-  "age_days": 21,
+  "age_days": 22,
   "topics": [
    "ai-agents",
    "anchor",
@@ -1219,7 +1199,7 @@
   "created": "2026-08-21T06:17:43Z",
   "language": "JavaScript",
   "stars_per_day": 0.04,
-  "age_days": 49,
+  "age_days": 50,
   "topics": [
    "agents",
    "ai-agents",
@@ -1307,26 +1287,6 @@
   ]
  },
  {
-  "full_name": "daronthedragon/token2022-fingerprint",
-  "url": "https://github.com/daronthedragon/token2022-fingerprint",
-  "description": "What does this Solana mint actually do to your transfers? Reports Token-2022 extensions - permanent delegates, transfer hooks, fees - and rates them by how they are actually configured.",
-  "stars": 2,
-  "created": "2026-08-18T22:52:27Z",
-  "language": "TypeScript",
-  "stars_per_day": 0.04,
-  "age_days": 52,
-  "topics": [
-   "blockchain",
-   "cli",
-   "defi",
-   "security",
-   "solana",
-   "spl-token",
-   "token-2022",
-   "transfer-hook"
-  ]
- },
- {
   "full_name": "daronthedragon/wallet-forensics",
   "url": "https://github.com/daronthedragon/wallet-forensics",
   "description": "Forensic report for any Ethereum or Solana address: realized PnL, fees burned, MEV extracted from you, approval risk, and what your bags are actually worth if you tried to sell them.",
@@ -1344,6 +1304,26 @@
    "solana",
    "typescript",
    "viem"
+  ]
+ },
+ {
+  "full_name": "daronthedragon/token2022-fingerprint",
+  "url": "https://github.com/daronthedragon/token2022-fingerprint",
+  "description": "What does this Solana mint actually do to your transfers? Reports Token-2022 extensions - permanent delegates, transfer hooks, fees - and rates them by how they are actually configured.",
+  "stars": 2,
+  "created": "2026-08-18T22:52:27Z",
+  "language": "TypeScript",
+  "stars_per_day": 0.04,
+  "age_days": 52,
+  "topics": [
+   "blockchain",
+   "cli",
+   "defi",
+   "security",
+   "solana",
+   "spl-token",
+   "token-2022",
+   "transfer-hook"
   ]
  },
  {
@@ -1405,7 +1385,18 @@
   "created": "2026-09-14T01:47:19Z",
   "language": "Rust",
   "stars_per_day": 0.04,
-  "age_days": 25,
+  "age_days": 26,
+  "topics": []
+ },
+ {
+  "full_name": "tyofthestars11-lab/phi-ledger-cookie-chain",
+  "url": "https://github.com/tyofthestars11-lab/phi-ledger-cookie-chain",
+  "description": "PHI LEDGER \u2014 analytics dashboard cApp on Cookie Chain (Solana SVM L2): live chain pulse, phi-ledger analytics, mining telemetry, on-chain seal anchoring.",
+  "stars": 1,
+  "created": "2026-09-16T23:35:14Z",
+  "language": "JavaScript",
+  "stars_per_day": 0.04,
+  "age_days": 23,
   "topics": []
  },
  {
@@ -1416,7 +1407,7 @@
   "created": "2026-09-05T06:17:30Z",
   "language": "Rust",
   "stars_per_day": 0.03,
-  "age_days": 34,
+  "age_days": 35,
   "topics": [
    "quasar",
    "solana"
@@ -1441,7 +1432,7 @@
   "created": "2026-09-04T06:32:44Z",
   "language": null,
   "stars_per_day": 0.03,
-  "age_days": 35,
+  "age_days": 36,
   "topics": []
  },
  {
@@ -1482,7 +1473,7 @@
   "created": "2026-08-27T03:53:37Z",
   "language": "Rust",
   "stars_per_day": 0.02,
-  "age_days": 43,
+  "age_days": 44,
   "topics": [
    "anchor",
    "solana"

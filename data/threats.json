@@ -6,8 +6,8 @@
   "stars": 1235,
   "created": "2026-08-28T08:07:10Z",
   "language": "CSS",
-  "stars_per_day": 29.4,
-  "age_days": 42,
+  "stars_per_day": 28.72,
+  "age_days": 43,
   "topics": [
    "blockchain-integration",
    "cryptocoins",
@@ -27,8 +27,8 @@
   "stars": 41,
   "created": "2026-10-07T14:31:37Z",
   "language": "Python",
-  "stars_per_day": 20.5,
-  "age_days": 2,
+  "stars_per_day": 13.67,
+  "age_days": 3,
   "topics": [
    "auto-withdraw-bot",
    "drain-bot",

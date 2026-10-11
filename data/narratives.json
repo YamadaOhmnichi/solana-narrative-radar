@@ -1,55 +1,13 @@
 {
- "generated_at": "2026-10-11T12:52:20+00:00",
+ "generated_at": "2026-10-11T21:59:31+00:00",
  "narratives": [
   {
-   "narrative": "Wallets & UX",
-   "score": 105.0,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 19,
-    "github_top_velocity": 97.0,
-    "headline_hits": 1,
-    "sample_headlines": [
-     "Ledger Probes Potential Theft of $87M in User Funds Tied to Crypto Wallet Reseller"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "h100envy/gem-search",
-     "stars_per_day": 40.6,
-     "url": "https://github.com/h100envy/gem-search"
-    },
-    {
-     "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 22.12,
-     "url": "https://github.com/NuvexNetwork/nuvex"
-    },
-    {
-     "full_name": "Janina21/Crypto-Checker",
-     "stars_per_day": 20.75,
-     "url": "https://github.com/Janina21/Crypto-Checker"
-    },
-    {
-     "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 2.77,
-     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
-    },
-    {
-     "full_name": "thaorivera/crypto-wallet-generator-cracker",
-     "stars_per_day": 2.67,
-     "url": "https://github.com/thaorivera/crypto-wallet-generator-cracker"
-    }
-   ]
-  },
-  {
    "narrative": "DeFi / Trading Infra",
-   "score": 96.1,
+   "score": 108.3,
    "confidence": "High",
    "evidence": {
-    "github_repos": 53,
-    "github_top_velocity": 72.06,
+    "github_repos": 54,
+    "github_top_velocity": 84.26,
     "headline_hits": 3,
     "sample_headlines": [
      "THORChain exec accuses Tether of temporarily freezing USDT vaults",
@@ -62,8 +20,13 @@
    "member_repos": [
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 40.6,
+     "stars_per_day": 33.83,
      "url": "https://github.com/h100envy/gem-search"
+    },
+    {
+     "full_name": "cxmza/windle",
+     "stars_per_day": 20.0,
+     "url": "https://github.com/cxmza/windle"
     },
     {
      "full_name": "NuvexNetwork/nuvex-services",
@@ -72,42 +35,42 @@
     },
     {
      "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 2.92,
+     "stars_per_day": 2.69,
      "url": "https://github.com/recogardtech/AutoPilotPM"
     },
     {
      "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 2.77,
+     "stars_per_day": 2.68,
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
-    },
-    {
-     "full_name": "dartkomnitibe/solana-meme-tool",
-     "stars_per_day": 2.44,
-     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
     }
    ]
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 82.0,
+   "score": 91.6,
    "confidence": "High",
    "evidence": {
-    "github_repos": 11,
-    "github_top_velocity": 66.61,
+    "github_repos": 12,
+    "github_top_velocity": 78.8,
     "headline_hits": 0,
     "sample_headlines": [],
-    "market_avg_7d_pct": -7.67,
+    "market_avg_7d_pct": -6.4,
     "sources_confirming": 2
    },
    "member_repos": [
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 40.6,
+     "stars_per_day": 33.83,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
+     "full_name": "h100envy/crawl-hive",
+     "stars_per_day": 19.0,
+     "url": "https://github.com/h100envy/crawl-hive"
+    },
+    {
      "full_name": "nhovongoc0-max/meme-radar",
-     "stars_per_day": 17.63,
+     "stars_per_day": 17.7,
      "url": "https://github.com/nhovongoc0-max/meme-radar"
     },
     {
@@ -119,21 +82,16 @@
      "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
      "stars_per_day": 2.41,
      "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
-    },
-    {
-     "full_name": "BordrlessDex/bordrless-programs",
-     "stars_per_day": 1.33,
-     "url": "https://github.com/BordrlessDex/bordrless-programs"
     }
    ]
   },
   {
-   "narrative": "Dev Tooling & Infra",
-   "score": 53.4,
+   "narrative": "Wallets & UX",
+   "score": 83.3,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 41,
-    "github_top_velocity": 53.39,
+    "github_repos": 19,
+    "github_top_velocity": 83.26,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -141,44 +99,44 @@
    },
    "member_repos": [
     {
+     "full_name": "h100envy/gem-search",
+     "stars_per_day": 33.83,
+     "url": "https://github.com/h100envy/gem-search"
+    },
+    {
      "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 22.12,
+     "stars_per_day": 19.67,
      "url": "https://github.com/NuvexNetwork/nuvex"
     },
     {
-     "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 16.64,
-     "url": "https://github.com/NuvexNetwork/nuvex-services"
-    },
-    {
-     "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 6.0,
-     "url": "https://github.com/SpaceDataRig/space-data-rig"
-    },
-    {
-     "full_name": "propavingk/SlotDrift",
-     "stars_per_day": 3.05,
-     "url": "https://github.com/propavingk/SlotDrift"
+     "full_name": "Janina21/Crypto-Checker",
+     "stars_per_day": 16.8,
+     "url": "https://github.com/Janina21/Crypto-Checker"
     },
     {
      "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 2.77,
+     "stars_per_day": 2.68,
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
+    },
+    {
+     "full_name": "dartkomnitibe/solana-meme-tool",
+     "stars_per_day": 2.44,
+     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
     }
    ]
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 52.2,
+   "score": 67.0,
    "confidence": "High",
    "evidence": {
     "github_repos": 19,
-    "github_top_velocity": 28.18,
-    "headline_hits": 3,
+    "github_top_velocity": 35.01,
+    "headline_hits": 4,
     "sample_headlines": [
      "Capital starting to rotate back to crypto from AI: Raoul Pal",
-     "Here\u2019s a Way to Predict When AI Chatbots Will Turn Bad",
-     "OpenAI and Anthropic Are Quietly Rehearsing for the Day After an AI Catastrophe"
+     "How Zcash Plans to Hide Your Keys From AI and Quantum Attacks",
+     "Here\u2019s a Way to Predict When AI Chatbots Will Turn Bad"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -191,23 +149,107 @@
     },
     {
      "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 6.0,
+     "stars_per_day": 13.0,
      "url": "https://github.com/SpaceDataRig/space-data-rig"
     },
     {
      "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 2.92,
+     "stars_per_day": 2.69,
      "url": "https://github.com/recogardtech/AutoPilotPM"
     },
     {
      "full_name": "PillCrew/claimchain",
-     "stars_per_day": 0.71,
+     "stars_per_day": 0.74,
      "url": "https://github.com/PillCrew/claimchain"
     },
     {
-     "full_name": "PillCrew/PillCrew",
-     "stars_per_day": 0.7,
-     "url": "https://github.com/PillCrew/PillCrew"
+     "full_name": "Parad0x-Labs/vool",
+     "stars_per_day": 0.73,
+     "url": "https://github.com/Parad0x-Labs/vool"
+    }
+   ]
+  },
+  {
+   "narrative": "Dev Tooling & Infra",
+   "score": 57.8,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 41,
+    "github_top_velocity": 57.83,
+    "headline_hits": 0,
+    "sample_headlines": [],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "NuvexNetwork/nuvex",
+     "stars_per_day": 19.67,
+     "url": "https://github.com/NuvexNetwork/nuvex"
+    },
+    {
+     "full_name": "NuvexNetwork/nuvex-services",
+     "stars_per_day": 16.64,
+     "url": "https://github.com/NuvexNetwork/nuvex-services"
+    },
+    {
+     "full_name": "SpaceDataRig/space-data-rig",
+     "stars_per_day": 13.0,
+     "url": "https://github.com/SpaceDataRig/space-data-rig"
+    },
+    {
+     "full_name": "propavingk/SlotDrift",
+     "stars_per_day": 3.05,
+     "url": "https://github.com/propavingk/SlotDrift"
+    },
+    {
+     "full_name": "openarbmev/Openarb-Trade-SDK",
+     "stars_per_day": 2.68,
+     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
+    }
+   ]
+  },
+  {
+   "narrative": "RWA & Tokenization",
+   "score": 25.6,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 5,
+    "github_top_velocity": 1.61,
+    "headline_hits": 3,
+    "sample_headlines": [
+     "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
+     "Winners and losers of the SEC\u2019s new tokenized stocks rules",
+     "Kraken brings DeFi yield to tokenized stocks and ETFs"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "2274802010922/pipicachu",
+     "stars_per_day": 0.86,
+     "url": "https://github.com/2274802010922/pipicachu"
+    },
+    {
+     "full_name": "vectorix-cross/CrossYield",
+     "stars_per_day": 0.54,
+     "url": "https://github.com/vectorix-cross/CrossYield"
+    },
+    {
+     "full_name": "Zyxel89/owncurve",
+     "stars_per_day": 0.12,
+     "url": "https://github.com/Zyxel89/owncurve"
+    },
+    {
+     "full_name": "thesithunyein/owed",
+     "stars_per_day": 0.05,
+     "url": "https://github.com/thesithunyein/owed"
+    },
+    {
+     "full_name": "keelwright/slipway",
+     "stars_per_day": 0.04,
+     "url": "https://github.com/keelwright/slipway"
     }
    ]
   },
@@ -217,7 +259,7 @@
    "confidence": "Medium",
    "evidence": {
     "github_repos": 8,
-    "github_top_velocity": 2.06,
+    "github_top_velocity": 2.05,
     "headline_hits": 2,
     "sample_headlines": [
      "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
@@ -244,7 +286,7 @@
     },
     {
      "full_name": "nirholas/onchain-agent-wallets",
-     "stars_per_day": 0.12,
+     "stars_per_day": 0.11,
      "url": "https://github.com/nirholas/onchain-agent-wallets"
     },
     {
@@ -255,55 +297,12 @@
    ]
   },
   {
-   "narrative": "RWA & Tokenization",
-   "score": 17.6,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 5,
-    "github_top_velocity": 1.65,
-    "headline_hits": 2,
-    "sample_headlines": [
-     "Winners and losers of the SEC\u2019s new tokenized stocks rules",
-     "Kraken brings DeFi yield to tokenized stocks and ETFs"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "2274802010922/pipicachu",
-     "stars_per_day": 0.86,
-     "url": "https://github.com/2274802010922/pipicachu"
-    },
-    {
-     "full_name": "vectorix-cross/CrossYield",
-     "stars_per_day": 0.56,
-     "url": "https://github.com/vectorix-cross/CrossYield"
-    },
-    {
-     "full_name": "Zyxel89/owncurve",
-     "stars_per_day": 0.14,
-     "url": "https://github.com/Zyxel89/owncurve"
-    },
-    {
-     "full_name": "thesithunyein/owed",
-     "stars_per_day": 0.05,
-     "url": "https://github.com/thesithunyein/owed"
-    },
-    {
-     "full_name": "keelwright/slipway",
-     "stars_per_day": 0.04,
-     "url": "https://github.com/keelwright/slipway"
-    }
-   ]
-  },
-  {
    "narrative": "Consumer & Social",
-   "score": 3.4,
+   "score": 3.3,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 6,
-    "github_top_velocity": 3.38,
+    "github_top_velocity": 3.26,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -312,12 +311,12 @@
    "member_repos": [
     {
      "full_name": "uni-launch/solana-token-creator",
-     "stars_per_day": 1.82,
+     "stars_per_day": 1.72,
      "url": "https://github.com/uni-launch/solana-token-creator"
     },
     {
      "full_name": "vectorix-cross/My-web3-projects",
-     "stars_per_day": 0.56,
+     "stars_per_day": 0.54,
      "url": "https://github.com/vectorix-cross/My-web3-projects"
     },
     {

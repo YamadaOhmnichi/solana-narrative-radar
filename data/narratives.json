@@ -1,17 +1,18 @@
 {
- "generated_at": "2026-10-12T15:28:20+00:00",
+ "generated_at": "2026-10-13T00:41:58+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 258.0,
+   "score": 270.2,
    "confidence": "High",
    "evidence": {
-    "github_repos": 54,
-    "github_top_velocity": 242.04,
-    "headline_hits": 2,
+    "github_repos": 50,
+    "github_top_velocity": 238.25,
+    "headline_hits": 4,
     "sample_headlines": [
-     "THORChain dev accuses Tether of temporarily freezing USDT vaults",
-     "S&P Global brings risk assessments to growing crypto lending vault sector"
+     "Solana Treasury Firm DeFi Development Keeps Buying SOL as CHAD Preferred Stock Hits Record",
+     "Bitcoin Spooked? Crypto Fear and Greed Index Drops to Pre-Rally August Lows",
+     "THORChain dev accuses Tether of temporarily freezing USDT vaults"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -24,7 +25,7 @@
     },
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 29.29,
+     "stars_per_day": 29.57,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
@@ -38,59 +39,103 @@
      "url": "https://github.com/Lamport-Robotics/lamport-vault"
     },
     {
-     "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 2.77,
-     "url": "https://github.com/recogardtech/AutoPilotPM"
+     "full_name": "openarbmev/Openarb-Trade-SDK",
+     "stars_per_day": 2.59,
+     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
     }
    ]
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 102.0,
+   "score": 109.2,
    "confidence": "High",
    "evidence": {
-    "github_repos": 12,
-    "github_top_velocity": 75.89,
+    "github_repos": 10,
+    "github_top_velocity": 79.27,
     "headline_hits": 0,
     "sample_headlines": [],
-    "market_avg_7d_pct": -13.03,
+    "market_avg_7d_pct": -14.97,
     "sources_confirming": 2
    },
    "member_repos": [
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 29.29,
+     "stars_per_day": 29.57,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
      "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 21.5,
+     "stars_per_day": 29.5,
      "url": "https://github.com/h100envy/crawl-hive"
     },
     {
      "full_name": "nhovongoc0-max/meme-radar",
-     "stars_per_day": 17.26,
+     "stars_per_day": 17.23,
      "url": "https://github.com/nhovongoc0-max/meme-radar"
     },
     {
-     "full_name": "dartkomnitibe/solana-meme-tool",
-     "stars_per_day": 2.38,
-     "url": "https://github.com/dartkomnitibe/solana-meme-tool"
+     "full_name": "BordrlessDex/bordrless-programs",
+     "stars_per_day": 0.8,
+     "url": "https://github.com/BordrlessDex/bordrless-programs"
     },
     {
-     "full_name": "neilveriemusm/Trpjan-solana-trading-toolkit",
-     "stars_per_day": 2.37,
-     "url": "https://github.com/neilveriemusm/Trpjan-solana-trading-toolkit"
+     "full_name": "PillCrew/claimchain",
+     "stars_per_day": 0.72,
+     "url": "https://github.com/PillCrew/claimchain"
+    }
+   ]
+  },
+  {
+   "narrative": "AI Agents on Solana",
+   "score": 73.3,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 20,
+    "github_top_velocity": 41.35,
+    "headline_hits": 4,
+    "sample_headlines": [
+     "Capital starting to rotate back to crypto from AI: Raoul Pal",
+     "AI Will Hit 40% of Jobs, IMF Warns. Young People Are First in Line",
+     "Meta's New Muse Wonder Finally Puts Zuckerberg in the Frontier AI Race"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 2
+   },
+   "member_repos": [
+    {
+     "full_name": "SpaceDataRig/space-data-rig",
+     "stars_per_day": 20.0,
+     "url": "https://github.com/SpaceDataRig/space-data-rig"
+    },
+    {
+     "full_name": "NuvexNetwork/nuvex-services",
+     "stars_per_day": 15.33,
+     "url": "https://github.com/NuvexNetwork/nuvex-services"
+    },
+    {
+     "full_name": "recogardtech/AutoPilotPM",
+     "stars_per_day": 2.57,
+     "url": "https://github.com/recogardtech/AutoPilotPM"
+    },
+    {
+     "full_name": "GuiBibeau/solos",
+     "stars_per_day": 1.0,
+     "url": "https://github.com/GuiBibeau/solos"
+    },
+    {
+     "full_name": "PillCrew/claimchain",
+     "stars_per_day": 0.72,
+     "url": "https://github.com/PillCrew/claimchain"
     }
    ]
   },
   {
    "narrative": "Wallets & UX",
-   "score": 78.5,
+   "score": 72.2,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 20,
-    "github_top_velocity": 78.48,
+    "github_top_velocity": 72.19,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -99,12 +144,12 @@
    "member_repos": [
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 29.29,
+     "stars_per_day": 29.57,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
      "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 19.89,
+     "stars_per_day": 17.9,
      "url": "https://github.com/NuvexNetwork/nuvex"
     },
     {
@@ -119,62 +164,18 @@
     },
     {
      "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 2.68,
+     "stars_per_day": 2.59,
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
     }
    ]
   },
   {
-   "narrative": "AI Agents on Solana",
-   "score": 72.6,
-   "confidence": "High",
-   "evidence": {
-    "github_repos": 19,
-    "github_top_velocity": 40.58,
-    "headline_hits": 4,
-    "sample_headlines": [
-     "Capital starting to rotate back to crypto from AI: Raoul Pal",
-     "How Zcash Plans to Hide Your Keys From AI and Quantum Attacks",
-     "Here\u2019s a Way to Predict When AI Chatbots Will Turn Bad"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 2
-   },
-   "member_repos": [
-    {
-     "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 19.0,
-     "url": "https://github.com/SpaceDataRig/space-data-rig"
-    },
-    {
-     "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 15.33,
-     "url": "https://github.com/NuvexNetwork/nuvex-services"
-    },
-    {
-     "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 2.77,
-     "url": "https://github.com/recogardtech/AutoPilotPM"
-    },
-    {
-     "full_name": "GuiBibeau/solos",
-     "stars_per_day": 0.96,
-     "url": "https://github.com/GuiBibeau/solos"
-    },
-    {
-     "full_name": "PillCrew/claimchain",
-     "stars_per_day": 0.74,
-     "url": "https://github.com/PillCrew/claimchain"
-    }
-   ]
-  },
-  {
    "narrative": "Dev Tooling & Infra",
-   "score": 65.8,
+   "score": 64.3,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 41,
-    "github_top_velocity": 65.79,
+    "github_repos": 42,
+    "github_top_velocity": 64.28,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -182,14 +183,14 @@
    },
    "member_repos": [
     {
-     "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 19.89,
-     "url": "https://github.com/NuvexNetwork/nuvex"
+     "full_name": "SpaceDataRig/space-data-rig",
+     "stars_per_day": 20.0,
+     "url": "https://github.com/SpaceDataRig/space-data-rig"
     },
     {
-     "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 19.0,
-     "url": "https://github.com/SpaceDataRig/space-data-rig"
+     "full_name": "NuvexNetwork/nuvex",
+     "stars_per_day": 17.9,
+     "url": "https://github.com/NuvexNetwork/nuvex"
     },
     {
      "full_name": "NuvexNetwork/nuvex-services",
@@ -210,15 +211,16 @@
   },
   {
    "narrative": "Payments & Stablecoins",
-   "score": 17.9,
+   "score": 25.9,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 8,
     "github_top_velocity": 1.87,
-    "headline_hits": 2,
+    "headline_hits": 3,
     "sample_headlines": [
      "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
-     "French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Budget"
+     "Standard Chartered Will Hold Ripple's Stablecoin in Dubai\u2014And Let Clients Trade With It Without Moving It",
+     "XRP Ledger\u2019s Payment Engine Had a Counterfeiting Bug Hiding Since 2015"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 1
@@ -253,18 +255,17 @@
   },
   {
    "narrative": "RWA & Tokenization",
-   "score": 17.5,
-   "confidence": "Medium",
+   "score": 9.5,
+   "confidence": "Low",
    "evidence": {
     "github_repos": 5,
-    "github_top_velocity": 1.49,
-    "headline_hits": 2,
+    "github_top_velocity": 1.47,
+    "headline_hits": 1,
     "sample_headlines": [
-     "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
      "Winners and losers of the SEC\u2019s new tokenized stocks rules"
     ],
     "market_avg_7d_pct": null,
-    "sources_confirming": 1
+    "sources_confirming": 0
    },
    "member_repos": [
     {
@@ -274,7 +275,7 @@
     },
     {
      "full_name": "vectorix-cross/CrossYield",
-     "stars_per_day": 0.54,
+     "stars_per_day": 0.52,
      "url": "https://github.com/vectorix-cross/CrossYield"
     },
     {
@@ -296,11 +297,11 @@
   },
   {
    "narrative": "Consumer & Social",
-   "score": 2.8,
+   "score": 2.7,
    "confidence": "Low",
    "evidence": {
     "github_repos": 5,
-    "github_top_velocity": 2.76,
+    "github_top_velocity": 2.74,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -314,7 +315,7 @@
     },
     {
      "full_name": "vectorix-cross/My-web3-projects",
-     "stars_per_day": 0.54,
+     "stars_per_day": 0.52,
      "url": "https://github.com/vectorix-cross/My-web3-projects"
     },
     {

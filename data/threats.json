@@ -1,5 +1,26 @@
 [
  {
+  "full_name": "solana-classic/solana-classic",
+  "url": "https://github.com/solana-classic/solana-classic",
+  "description": "Bring back the fun. Open-source SVM blockchain development focused on art, NFTs, memes and their communities. Experimental testnet live.",
+  "stars": 45,
+  "created": "2026-10-13T19:35:48Z",
+  "language": "Rust",
+  "stars_per_day": 45.0,
+  "age_days": 1,
+  "topics": [
+   "agave",
+   "blockchain",
+   "memecoins",
+   "nft",
+   "open-source",
+   "solana",
+   "svm",
+   "testnet"
+  ],
+  "flag": "brand-impersonation"
+ },
+ {
   "full_name": "MetaMask-AI/metamask-desktop",
   "url": "https://github.com/MetaMask-AI/metamask-desktop",
   "description": "Metamask Desktop client and Web3 dApp browser for Windows, macOS, and Linux. Built with EVM and Solana support.",

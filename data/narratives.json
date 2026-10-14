@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-10-14T17:12:09+00:00",
+ "generated_at": "2026-10-14T21:42:26+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 192.0,
+   "score": 169.9,
    "confidence": "High",
    "evidence": {
     "github_repos": 51,
-    "github_top_velocity": 160.01,
-    "headline_hits": 4,
+    "github_top_velocity": 129.95,
+    "headline_hits": 5,
     "sample_headlines": [
      "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
-     "Starknet introduces wallet privacy feature for DeFi activity",
-     "THORChain dev accuses Tether of temporarily freezing USDT vaults"
+     "Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients",
+     "Starknet introduces wallet privacy feature for DeFi activity"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -20,12 +20,12 @@
    "member_repos": [
     {
      "full_name": "cxmza/windle",
-     "stars_per_day": 91.0,
+     "stars_per_day": 60.67,
      "url": "https://github.com/cxmza/windle"
     },
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 23.44,
+     "stars_per_day": 23.56,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
@@ -35,7 +35,7 @@
     },
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 13.64,
+     "stars_per_day": 13.79,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
@@ -47,22 +47,22 @@
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 113.4,
+   "score": 113.5,
    "confidence": "High",
    "evidence": {
     "github_repos": 10,
-    "github_top_velocity": 88.44,
+    "github_top_velocity": 88.55,
     "headline_hits": 1,
     "sample_headlines": [
      "Notorious Crypto Celeb Meme Coin Promoter Plots Second Wave on New Launchpad"
     ],
-    "market_avg_7d_pct": -8.46,
+    "market_avg_7d_pct": -8.48,
     "sources_confirming": 2
    },
    "member_repos": [
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 23.44,
+     "stars_per_day": 23.56,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
@@ -89,11 +89,11 @@
   },
   {
    "narrative": "Wallets & UX",
-   "score": 66.5,
+   "score": 66.6,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 19,
-    "github_top_velocity": 58.51,
+    "github_top_velocity": 58.62,
     "headline_hits": 1,
     "sample_headlines": [
      "Starknet introduces wallet privacy feature for DeFi activity"
@@ -104,12 +104,12 @@
    "member_repos": [
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 23.44,
+     "stars_per_day": 23.56,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
      "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 15.75,
+     "stars_per_day": 15.92,
      "url": "https://github.com/NuvexNetwork/nuvex"
     },
     {
@@ -124,23 +124,23 @@
     },
     {
      "full_name": "thaorivera/crypto-wallet-generator-cracker",
-     "stars_per_day": 1.78,
+     "stars_per_day": 1.6,
      "url": "https://github.com/thaorivera/crypto-wallet-generator-cracker"
     }
    ]
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 60.4,
+   "score": 60.5,
    "confidence": "High",
    "evidence": {
     "github_repos": 21,
-    "github_top_velocity": 36.35,
+    "github_top_velocity": 36.49,
     "headline_hits": 3,
     "sample_headlines": [
      "Capital starting to rotate back to crypto from AI: Raoul Pal",
-     "OpenAI Engineer Arrested for Bugging Office, Company Says AI Caught Him",
-     "Character.AI Files for Bankruptcy as Disney Bids $20 Million\u2014And Users Get Grief Resources"
+     "Developer Who Cloned Photoshop With AI Just Did the Same to Microsoft Office",
+     "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -153,7 +153,7 @@
     },
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 13.64,
+     "stars_per_day": 13.79,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
@@ -175,11 +175,11 @@
   },
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 55.9,
+   "score": 55.7,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 42,
-    "github_top_velocity": 55.92,
+    "github_top_velocity": 55.74,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -193,12 +193,12 @@
     },
     {
      "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 15.75,
+     "stars_per_day": 15.92,
      "url": "https://github.com/NuvexNetwork/nuvex"
     },
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 13.64,
+     "stars_per_day": 13.79,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
@@ -215,17 +215,18 @@
   },
   {
    "narrative": "Payments & Stablecoins",
-   "score": 17.3,
-   "confidence": "Medium",
+   "score": 25.3,
+   "confidence": "High",
    "evidence": {
     "github_repos": 10,
     "github_top_velocity": 9.34,
-    "headline_hits": 1,
+    "headline_hits": 2,
     "sample_headlines": [
-     "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand"
+     "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
+     "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny"
     ],
     "market_avg_7d_pct": null,
-    "sources_confirming": 1
+    "sources_confirming": 2
    },
    "member_repos": [
     {
@@ -261,7 +262,7 @@
    "confidence": "Medium",
    "evidence": {
     "github_repos": 5,
-    "github_top_velocity": 0.92,
+    "github_top_velocity": 0.9,
     "headline_hits": 2,
     "sample_headlines": [
      "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
@@ -273,7 +274,7 @@
    "member_repos": [
     {
      "full_name": "vectorix-cross/CrossYield",
-     "stars_per_day": 0.5,
+     "stars_per_day": 0.48,
      "url": "https://github.com/vectorix-cross/CrossYield"
     },
     {

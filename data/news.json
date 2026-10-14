@@ -63,6 +63,16 @@
  ],
  "decrypt": [
   {
+   "title": "Kraken Owner Payward to Buy Lithuania's Saldo Bank in EU Push",
+   "pub": "Wed, 14 Oct 2026 10:21:34 +0000",
+   "link": "https://decrypt.co/380912/kraken-owner-payward-to-buy-lithuanias-saldo-bank-in-eu-push"
+  },
+  {
+   "title": "BitMEX Sued in UK for Return of $27M in Bitcoin Over Unlicensed Derivatives",
+   "pub": "Wed, 14 Oct 2026 09:54:52 +0000",
+   "link": "https://decrypt.co/380904/bitmex-sued-in-uk-for-return-of-27m-in-bitcoin-over-unlicensed-derivatives"
+  },
+  {
    "title": "OpenAI Engineer Arrested for Bugging Office, Company Says AI Caught Him",
    "pub": "Tue, 13 Oct 2026 21:46:04 +0000",
    "link": "https://decrypt.co/380896/openai-engineer-arrested-bugging-office-ai-caught-him"
@@ -111,19 +121,14 @@
    "title": "Ledger Finds LTE Implant That Stole Recovery Phrases in Suspected $86M Drain",
    "pub": "Tue, 13 Oct 2026 11:53:15 +0000",
    "link": "https://decrypt.co/380826/ledger-finds-lte-implant-that-stole-recovery-phrases-in-suspected-86m-drain"
-  },
-  {
-   "title": "Morning Minute: Bitcoin Gets Spooked as \u2018Uptober\u2019 Lets Down",
-   "pub": "Tue, 13 Oct 2026 11:40:51 +0000",
-   "link": "https://decrypt.co/380828/morning-minute-bitcoin-gets-spooked-as-uptober-lets-down"
-  },
-  {
-   "title": "UK Moves Closer to Keeping $5B Bitcoin Haul After High Court Ruling",
-   "pub": "Tue, 13 Oct 2026 10:51:33 +0000",
-   "link": "https://decrypt.co/380818/uk-moves-closer-to-keeping-5b-bitcoin-haul-after-high-court-ruling"
   }
  ],
  "cryptonews": [
+  {
+   "title": "Starknet introduces wallet privacy feature for DeFi activity",
+   "pub": "Wed, 14 Oct 2026 05:32:14 +0000",
+   "link": "https://cointelegraph.com/news/starknet-introduces-wallet-privacy-feature-for-defi-activity?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+  },
   {
    "title": "XRP treasury Evernorth\u2019s shares rise 5% at Nasdaq opening print",
    "pub": "Mon, 12 Oct 2026 14:18:49 +0000",
@@ -178,11 +183,6 @@
    "title": "BIS paper finds major gap in Bitcoin onchain transfer estimates",
    "pub": "Tue, 15 Sep 2026 21:23:00 +0000",
    "link": "https://cointelegraph.com/news/bis-paper-finds-major-gap-in-bitcoin-onchain-transfer-estimates?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Balancer eyes wind-down after restructuring fails to revive revenue",
-   "pub": "Tue, 15 Sep 2026 03:33:23 +0000",
-   "link": "https://cointelegraph.com/news/balancer-eyes-wind-down-after-restructuring-fails-revive-revenue?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
   }
  ]
 }

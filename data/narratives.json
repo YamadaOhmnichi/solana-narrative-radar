@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-10-15T11:31:26+00:00",
+ "generated_at": "2026-10-15T17:02:43+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 169.4,
+   "score": 147.2,
    "confidence": "High",
    "evidence": {
     "github_repos": 51,
-    "github_top_velocity": 129.41,
-    "headline_hits": 5,
+    "github_top_velocity": 115.16,
+    "headline_hits": 4,
     "sample_headlines": [
      "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
-     "Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients",
-     "Starknet introduces wallet privacy feature for DeFi activity"
+     "Starknet introduces wallet privacy feature for DeFi activity",
+     "THORChain dev accuses Tether of temporarily freezing USDT vaults"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -24,76 +24,74 @@
      "url": "https://github.com/cxmza/windle"
     },
     {
-     "full_name": "QunatOrb/QuantOrb",
-     "stars_per_day": 24.0,
-     "url": "https://github.com/QunatOrb/QuantOrb"
-    },
-    {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 23.56,
+     "stars_per_day": 21.3,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 12.93,
+     "stars_per_day": 13.0,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
+     "full_name": "QunatOrb/QuantOrb",
+     "stars_per_day": 12.0,
+     "url": "https://github.com/QunatOrb/QuantOrb"
+    },
+    {
      "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 2.44,
+     "stars_per_day": 2.37,
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
     }
    ]
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 123.5,
-   "confidence": "High",
+   "score": 77.0,
+   "confidence": "Medium",
    "evidence": {
     "github_repos": 10,
-    "github_top_velocity": 89.44,
-    "headline_hits": 1,
-    "sample_headlines": [
-     "Notorious Crypto Celeb Meme Coin Promoter Plots Second Wave on New Launchpad"
-    ],
-    "market_avg_7d_pct": -13.03,
-    "sources_confirming": 2
+    "github_top_velocity": 70.6,
+    "headline_hits": 0,
+    "sample_headlines": [],
+    "market_avg_7d_pct": 3.19,
+    "sources_confirming": 1
    },
    "member_repos": [
     {
-     "full_name": "QunatOrb/QuantOrb",
-     "stars_per_day": 24.0,
-     "url": "https://github.com/QunatOrb/QuantOrb"
-    },
-    {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 23.56,
+     "stars_per_day": 21.3,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
      "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 23.25,
+     "stars_per_day": 19.0,
      "url": "https://github.com/h100envy/crawl-hive"
     },
     {
      "full_name": "nhovongoc0-max/meme-radar",
-     "stars_per_day": 16.33,
+     "stars_per_day": 15.85,
      "url": "https://github.com/nhovongoc0-max/meme-radar"
     },
     {
+     "full_name": "QunatOrb/QuantOrb",
+     "stars_per_day": 12.0,
+     "url": "https://github.com/QunatOrb/QuantOrb"
+    },
+    {
      "full_name": "BordrlessDex/bordrless-programs",
-     "stars_per_day": 0.71,
+     "stars_per_day": 0.86,
      "url": "https://github.com/BordrlessDex/bordrless-programs"
     }
    ]
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 68.3,
+   "score": 64.7,
    "confidence": "High",
    "evidence": {
     "github_repos": 20,
-    "github_top_velocity": 36.27,
+    "github_top_velocity": 32.7,
     "headline_hits": 4,
     "sample_headlines": [
      "Capital starting to rotate back to crypto from AI: Raoul Pal",
@@ -106,17 +104,17 @@
    "member_repos": [
     {
      "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 17.5,
+     "stars_per_day": 14.0,
      "url": "https://github.com/SpaceDataRig/space-data-rig"
     },
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 12.93,
+     "stars_per_day": 13.0,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
      "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 2.38,
+     "stars_per_day": 2.24,
      "url": "https://github.com/recogardtech/AutoPilotPM"
     },
     {
@@ -133,11 +131,11 @@
   },
   {
    "narrative": "Wallets & UX",
-   "score": 66.3,
+   "score": 61.7,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 18,
-    "github_top_velocity": 58.26,
+    "github_repos": 19,
+    "github_top_velocity": 53.68,
     "headline_hits": 1,
     "sample_headlines": [
      "Starknet introduces wallet privacy feature for DeFi activity"
@@ -148,22 +146,22 @@
    "member_repos": [
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 23.56,
+     "stars_per_day": 21.3,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
      "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 16.08,
+     "stars_per_day": 14.92,
      "url": "https://github.com/NuvexNetwork/nuvex"
     },
     {
      "full_name": "Janina21/Crypto-Checker",
-     "stars_per_day": 10.5,
+     "stars_per_day": 9.44,
      "url": "https://github.com/Janina21/Crypto-Checker"
     },
     {
      "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 2.44,
+     "stars_per_day": 2.37,
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
     },
     {
@@ -175,11 +173,11 @@
   },
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 55.1,
+   "score": 50.3,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 43,
-    "github_top_velocity": 55.09,
+    "github_top_velocity": 50.33,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -187,18 +185,18 @@
    },
    "member_repos": [
     {
-     "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 17.5,
-     "url": "https://github.com/SpaceDataRig/space-data-rig"
-    },
-    {
      "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 16.08,
+     "stars_per_day": 14.92,
      "url": "https://github.com/NuvexNetwork/nuvex"
     },
     {
+     "full_name": "SpaceDataRig/space-data-rig",
+     "stars_per_day": 14.0,
+     "url": "https://github.com/SpaceDataRig/space-data-rig"
+    },
+    {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 12.93,
+     "stars_per_day": 13.0,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
@@ -208,21 +206,22 @@
     },
     {
      "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 2.44,
+     "stars_per_day": 2.37,
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
     }
    ]
   },
   {
    "narrative": "Payments & Stablecoins",
-   "score": 17.7,
+   "score": 25.6,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 8,
-    "github_top_velocity": 1.67,
-    "headline_hits": 2,
+    "github_repos": 7,
+    "github_top_velocity": 1.65,
+    "headline_hits": 3,
     "sample_headlines": [
      "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
+     "Mastercard and BVNK Launch 'Global Money Platform' to Merge Fiat and Stablecoins",
      "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny"
     ],
     "market_avg_7d_pct": null,
@@ -262,7 +261,7 @@
    "confidence": "Medium",
    "evidence": {
     "github_repos": 5,
-    "github_top_velocity": 0.87,
+    "github_top_velocity": 0.86,
     "headline_hits": 2,
     "sample_headlines": [
      "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
@@ -284,7 +283,7 @@
     },
     {
      "full_name": "Zyxel89/owncurve",
-     "stars_per_day": 0.09,
+     "stars_per_day": 0.08,
      "url": "https://github.com/Zyxel89/owncurve"
     },
     {
@@ -301,18 +300,17 @@
   },
   {
    "narrative": "Security & Threats",
-   "score": 16.2,
-   "confidence": "Medium",
+   "score": 8.2,
+   "confidence": "Low",
    "evidence": {
     "github_repos": 1,
     "github_top_velocity": 0.2,
-    "headline_hits": 2,
+    "headline_hits": 1,
     "sample_headlines": [
-     "Brooklyn Prosecutors Take Down 112 Servers Behind Crypto Scam Targeting Russian Speakers",
-     "Ledger Asks Resellers in Seven Asian Markets to Pull Devices After Suspected $86M Drain"
+     "Brooklyn Prosecutors Take Down 112 Servers Behind Crypto Scam Targeting Russian Speakers"
     ],
     "market_avg_7d_pct": null,
-    "sources_confirming": 1
+    "sources_confirming": 0
    },
    "member_repos": [
     {
@@ -328,7 +326,7 @@
    "confidence": "Low",
    "evidence": {
     "github_repos": 4,
-    "github_top_velocity": 1.94,
+    "github_top_velocity": 1.87,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -337,7 +335,7 @@
    "member_repos": [
     {
      "full_name": "uni-launch/solana-token-creator",
-     "stars_per_day": 1.48,
+     "stars_per_day": 1.41,
      "url": "https://github.com/uni-launch/solana-token-creator"
     },
     {

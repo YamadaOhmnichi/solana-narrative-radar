@@ -81,10 +81,10 @@
   "full_name": "SpaceDataRig/space-data-rig",
   "url": "https://github.com/SpaceDataRig/space-data-rig",
   "description": "Autonomous five-seat AI science rig: reproducible exoplanet transit detection on NASA Exoplanet Archive data, with Solana mainnet provenance anchoring.",
-  "stars": 67,
+  "stars": 68,
   "created": "2026-10-10T11:47:32Z",
   "language": "TypeScript",
-  "stars_per_day": 16.75,
+  "stars_per_day": 17.0,
   "age_days": 4,
   "topics": []
  },
@@ -92,10 +92,10 @@
   "full_name": "nhovongoc0-max/meme-radar",
   "url": "https://github.com/nhovongoc0-max/meme-radar",
   "description": "Meme\u96f7\u8fbe\u5f00\u6e90\u7248\uff1a\u672c\u5730\u53ea\u8bfb\u3001\u591a\u94fe Meme \u5019\u9009\u626b\u63cf\u4e0e\u4eba\u5de5\u590d\u6838\u5de5\u5177",
-  "stars": 538,
+  "stars": 539,
   "created": "2026-09-11T12:14:57Z",
   "language": "JavaScript",
-  "stars_per_day": 16.3,
+  "stars_per_day": 16.33,
   "age_days": 33,
   "topics": [
    "bsc",
@@ -163,26 +163,6 @@
    "crypto-checker-tool",
    "cryptoanalysis",
    "cryptochecker"
-  ]
- },
- {
-  "full_name": "des35swim/hood-warfare",
-  "url": "https://github.com/des35swim/hood-warfare",
-  "description": "Free browser FPS on a destructible Chicago block. GPU brick physics, AK + RPG, 6v6, weekly USDC ladder. Three.js, no build step.",
-  "stars": 15,
-  "created": "2026-10-12T16:40:32Z",
-  "language": "JavaScript",
-  "stars_per_day": 7.5,
-  "age_days": 2,
-  "topics": [
-   "browser-game",
-   "destruction",
-   "fps",
-   "physics",
-   "solana",
-   "threejs",
-   "usdc",
-   "webgpu"
   ]
  },
  {
@@ -309,8 +289,8 @@
   "stars": 55,
   "created": "2026-08-23T22:49:51Z",
   "language": "TypeScript",
-  "stars_per_day": 1.08,
-  "age_days": 51,
+  "stars_per_day": 1.06,
+  "age_days": 52,
   "topics": []
  },
  {
@@ -320,8 +300,8 @@
   "stars": 30,
   "created": "2026-09-16T01:11:08Z",
   "language": "JavaScript",
-  "stars_per_day": 1.07,
-  "age_days": 28,
+  "stars_per_day": 1.03,
+  "age_days": 29,
   "topics": [
    "agentic-ai",
    "ai-agents",
@@ -332,17 +312,6 @@
    "codex",
    "cursor"
   ]
- },
- {
-  "full_name": "BordrlessDex/bordrless-programs",
-  "url": "https://github.com/BordrlessDex/bordrless-programs",
-  "description": "Bordrless on-chain programs: a Solana token standard with hooks, a DEX, launchpad and bridge",
-  "stars": 5,
-  "created": "2026-10-07T23:47:41Z",
-  "language": "Rust",
-  "stars_per_day": 0.83,
-  "age_days": 6,
-  "topics": []
  },
  {
   "full_name": "Subhan-code/oxygen-ui-solana",
@@ -356,14 +325,25 @@
   "topics": []
  },
  {
+  "full_name": "BordrlessDex/bordrless-programs",
+  "url": "https://github.com/BordrlessDex/bordrless-programs",
+  "description": "Bordrless on-chain programs: a Solana token standard with hooks, a DEX, launchpad and bridge",
+  "stars": 5,
+  "created": "2026-10-07T23:47:41Z",
+  "language": "Rust",
+  "stars_per_day": 0.71,
+  "age_days": 7,
+  "topics": []
+ },
+ {
   "full_name": "PillCrew/claimchain",
   "url": "https://github.com/PillCrew/claimchain",
   "description": "Verify that an AI agent's on-chain claims are actually true. A claim-level groundedness checker for Solana / memecoin agents.",
   "stars": 29,
   "created": "2026-09-02T23:40:59Z",
   "language": "Python",
-  "stars_per_day": 0.71,
-  "age_days": 41,
+  "stars_per_day": 0.69,
+  "age_days": 42,
   "topics": [
    "ai-agents",
    "crypto-trading",
@@ -402,8 +382,8 @@
   "stars": 16,
   "created": "2026-09-18T22:06:01Z",
   "language": "Python",
-  "stars_per_day": 0.64,
-  "age_days": 25,
+  "stars_per_day": 0.62,
+  "age_days": 26,
   "topics": [
    "agent",
    "ai",
@@ -445,26 +425,6 @@
   "stars_per_day": 0.5,
   "age_days": 2,
   "topics": []
- },
- {
-  "full_name": "HandcuffAttorney/yieldboard",
-  "url": "https://github.com/HandcuffAttorney/yieldboard",
-  "description": "yieldboard - open source utility, updated 2026-10-04",
-  "stars": 5,
-  "created": "2026-10-04T03:40:40Z",
-  "language": "C++",
-  "stars_per_day": 0.5,
-  "age_days": 10,
-  "topics": [
-   "apy",
-   "arbitrum",
-   "cpp",
-   "crypto",
-   "defi",
-   "desktop-app",
-   "ethereum",
-   "finance"
-  ]
  },
  {
   "full_name": "unwindfi/unwind-protocol",
@@ -530,6 +490,26 @@
   "stars_per_day": 0.46,
   "age_days": 13,
   "topics": []
+ },
+ {
+  "full_name": "HandcuffAttorney/yieldboard",
+  "url": "https://github.com/HandcuffAttorney/yieldboard",
+  "description": "yieldboard - open source utility, updated 2026-10-04",
+  "stars": 5,
+  "created": "2026-10-04T03:40:40Z",
+  "language": "C++",
+  "stars_per_day": 0.45,
+  "age_days": 11,
+  "topics": [
+   "apy",
+   "arbitrum",
+   "cpp",
+   "crypto",
+   "defi",
+   "desktop-app",
+   "ethereum",
+   "finance"
+  ]
  },
  {
   "full_name": "blueshift-gg/solana-ecvrf",
@@ -636,8 +616,8 @@
   "stars": 5,
   "created": "2026-09-26T03:55:36Z",
   "language": "TypeScript",
-  "stars_per_day": 0.28,
-  "age_days": 18,
+  "stars_per_day": 0.26,
+  "age_days": 19,
   "topics": [
    "defi",
    "devnet",
@@ -707,8 +687,8 @@
   "stars": 6,
   "created": "2026-09-11T22:46:57Z",
   "language": null,
-  "stars_per_day": 0.19,
-  "age_days": 32,
+  "stars_per_day": 0.18,
+  "age_days": 33,
   "topics": [
    "bioinformatics",
    "bsc",
@@ -750,25 +730,14 @@
   "topics": []
  },
  {
-  "full_name": "Hackathonzx/DONE",
-  "url": "https://github.com/Hackathonzx/DONE",
-  "description": "Programmable settlement infrastructure for verifiable work on Solana.",
-  "stars": 1,
-  "created": "2026-10-07T23:10:55Z",
-  "language": "TypeScript",
-  "stars_per_day": 0.17,
-  "age_days": 6,
-  "topics": []
- },
- {
   "full_name": "New1Direction/repo.ing",
   "url": "https://github.com/New1Direction/repo.ing",
   "description": "The market layer for open source. GitHub repository markets on Solana, builder earnings, and transparent protocol accounting.",
   "stars": 3,
   "created": "2026-09-25T21:47:28Z",
   "language": "JavaScript",
-  "stars_per_day": 0.17,
-  "age_days": 18,
+  "stars_per_day": 0.16,
+  "age_days": 19,
   "topics": [
    "defi",
    "github",
@@ -776,24 +745,6 @@
    "nextjs",
    "open-source",
    "solana"
-  ]
- },
- {
-  "full_name": "Laksz123/pulse-strike",
-  "url": "https://github.com/Laksz123/pulse-strike",
-  "description": "PULSE STRIKE \u2014 a browser team shooter with a Solana devnet market",
-  "stars": 1,
-  "created": "2026-10-08T02:27:06Z",
-  "language": "TypeScript",
-  "stars_per_day": 0.17,
-  "age_days": 6,
-  "topics": [
-   "anchor",
-   "browser-game",
-   "fps",
-   "game",
-   "solana",
-   "threejs"
   ]
  },
  {
@@ -817,6 +768,17 @@
   ]
  },
  {
+  "full_name": "Hackathonzx/DONE",
+  "url": "https://github.com/Hackathonzx/DONE",
+  "description": "Programmable settlement infrastructure for verifiable work on Solana.",
+  "stars": 1,
+  "created": "2026-10-07T23:10:55Z",
+  "language": "TypeScript",
+  "stars_per_day": 0.14,
+  "age_days": 7,
+  "topics": []
+ },
+ {
   "full_name": "Zyxel89/proof-of-strategy",
   "url": "https://github.com/Zyxel89/proof-of-strategy",
   "description": "  Verifiable, MEV-resistant execution layer in Rust for AI trading agents on Solana",
@@ -837,6 +799,24 @@
   ]
  },
  {
+  "full_name": "Laksz123/pulse-strike",
+  "url": "https://github.com/Laksz123/pulse-strike",
+  "description": "PULSE STRIKE \u2014 a browser team shooter with a Solana devnet market",
+  "stars": 1,
+  "created": "2026-10-08T02:27:06Z",
+  "language": "TypeScript",
+  "stars_per_day": 0.14,
+  "age_days": 7,
+  "topics": [
+   "anchor",
+   "browser-game",
+   "fps",
+   "game",
+   "solana",
+   "threejs"
+  ]
+ },
+ {
   "full_name": "blueshift-gg/solana-ml-dsa",
   "url": "https://github.com/blueshift-gg/solana-ml-dsa",
   "description": "ML-DSA-44 signature verification for Solana programs.",
@@ -846,21 +826,6 @@
   "stars_per_day": 0.13,
   "age_days": 31,
   "topics": []
- },
- {
-  "full_name": "tickerzhq/typeshi",
-  "url": "https://github.com/tickerzhq/typeshi",
-  "description": "lock in fn. typeshi is an open-source language over Rust that compiles to Solana programs (Anchor). Made by Tickerz.",
-  "stars": 1,
-  "created": "2026-10-06T03:37:26Z",
-  "language": "Rust",
-  "stars_per_day": 0.12,
-  "age_days": 8,
-  "topics": [
-   "rust",
-   "slang-language",
-   "solana"
-  ]
  },
  {
   "full_name": "nirholas/onchain-agent-wallets",
@@ -930,7 +895,7 @@
   "created": "2026-09-07T21:43:35Z",
   "language": "TypeScript",
   "stars_per_day": 0.11,
-  "age_days": 36,
+  "age_days": 37,
   "topics": [
    "defi",
    "defi-index",
@@ -950,7 +915,7 @@
   "created": "2026-09-07T21:43:43Z",
   "language": "TypeScript",
   "stars_per_day": 0.11,
-  "age_days": 36,
+  "age_days": 37,
   "topics": [
    "defi",
    "dutch-auction",
@@ -970,7 +935,7 @@
   "created": "2026-09-07T21:43:26Z",
   "language": "Rust",
   "stars_per_day": 0.11,
-  "age_days": 36,
+  "age_days": 37,
   "topics": [
    "anchor",
    "auction",
@@ -1003,6 +968,21 @@
   ]
  },
  {
+  "full_name": "tickerzhq/typeshi",
+  "url": "https://github.com/tickerzhq/typeshi",
+  "description": "lock in fn. typeshi is an open-source language over Rust that compiles to Solana programs (Anchor). Made by Tickerz.",
+  "stars": 1,
+  "created": "2026-10-06T03:37:26Z",
+  "language": "Rust",
+  "stars_per_day": 0.11,
+  "age_days": 9,
+  "topics": [
+   "rust",
+   "slang-language",
+   "solana"
+  ]
+ },
+ {
   "full_name": "Kelows/million",
   "url": "https://github.com/Kelows/million",
   "description": "Personal Solana memecoin intelligence dashboard: an open-source, self-hosted whale tracker and copy-trading deck you run by talking to your AI coding agent.",
@@ -1010,7 +990,7 @@
   "created": "2026-08-26T21:55:09Z",
   "language": "TypeScript",
   "stars_per_day": 0.1,
-  "age_days": 48,
+  "age_days": 49,
   "topics": [
    "ai-agents",
    "claude-code",
@@ -1076,26 +1056,6 @@
   ]
  },
  {
-  "full_name": "samuelcampozano/nodus",
-  "url": "https://github.com/samuelcampozano/nodus",
-  "description": "Nodus \u2014 Programmable Sovereign Cloud Vault powered by Walrus & Sui",
-  "stars": 2,
-  "created": "2026-09-18T01:27:17Z",
-  "language": "HTML",
-  "stars_per_day": 0.08,
-  "age_days": 26,
-  "topics": [
-   "ai",
-   "colosseum",
-   "computer-vision",
-   "decentralized-storage",
-   "hackathon",
-   "move",
-   "nextjs",
-   "privacy"
-  ]
- },
- {
   "full_name": "ayomidefagboyo/kata",
   "url": "https://github.com/ayomidefagboyo/kata",
   "description": "An autonomous perps agent whose trading policy retrains on its own realised outcomes. Live on Hyperliquid, expanding to Drift on Solana.",
@@ -1149,6 +1109,26 @@
    "sbpf",
    "smart-contracts",
    "solana"
+  ]
+ },
+ {
+  "full_name": "samuelcampozano/nodus",
+  "url": "https://github.com/samuelcampozano/nodus",
+  "description": "Nodus \u2014 Programmable Sovereign Cloud Vault powered by Walrus & Sui",
+  "stars": 2,
+  "created": "2026-09-18T01:27:17Z",
+  "language": "HTML",
+  "stars_per_day": 0.07,
+  "age_days": 27,
+  "topics": [
+   "ai",
+   "colosseum",
+   "computer-vision",
+   "decentralized-storage",
+   "hackathon",
+   "move",
+   "nextjs",
+   "privacy"
   ]
  },
  {
@@ -1210,7 +1190,7 @@
   "created": "2026-09-09T01:00:13Z",
   "language": "Python",
   "stars_per_day": 0.06,
-  "age_days": 35,
+  "age_days": 36,
   "topics": [
    "alpha",
    "bsc",
@@ -1419,7 +1399,7 @@
   "created": "2026-08-18T22:52:27Z",
   "language": "TypeScript",
   "stars_per_day": 0.04,
-  "age_days": 56,
+  "age_days": 57,
   "topics": [
    "blockchain",
    "cli",
@@ -1439,7 +1419,7 @@
   "created": "2026-08-18T21:58:21Z",
   "language": "JavaScript",
   "stars_per_day": 0.04,
-  "age_days": 56,
+  "age_days": 57,
   "topics": [
    "agent-skill",
    "claude-skill",
@@ -1479,7 +1459,7 @@
   "created": "2026-09-18T01:49:44Z",
   "language": "TypeScript",
   "stars_per_day": 0.04,
-  "age_days": 26,
+  "age_days": 27,
   "topics": [
    "ai-agents",
    "anchor",
@@ -1556,7 +1536,7 @@
   "created": "2026-09-14T01:47:19Z",
   "language": "Rust",
   "stars_per_day": 0.03,
-  "age_days": 30,
+  "age_days": 31,
   "topics": []
  },
  {
@@ -1589,7 +1569,7 @@
   "created": "2026-08-27T03:53:37Z",
   "language": "Rust",
   "stars_per_day": 0.02,
-  "age_days": 48,
+  "age_days": 49,
   "topics": [
    "anchor",
    "solana"

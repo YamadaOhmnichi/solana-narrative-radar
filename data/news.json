@@ -63,6 +63,11 @@
  ],
  "decrypt": [
   {
+   "title": "Brooklyn Prosecutors Take Down 112 Servers Behind Crypto Scam Targeting Russian Speakers",
+   "pub": "Thu, 15 Oct 2026 10:01:21 +0000",
+   "link": "https://decrypt.co/381000/brooklyn-prosecutors-take-down-112-servers-behind-crypto-scam-targeting-russian-speakers"
+  },
+  {
    "title": "Godfather of AI and 400 Scientists Want AI Models Cut Off From the Internet",
    "pub": "Wed, 14 Oct 2026 21:46:04 +0000",
    "link": "https://decrypt.co/380998/scientists-want-ai-cut-off-from-internet"
@@ -116,14 +121,14 @@
    "title": "Notorious Crypto Celeb Meme Coin Promoter Plots Second Wave on New Launchpad",
    "pub": "Wed, 14 Oct 2026 13:41:21 +0000",
    "link": "https://decrypt.co/380928/notorious-crypto-celeb-meme-coin-promoter-plots-second-wave-on-new-launchpad"
-  },
-  {
-   "title": "Morning Minute: Move Over, Saylor, There\u2019s a New Top Buyer in Town",
-   "pub": "Wed, 14 Oct 2026 12:11:35 +0000",
-   "link": "https://decrypt.co/380920/morning-minute-move-over-saylor-theres-a-new-top-buyer-in-town"
   }
  ],
  "cryptonews": [
+  {
+   "title": "Babylon advances native Bitcoin lending proposal on Aave V4",
+   "pub": "Thu, 15 Oct 2026 09:14:28 +0000",
+   "link": "https://cointelegraph.com/news/babylon-native-bitcoin-collateral-aave-v4-proposal?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+  },
   {
    "title": "Starknet introduces wallet privacy feature for DeFi activity",
    "pub": "Wed, 14 Oct 2026 05:32:14 +0000",
@@ -178,11 +183,6 @@
    "title": "Dragonfly\u2019s Qureshi calls for end to Zcash dev fund after 2028",
    "pub": "Fri, 18 Sep 2026 11:22:24 +0000",
    "link": "https://cointelegraph.com/news/dragonflys-qureshi-end-zcash-dev-fund-2028?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "BIS paper finds major gap in Bitcoin onchain transfer estimates",
-   "pub": "Tue, 15 Sep 2026 21:23:00 +0000",
-   "link": "https://cointelegraph.com/news/bis-paper-finds-major-gap-in-bitcoin-onchain-transfer-estimates?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
   }
  ]
 }

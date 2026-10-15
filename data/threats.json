@@ -3,10 +3,10 @@
   "full_name": "solana-classic/solana-classic",
   "url": "https://github.com/solana-classic/solana-classic",
   "description": "Bring back the fun. Open-source SVM blockchain development focused on art, NFTs, memes and their communities. Experimental testnet live.",
-  "stars": 315,
+  "stars": 362,
   "created": "2026-10-13T19:35:48Z",
   "language": "Rust",
-  "stars_per_day": 315.0,
+  "stars_per_day": 362.0,
   "age_days": 1,
   "topics": [
    "agave",
@@ -21,35 +21,14 @@
   "flag": "brand-impersonation"
  },
  {
-  "full_name": "tpatberg14/Solana-Drainer-Tool",
-  "url": "https://github.com/tpatberg14/Solana-Drainer-Tool",
-  "description": "Solana Drainer Tool \u2014 Automated SOL and SPL token drainer for Solana wallets with real-time balance monitoring, multi-wallet sweeping, Phantom/Backpack/Solflare compatibility, and stealth transaction ",
-  "stars": 45,
-  "created": "2026-10-13T11:29:03Z",
-  "language": "Python",
-  "stars_per_day": 45.0,
-  "age_days": 1,
-  "topics": [
-   "auto-withdraw-bot",
-   "auto-withdraw-script",
-   "cryptohack",
-   "ethereum",
-   "private-key-manager",
-   "solana-payout-api",
-   "solana-trading-platform",
-   "sushiswap-pool-drainer-2025"
-  ],
-  "flag": "malware-pattern"
- },
- {
   "full_name": "MetaMask-AI/metamask-desktop",
   "url": "https://github.com/MetaMask-AI/metamask-desktop",
   "description": "Metamask Desktop client and Web3 dApp browser for Windows, macOS, and Linux. Built with EVM and Solana support.",
   "stars": 1236,
   "created": "2026-08-28T08:07:10Z",
   "language": "CSS",
-  "stars_per_day": 26.3,
-  "age_days": 47,
+  "stars_per_day": 25.75,
+  "age_days": 48,
   "topics": [
    "blockchain-integration",
    "cryptocoins",
@@ -61,5 +40,26 @@
    "electron-app"
   ],
   "flag": "brand-impersonation"
+ },
+ {
+  "full_name": "tpatberg14/Solana-Drainer-Tool",
+  "url": "https://github.com/tpatberg14/Solana-Drainer-Tool",
+  "description": "Solana Drainer Tool \u2014 Automated SOL and SPL token drainer for Solana wallets with real-time balance monitoring, multi-wallet sweeping, Phantom/Backpack/Solflare compatibility, and stealth transaction ",
+  "stars": 45,
+  "created": "2026-10-13T11:29:03Z",
+  "language": "Python",
+  "stars_per_day": 22.5,
+  "age_days": 2,
+  "topics": [
+   "auto-withdraw-bot",
+   "auto-withdraw-script",
+   "cryptohack",
+   "ethereum",
+   "private-key-manager",
+   "solana-payout-api",
+   "solana-trading-platform",
+   "sushiswap-pool-drainer-2025"
+  ],
+  "flag": "malware-pattern"
  }
 ]

@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-10-15T17:02:43+00:00",
+ "generated_at": "2026-10-15T21:24:18+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 147.2,
+   "score": 155.2,
    "confidence": "High",
    "evidence": {
     "github_repos": 51,
-    "github_top_velocity": 115.16,
-    "headline_hits": 4,
+    "github_top_velocity": 115.23,
+    "headline_hits": 5,
     "sample_headlines": [
      "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
-     "Starknet introduces wallet privacy feature for DeFi activity",
-     "THORChain dev accuses Tether of temporarily freezing USDT vaults"
+     "Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms",
+     "Starknet introduces wallet privacy feature for DeFi activity"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -30,7 +30,7 @@
     },
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 13.0,
+     "stars_per_day": 13.07,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
@@ -47,14 +47,14 @@
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 77.0,
+   "score": 76.0,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 10,
-    "github_top_velocity": 70.6,
+    "github_top_velocity": 70.79,
     "headline_hits": 0,
     "sample_headlines": [],
-    "market_avg_7d_pct": 3.19,
+    "market_avg_7d_pct": 2.6,
     "sources_confirming": 1
    },
    "member_repos": [
@@ -65,7 +65,7 @@
     },
     {
      "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 19.0,
+     "stars_per_day": 19.2,
      "url": "https://github.com/h100envy/crawl-hive"
     },
     {
@@ -87,16 +87,16 @@
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 64.7,
+   "score": 64.8,
    "confidence": "High",
    "evidence": {
     "github_repos": 20,
-    "github_top_velocity": 32.7,
+    "github_top_velocity": 32.76,
     "headline_hits": 4,
     "sample_headlines": [
      "Capital starting to rotate back to crypto from AI: Raoul Pal",
-     "Godfather of AI and 400 Scientists Want AI Models Cut Off From the Internet",
-     "Developer Who Cloned Photoshop With AI Just Did the Same to Microsoft Office"
+     "Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says",
+     "BlackRock\u2019s Larry Fink Warns AI Data Center Halt Could Tip US Into Recession"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -109,7 +109,7 @@
     },
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 13.0,
+     "stars_per_day": 13.07,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
@@ -131,11 +131,11 @@
   },
   {
    "narrative": "Wallets & UX",
-   "score": 61.7,
+   "score": 61.8,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 19,
-    "github_top_velocity": 53.68,
+    "github_top_velocity": 53.75,
     "headline_hits": 1,
     "sample_headlines": [
      "Starknet introduces wallet privacy feature for DeFi activity"
@@ -151,7 +151,7 @@
     },
     {
      "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 14.92,
+     "stars_per_day": 15.0,
      "url": "https://github.com/NuvexNetwork/nuvex"
     },
     {
@@ -177,7 +177,7 @@
    "confidence": "Medium",
    "evidence": {
     "github_repos": 43,
-    "github_top_velocity": 50.33,
+    "github_top_velocity": 50.31,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -186,7 +186,7 @@
    "member_repos": [
     {
      "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 14.92,
+     "stars_per_day": 15.0,
      "url": "https://github.com/NuvexNetwork/nuvex"
     },
     {
@@ -196,7 +196,7 @@
     },
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 13.0,
+     "stars_per_day": 13.07,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
@@ -213,16 +213,15 @@
   },
   {
    "narrative": "Payments & Stablecoins",
-   "score": 25.6,
+   "score": 17.7,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 7,
-    "github_top_velocity": 1.65,
-    "headline_hits": 3,
+    "github_top_velocity": 1.72,
+    "headline_hits": 2,
     "sample_headlines": [
      "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
-     "Mastercard and BVNK Launch 'Global Money Platform' to Merge Fiat and Stablecoins",
-     "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny"
+     "Mastercard and BVNK Launch 'Global Money Platform' to Merge Fiat and Stablecoins"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 1
@@ -235,7 +234,7 @@
     },
     {
      "full_name": "blueshift-gg/solana-pull-program",
-     "stars_per_day": 0.43,
+     "stars_per_day": 0.5,
      "url": "https://github.com/blueshift-gg/solana-pull-program"
     },
     {
@@ -261,7 +260,7 @@
    "confidence": "Medium",
    "evidence": {
     "github_repos": 5,
-    "github_top_velocity": 0.86,
+    "github_top_velocity": 0.85,
     "headline_hits": 2,
     "sample_headlines": [
      "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
@@ -273,7 +272,7 @@
    "member_repos": [
     {
      "full_name": "vectorix-cross/CrossYield",
-     "stars_per_day": 0.48,
+     "stars_per_day": 0.47,
      "url": "https://github.com/vectorix-cross/CrossYield"
     },
     {

@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-15T21:24:18+00:00",
+ "generated_at": "2026-10-16T04:33:55+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 155.2,
+   "score": 140.2,
    "confidence": "High",
    "evidence": {
     "github_repos": 51,
-    "github_top_velocity": 115.23,
+    "github_top_velocity": 100.2,
     "headline_hits": 5,
     "sample_headlines": [
      "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
@@ -20,7 +20,7 @@
    "member_repos": [
     {
      "full_name": "cxmza/windle",
-     "stars_per_day": 60.67,
+     "stars_per_day": 45.5,
      "url": "https://github.com/cxmza/windle"
     },
     {
@@ -39,23 +39,23 @@
      "url": "https://github.com/QunatOrb/QuantOrb"
     },
     {
-     "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 2.37,
-     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
+     "full_name": "recogardtech/AutoPilotPM",
+     "stars_per_day": 2.41,
+     "url": "https://github.com/recogardtech/AutoPilotPM"
     }
    ]
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 76.0,
-   "confidence": "Medium",
+   "score": 81.3,
+   "confidence": "High",
    "evidence": {
     "github_repos": 10,
     "github_top_velocity": 70.79,
     "headline_hits": 0,
     "sample_headlines": [],
-    "market_avg_7d_pct": 2.6,
-    "sources_confirming": 1
+    "market_avg_7d_pct": -5.24,
+    "sources_confirming": 2
    },
    "member_repos": [
     {
@@ -80,23 +80,23 @@
     },
     {
      "full_name": "BordrlessDex/bordrless-programs",
-     "stars_per_day": 0.86,
+     "stars_per_day": 0.88,
      "url": "https://github.com/BordrlessDex/bordrless-programs"
     }
    ]
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 64.8,
+   "score": 73.5,
    "confidence": "High",
    "evidence": {
     "github_repos": 20,
-    "github_top_velocity": 32.76,
-    "headline_hits": 4,
+    "github_top_velocity": 33.45,
+    "headline_hits": 5,
     "sample_headlines": [
      "Capital starting to rotate back to crypto from AI: Raoul Pal",
-     "Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says",
-     "BlackRock\u2019s Larry Fink Warns AI Data Center Halt Could Tip US Into Recession"
+     "Hidden Text, a Fake Mailbox: How Researchers Got Rogue AI Agents to Talk",
+     "Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -104,7 +104,7 @@
    "member_repos": [
     {
      "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 14.0,
+     "stars_per_day": 14.6,
      "url": "https://github.com/SpaceDataRig/space-data-rig"
     },
     {
@@ -114,28 +114,28 @@
     },
     {
      "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 2.24,
+     "stars_per_day": 2.41,
      "url": "https://github.com/recogardtech/AutoPilotPM"
     },
     {
      "full_name": "GuiBibeau/solos",
-     "stars_per_day": 1.03,
+     "stars_per_day": 1.0,
      "url": "https://github.com/GuiBibeau/solos"
     },
     {
      "full_name": "PillCrew/claimchain",
-     "stars_per_day": 0.69,
+     "stars_per_day": 0.67,
      "url": "https://github.com/PillCrew/claimchain"
     }
    ]
   },
   {
    "narrative": "Wallets & UX",
-   "score": 61.8,
+   "score": 61.5,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 19,
-    "github_top_velocity": 53.75,
+    "github_top_velocity": 53.54,
     "headline_hits": 1,
     "sample_headlines": [
      "Starknet introduces wallet privacy feature for DeFi activity"
@@ -166,18 +166,18 @@
     },
     {
      "full_name": "thaorivera/crypto-wallet-generator-cracker",
-     "stars_per_day": 1.6,
+     "stars_per_day": 1.45,
      "url": "https://github.com/thaorivera/crypto-wallet-generator-cracker"
     }
    ]
   },
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 50.3,
+   "score": 50.9,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 43,
-    "github_top_velocity": 50.31,
+    "github_repos": 42,
+    "github_top_velocity": 50.88,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -191,7 +191,7 @@
     },
     {
      "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 14.0,
+     "stars_per_day": 14.6,
      "url": "https://github.com/SpaceDataRig/space-data-rig"
     },
     {
@@ -213,44 +213,44 @@
   },
   {
    "narrative": "Payments & Stablecoins",
-   "score": 17.7,
-   "confidence": "Medium",
+   "score": 23.1,
+   "confidence": "High",
    "evidence": {
-    "github_repos": 7,
-    "github_top_velocity": 1.72,
+    "github_repos": 8,
+    "github_top_velocity": 7.11,
     "headline_hits": 2,
     "sample_headlines": [
      "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
      "Mastercard and BVNK Launch 'Global Money Platform' to Merge Fiat and Stablecoins"
     ],
     "market_avg_7d_pct": null,
-    "sources_confirming": 1
+    "sources_confirming": 2
    },
    "member_repos": [
+    {
+     "full_name": "des35swim/hood-warfare",
+     "stars_per_day": 5.33,
+     "url": "https://github.com/des35swim/hood-warfare"
+    },
+    {
+     "full_name": "blueshift-gg/solana-pull-program",
+     "stars_per_day": 0.57,
+     "url": "https://github.com/blueshift-gg/solana-pull-program"
+    },
     {
      "full_name": "2274802010922/pipicachu",
      "stars_per_day": 0.55,
      "url": "https://github.com/2274802010922/pipicachu"
     },
     {
-     "full_name": "blueshift-gg/solana-pull-program",
-     "stars_per_day": 0.5,
-     "url": "https://github.com/blueshift-gg/solana-pull-program"
-    },
-    {
-     "full_name": "2274802010922/picachu__",
-     "stars_per_day": 0.26,
-     "url": "https://github.com/2274802010922/picachu__"
+     "full_name": "2274802010922/picachu_hackathon",
+     "stars_per_day": 0.25,
+     "url": "https://github.com/2274802010922/picachu_hackathon"
     },
     {
      "full_name": "ItsSVK/cipherpay",
      "stars_per_day": 0.2,
      "url": "https://github.com/ItsSVK/cipherpay"
-    },
-    {
-     "full_name": "nirholas/onchain-agent-wallets",
-     "stars_per_day": 0.11,
-     "url": "https://github.com/nirholas/onchain-agent-wallets"
     }
    ]
   },
@@ -298,40 +298,23 @@
    ]
   },
   {
-   "narrative": "Security & Threats",
-   "score": 8.2,
-   "confidence": "Low",
-   "evidence": {
-    "github_repos": 1,
-    "github_top_velocity": 0.2,
-    "headline_hits": 1,
-    "sample_headlines": [
-     "Brooklyn Prosecutors Take Down 112 Servers Behind Crypto Scam Targeting Russian Speakers"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 0
-   },
-   "member_repos": [
-    {
-     "full_name": "ItsSVK/cipherpay",
-     "stars_per_day": 0.2,
-     "url": "https://github.com/ItsSVK/cipherpay"
-    }
-   ]
-  },
-  {
    "narrative": "Consumer & Social",
-   "score": 1.9,
-   "confidence": "Low",
+   "score": 7.2,
+   "confidence": "Medium",
    "evidence": {
-    "github_repos": 4,
-    "github_top_velocity": 1.87,
+    "github_repos": 5,
+    "github_top_velocity": 7.18,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
-    "sources_confirming": 0
+    "sources_confirming": 1
    },
    "member_repos": [
+    {
+     "full_name": "des35swim/hood-warfare",
+     "stars_per_day": 5.33,
+     "url": "https://github.com/des35swim/hood-warfare"
+    },
     {
      "full_name": "uni-launch/solana-token-creator",
      "stars_per_day": 1.41,
@@ -344,13 +327,53 @@
     },
     {
      "full_name": "Laksz123/pulse-strike",
-     "stars_per_day": 0.14,
+     "stars_per_day": 0.12,
      "url": "https://github.com/Laksz123/pulse-strike"
     },
     {
      "full_name": "subhdotsol/solana-programs",
      "stars_per_day": 0.07,
      "url": "https://github.com/subhdotsol/solana-programs"
+    }
+   ]
+  },
+  {
+   "narrative": "DePIN & Physical Infra",
+   "score": 5.3,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 1,
+    "github_top_velocity": 5.33,
+    "headline_hits": 0,
+    "sample_headlines": [],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "des35swim/hood-warfare",
+     "stars_per_day": 5.33,
+     "url": "https://github.com/des35swim/hood-warfare"
+    }
+   ]
+  },
+  {
+   "narrative": "Security & Threats",
+   "score": 0.2,
+   "confidence": "Low",
+   "evidence": {
+    "github_repos": 1,
+    "github_top_velocity": 0.2,
+    "headline_hits": 0,
+    "sample_headlines": [],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 0
+   },
+   "member_repos": [
+    {
+     "full_name": "ItsSVK/cipherpay",
+     "stars_per_day": 0.2,
+     "url": "https://github.com/ItsSVK/cipherpay"
     }
    ]
   }

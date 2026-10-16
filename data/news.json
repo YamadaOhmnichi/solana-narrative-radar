@@ -63,6 +63,16 @@
  ],
  "decrypt": [
   {
+   "title": "Hidden Text, a Fake Mailbox: How Researchers Got Rogue AI Agents to Talk",
+   "pub": "Thu, 15 Oct 2026 22:16:03 +0000",
+   "link": "https://decrypt.co/381109/researchers-fleet-rouge-ai-agents-talk-alibaba"
+  },
+  {
+   "title": "Google Says It Just Cracked One of Quantum Computing's Biggest Bottlenecks",
+   "pub": "Thu, 15 Oct 2026 21:46:04 +0000",
+   "link": "https://decrypt.co/381102/google-cracked-quantum-computing-biggest-bottlenecks"
+  },
+  {
    "title": "Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms",
    "pub": "Thu, 15 Oct 2026 20:31:04 +0000",
    "link": "https://decrypt.co/381079/russia-ban-peer-to-peer-bitcoin-trading"
@@ -111,16 +121,6 @@
    "title": "Morning Minute: Solana Is About To Get Faster",
    "pub": "Thu, 15 Oct 2026 12:07:08 +0000",
    "link": "https://decrypt.co/381018/morning-minute-solana-is-about-to-get-faster"
-  },
-  {
-   "title": "Bitcoin Tests $81,000 as Rate Hike Fears Linger After Hot Inflation Data",
-   "pub": "Thu, 15 Oct 2026 11:48:42 +0000",
-   "link": "https://decrypt.co/381008/bitcoin-tests-81000-as-rate-hike-fears-linger-after-hot-inflation-data"
-  },
-  {
-   "title": "Brooklyn Prosecutors Take Down 112 Servers Behind Crypto Scam Targeting Russian Speakers",
-   "pub": "Thu, 15 Oct 2026 10:01:21 +0000",
-   "link": "https://decrypt.co/381000/brooklyn-prosecutors-take-down-112-servers-behind-crypto-scam-targeting-russian-speakers"
   }
  ],
  "cryptonews": [

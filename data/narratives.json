@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-16T04:33:55+00:00",
+ "generated_at": "2026-10-16T11:26:34+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 140.2,
+   "score": 140.1,
    "confidence": "High",
    "evidence": {
-    "github_repos": 51,
-    "github_top_velocity": 100.2,
+    "github_repos": 50,
+    "github_top_velocity": 100.06,
     "headline_hits": 5,
     "sample_headlines": [
      "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
@@ -25,12 +25,12 @@
     },
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 21.3,
+     "stars_per_day": 21.4,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 13.07,
+     "stars_per_day": 12.25,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
@@ -40,32 +40,34 @@
     },
     {
      "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 2.41,
+     "stars_per_day": 3.12,
      "url": "https://github.com/recogardtech/AutoPilotPM"
     }
    ]
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 81.3,
-   "confidence": "High",
+   "score": 82.7,
+   "confidence": "Medium",
    "evidence": {
     "github_repos": 10,
-    "github_top_velocity": 70.79,
-    "headline_hits": 0,
-    "sample_headlines": [],
-    "market_avg_7d_pct": -5.24,
-    "sources_confirming": 2
+    "github_top_velocity": 71.21,
+    "headline_hits": 1,
+    "sample_headlines": [
+     "GTA 6 Trailer Features Meme Coin\u2014And Solana Copycat Soars 2,900%"
+    ],
+    "market_avg_7d_pct": -1.73,
+    "sources_confirming": 1
    },
    "member_repos": [
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 21.3,
+     "stars_per_day": 21.4,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
      "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 19.2,
+     "stars_per_day": 19.4,
      "url": "https://github.com/h100envy/crawl-hive"
     },
     {
@@ -80,73 +82,31 @@
     },
     {
      "full_name": "BordrlessDex/bordrless-programs",
-     "stars_per_day": 0.88,
+     "stars_per_day": 1.0,
      "url": "https://github.com/BordrlessDex/bordrless-programs"
     }
    ]
   },
   {
-   "narrative": "AI Agents on Solana",
-   "score": 73.5,
+   "narrative": "Wallets & UX",
+   "score": 77.6,
    "confidence": "High",
    "evidence": {
-    "github_repos": 20,
-    "github_top_velocity": 33.45,
-    "headline_hits": 5,
+    "github_repos": 21,
+    "github_top_velocity": 53.64,
+    "headline_hits": 3,
     "sample_headlines": [
-     "Capital starting to rotate back to crypto from AI: Raoul Pal",
-     "Hidden Text, a Fake Mailbox: How Researchers Got Rogue AI Agents to Talk",
-     "Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says"
+     "OpenAI Model Used Testnet Ethereum Wallet Without Permission to Finish Coding Task",
+     "What Is a Hardware Wallet? Crypto Cold Storage Explained",
+     "Starknet introduces wallet privacy feature for DeFi activity"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
    },
    "member_repos": [
     {
-     "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 14.6,
-     "url": "https://github.com/SpaceDataRig/space-data-rig"
-    },
-    {
-     "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 13.07,
-     "url": "https://github.com/NuvexNetwork/nuvex-services"
-    },
-    {
-     "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 2.41,
-     "url": "https://github.com/recogardtech/AutoPilotPM"
-    },
-    {
-     "full_name": "GuiBibeau/solos",
-     "stars_per_day": 1.0,
-     "url": "https://github.com/GuiBibeau/solos"
-    },
-    {
-     "full_name": "PillCrew/claimchain",
-     "stars_per_day": 0.67,
-     "url": "https://github.com/PillCrew/claimchain"
-    }
-   ]
-  },
-  {
-   "narrative": "Wallets & UX",
-   "score": 61.5,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 19,
-    "github_top_velocity": 53.54,
-    "headline_hits": 1,
-    "sample_headlines": [
-     "Starknet introduces wallet privacy feature for DeFi activity"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 21.3,
+     "stars_per_day": 21.4,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
@@ -172,12 +132,56 @@
    ]
   },
   {
+   "narrative": "AI Agents on Solana",
+   "score": 73.7,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 20,
+    "github_top_velocity": 33.72,
+    "headline_hits": 5,
+    "sample_headlines": [
+     "Capital starting to rotate back to crypto from AI: Raoul Pal",
+     "Hidden Text, a Fake Mailbox: How Researchers Got Rogue AI Agents to Talk",
+     "Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 2
+   },
+   "member_repos": [
+    {
+     "full_name": "SpaceDataRig/space-data-rig",
+     "stars_per_day": 15.0,
+     "url": "https://github.com/SpaceDataRig/space-data-rig"
+    },
+    {
+     "full_name": "NuvexNetwork/nuvex-services",
+     "stars_per_day": 12.25,
+     "url": "https://github.com/NuvexNetwork/nuvex-services"
+    },
+    {
+     "full_name": "recogardtech/AutoPilotPM",
+     "stars_per_day": 3.12,
+     "url": "https://github.com/recogardtech/AutoPilotPM"
+    },
+    {
+     "full_name": "GuiBibeau/solos",
+     "stars_per_day": 1.0,
+     "url": "https://github.com/GuiBibeau/solos"
+    },
+    {
+     "full_name": "PillCrew/claimchain",
+     "stars_per_day": 0.67,
+     "url": "https://github.com/PillCrew/claimchain"
+    }
+   ]
+  },
+  {
    "narrative": "Dev Tooling & Infra",
-   "score": 50.9,
+   "score": 50.2,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 42,
-    "github_top_velocity": 50.88,
+    "github_top_velocity": 50.23,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -191,17 +195,17 @@
     },
     {
      "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 14.6,
+     "stars_per_day": 15.0,
      "url": "https://github.com/SpaceDataRig/space-data-rig"
     },
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 13.07,
+     "stars_per_day": 12.25,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
      "full_name": "propavingk/SlotDrift",
-     "stars_per_day": 2.56,
+     "stars_per_day": 2.46,
      "url": "https://github.com/propavingk/SlotDrift"
     },
     {
@@ -213,11 +217,11 @@
   },
   {
    "narrative": "Payments & Stablecoins",
-   "score": 23.1,
+   "score": 23.0,
    "confidence": "High",
    "evidence": {
     "github_repos": 8,
-    "github_top_velocity": 7.11,
+    "github_top_velocity": 6.99,
     "headline_hits": 2,
     "sample_headlines": [
      "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
@@ -234,12 +238,12 @@
     },
     {
      "full_name": "blueshift-gg/solana-pull-program",
-     "stars_per_day": 0.57,
+     "stars_per_day": 0.53,
      "url": "https://github.com/blueshift-gg/solana-pull-program"
     },
     {
      "full_name": "2274802010922/pipicachu",
-     "stars_per_day": 0.55,
+     "stars_per_day": 0.5,
      "url": "https://github.com/2274802010922/pipicachu"
     },
     {
@@ -249,18 +253,18 @@
     },
     {
      "full_name": "ItsSVK/cipherpay",
-     "stars_per_day": 0.2,
+     "stars_per_day": 0.17,
      "url": "https://github.com/ItsSVK/cipherpay"
     }
    ]
   },
   {
    "narrative": "RWA & Tokenization",
-   "score": 16.9,
+   "score": 16.8,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 5,
-    "github_top_velocity": 0.85,
+    "github_repos": 4,
+    "github_top_velocity": 0.79,
     "headline_hits": 2,
     "sample_headlines": [
      "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
@@ -277,7 +281,7 @@
     },
     {
      "full_name": "truenorth-lj/sofinance-public",
-     "stars_per_day": 0.22,
+     "stars_per_day": 0.2,
      "url": "https://github.com/truenorth-lj/sofinance-public"
     },
     {
@@ -289,11 +293,6 @@
      "full_name": "keelwright/slipway",
      "stars_per_day": 0.04,
      "url": "https://github.com/keelwright/slipway"
-    },
-    {
-     "full_name": "thesithunyein/owed",
-     "stars_per_day": 0.04,
-     "url": "https://github.com/thesithunyein/owed"
     }
    ]
   },
@@ -359,11 +358,11 @@
   },
   {
    "narrative": "Security & Threats",
-   "score": 0.2,
+   "score": 0.7,
    "confidence": "Low",
    "evidence": {
-    "github_repos": 1,
-    "github_top_velocity": 0.2,
+    "github_repos": 2,
+    "github_top_velocity": 0.67,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -371,8 +370,13 @@
    },
    "member_repos": [
     {
+     "full_name": "Portaudit/referee",
+     "stars_per_day": 0.5,
+     "url": "https://github.com/Portaudit/referee"
+    },
+    {
      "full_name": "ItsSVK/cipherpay",
-     "stars_per_day": 0.2,
+     "stars_per_day": 0.17,
      "url": "https://github.com/ItsSVK/cipherpay"
     }
    ]

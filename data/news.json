@@ -1,6 +1,21 @@
 {
  "cointelegraph": [
   {
+   "title": "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
+   "pub": "Fri, 16 Oct 2026 15:52:28 +0000",
+   "link": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-crypto-biz?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
+  },
+  {
+   "title": "Here\u2019s what happened in crypto today",
+   "pub": "Fri, 16 Oct 2026 13:56:15 +0000",
+   "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
+  },
+  {
+   "title": "Solana\u2019s Liu says Shanghai event postponed over registration surge",
+   "pub": "Fri, 16 Oct 2026 11:22:47 +0000",
+   "link": "https://cointelegraph.com/news/solana-shanghai-postponed-exceeding-event-cap?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
+  },
+  {
    "title": "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
    "pub": "Tue, 13 Oct 2026 19:48:06 +0000",
    "link": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-solana-bnb-chain?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
@@ -44,24 +59,34 @@
    "title": "Kyle Samani predicts SOL flippening, claims \u2018no one\u2019 uses ETH",
    "pub": "Mon, 21 Sep 2026 13:30:00 +0000",
    "link": "https://cointelegraph.com/magazine/kyle-samani-predicts-sol-flippening-claims-no-one-uses-eth?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "ZetaChain holders approve plan to wind down L1, move ZETA to Solana",
-   "pub": "Mon, 21 Sep 2026 07:31:47 +0000",
-   "link": "https://cointelegraph.com/news/zetachain-shutdown-zeta-solana-migration?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Solana more than triples transaction size limit with mainnet upgrade",
-   "pub": "Tue, 15 Sep 2026 08:18:53 +0000",
-   "link": "https://cointelegraph.com/news/solana-transaction-size-limit-4096-bytes-upgrade?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Solana sees record 263K tokens issued in a single day",
-   "pub": "Thu, 10 Sep 2026 13:00:00 +0000",
-   "link": "https://cointelegraph.com/news/solana-record-263k-tokens-issued?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
   }
  ],
  "decrypt": [
+  {
+   "title": "CFTC Wants to Drop Gemini\u2019s $5M Settlement. A Judge Just Said No",
+   "pub": "Fri, 16 Oct 2026 16:36:04 +0000",
+   "link": "https://decrypt.co/381149/cftc-wants-drop-gemini-5m-settlement-judge-said-no"
+  },
+  {
+   "title": "Bitcoin Bounces, But Where Does It Go Next? Here\u2019s What the Charts Say",
+   "pub": "Fri, 16 Oct 2026 16:06:05 +0000",
+   "link": "https://decrypt.co/381150/bitcoin-price-rebounds-where-next-charts"
+  },
+  {
+   "title": "Three Canadian Armed Forces Members Charged in Kidnapping of Crypto Exchange Owner",
+   "pub": "Fri, 16 Oct 2026 15:43:58 +0000",
+   "link": "https://decrypt.co/381148/three-canadian-armed-forces-members-charged-in-kidnapping-of-crypto-exchange-owner"
+  },
+  {
+   "title": "Scammer Lost $4.8M in Bitcoin to Tampered Ledger Wallets: Chainalysis",
+   "pub": "Fri, 16 Oct 2026 12:22:18 +0000",
+   "link": "https://decrypt.co/381141/scammer-lost-4-8m-in-bitcoin-to-tampered-ledger-wallets-chainalysis"
+  },
+  {
+   "title": "Morning Minute: Google Clears a Major Quantum Hurdle, Bitcoin Still Safe",
+   "pub": "Fri, 16 Oct 2026 11:46:54 +0000",
+   "link": "https://decrypt.co/381138/morning-minute-google-clears-a-major-quantum-hurdle-bitcoin-still-safe"
+  },
   {
    "title": "OpenAI Model Used Testnet Ethereum Wallet Without Permission to Finish Coding Task",
    "pub": "Fri, 16 Oct 2026 10:39:08 +0000",
@@ -96,31 +121,6 @@
    "title": "Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says",
    "pub": "Thu, 15 Oct 2026 19:16:04 +0000",
    "link": "https://decrypt.co/381077/bitwise-cio-bitcoin-wins-ai-boom-or-bust"
-  },
-  {
-   "title": "BlackRock\u2019s Larry Fink Warns AI Data Center Halt Could Tip US Into Recession",
-   "pub": "Thu, 15 Oct 2026 18:16:04 +0000",
-   "link": "https://decrypt.co/381068/blackrock-larry-fink-ai-data-center-halt-recession"
-  },
-  {
-   "title": "Google Says AI Isn't Building Itself Yet\u2014Even Though It Writes 75% of the Code",
-   "pub": "Thu, 15 Oct 2026 17:36:05 +0000",
-   "link": "https://decrypt.co/381061/google-deepmind-ai-isnt-building-itself-writes-most-code"
-  },
-  {
-   "title": "Mastercard and BVNK Launch 'Global Money Platform' to Merge Fiat and Stablecoins",
-   "pub": "Thu, 15 Oct 2026 16:28:50 +0000",
-   "link": "https://decrypt.co/381057/mastercard-bvnk-global-money-platform-fiat-stablecoins"
-  },
-  {
-   "title": "Bitcoin Whipsaws as Crypto Liquidations Near $1 Billion",
-   "pub": "Thu, 15 Oct 2026 15:20:41 +0000",
-   "link": "https://decrypt.co/381044/bitcoin-whipsaws-crypto-liquidations-near-1-billion"
-  },
-  {
-   "title": "Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures",
-   "pub": "Thu, 15 Oct 2026 14:27:18 +0000",
-   "link": "https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures"
   }
  ],
  "cryptonews": [

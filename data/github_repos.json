@@ -52,10 +52,10 @@
   "full_name": "h100envy/crawl-hive",
   "url": "https://github.com/h100envy/crawl-hive",
   "description": "A swarm of user-owned crawlers hunting memecoin signal on Solana. Spawn, earn reputation, trade crawlers, vote.",
-  "stars": 98,
+  "stars": 99,
   "created": "2026-10-10T14:29:26Z",
   "language": "TypeScript",
-  "stars_per_day": 16.33,
+  "stars_per_day": 16.5,
   "age_days": 6,
   "topics": [
    "crawler",
@@ -108,10 +108,10 @@
   "full_name": "SpaceDataRig/space-data-rig",
   "url": "https://github.com/SpaceDataRig/space-data-rig",
   "description": "Autonomous five-seat AI science rig: reproducible exoplanet transit detection on NASA Exoplanet Archive data, with Solana mainnet provenance anchoring.",
-  "stars": 78,
+  "stars": 79,
   "created": "2026-10-10T11:47:32Z",
   "language": "TypeScript",
-  "stars_per_day": 13.0,
+  "stars_per_day": 13.17,
   "age_days": 6,
   "topics": []
  },
@@ -189,10 +189,10 @@
   "full_name": "recogardtech/AutoPilotPM",
   "url": "https://github.com/recogardtech/AutoPilotPM",
   "description": "Open-source autonomous trading system powered by AI, built to monitor and trade across 1,000+ markets including Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs and multiple EVM networks. Finds o",
-  "stars": 59,
+  "stars": 61,
   "created": "2026-09-28T16:18:16Z",
   "language": "TypeScript",
-  "stars_per_day": 3.28,
+  "stars_per_day": 3.39,
   "age_days": 18,
   "topics": []
  },
@@ -502,8 +502,8 @@
   "stars": 15,
   "created": "2026-09-13T17:36:27Z",
   "language": "Solidity",
-  "stars_per_day": 0.47,
-  "age_days": 32,
+  "stars_per_day": 0.45,
+  "age_days": 33,
   "topics": [
    "defi",
    "ethereum",
@@ -607,8 +607,8 @@
   "stars": 17,
   "created": "2026-08-23T20:45:06Z",
   "language": null,
-  "stars_per_day": 0.32,
-  "age_days": 53,
+  "stars_per_day": 0.31,
+  "age_days": 54,
   "topics": [
    "blockchain",
    "crypto",
@@ -627,7 +627,7 @@
   "created": "2026-08-23T20:45:08Z",
   "language": null,
   "stars_per_day": 0.28,
-  "age_days": 53,
+  "age_days": 54,
   "topics": [
    "address-validator",
    "balance-checker",
@@ -647,7 +647,7 @@
   "created": "2026-08-23T20:44:55Z",
   "language": null,
   "stars_per_day": 0.28,
-  "age_days": 53,
+  "age_days": 54,
   "topics": [
    "api-key",
    "manager",
@@ -741,24 +741,6 @@
   ]
  },
  {
-  "full_name": "Supernova-protocol/svm-core",
-  "url": "https://github.com/Supernova-protocol/svm-core",
-  "description": "Core SVM smart contracts and execution architecture. Featuring deterministic Jito routing and immutable War Chest PDAs. (Private Beta)",
-  "stars": 2,
-  "created": "2026-10-03T18:45:29Z",
-  "language": null,
-  "stars_per_day": 0.17,
-  "age_days": 12,
-  "topics": [
-   "anchor",
-   "defi",
-   "jito",
-   "rust",
-   "smart-contracts",
-   "solana"
-  ]
- },
- {
   "full_name": "New1Direction/repo.ing",
   "url": "https://github.com/New1Direction/repo.ing",
   "description": "The market layer for open source. GitHub repository markets on Solana, builder earnings, and transparent protocol accounting.",
@@ -777,6 +759,24 @@
   ]
  },
  {
+  "full_name": "Supernova-protocol/svm-core",
+  "url": "https://github.com/Supernova-protocol/svm-core",
+  "description": "Core SVM smart contracts and execution architecture. Featuring deterministic Jito routing and immutable War Chest PDAs. (Private Beta)",
+  "stars": 2,
+  "created": "2026-10-03T18:45:29Z",
+  "language": null,
+  "stars_per_day": 0.15,
+  "age_days": 13,
+  "topics": [
+   "anchor",
+   "defi",
+   "jito",
+   "rust",
+   "smart-contracts",
+   "solana"
+  ]
+ },
+ {
   "full_name": "alizeeshan1234/svmScope",
   "url": "https://github.com/alizeeshan1234/svmScope",
   "description": "Transaction autopsy for Solana \u2014 decode any transaction, replay it locally in an embedded SVM, mutate state, time-travel, and freeze it into offline test fixtures",
@@ -784,7 +784,7 @@
   "created": "2026-08-22T18:04:22Z",
   "language": "Rust",
   "stars_per_day": 0.15,
-  "age_days": 54,
+  "age_days": 55,
   "topics": [
    "anchor",
    "blockchain",
@@ -964,7 +964,7 @@
   "created": "2026-09-08T21:09:18Z",
   "language": "Solidity",
   "stars_per_day": 0.11,
-  "age_days": 37,
+  "age_days": 38,
   "topics": [
    "agents-md",
    "ai-agents",
@@ -1039,7 +1039,7 @@
   "created": "2026-09-20T18:35:16Z",
   "language": "Python",
   "stars_per_day": 0.08,
-  "age_days": 25,
+  "age_days": 26,
   "topics": [
    "ai-agent",
    "defi",
@@ -1308,7 +1308,7 @@
   "created": "2026-09-05T17:41:31Z",
   "language": "TypeScript",
   "stars_per_day": 0.05,
-  "age_days": 40,
+  "age_days": 41,
   "topics": [
    "anchor",
    "devnet",
@@ -1351,17 +1351,6 @@
   ]
  },
  {
-  "full_name": "plungarini/toggld-program",
-  "url": "https://github.com/plungarini/toggld-program",
-  "description": "On-chain Solana program behind toggld.win, published for independent verified-build verification",
-  "stars": 1,
-  "created": "2026-09-17T17:09:31Z",
-  "language": "Rust",
-  "stars_per_day": 0.04,
-  "age_days": 28,
-  "topics": []
- },
- {
   "full_name": "magpiecapital/magpie-mcp",
   "url": "https://github.com/magpiecapital/magpie-mcp",
   "description": "MCP server for Magpie Capital \u2014 gives LLMs and agents native tools for the Solana lending protocol: live stats, collateral catalog, loan terms, x402 agent endpoints.",
@@ -1379,26 +1368,6 @@
    "model-context-protocol",
    "solana",
    "x402"
-  ]
- },
- {
-  "full_name": "w1th0ut/nova-radar",
-  "url": "https://github.com/w1th0ut/nova-radar",
-  "description": "High-velocity Solana & Robinhood momentum scanner, 4-layer risk gates, DLMM LP yield optimizer, and 1-hour tracker built on GMGN orderflow data with deterministic Telegram alerts.",
-  "stars": 2,
-  "created": "2026-08-19T18:54:25Z",
-  "language": "Python",
-  "stars_per_day": 0.04,
-  "age_days": 57,
-  "topics": [
-   "automated-trading",
-   "crypto",
-   "defi",
-   "dexscreener",
-   "dlmm",
-   "gmgn",
-   "liquidity-pool",
-   "memecoins"
   ]
  },
  {
@@ -1428,6 +1397,17 @@
   "language": "Rust",
   "stars_per_day": 0.03,
   "age_days": 58,
+  "topics": []
+ },
+ {
+  "full_name": "plungarini/toggld-program",
+  "url": "https://github.com/plungarini/toggld-program",
+  "description": "On-chain Solana program behind toggld.win, published for independent verified-build verification",
+  "stars": 1,
+  "created": "2026-09-17T17:09:31Z",
+  "language": "Rust",
+  "stars_per_day": 0.03,
+  "age_days": 29,
   "topics": []
  },
  {
@@ -1535,6 +1515,26 @@
   ]
  },
  {
+  "full_name": "w1th0ut/nova-radar",
+  "url": "https://github.com/w1th0ut/nova-radar",
+  "description": "High-velocity Solana & Robinhood momentum scanner, 4-layer risk gates, DLMM LP yield optimizer, and 1-hour tracker built on GMGN orderflow data with deterministic Telegram alerts.",
+  "stars": 2,
+  "created": "2026-08-19T18:54:25Z",
+  "language": "Python",
+  "stars_per_day": 0.03,
+  "age_days": 58,
+  "topics": [
+   "automated-trading",
+   "crypto",
+   "defi",
+   "dexscreener",
+   "dlmm",
+   "gmgn",
+   "liquidity-pool",
+   "memecoins"
+  ]
+ },
+ {
   "full_name": "Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
   "url": "https://github.com/Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
   "description": "",
@@ -1564,7 +1564,7 @@
   "created": "2026-08-25T17:14:46Z",
   "language": "Rust",
   "stars_per_day": 0.02,
-  "age_days": 51,
+  "age_days": 52,
   "topics": []
  },
  {

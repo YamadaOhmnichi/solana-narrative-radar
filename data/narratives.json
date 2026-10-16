@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-10-16T16:41:03+00:00",
+ "generated_at": "2026-10-16T21:10:48+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 142.5,
+   "score": 142.6,
    "confidence": "High",
    "evidence": {
     "github_repos": 49,
-    "github_top_velocity": 94.46,
+    "github_top_velocity": 94.57,
     "headline_hits": 6,
     "sample_headlines": [
      "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
      "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
-     "Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms"
+     "Bitcoin Treasury Giant Strategy Faces Index Removal Under Finalized MSCI Rules"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -40,7 +40,7 @@
     },
     {
      "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 3.28,
+     "stars_per_day": 3.39,
      "url": "https://github.com/recogardtech/AutoPilotPM"
     }
    ]
@@ -51,12 +51,12 @@
    "confidence": "High",
    "evidence": {
     "github_repos": 10,
-    "github_top_velocity": 62.02,
+    "github_top_velocity": 62.18,
     "headline_hits": 1,
     "sample_headlines": [
      "GTA 6 Trailer Features Meme Coin\u2014And Solana Copycat Soars 2,900%"
     ],
-    "market_avg_7d_pct": -6.18,
+    "market_avg_7d_pct": -6.1,
     "sources_confirming": 2
    },
    "member_repos": [
@@ -67,7 +67,7 @@
     },
     {
      "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 16.33,
+     "stars_per_day": 16.5,
      "url": "https://github.com/h100envy/crawl-hive"
     },
     {
@@ -89,16 +89,16 @@
   },
   {
    "narrative": "Wallets & UX",
-   "score": 81.7,
+   "score": 73.7,
    "confidence": "High",
    "evidence": {
     "github_repos": 21,
     "github_top_velocity": 49.66,
-    "headline_hits": 4,
+    "headline_hits": 3,
     "sample_headlines": [
      "Scammer Lost $4.8M in Bitcoin to Tampered Ledger Wallets: Chainalysis",
      "OpenAI Model Used Testnet Ethereum Wallet Without Permission to Finish Coding Task",
-     "What Is a Hardware Wallet? Crypto Cold Storage Explained"
+     "Starknet introduces wallet privacy feature for DeFi activity"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -133,16 +133,15 @@
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 55.9,
+   "score": 48.2,
    "confidence": "High",
    "evidence": {
     "github_repos": 20,
-    "github_top_velocity": 31.91,
-    "headline_hits": 3,
+    "github_top_velocity": 32.19,
+    "headline_hits": 2,
     "sample_headlines": [
      "Capital starting to rotate back to crypto from AI: Raoul Pal",
-     "Hidden Text, a Fake Mailbox: How Researchers Got Rogue AI Agents to Talk",
-     "Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says"
+     "India's Cyber Agency Says AI Agents Read Confidential Business Records Without Authorization"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -150,7 +149,7 @@
    "member_repos": [
     {
      "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 13.0,
+     "stars_per_day": 13.17,
      "url": "https://github.com/SpaceDataRig/space-data-rig"
     },
     {
@@ -160,7 +159,7 @@
     },
     {
      "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 3.28,
+     "stars_per_day": 3.39,
      "url": "https://github.com/recogardtech/AutoPilotPM"
     },
     {
@@ -177,11 +176,11 @@
   },
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 47.7,
+   "score": 47.9,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 43,
-    "github_top_velocity": 47.7,
+    "github_top_velocity": 47.87,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -195,7 +194,7 @@
     },
     {
      "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 13.0,
+     "stars_per_day": 13.17,
      "url": "https://github.com/SpaceDataRig/space-data-rig"
     },
     {
@@ -221,7 +220,7 @@
    "confidence": "Medium",
    "evidence": {
     "github_repos": 4,
-    "github_top_velocity": 0.79,
+    "github_top_velocity": 0.77,
     "headline_hits": 3,
     "sample_headlines": [
      "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
@@ -234,7 +233,7 @@
    "member_repos": [
     {
      "full_name": "vectorix-cross/CrossYield",
-     "stars_per_day": 0.47,
+     "stars_per_day": 0.45,
      "url": "https://github.com/vectorix-cross/CrossYield"
     },
     {
@@ -256,17 +255,18 @@
   },
   {
    "narrative": "Payments & Stablecoins",
-   "score": 13.5,
-   "confidence": "Medium",
+   "score": 21.5,
+   "confidence": "High",
    "evidence": {
     "github_repos": 7,
     "github_top_velocity": 5.49,
-    "headline_hits": 1,
+    "headline_hits": 2,
     "sample_headlines": [
-     "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand"
+     "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
+     "Circle Plans Push Into 40 Emerging Markets as Stablecoins Go Mainstream, CEO Says"
     ],
     "market_avg_7d_pct": null,
-    "sources_confirming": 1
+    "sources_confirming": 2
    },
    "member_repos": [
     {
@@ -298,17 +298,18 @@
   },
   {
    "narrative": "Security & Threats",
-   "score": 8.5,
-   "confidence": "Low",
+   "score": 16.5,
+   "confidence": "Medium",
    "evidence": {
     "github_repos": 1,
     "github_top_velocity": 0.5,
-    "headline_hits": 1,
+    "headline_hits": 2,
     "sample_headlines": [
+     "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot",
      "Scammer Lost $4.8M in Bitcoin to Tampered Ledger Wallets: Chainalysis"
     ],
     "market_avg_7d_pct": null,
-    "sources_confirming": 0
+    "sources_confirming": 1
    },
    "member_repos": [
     {

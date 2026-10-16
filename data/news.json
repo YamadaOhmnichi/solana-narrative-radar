@@ -1,14 +1,14 @@
 {
  "cointelegraph": [
   {
+   "title": "Here\u2019s what happened in crypto today",
+   "pub": "Fri, 16 Oct 2026 19:17:04 +0000",
+   "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
+  },
+  {
    "title": "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
    "pub": "Fri, 16 Oct 2026 15:52:28 +0000",
    "link": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-crypto-biz?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Here\u2019s what happened in crypto today",
-   "pub": "Fri, 16 Oct 2026 13:56:15 +0000",
-   "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
   },
   {
    "title": "Solana\u2019s Liu says Shanghai event postponed over registration surge",
@@ -63,6 +63,31 @@
  ],
  "decrypt": [
   {
+   "title": "Tesla Roadster Rocket Is the Cool 'Flying' Car You Can\u2019t Have",
+   "pub": "Fri, 16 Oct 2026 20:16:04 +0000",
+   "link": "https://decrypt.co/381184/tesla-roadster-rocket-cool-flying-car-you-cant-have"
+  },
+  {
+   "title": "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot",
+   "pub": "Fri, 16 Oct 2026 19:36:04 +0000",
+   "link": "https://decrypt.co/381177/hackers-jailbreak-iphone-18-pro-survives-reboot"
+  },
+  {
+   "title": "Circle Plans Push Into 40 Emerging Markets as Stablecoins Go Mainstream, CEO Says",
+   "pub": "Fri, 16 Oct 2026 18:55:37 +0000",
+   "link": "https://decrypt.co/381178/circle-40-emerging-markets-stablecoins-go-mainstream"
+  },
+  {
+   "title": "Bitcoin Treasury Giant Strategy Faces Index Removal Under Finalized MSCI Rules",
+   "pub": "Fri, 16 Oct 2026 18:16:04 +0000",
+   "link": "https://decrypt.co/381168/bitcoin-treasury-giant-strategy-faces-index-removal-under-finalized-msci-rules"
+  },
+  {
+   "title": "India's Cyber Agency Says AI Agents Read Confidential Business Records Without Authorization",
+   "pub": "Fri, 16 Oct 2026 17:48:06 +0000",
+   "link": "https://decrypt.co/381165/indias-cyber-agency-ai-agents-read-confidential-business-records"
+  },
+  {
    "title": "CFTC Wants to Drop Gemini\u2019s $5M Settlement. A Judge Just Said No",
    "pub": "Fri, 16 Oct 2026 16:36:04 +0000",
    "link": "https://decrypt.co/381149/cftc-wants-drop-gemini-5m-settlement-judge-said-no"
@@ -96,31 +121,6 @@
    "title": "GTA 6 Trailer Features Meme Coin\u2014And Solana Copycat Soars 2,900%",
    "pub": "Fri, 16 Oct 2026 10:16:06 +0000",
    "link": "https://decrypt.co/381122/gta-6-trailer-features-meme-coin-and-solana-copycat-soars-2900"
-  },
-  {
-   "title": "What Is a Hardware Wallet? Crypto Cold Storage Explained",
-   "pub": "Fri, 16 Oct 2026 09:10:48 +0000",
-   "link": "https://decrypt.co/resources/what-is-a-hardware-wallet-crypto-cold-storage-explained"
-  },
-  {
-   "title": "Hidden Text, a Fake Mailbox: How Researchers Got Rogue AI Agents to Talk",
-   "pub": "Thu, 15 Oct 2026 22:16:03 +0000",
-   "link": "https://decrypt.co/381109/researchers-fleet-rouge-ai-agents-talk-alibaba"
-  },
-  {
-   "title": "Google Says It Just Cracked One of Quantum Computing's Biggest Bottlenecks",
-   "pub": "Thu, 15 Oct 2026 21:46:04 +0000",
-   "link": "https://decrypt.co/381102/google-cracked-quantum-computing-biggest-bottlenecks"
-  },
-  {
-   "title": "Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms",
-   "pub": "Thu, 15 Oct 2026 20:31:04 +0000",
-   "link": "https://decrypt.co/381079/russia-ban-peer-to-peer-bitcoin-trading"
-  },
-  {
-   "title": "Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says",
-   "pub": "Thu, 15 Oct 2026 19:16:04 +0000",
-   "link": "https://decrypt.co/381077/bitwise-cio-bitcoin-wins-ai-boom-or-bust"
   }
  ],
  "cryptonews": [

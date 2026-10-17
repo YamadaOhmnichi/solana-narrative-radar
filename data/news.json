@@ -2,8 +2,13 @@
  "cointelegraph": [
   {
    "title": "Here\u2019s what happened in crypto today",
-   "pub": "Fri, 16 Oct 2026 19:17:04 +0000",
+   "pub": "Sat, 17 Oct 2026 13:29:00 +0000",
    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
+  },
+  {
+   "title": "Solana shows resilience, but some areas need continued observation, Fidelity says",
+   "pub": "Sat, 17 Oct 2026 12:58:03 +0000",
+   "link": "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
   },
   {
    "title": "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
@@ -54,14 +59,19 @@
    "title": "Crypto\u2019s wild boom-and-bust cycles are fading, Solstice CEO says",
    "pub": "Tue, 22 Sep 2026 08:06:23 +0000",
    "link": "https://cointelegraph.com/news/crypto-bull-runs-liquidity-solstice-ceo?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Kyle Samani predicts SOL flippening, claims \u2018no one\u2019 uses ETH",
-   "pub": "Mon, 21 Sep 2026 13:30:00 +0000",
-   "link": "https://cointelegraph.com/magazine/kyle-samani-predicts-sol-flippening-claims-no-one-uses-eth?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
   }
  ],
  "decrypt": [
+  {
+   "title": "Chinese Startup StepFun Launches a Phone Built Around an AI Agent, Not Apps",
+   "pub": "Sat, 17 Oct 2026 15:01:03 +0000",
+   "link": "https://decrypt.co/381202/chinese-startup-stepfun-phone-ai-agent"
+  },
+  {
+   "title": "TokenMaxxing: How to Get the Most Out of Your AI Models",
+   "pub": "Sat, 17 Oct 2026 13:01:04 +0000",
+   "link": "https://decrypt.co/381213/tokenmaxxing-how-get-most-out-your-ai-models"
+  },
   {
    "title": "Tesla Roadster Rocket Is the Cool 'Flying' Car You Can\u2019t Have",
    "pub": "Fri, 16 Oct 2026 20:16:04 +0000",
@@ -111,16 +121,6 @@
    "title": "Morning Minute: Google Clears a Major Quantum Hurdle, Bitcoin Still Safe",
    "pub": "Fri, 16 Oct 2026 11:46:54 +0000",
    "link": "https://decrypt.co/381138/morning-minute-google-clears-a-major-quantum-hurdle-bitcoin-still-safe"
-  },
-  {
-   "title": "OpenAI Model Used Testnet Ethereum Wallet Without Permission to Finish Coding Task",
-   "pub": "Fri, 16 Oct 2026 10:39:08 +0000",
-   "link": "https://decrypt.co/381123/openai-model-used-testnet-ethereum-wallet-without-permission-to-finish-coding-task"
-  },
-  {
-   "title": "GTA 6 Trailer Features Meme Coin\u2014And Solana Copycat Soars 2,900%",
-   "pub": "Fri, 16 Oct 2026 10:16:06 +0000",
-   "link": "https://decrypt.co/381122/gta-6-trailer-features-meme-coin-and-solana-copycat-soars-2900"
   }
  ],
  "cryptonews": [

@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-16T21:10:48+00:00",
+ "generated_at": "2026-10-17T04:28:43+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 142.6,
+   "score": 133.5,
    "confidence": "High",
    "evidence": {
-    "github_repos": 49,
-    "github_top_velocity": 94.57,
+    "github_repos": 48,
+    "github_top_velocity": 85.46,
     "headline_hits": 6,
     "sample_headlines": [
      "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
@@ -20,7 +20,7 @@
    "member_repos": [
     {
      "full_name": "cxmza/windle",
-     "stars_per_day": 45.5,
+     "stars_per_day": 36.4,
      "url": "https://github.com/cxmza/windle"
     },
     {
@@ -30,7 +30,7 @@
     },
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 12.25,
+     "stars_per_day": 12.31,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
@@ -40,23 +40,23 @@
     },
     {
      "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 3.39,
+     "stars_per_day": 3.5,
      "url": "https://github.com/recogardtech/AutoPilotPM"
     }
    ]
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 82.4,
+   "score": 85.9,
    "confidence": "High",
    "evidence": {
     "github_repos": 10,
-    "github_top_velocity": 62.18,
+    "github_top_velocity": 62.17,
     "headline_hits": 1,
     "sample_headlines": [
      "GTA 6 Trailer Features Meme Coin\u2014And Solana Copycat Soars 2,900%"
     ],
-    "market_avg_7d_pct": -6.1,
+    "market_avg_7d_pct": -7.85,
     "sources_confirming": 2
    },
    "member_repos": [
@@ -67,7 +67,7 @@
     },
     {
      "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 16.5,
+     "stars_per_day": 16.67,
      "url": "https://github.com/h100envy/crawl-hive"
     },
     {
@@ -82,18 +82,18 @@
     },
     {
      "full_name": "BordrlessDex/bordrless-programs",
-     "stars_per_day": 1.25,
+     "stars_per_day": 1.11,
      "url": "https://github.com/BordrlessDex/bordrless-programs"
     }
    ]
   },
   {
    "narrative": "Wallets & UX",
-   "score": 73.7,
+   "score": 73.5,
    "confidence": "High",
    "evidence": {
     "github_repos": 21,
-    "github_top_velocity": 49.66,
+    "github_top_velocity": 49.54,
     "headline_hits": 3,
     "sample_headlines": [
      "Scammer Lost $4.8M in Bitcoin to Tampered Ledger Wallets: Chainalysis",
@@ -111,7 +111,7 @@
     },
     {
      "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 13.93,
+     "stars_per_day": 14.0,
      "url": "https://github.com/NuvexNetwork/nuvex"
     },
     {
@@ -125,19 +125,19 @@
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
     },
     {
-     "full_name": "thaorivera/crypto-wallet-generator-cracker",
-     "stars_per_day": 1.45,
-     "url": "https://github.com/thaorivera/crypto-wallet-generator-cracker"
+     "full_name": "uni-launch/solana-token-creator",
+     "stars_per_day": 1.35,
+     "url": "https://github.com/uni-launch/solana-token-creator"
     }
    ]
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 48.2,
+   "score": 48.4,
    "confidence": "High",
    "evidence": {
     "github_repos": 20,
-    "github_top_velocity": 32.19,
+    "github_top_velocity": 32.44,
     "headline_hits": 2,
     "sample_headlines": [
      "Capital starting to rotate back to crypto from AI: Raoul Pal",
@@ -149,38 +149,38 @@
    "member_repos": [
     {
      "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 13.17,
+     "stars_per_day": 13.33,
      "url": "https://github.com/SpaceDataRig/space-data-rig"
     },
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 12.25,
+     "stars_per_day": 12.31,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
      "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 3.39,
+     "stars_per_day": 3.5,
      "url": "https://github.com/recogardtech/AutoPilotPM"
     },
     {
      "full_name": "GuiBibeau/solos",
-     "stars_per_day": 1.0,
+     "stars_per_day": 0.97,
      "url": "https://github.com/GuiBibeau/solos"
     },
     {
      "full_name": "PillCrew/claimchain",
-     "stars_per_day": 0.67,
+     "stars_per_day": 0.66,
      "url": "https://github.com/PillCrew/claimchain"
     }
    ]
   },
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 47.9,
+   "score": 48.1,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 43,
-    "github_top_velocity": 47.87,
+    "github_top_velocity": 48.13,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -189,17 +189,17 @@
    "member_repos": [
     {
      "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 13.93,
+     "stars_per_day": 14.0,
      "url": "https://github.com/NuvexNetwork/nuvex"
     },
     {
      "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 13.17,
+     "stars_per_day": 13.33,
      "url": "https://github.com/SpaceDataRig/space-data-rig"
     },
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 12.25,
+     "stars_per_day": 12.31,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
@@ -259,7 +259,7 @@
    "confidence": "High",
    "evidence": {
     "github_repos": 7,
-    "github_top_velocity": 5.49,
+    "github_top_velocity": 5.46,
     "headline_hits": 2,
     "sample_headlines": [
      "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
@@ -286,12 +286,12 @@
     },
     {
      "full_name": "2274802010922/picachu_hackathon",
-     "stars_per_day": 0.25,
+     "stars_per_day": 0.24,
      "url": "https://github.com/2274802010922/picachu_hackathon"
     },
     {
      "full_name": "nirholas/onchain-agent-wallets",
-     "stars_per_day": 0.11,
+     "stars_per_day": 0.1,
      "url": "https://github.com/nirholas/onchain-agent-wallets"
     }
    ]
@@ -325,7 +325,7 @@
    "confidence": "Medium",
    "evidence": {
     "github_repos": 5,
-    "github_top_velocity": 5.78,
+    "github_top_velocity": 5.77,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -349,7 +349,7 @@
     },
     {
      "full_name": "Laksz123/pulse-strike",
-     "stars_per_day": 0.12,
+     "stars_per_day": 0.11,
      "url": "https://github.com/Laksz123/pulse-strike"
     },
     {

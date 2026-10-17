@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-17T15:37:07+00:00",
+ "generated_at": "2026-10-17T20:38:07+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 129.2,
+   "score": 129.0,
    "confidence": "High",
    "evidence": {
     "github_repos": 48,
-    "github_top_velocity": 81.22,
+    "github_top_velocity": 80.97,
     "headline_hits": 6,
     "sample_headlines": [
      "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
@@ -40,18 +40,18 @@
     },
     {
      "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 3.5,
+     "stars_per_day": 3.32,
      "url": "https://github.com/recogardtech/AutoPilotPM"
     }
    ]
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 76.7,
+   "score": 76.6,
    "confidence": "High",
    "evidence": {
     "github_repos": 22,
-    "github_top_velocity": 44.67,
+    "github_top_velocity": 44.63,
     "headline_hits": 4,
     "sample_headlines": [
      "Capital starting to rotate back to crypto from AI: Raoul Pal",
@@ -64,7 +64,7 @@
    "member_repos": [
     {
      "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 14.57,
+     "stars_per_day": 14.71,
      "url": "https://github.com/h100envy/crawl-hive"
     },
     {
@@ -79,7 +79,7 @@
     },
     {
      "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 3.5,
+     "stars_per_day": 3.32,
      "url": "https://github.com/recogardtech/AutoPilotPM"
     },
     {
@@ -91,14 +91,14 @@
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 72.8,
+   "score": 74.5,
    "confidence": "High",
    "evidence": {
     "github_repos": 11,
-    "github_top_velocity": 56.3,
+    "github_top_velocity": 56.44,
     "headline_hits": 0,
     "sample_headlines": [],
-    "market_avg_7d_pct": -8.27,
+    "market_avg_7d_pct": -9.05,
     "sources_confirming": 2
    },
    "member_repos": [
@@ -114,7 +114,7 @@
     },
     {
      "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 14.57,
+     "stars_per_day": 14.71,
      "url": "https://github.com/h100envy/crawl-hive"
     },
     {
@@ -131,18 +131,17 @@
   },
   {
    "narrative": "Wallets & UX",
-   "score": 63.1,
-   "confidence": "High",
+   "score": 54.0,
+   "confidence": "Medium",
    "evidence": {
     "github_repos": 21,
-    "github_top_velocity": 47.06,
-    "headline_hits": 2,
+    "github_top_velocity": 46.03,
+    "headline_hits": 1,
     "sample_headlines": [
-     "Scammer Lost $4.8M in Bitcoin to Tampered Ledger Wallets: Chainalysis",
      "Starknet introduces wallet privacy feature for DeFi activity"
     ],
     "market_avg_7d_pct": null,
-    "sources_confirming": 2
+    "sources_confirming": 1
    },
    "member_repos": [
     {
@@ -152,7 +151,7 @@
     },
     {
      "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 14.29,
+     "stars_per_day": 13.33,
      "url": "https://github.com/NuvexNetwork/nuvex"
     },
     {
@@ -162,7 +161,7 @@
     },
     {
      "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 2.31,
+     "stars_per_day": 2.24,
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
     },
     {
@@ -174,11 +173,11 @@
   },
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 45.6,
+   "score": 44.5,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 43,
-    "github_top_velocity": 45.58,
+    "github_top_velocity": 44.55,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -187,7 +186,7 @@
    "member_repos": [
     {
      "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 14.29,
+     "stars_per_day": 13.33,
      "url": "https://github.com/NuvexNetwork/nuvex"
     },
     {
@@ -207,7 +206,7 @@
     },
     {
      "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 2.31,
+     "stars_per_day": 2.24,
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
     }
    ]
@@ -218,7 +217,7 @@
    "confidence": "Medium",
    "evidence": {
     "github_repos": 4,
-    "github_top_velocity": 0.74,
+    "github_top_velocity": 0.73,
     "headline_hits": 3,
     "sample_headlines": [
      "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
@@ -231,7 +230,7 @@
    "member_repos": [
     {
      "full_name": "vectorix-cross/CrossYield",
-     "stars_per_day": 0.45,
+     "stars_per_day": 0.44,
      "url": "https://github.com/vectorix-cross/CrossYield"
     },
     {
@@ -253,11 +252,11 @@
   },
   {
    "narrative": "Payments & Stablecoins",
-   "score": 21.4,
+   "score": 20.6,
    "confidence": "High",
    "evidence": {
     "github_repos": 7,
-    "github_top_velocity": 5.39,
+    "github_top_velocity": 4.59,
     "headline_hits": 2,
     "sample_headlines": [
      "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
@@ -269,7 +268,7 @@
    "member_repos": [
     {
      "full_name": "des35swim/hood-warfare",
-     "stars_per_day": 4.0,
+     "stars_per_day": 3.2,
      "url": "https://github.com/des35swim/hood-warfare"
     },
     {
@@ -296,18 +295,17 @@
   },
   {
    "narrative": "Security & Threats",
-   "score": 16.3,
-   "confidence": "Medium",
+   "score": 8.3,
+   "confidence": "Low",
    "evidence": {
     "github_repos": 1,
     "github_top_velocity": 0.33,
-    "headline_hits": 2,
+    "headline_hits": 1,
     "sample_headlines": [
-     "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot",
-     "Scammer Lost $4.8M in Bitcoin to Tampered Ledger Wallets: Chainalysis"
+     "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot"
     ],
     "market_avg_7d_pct": null,
-    "sources_confirming": 1
+    "sources_confirming": 0
    },
    "member_repos": [
     {
@@ -319,11 +317,11 @@
   },
   {
    "narrative": "Consumer & Social",
-   "score": 5.7,
+   "score": 4.9,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 5,
-    "github_top_velocity": 5.7,
+    "github_top_velocity": 4.9,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -332,7 +330,7 @@
    "member_repos": [
     {
      "full_name": "des35swim/hood-warfare",
-     "stars_per_day": 4.0,
+     "stars_per_day": 3.2,
      "url": "https://github.com/des35swim/hood-warfare"
     },
     {
@@ -359,11 +357,11 @@
   },
   {
    "narrative": "DePIN & Physical Infra",
-   "score": 4.0,
+   "score": 3.2,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 1,
-    "github_top_velocity": 4.0,
+    "github_top_velocity": 3.2,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -372,7 +370,7 @@
    "member_repos": [
     {
      "full_name": "des35swim/hood-warfare",
-     "stars_per_day": 4.0,
+     "stars_per_day": 3.2,
      "url": "https://github.com/des35swim/hood-warfare"
     }
    ]

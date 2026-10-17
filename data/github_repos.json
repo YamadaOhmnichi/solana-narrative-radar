@@ -71,10 +71,10 @@
   "full_name": "h100envy/crawl-hive",
   "url": "https://github.com/h100envy/crawl-hive",
   "description": "Memecoin safety swarm on Solana: Instant Crawl scans, Launch Radar, Narrative Radar, Clean Launch on pump.fun, user-owned crawlers, x402 for AI agents, $CRAWLHIVE buyback & burn.",
-  "stars": 102,
+  "stars": 103,
   "created": "2026-10-10T14:29:26Z",
   "language": "TypeScript",
-  "stars_per_day": 14.57,
+  "stars_per_day": 14.71,
   "age_days": 7,
   "topics": [
    "crawler",
@@ -94,8 +94,8 @@
   "stars": 200,
   "created": "2026-10-02T15:38:29Z",
   "language": "Rust",
-  "stars_per_day": 14.29,
-  "age_days": 14,
+  "stars_per_day": 13.33,
+  "age_days": 15,
   "topics": [
    "cli",
    "crates",
@@ -168,14 +168,25 @@
   "topics": []
  },
  {
+  "full_name": "recogardtech/AutoPilotPM",
+  "url": "https://github.com/recogardtech/AutoPilotPM",
+  "description": "Open-source autonomous trading system powered by AI, built to monitor and trade across 1,000+ markets including Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs and multiple EVM networks. Finds o",
+  "stars": 63,
+  "created": "2026-09-28T16:18:16Z",
+  "language": "TypeScript",
+  "stars_per_day": 3.32,
+  "age_days": 19,
+  "topics": []
+ },
+ {
   "full_name": "des35swim/hood-warfare",
   "url": "https://github.com/des35swim/hood-warfare",
   "description": "Free browser FPS on a destructible Chicago block. GPU brick physics, AK + RPG, 6v6, weekly USDC ladder. Three.js, no build step.",
   "stars": 16,
   "created": "2026-10-12T16:40:32Z",
   "language": "JavaScript",
-  "stars_per_day": 4.0,
-  "age_days": 4,
+  "stars_per_day": 3.2,
+  "age_days": 5,
   "topics": [
    "browser-game",
    "destruction",
@@ -186,17 +197,6 @@
    "usdc",
    "webgpu"
   ]
- },
- {
-  "full_name": "recogardtech/AutoPilotPM",
-  "url": "https://github.com/recogardtech/AutoPilotPM",
-  "description": "Open-source autonomous trading system powered by AI, built to monitor and trade across 1,000+ markets including Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs and multiple EVM networks. Finds o",
-  "stars": 63,
-  "created": "2026-09-28T16:18:16Z",
-  "language": "TypeScript",
-  "stars_per_day": 3.5,
-  "age_days": 18,
-  "topics": []
  },
  {
   "full_name": "propavingk/SlotDrift",
@@ -225,19 +225,8 @@
   "stars": 83,
   "created": "2026-09-10T15:55:21Z",
   "language": "Rust",
-  "stars_per_day": 2.31,
-  "age_days": 36,
-  "topics": []
- },
- {
-  "full_name": "ax-x2/rewind",
-  "url": "https://github.com/ax-x2/rewind",
-  "description": "recover historical and closed solana program binaries using jetstreamer",
-  "stars": 2,
-  "created": "2026-10-15T19:38:24Z",
-  "language": "Rust",
-  "stars_per_day": 2.0,
-  "age_days": 1,
+  "stars_per_day": 2.24,
+  "age_days": 37,
   "topics": []
  },
  {
@@ -247,8 +236,8 @@
   "stars": 48,
   "created": "2026-09-15T15:39:09Z",
   "language": "Rust",
-  "stars_per_day": 1.55,
-  "age_days": 31,
+  "stars_per_day": 1.5,
+  "age_days": 32,
   "topics": []
  },
  {
@@ -315,6 +304,17 @@
   "language": "TypeScript",
   "stars_per_day": 1.02,
   "age_days": 54,
+  "topics": []
+ },
+ {
+  "full_name": "ax-x2/rewind",
+  "url": "https://github.com/ax-x2/rewind",
+  "description": "recover historical and closed solana program binaries using jetstreamer",
+  "stars": 2,
+  "created": "2026-10-15T19:38:24Z",
+  "language": "Rust",
+  "stars_per_day": 1.0,
+  "age_days": 2,
   "topics": []
  },
  {
@@ -488,8 +488,8 @@
   "stars": 15,
   "created": "2026-09-13T17:36:27Z",
   "language": "Solidity",
-  "stars_per_day": 0.45,
-  "age_days": 33,
+  "stars_per_day": 0.44,
+  "age_days": 34,
   "topics": [
    "defi",
    "ethereum",
@@ -550,23 +550,6 @@
   "topics": []
  },
  {
-  "full_name": "unwindfi/unwind-protocol",
-  "url": "https://github.com/unwindfi/unwind-protocol",
-  "description": "Permissionless perpetuals on Solana, cleared by batch auction. List any Solana token, with leverage.",
-  "stars": 2,
-  "created": "2026-10-10T15:39:21Z",
-  "language": "TypeScript",
-  "stars_per_day": 0.33,
-  "age_days": 6,
-  "topics": [
-   "anchor",
-   "batch-auction",
-   "defi",
-   "perpetuals",
-   "solana"
-  ]
- },
- {
   "full_name": "Portaudit/referee",
   "url": "https://github.com/Portaudit/referee",
   "description": "An independent settlement authority for Solana DvP trades. Not affiliated with or endorsed by the Solana Foundation.",
@@ -609,7 +592,7 @@
   "created": "2026-08-26T18:02:45Z",
   "language": "Python",
   "stars_per_day": 0.31,
-  "age_days": 51,
+  "age_days": 52,
   "topics": [
    "ai-agents",
    "blockchain",
@@ -619,6 +602,23 @@
    "grok",
    "grok-bot",
    "jupiter"
+  ]
+ },
+ {
+  "full_name": "unwindfi/unwind-protocol",
+  "url": "https://github.com/unwindfi/unwind-protocol",
+  "description": "Permissionless perpetuals on Solana, cleared by batch auction. List any Solana token, with leverage.",
+  "stars": 2,
+  "created": "2026-10-10T15:39:21Z",
+  "language": "TypeScript",
+  "stars_per_day": 0.29,
+  "age_days": 7,
+  "topics": [
+   "anchor",
+   "batch-auction",
+   "defi",
+   "perpetuals",
+   "solana"
   ]
  },
  {
@@ -743,14 +743,32 @@
   ]
  },
  {
+  "full_name": "New1Direction/repo.ing",
+  "url": "https://github.com/New1Direction/repo.ing",
+  "description": "The market layer for open source. GitHub repository markets on Solana, builder earnings, and transparent protocol accounting.",
+  "stars": 3,
+  "created": "2026-09-25T21:47:28Z",
+  "language": "JavaScript",
+  "stars_per_day": 0.14,
+  "age_days": 21,
+  "topics": [
+   "defi",
+   "github",
+   "meteora",
+   "nextjs",
+   "open-source",
+   "solana"
+  ]
+ },
+ {
   "full_name": "Supernova-protocol/svm-core",
   "url": "https://github.com/Supernova-protocol/svm-core",
   "description": "Core SVM smart contracts and execution architecture. Featuring deterministic Jito routing and immutable War Chest PDAs. (Private Beta)",
   "stars": 2,
   "created": "2026-10-03T18:45:29Z",
   "language": null,
-  "stars_per_day": 0.15,
-  "age_days": 13,
+  "stars_per_day": 0.14,
+  "age_days": 14,
   "topics": [
    "anchor",
    "defi",
@@ -767,8 +785,8 @@
   "stars": 8,
   "created": "2026-08-22T18:04:22Z",
   "language": "Rust",
-  "stars_per_day": 0.15,
-  "age_days": 55,
+  "stars_per_day": 0.14,
+  "age_days": 56,
   "topics": [
    "anchor",
    "blockchain",
@@ -778,24 +796,6 @@
    "simulator",
    "solana",
    "svm"
-  ]
- },
- {
-  "full_name": "New1Direction/repo.ing",
-  "url": "https://github.com/New1Direction/repo.ing",
-  "description": "The market layer for open source. GitHub repository markets on Solana, builder earnings, and transparent protocol accounting.",
-  "stars": 3,
-  "created": "2026-09-25T21:47:28Z",
-  "language": "JavaScript",
-  "stars_per_day": 0.14,
-  "age_days": 21,
-  "topics": [
-   "defi",
-   "github",
-   "meteora",
-   "nextjs",
-   "open-source",
-   "solana"
   ]
  },
  {
@@ -817,7 +817,7 @@
   "created": "2026-09-13T16:24:08Z",
   "language": "Rust",
   "stars_per_day": 0.12,
-  "age_days": 33,
+  "age_days": 34,
   "topics": []
  },
  {
@@ -1034,26 +1034,6 @@
   ]
  },
  {
-  "full_name": "ayomidefagboyo/kata",
-  "url": "https://github.com/ayomidefagboyo/kata",
-  "description": "An autonomous perps agent whose trading policy retrains on its own realised outcomes. Live on Hyperliquid, expanding to Drift on Solana.",
-  "stars": 2,
-  "created": "2026-09-20T18:35:16Z",
-  "language": "Python",
-  "stars_per_day": 0.08,
-  "age_days": 26,
-  "topics": [
-   "ai-agent",
-   "defi",
-   "drift-protocol",
-   "hyperliquid",
-   "machine-learning",
-   "perpetuals",
-   "solana",
-   "trading-agent"
-  ]
- },
- {
   "full_name": "ChiefWoods/oracle-demo",
   "url": "https://github.com/ChiefWoods/oracle-demo",
   "description": "Anchor program showing how to read from common Solana price oracles.",
@@ -1107,6 +1087,26 @@
    "move",
    "nextjs",
    "privacy"
+  ]
+ },
+ {
+  "full_name": "ayomidefagboyo/kata",
+  "url": "https://github.com/ayomidefagboyo/kata",
+  "description": "An autonomous perps agent whose trading policy retrains on its own realised outcomes. Live on Hyperliquid, expanding to Drift on Solana.",
+  "stars": 2,
+  "created": "2026-09-20T18:35:16Z",
+  "language": "Python",
+  "stars_per_day": 0.07,
+  "age_days": 27,
+  "topics": [
+   "ai-agent",
+   "defi",
+   "drift-protocol",
+   "hyperliquid",
+   "machine-learning",
+   "perpetuals",
+   "solana",
+   "trading-agent"
   ]
  },
  {
@@ -1305,7 +1305,7 @@
   "created": "2026-09-05T17:41:31Z",
   "language": "TypeScript",
   "stars_per_day": 0.05,
-  "age_days": 41,
+  "age_days": 42,
   "topics": [
    "anchor",
    "devnet",
@@ -1324,7 +1324,7 @@
   "created": "2026-09-27T15:40:43Z",
   "language": null,
   "stars_per_day": 0.05,
-  "age_days": 19,
+  "age_days": 20,
   "topics": []
  },
  {
@@ -1402,7 +1402,7 @@
   "created": "2026-09-17T17:09:31Z",
   "language": "Rust",
   "stars_per_day": 0.03,
-  "age_days": 29,
+  "age_days": 30,
   "topics": []
  },
  {
@@ -1503,7 +1503,7 @@
   "created": "2026-08-19T18:54:25Z",
   "language": "Python",
   "stars_per_day": 0.03,
-  "age_days": 58,
+  "age_days": 59,
   "topics": [
    "automated-trading",
    "crypto",
@@ -1563,7 +1563,7 @@
   "created": "2026-08-25T17:14:46Z",
   "language": "Rust",
   "stars_per_day": 0.02,
-  "age_days": 52,
+  "age_days": 53,
   "topics": []
  },
  {

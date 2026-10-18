@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-18T04:36:09+00:00",
+ "generated_at": "2026-10-18T11:08:11+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 122.8,
+   "score": 123.6,
    "confidence": "High",
    "evidence": {
-    "github_repos": 48,
-    "github_top_velocity": 74.78,
+    "github_repos": 47,
+    "github_top_velocity": 75.62,
     "headline_hits": 6,
     "sample_headlines": [
      "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
@@ -30,7 +30,7 @@
     },
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 11.82,
+     "stars_per_day": 11.22,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
@@ -40,65 +40,21 @@
     },
     {
      "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 3.37,
+     "stars_per_day": 3.42,
      "url": "https://github.com/recogardtech/AutoPilotPM"
-    }
-   ]
-  },
-  {
-   "narrative": "AI Agents on Solana",
-   "score": 77.6,
-   "confidence": "High",
-   "evidence": {
-    "github_repos": 22,
-    "github_top_velocity": 45.6,
-    "headline_hits": 4,
-    "sample_headlines": [
-     "Capital starting to rotate back to crypto from AI: Raoul Pal",
-     "Chinese Startup StepFun Launches a Phone Built Around an AI Agent, Not Apps",
-     "TokenMaxxing: How to Get the Most Out of Your AI Models"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 2
-   },
-   "member_repos": [
-    {
-     "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 15.71,
-     "url": "https://github.com/h100envy/crawl-hive"
-    },
-    {
-     "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 11.82,
-     "url": "https://github.com/NuvexNetwork/nuvex-services"
-    },
-    {
-     "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 11.43,
-     "url": "https://github.com/SpaceDataRig/space-data-rig"
-    },
-    {
-     "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 3.37,
-     "url": "https://github.com/recogardtech/AutoPilotPM"
-    },
-    {
-     "full_name": "GuiBibeau/solos",
-     "stars_per_day": 0.94,
-     "url": "https://github.com/GuiBibeau/solos"
     }
    ]
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 76.4,
+   "score": 79.0,
    "confidence": "High",
    "evidence": {
     "github_repos": 11,
-    "github_top_velocity": 57.3,
+    "github_top_velocity": 57.73,
     "headline_hits": 0,
     "sample_headlines": [],
-    "market_avg_7d_pct": -9.54,
+    "market_avg_7d_pct": -10.63,
     "sources_confirming": 2
    },
    "member_repos": [
@@ -109,7 +65,7 @@
     },
     {
      "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 15.71,
+     "stars_per_day": 16.14,
      "url": "https://github.com/h100envy/crawl-hive"
     },
     {
@@ -130,12 +86,56 @@
    ]
   },
   {
+   "narrative": "AI Agents on Solana",
+   "score": 77.5,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 22,
+    "github_top_velocity": 45.47,
+    "headline_hits": 4,
+    "sample_headlines": [
+     "Capital starting to rotate back to crypto from AI: Raoul Pal",
+     "Chinese Startup StepFun Launches a Phone Built Around an AI Agent, Not Apps",
+     "TokenMaxxing: How to Get the Most Out of Your AI Models"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 2
+   },
+   "member_repos": [
+    {
+     "full_name": "h100envy/crawl-hive",
+     "stars_per_day": 16.14,
+     "url": "https://github.com/h100envy/crawl-hive"
+    },
+    {
+     "full_name": "SpaceDataRig/space-data-rig",
+     "stars_per_day": 11.43,
+     "url": "https://github.com/SpaceDataRig/space-data-rig"
+    },
+    {
+     "full_name": "NuvexNetwork/nuvex-services",
+     "stars_per_day": 11.22,
+     "url": "https://github.com/NuvexNetwork/nuvex-services"
+    },
+    {
+     "full_name": "recogardtech/AutoPilotPM",
+     "stars_per_day": 3.42,
+     "url": "https://github.com/recogardtech/AutoPilotPM"
+    },
+    {
+     "full_name": "GuiBibeau/solos",
+     "stars_per_day": 0.94,
+     "url": "https://github.com/GuiBibeau/solos"
+    }
+   ]
+  },
+  {
    "narrative": "Wallets & UX",
-   "score": 53.9,
+   "score": 55.8,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 20,
-    "github_top_velocity": 45.88,
+    "github_repos": 21,
+    "github_top_velocity": 47.75,
     "headline_hits": 1,
     "sample_headlines": [
      "Starknet introduces wallet privacy feature for DeFi activity"
@@ -151,7 +151,7 @@
     },
     {
      "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 13.33,
+     "stars_per_day": 13.4,
      "url": "https://github.com/NuvexNetwork/nuvex"
     },
     {
@@ -165,19 +165,19 @@
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
     },
     {
-     "full_name": "uni-launch/solana-token-creator",
-     "stars_per_day": 1.29,
-     "url": "https://github.com/uni-launch/solana-token-creator"
+     "full_name": "getsmartable-app/.github",
+     "stars_per_day": 2.0,
+     "url": "https://github.com/getsmartable-app/.github"
     }
    ]
   },
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 44.5,
+   "score": 44.0,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 41,
-    "github_top_velocity": 44.52,
+    "github_repos": 42,
+    "github_top_velocity": 43.98,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -186,13 +186,8 @@
    "member_repos": [
     {
      "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 13.33,
+     "stars_per_day": 13.4,
      "url": "https://github.com/NuvexNetwork/nuvex"
-    },
-    {
-     "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 11.82,
-     "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
      "full_name": "SpaceDataRig/space-data-rig",
@@ -200,8 +195,13 @@
      "url": "https://github.com/SpaceDataRig/space-data-rig"
     },
     {
+     "full_name": "NuvexNetwork/nuvex-services",
+     "stars_per_day": 11.22,
+     "url": "https://github.com/NuvexNetwork/nuvex-services"
+    },
+    {
      "full_name": "propavingk/SlotDrift",
-     "stars_per_day": 2.37,
+     "stars_per_day": 2.29,
      "url": "https://github.com/propavingk/SlotDrift"
     },
     {
@@ -217,7 +217,7 @@
    "confidence": "Medium",
    "evidence": {
     "github_repos": 4,
-    "github_top_velocity": 0.73,
+    "github_top_velocity": 0.71,
     "headline_hits": 3,
     "sample_headlines": [
      "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
@@ -235,7 +235,7 @@
     },
     {
      "full_name": "truenorth-lj/sofinance-public",
-     "stars_per_day": 0.18,
+     "stars_per_day": 0.17,
      "url": "https://github.com/truenorth-lj/sofinance-public"
     },
     {
@@ -245,18 +245,18 @@
     },
     {
      "full_name": "keelwright/slipway",
-     "stars_per_day": 0.04,
+     "stars_per_day": 0.03,
      "url": "https://github.com/keelwright/slipway"
     }
    ]
   },
   {
    "narrative": "Payments & Stablecoins",
-   "score": 20.6,
+   "score": 20.5,
    "confidence": "High",
    "evidence": {
     "github_repos": 7,
-    "github_top_velocity": 4.58,
+    "github_top_velocity": 4.52,
     "headline_hits": 2,
     "sample_headlines": [
      "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
@@ -273,12 +273,12 @@
     },
     {
      "full_name": "blueshift-gg/solana-pull-program",
-     "stars_per_day": 0.5,
+     "stars_per_day": 0.47,
      "url": "https://github.com/blueshift-gg/solana-pull-program"
     },
     {
      "full_name": "2274802010922/pipicachu",
-     "stars_per_day": 0.46,
+     "stars_per_day": 0.43,
      "url": "https://github.com/2274802010922/pipicachu"
     },
     {
@@ -295,11 +295,11 @@
   },
   {
    "narrative": "Security & Threats",
-   "score": 8.3,
+   "score": 8.2,
    "confidence": "Low",
    "evidence": {
     "github_repos": 1,
-    "github_top_velocity": 0.33,
+    "github_top_velocity": 0.25,
     "headline_hits": 1,
     "sample_headlines": [
      "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot"
@@ -310,7 +310,7 @@
    "member_repos": [
     {
      "full_name": "Portaudit/referee",
-     "stars_per_day": 0.33,
+     "stars_per_day": 0.25,
      "url": "https://github.com/Portaudit/referee"
     }
    ]

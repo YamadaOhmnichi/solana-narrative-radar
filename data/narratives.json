@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-19T13:19:09+00:00",
+ "generated_at": "2026-10-19T22:22:26+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 106.2,
+   "score": 103.4,
    "confidence": "High",
    "evidence": {
     "github_repos": 47,
-    "github_top_velocity": 66.24,
+    "github_top_velocity": 63.37,
     "headline_hits": 5,
     "sample_headlines": [
      "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
@@ -20,148 +20,105 @@
    "member_repos": [
     {
      "full_name": "cxmza/windle",
-     "stars_per_day": 26.0,
+     "stars_per_day": 22.75,
      "url": "https://github.com/cxmza/windle"
     },
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 15.43,
+     "stars_per_day": 15.5,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 10.79,
+     "stars_per_day": 10.84,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
      "full_name": "QunatOrb/QuantOrb",
-     "stars_per_day": 4.17,
+     "stars_per_day": 4.5,
      "url": "https://github.com/QunatOrb/QuantOrb"
     },
     {
      "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 3.35,
+     "stars_per_day": 3.24,
      "url": "https://github.com/recogardtech/AutoPilotPM"
     }
    ]
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 76.1,
+   "score": 73.6,
    "confidence": "High",
    "evidence": {
     "github_repos": 12,
-    "github_top_velocity": 53.62,
+    "github_top_velocity": 52.54,
     "headline_hits": 0,
     "sample_headlines": [],
-    "market_avg_7d_pct": -11.22,
+    "market_avg_7d_pct": -10.53,
     "sources_confirming": 2
    },
    "member_repos": [
     {
-     "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 16.25,
-     "url": "https://github.com/h100envy/crawl-hive"
-    },
-    {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 15.43,
+     "stars_per_day": 15.5,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
+     "full_name": "h100envy/crawl-hive",
+     "stars_per_day": 14.67,
+     "url": "https://github.com/h100envy/crawl-hive"
+    },
+    {
      "full_name": "nhovongoc0-max/meme-radar",
-     "stars_per_day": 14.21,
+     "stars_per_day": 14.24,
      "url": "https://github.com/nhovongoc0-max/meme-radar"
     },
     {
      "full_name": "QunatOrb/QuantOrb",
-     "stars_per_day": 4.17,
+     "stars_per_day": 4.5,
      "url": "https://github.com/QunatOrb/QuantOrb"
     },
     {
-     "full_name": "hrekokovgmmek-lab/solana-wallet-tracker",
+     "full_name": "BordrlessDex/bordrless-programs",
      "stars_per_day": 1.0,
-     "url": "https://github.com/hrekokovgmmek-lab/solana-wallet-tracker"
-    }
-   ]
-  },
-  {
-   "narrative": "AI Agents on Solana",
-   "score": 67.4,
-   "confidence": "High",
-   "evidence": {
-    "github_repos": 21,
-    "github_top_velocity": 43.36,
-    "headline_hits": 3,
-    "sample_headlines": [
-     "Capital starting to rotate back to crypto from AI: Raoul Pal",
-     "Sam Altman's World Takes Proof-of-Human IDs to Banks, Citing $40B AI Fraud Risk",
-     "Chinese Startup StepFun Launches a Phone Built Around an AI Agent, Not Apps"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 2
-   },
-   "member_repos": [
-    {
-     "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 16.25,
-     "url": "https://github.com/h100envy/crawl-hive"
-    },
-    {
-     "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 10.79,
-     "url": "https://github.com/NuvexNetwork/nuvex-services"
-    },
-    {
-     "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 9.44,
-     "url": "https://github.com/SpaceDataRig/space-data-rig"
-    },
-    {
-     "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 3.35,
-     "url": "https://github.com/recogardtech/AutoPilotPM"
-    },
-    {
-     "full_name": "GuiBibeau/solos",
-     "stars_per_day": 0.91,
-     "url": "https://github.com/GuiBibeau/solos"
+     "url": "https://github.com/BordrlessDex/bordrless-programs"
     }
    ]
   },
   {
    "narrative": "Wallets & UX",
-   "score": 52.0,
-   "confidence": "Medium",
+   "score": 58.7,
+   "confidence": "High",
    "evidence": {
     "github_repos": 20,
-    "github_top_velocity": 44.05,
-    "headline_hits": 1,
+    "github_top_velocity": 42.72,
+    "headline_hits": 2,
     "sample_headlines": [
+     "Abandoned Bitcoin? Wallet Targeted by Noah Doe Lawsuit Moves $33 Million",
      "Starknet introduces wallet privacy feature for DeFi activity"
     ],
     "market_avg_7d_pct": null,
-    "sources_confirming": 1
+    "sources_confirming": 2
    },
    "member_repos": [
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 15.43,
+     "stars_per_day": 15.5,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
      "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 12.75,
+     "stars_per_day": 12.06,
      "url": "https://github.com/NuvexNetwork/nuvex"
     },
     {
      "full_name": "Janina21/Crypto-Checker",
-     "stars_per_day": 7.08,
+     "stars_per_day": 6.54,
      "url": "https://github.com/Janina21/Crypto-Checker"
     },
     {
      "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 2.18,
+     "stars_per_day": 2.13,
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
     },
     {
@@ -172,12 +129,55 @@
    ]
   },
   {
+   "narrative": "AI Agents on Solana",
+   "score": 57.9,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 21,
+    "github_top_velocity": 41.93,
+    "headline_hits": 2,
+    "sample_headlines": [
+     "Capital starting to rotate back to crypto from AI: Raoul Pal",
+     "Bitcoin Tests Key Support as Oil and AI Fears Squeeze Markets"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 2
+   },
+   "member_repos": [
+    {
+     "full_name": "h100envy/crawl-hive",
+     "stars_per_day": 14.67,
+     "url": "https://github.com/h100envy/crawl-hive"
+    },
+    {
+     "full_name": "NuvexNetwork/nuvex-services",
+     "stars_per_day": 10.84,
+     "url": "https://github.com/NuvexNetwork/nuvex-services"
+    },
+    {
+     "full_name": "SpaceDataRig/space-data-rig",
+     "stars_per_day": 9.44,
+     "url": "https://github.com/SpaceDataRig/space-data-rig"
+    },
+    {
+     "full_name": "recogardtech/AutoPilotPM",
+     "stars_per_day": 3.24,
+     "url": "https://github.com/recogardtech/AutoPilotPM"
+    },
+    {
+     "full_name": "GuiBibeau/solos",
+     "stars_per_day": 0.91,
+     "url": "https://github.com/GuiBibeau/solos"
+    }
+   ]
+  },
+  {
    "narrative": "Dev Tooling & Infra",
-   "score": 40.8,
+   "score": 40.7,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 46,
-    "github_top_velocity": 40.8,
+    "github_top_velocity": 40.69,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -186,12 +186,12 @@
    "member_repos": [
     {
      "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 12.75,
+     "stars_per_day": 12.06,
      "url": "https://github.com/NuvexNetwork/nuvex"
     },
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 10.79,
+     "stars_per_day": 10.84,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
@@ -206,23 +206,23 @@
     },
     {
      "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 2.18,
+     "stars_per_day": 2.13,
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
     }
    ]
   },
   {
    "narrative": "RWA & Tokenization",
-   "score": 24.7,
+   "score": 32.7,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 4,
-    "github_top_velocity": 0.68,
-    "headline_hits": 3,
+    "github_top_velocity": 0.66,
+    "headline_hits": 4,
     "sample_headlines": [
      "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
      "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
-     "Winners and losers of the SEC\u2019s new tokenized stocks rules"
+     "Why Some of America\u2019s Biggest Companies Are Objecting to Tokenized Shares"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 1
@@ -230,7 +230,7 @@
    "member_repos": [
     {
      "full_name": "vectorix-cross/CrossYield",
-     "stars_per_day": 0.43,
+     "stars_per_day": 0.42,
      "url": "https://github.com/vectorix-cross/CrossYield"
     },
     {
@@ -240,7 +240,7 @@
     },
     {
      "full_name": "Zyxel89/owncurve",
-     "stars_per_day": 0.07,
+     "stars_per_day": 0.06,
      "url": "https://github.com/Zyxel89/owncurve"
     },
     {
@@ -252,15 +252,15 @@
   },
   {
    "narrative": "Payments & Stablecoins",
-   "score": 19.8,
+   "score": 19.4,
    "confidence": "High",
    "evidence": {
     "github_repos": 5,
-    "github_top_velocity": 3.79,
+    "github_top_velocity": 3.41,
     "headline_hits": 2,
     "sample_headlines": [
      "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
-     "Banks Hold a Lever Over Stablecoin Adoption, BIS Economists Say"
+     "Mastercard Brings Its Fraud-Fighting Tools to Stablecoin Payments"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -268,7 +268,7 @@
    "member_repos": [
     {
      "full_name": "des35swim/hood-warfare",
-     "stars_per_day": 2.67,
+     "stars_per_day": 2.29,
      "url": "https://github.com/des35swim/hood-warfare"
     },
     {
@@ -294,12 +294,44 @@
    ]
   },
   {
+   "narrative": "Security & Threats",
+   "score": 9.0,
+   "confidence": "Low",
+   "evidence": {
+    "github_repos": 3,
+    "github_top_velocity": 0.97,
+    "headline_hits": 1,
+    "sample_headlines": [
+     "Hackers Are Running Apple's iOS on Android Phones for the First Time"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 0
+   },
+   "member_repos": [
+    {
+     "full_name": "TodorBonchev/rust-auditor",
+     "stars_per_day": 0.75,
+     "url": "https://github.com/TodorBonchev/rust-auditor"
+    },
+    {
+     "full_name": "Portaudit/referee",
+     "stars_per_day": 0.2,
+     "url": "https://github.com/Portaudit/referee"
+    },
+    {
+     "full_name": "hypnogaba/solana-signal-trader",
+     "stars_per_day": 0.02,
+     "url": "https://github.com/hypnogaba/solana-signal-trader"
+    }
+   ]
+  },
+  {
    "narrative": "Consumer & Social",
-   "score": 4.3,
+   "score": 3.9,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 5,
-    "github_top_velocity": 4.29,
+    "github_top_velocity": 3.86,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -308,12 +340,12 @@
    "member_repos": [
     {
      "full_name": "des35swim/hood-warfare",
-     "stars_per_day": 2.67,
+     "stars_per_day": 2.29,
      "url": "https://github.com/des35swim/hood-warfare"
     },
     {
      "full_name": "uni-launch/solana-token-creator",
-     "stars_per_day": 1.24,
+     "stars_per_day": 1.19,
      "url": "https://github.com/uni-launch/solana-token-creator"
     },
     {
@@ -335,11 +367,11 @@
   },
   {
    "narrative": "DePIN & Physical Infra",
-   "score": 2.7,
+   "score": 2.3,
    "confidence": "Low",
    "evidence": {
     "github_repos": 1,
-    "github_top_velocity": 2.67,
+    "github_top_velocity": 2.29,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -348,38 +380,8 @@
    "member_repos": [
     {
      "full_name": "des35swim/hood-warfare",
-     "stars_per_day": 2.67,
+     "stars_per_day": 2.29,
      "url": "https://github.com/des35swim/hood-warfare"
-    }
-   ]
-  },
-  {
-   "narrative": "Security & Threats",
-   "score": 0.7,
-   "confidence": "Low",
-   "evidence": {
-    "github_repos": 3,
-    "github_top_velocity": 0.72,
-    "headline_hits": 0,
-    "sample_headlines": [],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 0
-   },
-   "member_repos": [
-    {
-     "full_name": "TodorBonchev/rust-auditor",
-     "stars_per_day": 0.5,
-     "url": "https://github.com/TodorBonchev/rust-auditor"
-    },
-    {
-     "full_name": "Portaudit/referee",
-     "stars_per_day": 0.2,
-     "url": "https://github.com/Portaudit/referee"
-    },
-    {
-     "full_name": "hypnogaba/solana-signal-trader",
-     "stars_per_day": 0.02,
-     "url": "https://github.com/hypnogaba/solana-signal-trader"
     }
    ]
   }

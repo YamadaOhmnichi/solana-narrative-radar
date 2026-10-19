@@ -1,11 +1,6 @@
 {
  "cointelegraph": [
   {
-   "title": "Here\u2019s what happened in crypto today",
-   "pub": "Sun, 18 Oct 2026 13:54:00 +0000",
-   "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
-  },
-  {
    "title": "Solana shows resilience, but some areas need continued observation, Fidelity says",
    "pub": "Sat, 17 Oct 2026 13:01:00 +0000",
    "link": "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
@@ -59,9 +54,44 @@
    "title": "Crypto\u2019s wild boom-and-bust cycles are fading, Solstice CEO says",
    "pub": "Tue, 22 Sep 2026 08:06:23 +0000",
    "link": "https://cointelegraph.com/news/crypto-bull-runs-liquidity-solstice-ceo?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
+  },
+  {
+   "title": "Kyle Samani predicts SOL flippening, claims \u2018no one\u2019 uses ETH",
+   "pub": "Mon, 21 Sep 2026 13:30:00 +0000",
+   "link": "https://cointelegraph.com/magazine/kyle-samani-predicts-sol-flippening-claims-no-one-uses-eth?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
   }
  ],
  "decrypt": [
+  {
+   "title": "Strategy Buys $22M in Bitcoin, Buys Back $193M of STRC",
+   "pub": "Mon, 19 Oct 2026 13:04:48 +0000",
+   "link": "https://decrypt.co/381302/strategy-buys-22m-in-bitcoin-buys-back-193m-of-strc"
+  },
+  {
+   "title": "Morning Minute: Crypto Rebounds as 'Black Monday' Looms",
+   "pub": "Mon, 19 Oct 2026 12:19:39 +0000",
+   "link": "https://decrypt.co/381297/morning-minute-crypto-rebounds-as-black-monday-looms"
+  },
+  {
+   "title": "\u2018Terrifying Precedent\u2019: Dutch Hand US Data From Seized Anti-Fascist Server",
+   "pub": "Mon, 19 Oct 2026 12:07:46 +0000",
+   "link": "https://decrypt.co/381296/terrifying-precedent-dutch-hand-us-data-from-seized-anti-fascist-server"
+  },
+  {
+   "title": "Sam Altman's World Takes Proof-of-Human IDs to Banks, Citing $40B AI Fraud Risk",
+   "pub": "Mon, 19 Oct 2026 11:40:40 +0000",
+   "link": "https://decrypt.co/381288/sam-altmans-world-takes-proof-of-human-ids-to-banks-citing-40b-ai-fraud-risk"
+  },
+  {
+   "title": "UK Trio Jailed Over Home Invasion in Failed Crypto Theft Attempt",
+   "pub": "Mon, 19 Oct 2026 10:31:09 +0000",
+   "link": "https://decrypt.co/381281/uk-trio-jailed-over-home-invasion-in-failed-crypto-theft-attempt"
+  },
+  {
+   "title": "Zcash Developer Zakura Proposes Fix to Stop Quantum Computers Linking Shielded Swaps",
+   "pub": "Mon, 19 Oct 2026 10:11:21 +0000",
+   "link": "https://decrypt.co/381257/zcash-developer-zakura-proposes-fix-to-stop-quantum-computers-linking-shielded-swaps"
+  },
   {
    "title": "MapQuest Now Shows Drivers Where Flock Cameras Are Watching",
    "pub": "Sun, 18 Oct 2026 16:31:03 +0000",
@@ -91,36 +121,6 @@
    "title": "Chinese Startup StepFun Launches a Phone Built Around an AI Agent, Not Apps",
    "pub": "Sat, 17 Oct 2026 15:01:03 +0000",
    "link": "https://decrypt.co/381202/chinese-startup-stepfun-phone-ai-agent"
-  },
-  {
-   "title": "TokenMaxxing: How to Get the Most Out of Your AI Models",
-   "pub": "Sat, 17 Oct 2026 13:01:04 +0000",
-   "link": "https://decrypt.co/381213/tokenmaxxing-how-get-most-out-your-ai-models"
-  },
-  {
-   "title": "Tesla Roadster Rocket Is the Cool 'Flying' Car You Can\u2019t Have",
-   "pub": "Fri, 16 Oct 2026 20:16:04 +0000",
-   "link": "https://decrypt.co/381184/tesla-roadster-rocket-cool-flying-car-you-cant-have"
-  },
-  {
-   "title": "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot",
-   "pub": "Fri, 16 Oct 2026 19:36:04 +0000",
-   "link": "https://decrypt.co/381177/hackers-jailbreak-iphone-18-pro-survives-reboot"
-  },
-  {
-   "title": "Circle Plans Push Into 40 Emerging Markets as Stablecoins Go Mainstream, CEO Says",
-   "pub": "Fri, 16 Oct 2026 18:55:37 +0000",
-   "link": "https://decrypt.co/381178/circle-40-emerging-markets-stablecoins-go-mainstream"
-  },
-  {
-   "title": "Bitcoin Treasury Giant Strategy Faces Index Removal Under Finalized MSCI Rules",
-   "pub": "Fri, 16 Oct 2026 18:16:04 +0000",
-   "link": "https://decrypt.co/381168/bitcoin-treasury-giant-strategy-faces-index-removal-under-finalized-msci-rules"
-  },
-  {
-   "title": "India's Cyber Agency Says AI Agents Read Confidential Business Records Without Authorization",
-   "pub": "Fri, 16 Oct 2026 17:48:06 +0000",
-   "link": "https://decrypt.co/381165/indias-cyber-agency-ai-agents-read-confidential-business-records"
   }
  ],
  "cryptonews": [

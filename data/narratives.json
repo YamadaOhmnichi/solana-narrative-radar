@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-18T20:45:07+00:00",
+ "generated_at": "2026-10-19T04:42:44+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 121.9,
+   "score": 118.2,
    "confidence": "High",
    "evidence": {
     "github_repos": 48,
-    "github_top_velocity": 73.93,
+    "github_top_velocity": 70.2,
     "headline_hits": 6,
     "sample_headlines": [
      "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
@@ -20,12 +20,12 @@
    "member_repos": [
     {
      "full_name": "cxmza/windle",
-     "stars_per_day": 30.33,
+     "stars_per_day": 26.0,
      "url": "https://github.com/cxmza/windle"
     },
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 16.46,
+     "stars_per_day": 16.62,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
@@ -35,7 +35,7 @@
     },
     {
      "full_name": "QunatOrb/QuantOrb",
-     "stars_per_day": 4.8,
+     "stars_per_day": 5.0,
      "url": "https://github.com/QunatOrb/QuantOrb"
     },
     {
@@ -47,25 +47,25 @@
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 86.7,
+   "score": 80.8,
    "confidence": "High",
    "evidence": {
     "github_repos": 11,
-    "github_top_velocity": 53.5,
+    "github_top_velocity": 54.86,
     "headline_hits": 0,
     "sample_headlines": [],
-    "market_avg_7d_pct": -16.58,
+    "market_avg_7d_pct": -12.98,
     "sources_confirming": 2
    },
    "member_repos": [
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 16.46,
+     "stars_per_day": 16.62,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
      "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 14.88,
+     "stars_per_day": 16.0,
      "url": "https://github.com/h100envy/crawl-hive"
     },
     {
@@ -75,23 +75,23 @@
     },
     {
      "full_name": "QunatOrb/QuantOrb",
-     "stars_per_day": 4.8,
+     "stars_per_day": 5.0,
      "url": "https://github.com/QunatOrb/QuantOrb"
     },
     {
      "full_name": "BordrlessDex/bordrless-programs",
-     "stars_per_day": 1.0,
+     "stars_per_day": 0.91,
      "url": "https://github.com/BordrlessDex/bordrless-programs"
     }
    ]
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 74.7,
+   "score": 75.9,
    "confidence": "High",
    "evidence": {
-    "github_repos": 22,
-    "github_top_velocity": 42.73,
+    "github_repos": 21,
+    "github_top_velocity": 43.9,
     "headline_hits": 4,
     "sample_headlines": [
      "Capital starting to rotate back to crypto from AI: Raoul Pal",
@@ -104,7 +104,7 @@
    "member_repos": [
     {
      "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 14.88,
+     "stars_per_day": 16.0,
      "url": "https://github.com/h100envy/crawl-hive"
     },
     {
@@ -114,7 +114,7 @@
     },
     {
      "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 10.0,
+     "stars_per_day": 10.12,
      "url": "https://github.com/SpaceDataRig/space-data-rig"
     },
     {
@@ -124,18 +124,18 @@
     },
     {
      "full_name": "GuiBibeau/solos",
-     "stars_per_day": 0.94,
+     "stars_per_day": 0.91,
      "url": "https://github.com/GuiBibeau/solos"
     }
    ]
   },
   {
    "narrative": "Wallets & UX",
-   "score": 53.8,
+   "score": 54.1,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 21,
-    "github_top_velocity": 45.84,
+    "github_repos": 20,
+    "github_top_velocity": 46.13,
     "headline_hits": 1,
     "sample_headlines": [
      "Starknet introduces wallet privacy feature for DeFi activity"
@@ -146,7 +146,7 @@
    "member_repos": [
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 16.46,
+     "stars_per_day": 16.62,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
@@ -173,11 +173,11 @@
   },
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 41.3,
+   "score": 42.4,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 43,
-    "github_top_velocity": 41.29,
+    "github_repos": 47,
+    "github_top_velocity": 42.42,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -196,7 +196,7 @@
     },
     {
      "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 10.0,
+     "stars_per_day": 10.12,
      "url": "https://github.com/SpaceDataRig/space-data-rig"
     },
     {
@@ -213,11 +213,11 @@
   },
   {
    "narrative": "Payments & Stablecoins",
-   "score": 28.0,
+   "score": 27.9,
    "confidence": "High",
    "evidence": {
-    "github_repos": 7,
-    "github_top_velocity": 3.99,
+    "github_repos": 6,
+    "github_top_velocity": 3.88,
     "headline_hits": 3,
     "sample_headlines": [
      "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
@@ -245,13 +245,13 @@
     },
     {
      "full_name": "2274802010922/picachu_hackathon",
-     "stars_per_day": 0.23,
+     "stars_per_day": 0.22,
      "url": "https://github.com/2274802010922/picachu_hackathon"
     },
     {
-     "full_name": "nirholas/onchain-agent-wallets",
-     "stars_per_day": 0.1,
-     "url": "https://github.com/nirholas/onchain-agent-wallets"
+     "full_name": "Tdat10052499/Unihackfest-2026",
+     "stars_per_day": 0.06,
+     "url": "https://github.com/Tdat10052499/Unihackfest-2026"
     }
    ]
   },
@@ -296,11 +296,11 @@
   },
   {
    "narrative": "Security & Threats",
-   "score": 8.2,
+   "score": 9.3,
    "confidence": "Low",
    "evidence": {
-    "github_repos": 1,
-    "github_top_velocity": 0.25,
+    "github_repos": 3,
+    "github_top_velocity": 1.27,
     "headline_hits": 1,
     "sample_headlines": [
      "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot"
@@ -310,9 +310,19 @@
    },
    "member_repos": [
     {
+     "full_name": "FortuneGroot/solana-token-risk-radar",
+     "stars_per_day": 1.0,
+     "url": "https://github.com/FortuneGroot/solana-token-risk-radar"
+    },
+    {
      "full_name": "Portaudit/referee",
      "stars_per_day": 0.25,
      "url": "https://github.com/Portaudit/referee"
+    },
+    {
+     "full_name": "hypnogaba/solana-signal-trader",
+     "stars_per_day": 0.02,
+     "url": "https://github.com/hypnogaba/solana-signal-trader"
     }
    ]
   },
@@ -322,7 +332,7 @@
    "confidence": "Medium",
    "evidence": {
     "github_repos": 5,
-    "github_top_velocity": 4.31,
+    "github_top_velocity": 4.3,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -346,7 +356,7 @@
     },
     {
      "full_name": "Laksz123/pulse-strike",
-     "stars_per_day": 0.1,
+     "stars_per_day": 0.09,
      "url": "https://github.com/Laksz123/pulse-strike"
     },
     {

@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-19T22:22:26+00:00",
+ "generated_at": "2026-10-20T04:53:08+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 103.4,
+   "score": 103.2,
    "confidence": "High",
    "evidence": {
     "github_repos": 47,
-    "github_top_velocity": 63.37,
+    "github_top_velocity": 63.22,
     "headline_hits": 5,
     "sample_headlines": [
      "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
@@ -30,7 +30,7 @@
     },
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 10.84,
+     "stars_per_day": 10.89,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
@@ -47,14 +47,14 @@
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 73.6,
+   "score": 66.5,
    "confidence": "High",
    "evidence": {
     "github_repos": 12,
-    "github_top_velocity": 52.54,
+    "github_top_velocity": 52.36,
     "headline_hits": 0,
     "sample_headlines": [],
-    "market_avg_7d_pct": -10.53,
+    "market_avg_7d_pct": -7.05,
     "sources_confirming": 2
    },
    "member_repos": [
@@ -79,19 +79,19 @@
      "url": "https://github.com/QunatOrb/QuantOrb"
     },
     {
-     "full_name": "BordrlessDex/bordrless-programs",
+     "full_name": "hrekokovgmmek-lab/solana-wallet-tracker",
      "stars_per_day": 1.0,
-     "url": "https://github.com/BordrlessDex/bordrless-programs"
+     "url": "https://github.com/hrekokovgmmek-lab/solana-wallet-tracker"
     }
    ]
   },
   {
    "narrative": "Wallets & UX",
-   "score": 58.7,
+   "score": 58.5,
    "confidence": "High",
    "evidence": {
-    "github_repos": 20,
-    "github_top_velocity": 42.72,
+    "github_repos": 21,
+    "github_top_velocity": 42.55,
     "headline_hits": 2,
     "sample_headlines": [
      "Abandoned Bitcoin? Wallet Targeted by Noah Doe Lawsuit Moves $33 Million",
@@ -130,11 +130,11 @@
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 57.9,
+   "score": 58.1,
    "confidence": "High",
    "evidence": {
-    "github_repos": 21,
-    "github_top_velocity": 41.93,
+    "github_repos": 22,
+    "github_top_velocity": 42.06,
     "headline_hits": 2,
     "sample_headlines": [
      "Capital starting to rotate back to crypto from AI: Raoul Pal",
@@ -151,12 +151,12 @@
     },
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 10.84,
+     "stars_per_day": 10.89,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
      "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 9.44,
+     "stars_per_day": 9.56,
      "url": "https://github.com/SpaceDataRig/space-data-rig"
     },
     {
@@ -166,18 +166,18 @@
     },
     {
      "full_name": "GuiBibeau/solos",
-     "stars_per_day": 0.91,
+     "stars_per_day": 0.88,
      "url": "https://github.com/GuiBibeau/solos"
     }
    ]
   },
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 40.7,
+   "score": 40.3,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 46,
-    "github_top_velocity": 40.69,
+    "github_top_velocity": 40.28,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -191,12 +191,12 @@
     },
     {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 10.84,
+     "stars_per_day": 10.89,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
      "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 9.44,
+     "stars_per_day": 9.56,
      "url": "https://github.com/SpaceDataRig/space-data-rig"
     },
     {
@@ -255,8 +255,8 @@
    "score": 19.4,
    "confidence": "High",
    "evidence": {
-    "github_repos": 5,
-    "github_top_velocity": 3.41,
+    "github_repos": 6,
+    "github_top_velocity": 3.43,
     "headline_hits": 2,
     "sample_headlines": [
      "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
@@ -283,7 +283,7 @@
     },
     {
      "full_name": "2274802010922/picachu_hackathon",
-     "stars_per_day": 0.22,
+     "stars_per_day": 0.21,
      "url": "https://github.com/2274802010922/picachu_hackathon"
     },
     {
@@ -295,11 +295,11 @@
   },
   {
    "narrative": "Security & Threats",
-   "score": 9.0,
+   "score": 8.9,
    "confidence": "Low",
    "evidence": {
     "github_repos": 3,
-    "github_top_velocity": 0.97,
+    "github_top_velocity": 0.94,
     "headline_hits": 1,
     "sample_headlines": [
      "Hackers Are Running Apple's iOS on Android Phones for the First Time"
@@ -315,7 +315,7 @@
     },
     {
      "full_name": "Portaudit/referee",
-     "stars_per_day": 0.2,
+     "stars_per_day": 0.17,
      "url": "https://github.com/Portaudit/referee"
     },
     {
@@ -331,7 +331,7 @@
    "confidence": "Medium",
    "evidence": {
     "github_repos": 5,
-    "github_top_velocity": 3.86,
+    "github_top_velocity": 3.85,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -355,7 +355,7 @@
     },
     {
      "full_name": "Laksz123/pulse-strike",
-     "stars_per_day": 0.09,
+     "stars_per_day": 0.08,
      "url": "https://github.com/Laksz123/pulse-strike"
     },
     {

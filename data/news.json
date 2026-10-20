@@ -63,6 +63,36 @@
  ],
  "decrypt": [
   {
+   "title": "JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat",
+   "pub": "Tue, 20 Oct 2026 21:16:04 +0000",
+   "link": "https://decrypt.co/381464/jpmorgan-bitcoin-forecast-first-time-stocks-gold"
+  },
+  {
+   "title": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
+   "pub": "Tue, 20 Oct 2026 20:46:04 +0000",
+   "link": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash"
+  },
+  {
+   "title": "Microsoft, Alphabet, Goldman Sachs Join Growing List of Companies Objecting to Tokenized Stocks",
+   "pub": "Tue, 20 Oct 2026 20:16:04 +0000",
+   "link": "https://decrypt.co/381448/microsoft-alphabet-goldman-sachs-growing-list-objecting-tokenized-stocks"
+  },
+  {
+   "title": "Swiss Regulator Approves First Retail Fund That Holds Bitcoin Directly",
+   "pub": "Tue, 20 Oct 2026 19:31:04 +0000",
+   "link": "https://decrypt.co/381446/swiss-regulator-first-retail-fund-holds-bitcoin-directly"
+  },
+  {
+   "title": "Bitcoin ETFs Post Their Best Day in Nearly a Month as BlackRock Does All the Buying",
+   "pub": "Tue, 20 Oct 2026 18:31:04 +0000",
+   "link": "https://decrypt.co/381444/bitcoin-etfs-best-day-nearly-month-blackrock-does-most-buying"
+  },
+  {
+   "title": "Bitcoin's Next Move: Here's What to Watch",
+   "pub": "Tue, 20 Oct 2026 17:45:04 +0000",
+   "link": "https://decrypt.co/381435/bitcoins-next-move-heres-what-to-watch"
+  },
+  {
    "title": "Zcash Leads Crypto Bounce, Surging 8.5% as Bitcoin Reclaims $83,000",
    "pub": "Tue, 20 Oct 2026 17:03:26 +0000",
    "link": "https://decrypt.co/381424/zcash-crypto-bounce-surging-bitcoin-reclaims"
@@ -91,39 +121,14 @@
    "title": "Morning Minute: Nine Blue Chip Companies Say No to Tokenized Stocks",
    "pub": "Tue, 20 Oct 2026 12:06:44 +0000",
    "link": "https://decrypt.co/381399/morning-minute-nine-blue-chip-companies-say-no-to-tokenized-stocks"
-  },
-  {
-   "title": "Mt. Gox Pushes Repayment Deadline to 2027 With $2.8B in Bitcoin Still to Distribute",
-   "pub": "Tue, 20 Oct 2026 10:55:48 +0000",
-   "link": "https://decrypt.co/381392/mt-gox-pushes-repayment-deadline-to-2027-with-2-8b-in-bitcoin-still-to-distribute"
-  },
-  {
-   "title": "BlackRock Files for 'Buffer' Bitcoin ETF as IBIT Draws $665M in a Day",
-   "pub": "Tue, 20 Oct 2026 09:13:30 +0000",
-   "link": "https://decrypt.co/381385/blackrock-files-for-buffer-bitcoin-etf-as-ibit-draws-665m-in-a-day"
-  },
-  {
-   "title": "Strive Buys $335 Million in Bitcoin After Investors Pour In $369 Million",
-   "pub": "Mon, 19 Oct 2026 21:46:05 +0000",
-   "link": "https://decrypt.co/381382/strive-buys-335-million-bitcoin"
-  },
-  {
-   "title": "Anthropic Gives 5% of Itself to the Public. Musk Answers by Giving Away SpaceX Shares",
-   "pub": "Mon, 19 Oct 2026 21:15:04 +0000",
-   "link": "https://decrypt.co/381371/anthropic-gives-public-musk-answers-spacex-shares"
-  },
-  {
-   "title": "XRP Ledger Repairs Its Lending Protocol Before It Goes Live",
-   "pub": "Mon, 19 Oct 2026 20:46:05 +0000",
-   "link": "https://decrypt.co/381358/xrp-ledger-repairs-lending-protocol-before-live"
-  },
-  {
-   "title": "Hackers Are Running Apple's iOS on Android Phones for the First Time",
-   "pub": "Mon, 19 Oct 2026 19:46:04 +0000",
-   "link": "https://decrypt.co/381351/hackers-running-apple-ios-android-phones"
   }
  ],
  "cryptonews": [
+  {
+   "title": "Crypto\u2019s 2026 shutdown wave claims 82 projects. What went wrong?",
+   "pub": "Tue, 20 Oct 2026 19:59:39 +0000",
+   "link": "https://cointelegraph.com/news/crypto-project-shutdowns-2026-what-went-wrong?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+  },
   {
    "title": "Drift exploiter sends $61M ETH to Tornado Cash, holds $194M",
    "pub": "Tue, 20 Oct 2026 12:38:28 +0000",
@@ -178,11 +183,6 @@
    "title": "Winners and losers of the SEC\u2019s new tokenized stocks rules",
    "pub": "Wed, 23 Sep 2026 13:30:00 +0000",
    "link": "https://cointelegraph.com/magazine/winners-and-losers-of-the-secs-new-tokenized-stocks-rules?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Crypto\u2019s wild boom-and-bust cycles are fading, Solstice CEO says",
-   "pub": "Tue, 22 Sep 2026 08:06:23 +0000",
-   "link": "https://cointelegraph.com/news/crypto-bull-runs-liquidity-solstice-ceo?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
   }
  ]
 }

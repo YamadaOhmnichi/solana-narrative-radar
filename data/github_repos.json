@@ -6,8 +6,8 @@
   "stars": 182,
   "created": "2026-10-11T21:37:08Z",
   "language": "TypeScript",
-  "stars_per_day": 22.75,
-  "age_days": 8,
+  "stars_per_day": 20.22,
+  "age_days": 9,
   "topics": [
    "defi",
    "fastify",
@@ -23,10 +23,10 @@
   "full_name": "h100envy/gem-search",
   "url": "https://github.com/h100envy/gem-search",
   "description": "Rainbow spider that X-rays memecoins: bundles, linked wallets, dev history. Scanner, Telegram bot, live Bundle Index.",
-  "stars": 216,
+  "stars": 215,
   "created": "2026-10-05T13:12:12Z",
   "language": "Python",
-  "stars_per_day": 14.4,
+  "stars_per_day": 14.33,
   "age_days": 15,
   "topics": [
    "memecoin",
@@ -91,10 +91,10 @@
   "full_name": "NuvexNetwork/nuvex",
   "url": "https://github.com/NuvexNetwork/nuvex",
   "description": "Solana-native verifiable compute and oracle protocol.  Programs accept a job, an input, constraints, and a callback. Randomness is the first job. An active node can fulfill a VRF request with an ECVRF",
-  "stars": 205,
+  "stars": 206,
   "created": "2026-10-02T15:38:29Z",
   "language": "Rust",
-  "stars_per_day": 11.39,
+  "stars_per_day": 11.44,
   "age_days": 18,
   "topics": [
    "cli",
@@ -110,10 +110,10 @@
   "full_name": "NuvexNetwork/nuvex-services",
   "url": "https://github.com/NuvexNetwork/nuvex-services",
   "description": "Off-chain services for Nuvex. This repository does not deploy programs and it is not a source of protocol truth.",
-  "stars": 207,
+  "stars": 208,
   "created": "2026-09-30T07:55:06Z",
   "language": "TypeScript",
-  "stars_per_day": 10.35,
+  "stars_per_day": 10.4,
   "age_days": 20,
   "topics": [
    "ai",
@@ -210,26 +210,6 @@
   ]
  },
  {
-  "full_name": "propavingk/SlotDrift",
-  "url": "https://github.com/propavingk/SlotDrift",
-  "description": "Slot continuity and fork analysis for captured Solana slot records - gaps, skips, duplicate slots and orphaned branches, with an independent Rust engine.",
-  "stars": 44,
-  "created": "2026-09-20T07:14:19Z",
-  "language": "Python",
-  "stars_per_day": 1.47,
-  "age_days": 30,
-  "topics": [
-   "blockchain",
-   "cli",
-   "continuity",
-   "data-analysis",
-   "developer-tools",
-   "forks",
-   "observability",
-   "python"
-  ]
- },
- {
   "full_name": "solana-foundation/solana-microscope",
   "url": "https://github.com/solana-foundation/solana-microscope",
   "description": "Solana Microscope",
@@ -263,17 +243,6 @@
   "topics": []
  },
  {
-  "full_name": "thaorivera/crypto-wallet-generator-cracker",
-  "url": "https://github.com/thaorivera/crypto-wallet-generator-cracker",
-  "description": "Multi-chain cryptocurrency wallet generator with built-in balance checker. Generates wallets for Bitcoin, Ethereum, Solana, and other major networks. Checks generated addresses against public blockcha",
-  "stars": 16,
-  "created": "2026-10-04T21:37:13Z",
-  "language": "C++",
-  "stars_per_day": 1.07,
-  "age_days": 15,
-  "topics": []
- },
- {
   "full_name": "sopersone/CROWBRAIN",
   "url": "https://github.com/sopersone/CROWBRAIN",
   "description": "Experimental market observation terminal for Solana and Robinhood Chain, featuring a crow-inspired interface, rule-based signals, and live engine logs.",
@@ -282,6 +251,17 @@
   "language": "Python",
   "stars_per_day": 1.06,
   "age_days": 35,
+  "topics": []
+ },
+ {
+  "full_name": "thaorivera/crypto-wallet-generator-cracker",
+  "url": "https://github.com/thaorivera/crypto-wallet-generator-cracker",
+  "description": "Multi-chain cryptocurrency wallet generator with built-in balance checker. Generates wallets for Bitcoin, Ethereum, Solana, and other major networks. Checks generated addresses against public blockcha",
+  "stars": 16,
+  "created": "2026-10-04T21:37:13Z",
+  "language": "C++",
+  "stars_per_day": 1.0,
+  "age_days": 16,
   "topics": []
  },
  {
@@ -357,6 +337,26 @@
   "topics": []
  },
  {
+  "full_name": "propavingk/SlotDrift",
+  "url": "https://github.com/propavingk/SlotDrift",
+  "description": "Slot continuity and fork analysis for captured Solana slot records - gaps, skips, duplicate slots and orphaned branches, with an independent Rust engine.",
+  "stars": 19,
+  "created": "2026-09-20T07:14:19Z",
+  "language": "Python",
+  "stars_per_day": 0.63,
+  "age_days": 30,
+  "topics": [
+   "blockchain",
+   "cli",
+   "continuity",
+   "data-analysis",
+   "developer-tools",
+   "forks",
+   "observability",
+   "python"
+  ]
+ },
+ {
   "full_name": "PillCrew/claimchain",
   "url": "https://github.com/PillCrew/claimchain",
   "description": "Verify that an AI agent's on-chain claims are actually true. A claim-level groundedness checker for Solana / memecoin agents.",
@@ -388,25 +388,6 @@
   "topics": []
  },
  {
-  "full_name": "switch-afk/sol-pda",
-  "url": "https://github.com/switch-afk/sol-pda",
-  "description": "Derive Solana program derived addresses (PDAs) offline from your terminal",
-  "stars": 3,
-  "created": "2026-10-14T21:12:13Z",
-  "language": "JavaScript",
-  "stars_per_day": 0.6,
-  "age_days": 5,
-  "topics": [
-   "cli",
-   "nodejs",
-   "pda",
-   "program-derived-address",
-   "solana",
-   "web3",
-   "zero-dependency"
-  ]
- },
- {
   "full_name": "TDI-true-digital-intelligence/T.D.I-Labs-Solana-Trezor-Token",
   "url": "https://github.com/TDI-true-digital-intelligence/T.D.I-Labs-Solana-Trezor-Token",
   "description": "T.D.I Labs: 'TDI-Token' - Trezor Token - Created with Solana CLI Dev Tools - SPL Token-2022 Program \"Smart Contract\" - First documented (Trezor T Crypto Hardware) Signed Solana Token Creation OCT2026 ",
@@ -435,8 +416,8 @@
   "stars": 35,
   "created": "2026-08-21T21:14:09Z",
   "language": "JavaScript",
-  "stars_per_day": 0.59,
-  "age_days": 59,
+  "stars_per_day": 0.58,
+  "age_days": 60,
   "topics": [
    "ai",
    "ai-agents",
@@ -469,34 +450,6 @@
   ]
  },
  {
-  "full_name": "switch-afk/sol-idl-peek",
-  "url": "https://github.com/switch-afk/sol-idl-peek",
-  "description": "Peek at the on-chain Anchor IDL of any Solana program from your terminal",
-  "stars": 3,
-  "created": "2026-10-14T09:49:23Z",
-  "language": "JavaScript",
-  "stars_per_day": 0.5,
-  "age_days": 6,
-  "topics": [
-   "anchor",
-   "cli",
-   "idl",
-   "nodejs",
-   "solana"
-  ]
- },
- {
-  "full_name": "ax-x2/rewind",
-  "url": "https://github.com/ax-x2/rewind",
-  "description": "recover historical and closed solana program binaries using jetstreamer",
-  "stars": 2,
-  "created": "2026-10-15T19:38:24Z",
-  "language": "Rust",
-  "stars_per_day": 0.5,
-  "age_days": 4,
-  "topics": []
- },
- {
   "full_name": "DigitalShieldOfficial/DigitalShield-Hardware-Airgap-Sdk",
   "url": "https://github.com/DigitalShieldOfficial/DigitalShield-Hardware-Airgap-Sdk",
   "description": "Air-gap QR integration for Digital Shield hardware: account import and 11-chain transfer signing for third-party hot wallets.",
@@ -514,26 +467,6 @@
    "ethereum-wallet",
    "hardware-wallet",
    "multi-chain"
-  ]
- },
- {
-  "full_name": "FortuneGroot/solana-token-risk-radar",
-  "url": "https://github.com/FortuneGroot/solana-token-risk-radar",
-  "description": "Read-only Solana token research bot: aggregates DEX Screener, GeckoTerminal, Jupiter, RugCheck and Solana RPC into an explainable risk score with confidence and hard blockers. Python, discord.py.",
-  "stars": 1,
-  "created": "2026-10-17T21:29:02Z",
-  "language": "Python",
-  "stars_per_day": 0.5,
-  "age_days": 2,
-  "topics": [
-   "api-integration",
-   "asyncio",
-   "crypto",
-   "defi",
-   "discord-bot",
-   "on-chain-analytics",
-   "python",
-   "risk-scoring"
   ]
  },
  {
@@ -574,8 +507,8 @@
   "stars": 15,
   "created": "2026-09-13T17:36:27Z",
   "language": "Solidity",
-  "stars_per_day": 0.42,
-  "age_days": 36,
+  "stars_per_day": 0.41,
+  "age_days": 37,
   "topics": [
    "defi",
    "ethereum",
@@ -583,6 +516,17 @@
    "solana",
    "web3"
   ]
+ },
+ {
+  "full_name": "ax-x2/rewind",
+  "url": "https://github.com/ax-x2/rewind",
+  "description": "recover historical and closed solana program binaries using jetstreamer",
+  "stars": 2,
+  "created": "2026-10-15T19:38:24Z",
+  "language": "Rust",
+  "stars_per_day": 0.4,
+  "age_days": 5,
+  "topics": []
  },
  {
   "full_name": "TodorBonchev/rust-auditor",
@@ -647,6 +591,62 @@
   "topics": []
  },
  {
+  "full_name": "switch-afk/sol-pda",
+  "url": "https://github.com/switch-afk/sol-pda",
+  "description": "Derive Solana program derived addresses (PDAs) offline from your terminal",
+  "stars": 2,
+  "created": "2026-10-14T21:12:13Z",
+  "language": "JavaScript",
+  "stars_per_day": 0.33,
+  "age_days": 6,
+  "topics": [
+   "cli",
+   "nodejs",
+   "pda",
+   "program-derived-address",
+   "solana",
+   "web3",
+   "zero-dependency"
+  ]
+ },
+ {
+  "full_name": "switch-afk/sol-idl-peek",
+  "url": "https://github.com/switch-afk/sol-idl-peek",
+  "description": "Peek at the on-chain Anchor IDL of any Solana program from your terminal",
+  "stars": 2,
+  "created": "2026-10-14T09:49:23Z",
+  "language": "JavaScript",
+  "stars_per_day": 0.33,
+  "age_days": 6,
+  "topics": [
+   "anchor",
+   "cli",
+   "idl",
+   "nodejs",
+   "solana"
+  ]
+ },
+ {
+  "full_name": "FortuneGroot/solana-token-risk-radar",
+  "url": "https://github.com/FortuneGroot/solana-token-risk-radar",
+  "description": "Read-only Solana token research bot: aggregates DEX Screener, GeckoTerminal, Jupiter, RugCheck and Solana RPC into an explainable risk score with confidence and hard blockers. Python, discord.py.",
+  "stars": 1,
+  "created": "2026-10-17T21:29:02Z",
+  "language": "Python",
+  "stars_per_day": 0.33,
+  "age_days": 3,
+  "topics": [
+   "api-integration",
+   "asyncio",
+   "crypto",
+   "defi",
+   "discord-bot",
+   "on-chain-analytics",
+   "python",
+   "risk-scoring"
+  ]
+ },
+ {
   "full_name": "swcstudiospace/PumpGrok",
   "url": "https://github.com/swcstudiospace/PumpGrok",
   "description": "1-Click Grok Bot 8 Man Crypto Trading Desk as seen on X",
@@ -654,7 +654,7 @@
   "created": "2026-08-26T18:02:45Z",
   "language": "Python",
   "stars_per_day": 0.31,
-  "age_days": 54,
+  "age_days": 55,
   "topics": [
    "ai-agents",
    "blockchain",
@@ -724,26 +724,6 @@
   ]
  },
  {
-  "full_name": "switch-afk/sol-program-info",
-  "url": "https://github.com/switch-afk/sol-program-info",
-  "description": "Check if a Solana program is upgradeable, who controls it, and when it was last deployed.",
-  "stars": 3,
-  "created": "2026-10-10T16:40:45Z",
-  "language": "JavaScript",
-  "stars_per_day": 0.3,
-  "age_days": 10,
-  "topics": [
-   "blockchain",
-   "cli",
-   "developer-tools",
-   "nodejs",
-   "security",
-   "solana",
-   "solana-program",
-   "upgrade-authority"
-  ]
- },
- {
   "full_name": "heavyguinea/Crypto-Signature-Verification-Tool",
   "url": "https://github.com/heavyguinea/Crypto-Signature-Verification-Tool",
   "description": "Crypto Signature Verification Tool - professional tool for verifying cryptographic signatures on messages and transactions with multi-chain and multi-algorithm support for Windows.",
@@ -751,7 +731,7 @@
   "created": "2026-08-23T20:45:06Z",
   "language": null,
   "stars_per_day": 0.28,
-  "age_days": 57,
+  "age_days": 58,
   "topics": [
    "blockchain",
    "crypto",
@@ -824,6 +804,26 @@
   ]
  },
  {
+  "full_name": "switch-afk/sol-program-info",
+  "url": "https://github.com/switch-afk/sol-program-info",
+  "description": "Check if a Solana program is upgradeable, who controls it, and when it was last deployed.",
+  "stars": 2,
+  "created": "2026-10-10T16:40:45Z",
+  "language": "JavaScript",
+  "stars_per_day": 0.2,
+  "age_days": 10,
+  "topics": [
+   "blockchain",
+   "cli",
+   "developer-tools",
+   "nodejs",
+   "security",
+   "solana",
+   "solana-program",
+   "upgrade-authority"
+  ]
+ },
+ {
   "full_name": "unwindfi/unwind-protocol",
   "url": "https://github.com/unwindfi/unwind-protocol",
   "description": "Permissionless perpetuals on Solana, cleared by batch auction. List any Solana token, with leverage.",
@@ -839,6 +839,17 @@
    "perpetuals",
    "solana"
   ]
+ },
+ {
+  "full_name": "MuhKar1/zk-ballot-solana",
+  "url": "https://github.com/MuhKar1/zk-ballot-solana",
+  "description": "Privacy-preserving, verifiable voting on Solana. Noir circuits prove voter eligibility and one-vote-per-race without revealing identity or choice; ballots are ElGamal-encrypted and tallied via a verif",
+  "stars": 3,
+  "created": "2026-10-02T14:53:13Z",
+  "language": "TypeScript",
+  "stars_per_day": 0.17,
+  "age_days": 18,
+  "topics": []
  },
  {
   "full_name": "Portaudit/referee",
@@ -884,7 +895,7 @@
   "created": "2026-08-22T18:04:22Z",
   "language": "Rust",
   "stars_per_day": 0.14,
-  "age_days": 58,
+  "age_days": 59,
   "topics": [
    "anchor",
    "blockchain",
@@ -894,26 +905,6 @@
    "simulator",
    "solana",
    "svm"
-  ]
- },
- {
-  "full_name": "Tymofii-thc/oath",
-  "url": "https://github.com/Tymofii-thc/oath",
-  "description": "Anchor CI image digests on Solana and block deploys of images the pipeline did not build",
-  "stars": 1,
-  "created": "2026-10-12T21:22:10Z",
-  "language": "JavaScript",
-  "stars_per_day": 0.14,
-  "age_days": 7,
-  "topics": [
-   "admission-controller",
-   "devsecops",
-   "docker",
-   "github-actions",
-   "kubernetes",
-   "sigstore",
-   "slsa",
-   "solana"
   ]
  },
  {
@@ -942,13 +933,33 @@
   "created": "2026-10-03T18:45:29Z",
   "language": null,
   "stars_per_day": 0.12,
-  "age_days": 16,
+  "age_days": 17,
   "topics": [
    "anchor",
    "defi",
    "jito",
    "rust",
    "smart-contracts",
+   "solana"
+  ]
+ },
+ {
+  "full_name": "Tymofii-thc/oath",
+  "url": "https://github.com/Tymofii-thc/oath",
+  "description": "Anchor CI image digests on Solana and block deploys of images the pipeline did not build",
+  "stars": 1,
+  "created": "2026-10-12T21:22:10Z",
+  "language": "JavaScript",
+  "stars_per_day": 0.12,
+  "age_days": 8,
+  "topics": [
+   "admission-controller",
+   "devsecops",
+   "docker",
+   "github-actions",
+   "kubernetes",
+   "sigstore",
+   "slsa",
    "solana"
   ]
  },
@@ -961,17 +972,6 @@
   "language": "Rust",
   "stars_per_day": 0.11,
   "age_days": 37,
-  "topics": []
- },
- {
-  "full_name": "MuhKar1/zk-ballot-solana",
-  "url": "https://github.com/MuhKar1/zk-ballot-solana",
-  "description": "Privacy-preserving, verifiable voting on Solana. Noir circuits prove voter eligibility and one-vote-per-race without revealing identity or choice; ballots are ElGamal-encrypted and tallied via a verif",
-  "stars": 2,
-  "created": "2026-10-02T14:53:13Z",
-  "language": "TypeScript",
-  "stars_per_day": 0.11,
-  "age_days": 18,
   "topics": []
  },
  {
@@ -1102,7 +1102,7 @@
   "created": "2026-09-08T21:09:18Z",
   "language": "Solidity",
   "stars_per_day": 0.1,
-  "age_days": 41,
+  "age_days": 42,
   "topics": [
    "agents-md",
    "ai-agents",
@@ -1180,7 +1180,7 @@
   "created": "2026-09-20T18:35:16Z",
   "language": "Python",
   "stars_per_day": 0.07,
-  "age_days": 29,
+  "age_days": 30,
   "topics": [
    "ai-agent",
    "defi",
@@ -1399,25 +1399,6 @@
   ]
  },
  {
-  "full_name": "dinsoul09/Ortaq",
-  "url": "https://github.com/dinsoul09/Ortaq",
-  "description": "\u041e\u0431\u0449\u0430\u044f \u043a\u0430\u0441\u0441\u0430 \u0431\u0435\u0437 \u043a\u0430\u0437\u043d\u0430\u0447\u0435\u044f: \u0441\u0431\u043e\u0440 \u0434\u0435\u0440\u0436\u0438\u0442 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430 \u043d\u0430 Solana \u2014 \u0434\u043e \u0446\u0435\u043b\u0438 \u0434\u0435\u043d\u044c\u0433\u0438 \u043d\u0435 \u0442\u0440\u043e\u0433\u0430\u0435\u0442 \u043d\u0438\u043a\u0442\u043e, \u043d\u0435 \u0441\u043e\u0431\u0440\u0430\u043b\u0438 \u2014 \u0432\u0437\u043d\u043e\u0441\u044b \u0432\u043e\u0437\u0432\u0440\u0430\u0449\u0430\u044e\u0442\u0441\u044f",
-  "stars": 2,
-  "created": "2026-09-05T17:41:31Z",
-  "language": "TypeScript",
-  "stars_per_day": 0.05,
-  "age_days": 44,
-  "topics": [
-   "anchor",
-   "devnet",
-   "hackathon",
-   "react",
-   "rust",
-   "solana",
-   "web3"
-  ]
- },
- {
   "full_name": "kkainatAMIR/ronin-rewards",
   "url": "https://github.com/kkainatAMIR/ronin-rewards",
   "description": "Ronin Rewards Solana program (Anchor)",
@@ -1453,6 +1434,25 @@
    "crypto",
    "defi",
    "token-analysis"
+  ]
+ },
+ {
+  "full_name": "dinsoul09/Ortaq",
+  "url": "https://github.com/dinsoul09/Ortaq",
+  "description": "\u041e\u0431\u0449\u0430\u044f \u043a\u0430\u0441\u0441\u0430 \u0431\u0435\u0437 \u043a\u0430\u0437\u043d\u0430\u0447\u0435\u044f: \u0441\u0431\u043e\u0440 \u0434\u0435\u0440\u0436\u0438\u0442 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430 \u043d\u0430 Solana \u2014 \u0434\u043e \u0446\u0435\u043b\u0438 \u0434\u0435\u043d\u044c\u0433\u0438 \u043d\u0435 \u0442\u0440\u043e\u0433\u0430\u0435\u0442 \u043d\u0438\u043a\u0442\u043e, \u043d\u0435 \u0441\u043e\u0431\u0440\u0430\u043b\u0438 \u2014 \u0432\u0437\u043d\u043e\u0441\u044b \u0432\u043e\u0437\u0432\u0440\u0430\u0449\u0430\u044e\u0442\u0441\u044f",
+  "stars": 2,
+  "created": "2026-09-05T17:41:31Z",
+  "language": "TypeScript",
+  "stars_per_day": 0.04,
+  "age_days": 45,
+  "topics": [
+   "anchor",
+   "devnet",
+   "hackathon",
+   "react",
+   "rust",
+   "solana",
+   "web3"
   ]
  },
  {
@@ -1534,7 +1534,7 @@
   "created": "2026-09-10T20:54:50Z",
   "language": "TypeScript",
   "stars_per_day": 0.03,
-  "age_days": 39,
+  "age_days": 40,
   "topics": [
    "amm",
    "blockchain",
@@ -1594,7 +1594,7 @@
   "created": "2026-08-25T17:14:46Z",
   "language": "Rust",
   "stars_per_day": 0.02,
-  "age_days": 55,
+  "age_days": 56,
   "topics": []
  },
  {

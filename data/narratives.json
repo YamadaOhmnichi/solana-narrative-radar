@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-20T04:53:08+00:00",
+ "generated_at": "2026-10-20T11:39:27+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 103.2,
+   "score": 116.0,
    "confidence": "High",
    "evidence": {
-    "github_repos": 47,
-    "github_top_velocity": 63.22,
+    "github_repos": 48,
+    "github_top_velocity": 75.96,
     "headline_hits": 5,
     "sample_headlines": [
      "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
@@ -29,32 +29,32 @@
      "url": "https://github.com/h100envy/gem-search"
     },
     {
+     "full_name": "h100envy/crawl-hive",
+     "stars_per_day": 14.78,
+     "url": "https://github.com/h100envy/crawl-hive"
+    },
+    {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 10.89,
+     "stars_per_day": 10.35,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
      "full_name": "QunatOrb/QuantOrb",
      "stars_per_day": 4.5,
      "url": "https://github.com/QunatOrb/QuantOrb"
-    },
-    {
-     "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 3.24,
-     "url": "https://github.com/recogardtech/AutoPilotPM"
     }
    ]
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 66.5,
+   "score": 70.3,
    "confidence": "High",
    "evidence": {
     "github_repos": 12,
-    "github_top_velocity": 52.36,
+    "github_top_velocity": 52.48,
     "headline_hits": 0,
     "sample_headlines": [],
-    "market_avg_7d_pct": -7.05,
+    "market_avg_7d_pct": -8.9,
     "sources_confirming": 2
    },
    "member_repos": [
@@ -65,7 +65,7 @@
     },
     {
      "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 14.67,
+     "stars_per_day": 14.78,
      "url": "https://github.com/h100envy/crawl-hive"
     },
     {
@@ -87,11 +87,11 @@
   },
   {
    "narrative": "Wallets & UX",
-   "score": 58.5,
+   "score": 57.3,
    "confidence": "High",
    "evidence": {
-    "github_repos": 21,
-    "github_top_velocity": 42.55,
+    "github_repos": 19,
+    "github_top_velocity": 41.33,
     "headline_hits": 2,
     "sample_headlines": [
      "Abandoned Bitcoin? Wallet Targeted by Noah Doe Lawsuit Moves $33 Million",
@@ -122,19 +122,59 @@
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
     },
     {
-     "full_name": "getsmartable-app/.github",
-     "stars_per_day": 1.5,
-     "url": "https://github.com/getsmartable-app/.github"
+     "full_name": "uni-launch/solana-token-creator",
+     "stars_per_day": 1.19,
+     "url": "https://github.com/uni-launch/solana-token-creator"
+    }
+   ]
+  },
+  {
+   "narrative": "Dev Tooling & Infra",
+   "score": 53.8,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 49,
+    "github_top_velocity": 53.8,
+    "headline_hits": 0,
+    "sample_headlines": [],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "h100envy/crawl-hive",
+     "stars_per_day": 14.78,
+     "url": "https://github.com/h100envy/crawl-hive"
+    },
+    {
+     "full_name": "NuvexNetwork/nuvex",
+     "stars_per_day": 12.06,
+     "url": "https://github.com/NuvexNetwork/nuvex"
+    },
+    {
+     "full_name": "NuvexNetwork/nuvex-services",
+     "stars_per_day": 10.35,
+     "url": "https://github.com/NuvexNetwork/nuvex-services"
+    },
+    {
+     "full_name": "SpaceDataRig/space-data-rig",
+     "stars_per_day": 9.67,
+     "url": "https://github.com/SpaceDataRig/space-data-rig"
+    },
+    {
+     "full_name": "openarbmev/Openarb-Trade-SDK",
+     "stars_per_day": 2.13,
+     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
     }
    ]
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 58.1,
+   "score": 43.0,
    "confidence": "High",
    "evidence": {
-    "github_repos": 22,
-    "github_top_velocity": 42.06,
+    "github_repos": 21,
+    "github_top_velocity": 26.95,
     "headline_hits": 2,
     "sample_headlines": [
      "Capital starting to rotate back to crypto from AI: Raoul Pal",
@@ -145,18 +185,13 @@
    },
    "member_repos": [
     {
-     "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 14.67,
-     "url": "https://github.com/h100envy/crawl-hive"
-    },
-    {
      "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 10.89,
+     "stars_per_day": 10.35,
      "url": "https://github.com/NuvexNetwork/nuvex-services"
     },
     {
      "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 9.56,
+     "stars_per_day": 9.67,
      "url": "https://github.com/SpaceDataRig/space-data-rig"
     },
     {
@@ -168,56 +203,21 @@
      "full_name": "GuiBibeau/solos",
      "stars_per_day": 0.88,
      "url": "https://github.com/GuiBibeau/solos"
-    }
-   ]
-  },
-  {
-   "narrative": "Dev Tooling & Infra",
-   "score": 40.3,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 46,
-    "github_top_velocity": 40.28,
-    "headline_hits": 0,
-    "sample_headlines": [],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 12.06,
-     "url": "https://github.com/NuvexNetwork/nuvex"
     },
     {
-     "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 10.89,
-     "url": "https://github.com/NuvexNetwork/nuvex-services"
-    },
-    {
-     "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 9.56,
-     "url": "https://github.com/SpaceDataRig/space-data-rig"
-    },
-    {
-     "full_name": "propavingk/SlotDrift",
-     "stars_per_day": 2.21,
-     "url": "https://github.com/propavingk/SlotDrift"
-    },
-    {
-     "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 2.13,
-     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
+     "full_name": "PillCrew/claimchain",
+     "stars_per_day": 0.62,
+     "url": "https://github.com/PillCrew/claimchain"
     }
    ]
   },
   {
    "narrative": "RWA & Tokenization",
-   "score": 32.7,
+   "score": 32.6,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 4,
-    "github_top_velocity": 0.66,
+    "github_top_velocity": 0.65,
     "headline_hits": 4,
     "sample_headlines": [
      "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
@@ -235,7 +235,7 @@
     },
     {
      "full_name": "truenorth-lj/sofinance-public",
-     "stars_per_day": 0.15,
+     "stars_per_day": 0.14,
      "url": "https://github.com/truenorth-lj/sofinance-public"
     },
     {
@@ -252,14 +252,15 @@
   },
   {
    "narrative": "Payments & Stablecoins",
-   "score": 19.4,
+   "score": 27.4,
    "confidence": "High",
    "evidence": {
     "github_repos": 6,
-    "github_top_velocity": 3.43,
-    "headline_hits": 2,
+    "github_top_velocity": 3.39,
+    "headline_hits": 3,
     "sample_headlines": [
      "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
+     "Mt. Gox Pushes Repayment Deadline to 2027 With $2.8B in Bitcoin Still to Distribute",
      "Mastercard Brings Its Fraud-Fighting Tools to Stablecoin Payments"
     ],
     "market_avg_7d_pct": null,
@@ -273,12 +274,12 @@
     },
     {
      "full_name": "blueshift-gg/solana-pull-program",
-     "stars_per_day": 0.44,
+     "stars_per_day": 0.42,
      "url": "https://github.com/blueshift-gg/solana-pull-program"
     },
     {
      "full_name": "2274802010922/pipicachu",
-     "stars_per_day": 0.4,
+     "stars_per_day": 0.38,
      "url": "https://github.com/2274802010922/pipicachu"
     },
     {
@@ -295,11 +296,11 @@
   },
   {
    "narrative": "Security & Threats",
-   "score": 8.9,
+   "score": 9.3,
    "confidence": "Low",
    "evidence": {
-    "github_repos": 3,
-    "github_top_velocity": 0.94,
+    "github_repos": 4,
+    "github_top_velocity": 1.29,
     "headline_hits": 1,
     "sample_headlines": [
      "Hackers Are Running Apple's iOS on Android Phones for the First Time"
@@ -310,8 +311,13 @@
    "member_repos": [
     {
      "full_name": "TodorBonchev/rust-auditor",
-     "stars_per_day": 0.75,
+     "stars_per_day": 0.6,
      "url": "https://github.com/TodorBonchev/rust-auditor"
+    },
+    {
+     "full_name": "FortuneGroot/solana-token-risk-radar",
+     "stars_per_day": 0.5,
+     "url": "https://github.com/FortuneGroot/solana-token-risk-radar"
     },
     {
      "full_name": "Portaudit/referee",
@@ -327,11 +333,11 @@
   },
   {
    "narrative": "Consumer & Social",
-   "score": 3.9,
+   "score": 4.2,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 5,
-    "github_top_velocity": 3.85,
+    "github_repos": 6,
+    "github_top_velocity": 4.16,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -349,6 +355,11 @@
      "url": "https://github.com/uni-launch/solana-token-creator"
     },
     {
+     "full_name": "livid/exe-hub",
+     "stars_per_day": 0.31,
+     "url": "https://github.com/livid/exe-hub"
+    },
+    {
      "full_name": "blueshift-gg/solana-awesome",
      "stars_per_day": 0.23,
      "url": "https://github.com/blueshift-gg/solana-awesome"
@@ -357,11 +368,6 @@
      "full_name": "Laksz123/pulse-strike",
      "stars_per_day": 0.08,
      "url": "https://github.com/Laksz123/pulse-strike"
-    },
-    {
-     "full_name": "subhdotsol/solana-programs",
-     "stars_per_day": 0.06,
-     "url": "https://github.com/subhdotsol/solana-programs"
     }
    ]
   },

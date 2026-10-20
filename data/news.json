@@ -1,6 +1,11 @@
 {
  "cointelegraph": [
   {
+   "title": "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
+   "pub": "Tue, 20 Oct 2026 12:30:00 +0000",
+   "link": "https://cointelegraph.com/news/tx-ustx-stablecoin-rwa-liquidity-chain?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
+  },
+  {
    "title": "Solana treasury firm SkyAI sells all SOL holdings, launches $201M buyback",
    "pub": "Mon, 19 Oct 2026 21:04:34 +0000",
    "link": "https://cointelegraph.com/news/solana-treasury-skyai-sells-all-sol-holdings-launches-201m-buyback?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
@@ -54,14 +59,39 @@
    "title": "Institutions held crypto through 50% drawdown, Bitwise finds",
    "pub": "Thu, 24 Sep 2026 09:18:16 +0000",
    "link": "https://cointelegraph.com/markets/institutions-held-crypto-50-percent-drawdown-bitwise?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Crypto\u2019s wild boom-and-bust cycles are fading, Solstice CEO says",
-   "pub": "Tue, 22 Sep 2026 08:06:23 +0000",
-   "link": "https://cointelegraph.com/news/crypto-bull-runs-liquidity-solstice-ceo?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
   }
  ],
  "decrypt": [
+  {
+   "title": "Zcash Leads Crypto Bounce, Surging 8.5% as Bitcoin Reclaims $83,000",
+   "pub": "Tue, 20 Oct 2026 17:03:26 +0000",
+   "link": "https://decrypt.co/381424/zcash-crypto-bounce-surging-bitcoin-reclaims"
+  },
+  {
+   "title": "The Midterms Are the First Real Test of Whether Markets Beat Pollsters",
+   "pub": "Tue, 20 Oct 2026 16:26:58 +0000",
+   "link": "https://decrypt.co/380966/the-midterms-are-the-first-real-test-of-whether-markets-beat-pollsters"
+  },
+  {
+   "title": "What Is Strategy (MSTR)? The Bitcoin Treasury Company",
+   "pub": "Tue, 20 Oct 2026 16:17:02 +0000",
+   "link": "https://decrypt.co/resources/what-is-strategy-microstrategy-mstr-the-bitcoin-treasury-company"
+  },
+  {
+   "title": "Mastercard Opens Up AI Agent Payments With Early Access and Live Demo",
+   "pub": "Tue, 20 Oct 2026 16:01:04 +0000",
+   "link": "https://decrypt.co/381373/mastercard-opens-up-ai-agent-payments-with-early-access-and-live-demo"
+  },
+  {
+   "title": "French Lawmakers Back Stablecoin Swap Tax by Just One Vote",
+   "pub": "Tue, 20 Oct 2026 14:04:10 +0000",
+   "link": "https://decrypt.co/381413/french-lawmakers-back-stablecoin-swap-tax-by-just-one-vote"
+  },
+  {
+   "title": "Morning Minute: Nine Blue Chip Companies Say No to Tokenized Stocks",
+   "pub": "Tue, 20 Oct 2026 12:06:44 +0000",
+   "link": "https://decrypt.co/381399/morning-minute-nine-blue-chip-companies-say-no-to-tokenized-stocks"
+  },
   {
    "title": "Mt. Gox Pushes Repayment Deadline to 2027 With $2.8B in Bitcoin Still to Distribute",
    "pub": "Tue, 20 Oct 2026 10:55:48 +0000",
@@ -91,39 +121,14 @@
    "title": "Hackers Are Running Apple's iOS on Android Phones for the First Time",
    "pub": "Mon, 19 Oct 2026 19:46:04 +0000",
    "link": "https://decrypt.co/381351/hackers-running-apple-ios-android-phones"
-  },
-  {
-   "title": "Mastercard Brings Its Fraud-Fighting Tools to Stablecoin Payments",
-   "pub": "Mon, 19 Oct 2026 19:16:04 +0000",
-   "link": "https://decrypt.co/381365/mastercard-brings-its-fraud-fighting-tools-to-stablecoin-payments"
-  },
-  {
-   "title": "Why Some of America\u2019s Biggest Companies Are Objecting to Tokenized Shares",
-   "pub": "Mon, 19 Oct 2026 18:46:05 +0000",
-   "link": "https://decrypt.co/381349/why-some-america-biggest-companies-objecting-tokenized-shares"
-  },
-  {
-   "title": "US Orders Civilian Agencies to Rip DeepSeek Out of Government Systems",
-   "pub": "Mon, 19 Oct 2026 18:16:04 +0000",
-   "link": "https://decrypt.co/381347/us-orders-civilian-agencies-rip-deepseek-out-government-systems"
-  },
-  {
-   "title": "JPMorgan's JPM Coin Arrives on Ethereum, Putting Bank Dollars on a Public Blockchain",
-   "pub": "Mon, 19 Oct 2026 17:31:04 +0000",
-   "link": "https://decrypt.co/381343/jpmorgan-jpm-coin-ethereum-bank-dollars"
-  },
-  {
-   "title": "Abandoned Bitcoin? Wallet Targeted by Noah Doe Lawsuit Moves $33 Million",
-   "pub": "Mon, 19 Oct 2026 16:46:05 +0000",
-   "link": "https://decrypt.co/381337/abandoned-bitcoin-wallet-noah-doe-lawsuit-moves-33-million"
-  },
-  {
-   "title": "Bitcoin Tests Key Support as Oil and AI Fears Squeeze Markets",
-   "pub": "Mon, 19 Oct 2026 16:05:09 +0000",
-   "link": "https://decrypt.co/381319/bitcoin-price-key-support-oil-ai-fears-squeeze-markets"
   }
  ],
  "cryptonews": [
+  {
+   "title": "Drift exploiter sends $61M ETH to Tornado Cash, holds $194M",
+   "pub": "Tue, 20 Oct 2026 12:38:28 +0000",
+   "link": "https://cointelegraph.com/news/drift-exploiter-eth-tornado-cash?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+  },
   {
    "title": "Babylon advances native Bitcoin lending proposal on Aave V4",
    "pub": "Thu, 15 Oct 2026 09:14:28 +0000",
@@ -178,11 +183,6 @@
    "title": "Crypto\u2019s wild boom-and-bust cycles are fading, Solstice CEO says",
    "pub": "Tue, 22 Sep 2026 08:06:23 +0000",
    "link": "https://cointelegraph.com/news/crypto-bull-runs-liquidity-solstice-ceo?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Dragonfly\u2019s Qureshi calls for end to Zcash dev fund after 2028",
-   "pub": "Fri, 18 Sep 2026 11:22:24 +0000",
-   "link": "https://cointelegraph.com/news/dragonflys-qureshi-end-zcash-dev-fund-2028?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
   }
  ]
 }

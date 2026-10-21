@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-10-21T04:50:12+00:00",
+ "generated_at": "2026-10-21T11:51:25+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 110.5,
+   "score": 108.2,
    "confidence": "High",
    "evidence": {
     "github_repos": 46,
-    "github_top_velocity": 70.53,
-    "headline_hits": 5,
+    "github_top_velocity": 60.23,
+    "headline_hits": 6,
     "sample_headlines": [
      "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
      "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
-     "Starknet introduces wallet privacy feature for DeFi activity"
+     "France proposes liability for crypto exchanges offering DeFi access"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -34,27 +34,27 @@
      "url": "https://github.com/h100envy/crawl-hive"
     },
     {
-     "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 10.4,
-     "url": "https://github.com/NuvexNetwork/nuvex-services"
-    },
-    {
      "full_name": "QunatOrb/QuantOrb",
      "stars_per_day": 4.0,
      "url": "https://github.com/QunatOrb/QuantOrb"
+    },
+    {
+     "full_name": "recogardtech/AutoPilotPM",
+     "stars_per_day": 3.05,
+     "url": "https://github.com/recogardtech/AutoPilotPM"
     }
    ]
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 57.2,
+   "score": 51.9,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 11,
-    "github_top_velocity": 48.9,
+    "github_top_velocity": 48.43,
     "headline_hits": 0,
     "sample_headlines": [],
-    "market_avg_7d_pct": -4.13,
+    "market_avg_7d_pct": -1.73,
     "sources_confirming": 1
    },
    "member_repos": [
@@ -79,19 +79,19 @@
      "url": "https://github.com/QunatOrb/QuantOrb"
     },
     {
-     "full_name": "hrekokovgmmek-lab/solana-wallet-tracker",
-     "stars_per_day": 1.0,
-     "url": "https://github.com/hrekokovgmmek-lab/solana-wallet-tracker"
+     "full_name": "BordrlessDex/bordrless-programs",
+     "stars_per_day": 0.85,
+     "url": "https://github.com/BordrlessDex/bordrless-programs"
     }
    ]
   },
   {
    "narrative": "Wallets & UX",
-   "score": 55.0,
+   "score": 43.3,
    "confidence": "High",
    "evidence": {
-    "github_repos": 19,
-    "github_top_velocity": 39.02,
+    "github_repos": 18,
+    "github_top_velocity": 27.34,
     "headline_hits": 2,
     "sample_headlines": [
      "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
@@ -107,11 +107,6 @@
      "url": "https://github.com/h100envy/gem-search"
     },
     {
-     "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 11.44,
-     "url": "https://github.com/NuvexNetwork/nuvex"
-    },
-    {
      "full_name": "Janina21/Crypto-Checker",
      "stars_per_day": 6.07,
      "url": "https://github.com/Janina21/Crypto-Checker"
@@ -125,101 +120,22 @@
      "full_name": "uni-launch/solana-token-creator",
      "stars_per_day": 1.15,
      "url": "https://github.com/uni-launch/solana-token-creator"
-    }
-   ]
-  },
-  {
-   "narrative": "Dev Tooling & Infra",
-   "score": 49.7,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 49,
-    "github_top_velocity": 49.69,
-    "headline_hits": 0,
-    "sample_headlines": [],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 13.6,
-     "url": "https://github.com/h100envy/crawl-hive"
     },
     {
-     "full_name": "NuvexNetwork/nuvex",
-     "stars_per_day": 11.44,
-     "url": "https://github.com/NuvexNetwork/nuvex"
-    },
-    {
-     "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 10.4,
-     "url": "https://github.com/NuvexNetwork/nuvex-services"
-    },
-    {
-     "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 9.2,
-     "url": "https://github.com/SpaceDataRig/space-data-rig"
-    },
-    {
-     "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 2.08,
-     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
-    }
-   ]
-  },
-  {
-   "narrative": "AI Agents on Solana",
-   "score": 49.6,
-   "confidence": "High",
-   "evidence": {
-    "github_repos": 18,
-    "github_top_velocity": 25.6,
-    "headline_hits": 3,
-    "sample_headlines": [
-     "Capital starting to rotate back to crypto from AI: Raoul Pal",
-     "OpenAI Buys Orchestra Bio to Put AI Agents in Charge of Drug Development Grunt Work",
-     "Mastercard Opens Up AI Agent Payments With Early Access and Live Demo"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 2
-   },
-   "member_repos": [
-    {
-     "full_name": "NuvexNetwork/nuvex-services",
-     "stars_per_day": 10.4,
-     "url": "https://github.com/NuvexNetwork/nuvex-services"
-    },
-    {
-     "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 9.2,
-     "url": "https://github.com/SpaceDataRig/space-data-rig"
-    },
-    {
-     "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 3.05,
-     "url": "https://github.com/recogardtech/AutoPilotPM"
-    },
-    {
-     "full_name": "GuiBibeau/solos",
-     "stars_per_day": 0.86,
-     "url": "https://github.com/GuiBibeau/solos"
-    },
-    {
-     "full_name": "PillCrew/claimchain",
-     "stars_per_day": 0.6,
-     "url": "https://github.com/PillCrew/claimchain"
+     "full_name": "thaorivera/crypto-wallet-generator-cracker",
+     "stars_per_day": 1.0,
+     "url": "https://github.com/thaorivera/crypto-wallet-generator-cracker"
     }
    ]
   },
   {
    "narrative": "RWA & Tokenization",
-   "score": 40.6,
+   "score": 32.6,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 3,
-    "github_top_velocity": 0.61,
-    "headline_hits": 5,
+    "github_top_velocity": 0.6,
+    "headline_hits": 4,
     "sample_headlines": [
      "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
      "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
@@ -236,7 +152,7 @@
     },
     {
      "full_name": "truenorth-lj/sofinance-public",
-     "stars_per_day": 0.14,
+     "stars_per_day": 0.13,
      "url": "https://github.com/truenorth-lj/sofinance-public"
     },
     {
@@ -247,17 +163,99 @@
    ]
   },
   {
+   "narrative": "AI Agents on Solana",
+   "score": 30.9,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 18,
+    "github_top_velocity": 14.94,
+    "headline_hits": 2,
+    "sample_headlines": [
+     "Capital starting to rotate back to crypto from AI: Raoul Pal",
+     "OpenAI Buys Orchestra Bio to Put AI Agents in Charge of Drug Development Grunt Work"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 2
+   },
+   "member_repos": [
+    {
+     "full_name": "SpaceDataRig/space-data-rig",
+     "stars_per_day": 8.73,
+     "url": "https://github.com/SpaceDataRig/space-data-rig"
+    },
+    {
+     "full_name": "recogardtech/AutoPilotPM",
+     "stars_per_day": 3.05,
+     "url": "https://github.com/recogardtech/AutoPilotPM"
+    },
+    {
+     "full_name": "GuiBibeau/solos",
+     "stars_per_day": 0.86,
+     "url": "https://github.com/GuiBibeau/solos"
+    },
+    {
+     "full_name": "PillCrew/claimchain",
+     "stars_per_day": 0.6,
+     "url": "https://github.com/PillCrew/claimchain"
+    },
+    {
+     "full_name": "Parad0x-Labs/vool",
+     "stars_per_day": 0.53,
+     "url": "https://github.com/Parad0x-Labs/vool"
+    }
+   ]
+  },
+  {
+   "narrative": "Dev Tooling & Infra",
+   "score": 27.9,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 46,
+    "github_top_velocity": 27.86,
+    "headline_hits": 0,
+    "sample_headlines": [],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "h100envy/crawl-hive",
+     "stars_per_day": 13.6,
+     "url": "https://github.com/h100envy/crawl-hive"
+    },
+    {
+     "full_name": "SpaceDataRig/space-data-rig",
+     "stars_per_day": 8.73,
+     "url": "https://github.com/SpaceDataRig/space-data-rig"
+    },
+    {
+     "full_name": "openarbmev/Openarb-Trade-SDK",
+     "stars_per_day": 2.08,
+     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
+    },
+    {
+     "full_name": "GuiBibeau/solos",
+     "stars_per_day": 0.86,
+     "url": "https://github.com/GuiBibeau/solos"
+    },
+    {
+     "full_name": "TDI-true-digital-intelligence/T.D.I-Labs-Solana-Trezor-Token",
+     "stars_per_day": 0.5,
+     "url": "https://github.com/TDI-true-digital-intelligence/T.D.I-Labs-Solana-Trezor-Token"
+    }
+   ]
+  },
+  {
    "narrative": "Payments & Stablecoins",
-   "score": 27.1,
+   "score": 19.2,
    "confidence": "High",
    "evidence": {
     "github_repos": 6,
-    "github_top_velocity": 3.09,
-    "headline_hits": 3,
+    "github_top_velocity": 3.21,
+    "headline_hits": 2,
     "sample_headlines": [
      "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
-     "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
-     "Mastercard Opens Up AI Agent Payments With Early Access and Live Demo"
+     "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -270,12 +268,12 @@
     },
     {
      "full_name": "blueshift-gg/solana-pull-program",
-     "stars_per_day": 0.42,
+     "stars_per_day": 0.4,
      "url": "https://github.com/blueshift-gg/solana-pull-program"
     },
     {
      "full_name": "2274802010922/pipicachu",
-     "stars_per_day": 0.38,
+     "stars_per_day": 0.35,
      "url": "https://github.com/2274802010922/pipicachu"
     },
     {
@@ -284,19 +282,19 @@
      "url": "https://github.com/2274802010922/picachu_hackathon"
     },
     {
-     "full_name": "Tdat10052499/Unihackfest-2026",
-     "stars_per_day": 0.06,
-     "url": "https://github.com/Tdat10052499/Unihackfest-2026"
+     "full_name": "nirholas/papertrade-x402",
+     "stars_per_day": 0.2,
+     "url": "https://github.com/nirholas/papertrade-x402"
     }
    ]
   },
   {
    "narrative": "Security & Threats",
-   "score": 16.9,
+   "score": 16.8,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 4,
-    "github_top_velocity": 0.89,
+    "github_top_velocity": 0.82,
     "headline_hits": 2,
     "sample_headlines": [
      "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
@@ -308,7 +306,7 @@
    "member_repos": [
     {
      "full_name": "TodorBonchev/rust-auditor",
-     "stars_per_day": 0.4,
+     "stars_per_day": 0.33,
      "url": "https://github.com/TodorBonchev/rust-auditor"
     },
     {

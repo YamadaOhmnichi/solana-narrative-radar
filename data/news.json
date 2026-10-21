@@ -63,6 +63,16 @@
  ],
  "decrypt": [
   {
+   "title": "'Mentality Issue': PlayStation Founder Waves Away Disc Ownership Anger",
+   "pub": "Wed, 21 Oct 2026 11:19:34 +0000",
+   "link": "https://decrypt.co/381483/mentality-issue-playstation-founder-waves-away-disc-ownership-anger"
+  },
+  {
+   "title": "UK Banks Hit With 10,000 Complaints Over Blocked Crypto Transfers in 90 Days: Report",
+   "pub": "Wed, 21 Oct 2026 10:29:41 +0000",
+   "link": "https://decrypt.co/381475/uk-banks-hit-with-10000-complaints-over-blocked-crypto-transfers-in-90-days-report"
+  },
+  {
    "title": "People Are Vibe Coding the Ads Out of Their Smart TVs: Here's How",
    "pub": "Tue, 20 Oct 2026 22:16:04 +0000",
    "link": "https://decrypt.co/381456/vibe-coding-ads-out-smart-tvs-heres-how"
@@ -111,19 +121,19 @@
    "title": "The Midterms Are the First Real Test of Whether Markets Beat Pollsters",
    "pub": "Tue, 20 Oct 2026 16:26:58 +0000",
    "link": "https://decrypt.co/380966/the-midterms-are-the-first-real-test-of-whether-markets-beat-pollsters"
-  },
-  {
-   "title": "What Is Strategy (MSTR)? The Bitcoin Treasury Company",
-   "pub": "Tue, 20 Oct 2026 16:17:02 +0000",
-   "link": "https://decrypt.co/resources/what-is-strategy-microstrategy-mstr-the-bitcoin-treasury-company"
-  },
-  {
-   "title": "Mastercard Opens Up AI Agent Payments With Early Access and Live Demo",
-   "pub": "Tue, 20 Oct 2026 16:01:04 +0000",
-   "link": "https://decrypt.co/381373/mastercard-opens-up-ai-agent-payments-with-early-access-and-live-demo"
   }
  ],
  "cryptonews": [
+  {
+   "title": "PancakeSwap TVL tops $380M as major fee overhaul heads to vote",
+   "pub": "Wed, 21 Oct 2026 10:50:52 +0000",
+   "link": "https://cointelegraph.com/markets/pancakeswap-tvl-jumps-19-percent-fee-overhaul?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+  },
+  {
+   "title": "France proposes liability for crypto exchanges offering DeFi access",
+   "pub": "Wed, 21 Oct 2026 10:46:00 +0000",
+   "link": "https://cointelegraph.com/news/france-liability-crypto-exchange-defi-access?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+  },
   {
    "title": "Crypto\u2019s 2026 shutdown wave claims 82 projects. What went wrong?",
    "pub": "Tue, 20 Oct 2026 19:59:39 +0000",
@@ -173,16 +183,6 @@
    "title": "Furious debate about THORChain vs NEAR shows idealism has limits",
    "pub": "Fri, 02 Oct 2026 13:30:00 +0000",
    "link": "https://cointelegraph.com/magazine/furious-debate-about-thorchain-vs-near-shows-idealism-has-limits?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Altseason is coming \u2014 and traders are more discerning this time",
-   "pub": "Mon, 28 Sep 2026 13:30:00 +0000",
-   "link": "https://cointelegraph.com/magazine/altseason-is-coming-and-traders-are-more-discerning-this-time?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Winners and losers of the SEC\u2019s new tokenized stocks rules",
-   "pub": "Wed, 23 Sep 2026 13:30:00 +0000",
-   "link": "https://cointelegraph.com/magazine/winners-and-losers-of-the-secs-new-tokenized-stocks-rules?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
   }
  ]
 }

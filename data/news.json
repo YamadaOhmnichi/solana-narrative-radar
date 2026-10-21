@@ -1,6 +1,11 @@
 {
  "cointelegraph": [
   {
+   "title": "Solana\u2019s Alpenglow launches on mainnet, targets 99% faster finality",
+   "pub": "Wed, 21 Oct 2026 13:57:14 +0000",
+   "link": "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
+  },
+  {
    "title": "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
    "pub": "Tue, 20 Oct 2026 12:30:00 +0000",
    "link": "https://cointelegraph.com/news/tx-ustx-stablecoin-rwa-liquidity-chain?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
@@ -54,14 +59,49 @@
    "title": "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
    "pub": "Thu, 24 Sep 2026 13:00:00 +0000",
    "link": "https://cointelegraph.com/news/solana-foundation-binance-cmo-payments-executive?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Institutions held crypto through 50% drawdown, Bitwise finds",
-   "pub": "Thu, 24 Sep 2026 09:18:16 +0000",
-   "link": "https://cointelegraph.com/markets/institutions-held-crypto-50-percent-drawdown-bitwise?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
   }
  ],
  "decrypt": [
+  {
+   "title": "Dogecoin Gets a Dedicated Company to Build Out Its Ecosystem",
+   "pub": "Wed, 21 Oct 2026 16:46:04 +0000",
+   "link": "https://decrypt.co/381541/dogecoin-gets-dedicated-company-build-ecosystem"
+  },
+  {
+   "title": "Musk\u2019s SpaceX-Tesla Merger Would Create a Bitcoin Treasury Behemoth",
+   "pub": "Wed, 21 Oct 2026 16:16:05 +0000",
+   "link": "https://decrypt.co/381538/musk-spacex-tesla-merger-bitcoin-treasury-behemoth"
+  },
+  {
+   "title": "What Is a Bitcoin-Backed Loan? Borrowing Against BTC Explained",
+   "pub": "Wed, 21 Oct 2026 15:43:32 +0000",
+   "link": "https://decrypt.co/resources/what-is-a-bitcoin-backed-loan-borrowing-against-btc-explained"
+  },
+  {
+   "title": "PHP Panic: Two Critical Bugs Put 70% of the Internet at Risk, and Everyone Is Freaking Out",
+   "pub": "Wed, 21 Oct 2026 15:35:16 +0000",
+   "link": "https://decrypt.co/381519/php-panic-critical-bugs-70-percent-internet-risk-everyone-freaking-out"
+  },
+  {
+   "title": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
+   "pub": "Wed, 21 Oct 2026 14:24:25 +0000",
+   "link": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge"
+  },
+  {
+   "title": "GTA 6 Trailer Features 'Dacity' Meme Coin\u2014Here's What Traders Think It'll Do",
+   "pub": "Wed, 21 Oct 2026 13:16:04 +0000",
+   "link": "https://decrypt.co/381511/gta-6-trailer-features-dacity-meme-coin-heres-what-traders-think-itll-do"
+  },
+  {
+   "title": "Morning Minute: Bitcoin Tops JPMorgan\u2019s Ten-Year Forecast for All Assets",
+   "pub": "Wed, 21 Oct 2026 12:16:38 +0000",
+   "link": "https://decrypt.co/381510/morning-minute-bitcoin-tops-jpmorgans-ten-year-forecast-for-all-assets"
+  },
+  {
+   "title": "OCC Finalizes GENIUS Act Stablecoin Rules Ahead of January Deadline",
+   "pub": "Wed, 21 Oct 2026 11:52:23 +0000",
+   "link": "https://decrypt.co/381502/occ-finalizes-genius-act-stablecoin-rules-ahead-of-january-deadline"
+  },
   {
    "title": "'Mentality Issue': PlayStation Founder Waves Away Disc Ownership Anger",
    "pub": "Wed, 21 Oct 2026 11:19:34 +0000",
@@ -81,49 +121,14 @@
    "title": "OpenAI Buys Orchestra Bio to Put AI Agents in Charge of Drug Development Grunt Work",
    "pub": "Tue, 20 Oct 2026 21:46:04 +0000",
    "link": "https://decrypt.co/381467/openai-buys-orchestra-bio-ai-agents-drug-development"
-  },
-  {
-   "title": "JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat",
-   "pub": "Tue, 20 Oct 2026 21:16:04 +0000",
-   "link": "https://decrypt.co/381464/jpmorgan-bitcoin-forecast-first-time-stocks-gold"
-  },
-  {
-   "title": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
-   "pub": "Tue, 20 Oct 2026 20:46:04 +0000",
-   "link": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash"
-  },
-  {
-   "title": "Microsoft, Alphabet, Goldman Sachs Join Growing List of Companies Objecting to Tokenized Stocks",
-   "pub": "Tue, 20 Oct 2026 20:16:04 +0000",
-   "link": "https://decrypt.co/381448/microsoft-alphabet-goldman-sachs-growing-list-objecting-tokenized-stocks"
-  },
-  {
-   "title": "Swiss Regulator Approves First Retail Fund That Holds Bitcoin Directly",
-   "pub": "Tue, 20 Oct 2026 19:31:04 +0000",
-   "link": "https://decrypt.co/381446/swiss-regulator-first-retail-fund-holds-bitcoin-directly"
-  },
-  {
-   "title": "Bitcoin ETFs Post Their Best Day in Nearly a Month as BlackRock Does All the Buying",
-   "pub": "Tue, 20 Oct 2026 18:31:04 +0000",
-   "link": "https://decrypt.co/381444/bitcoin-etfs-best-day-nearly-month-blackrock-does-most-buying"
-  },
-  {
-   "title": "Bitcoin's Next Move: Here's What to Watch",
-   "pub": "Tue, 20 Oct 2026 17:45:04 +0000",
-   "link": "https://decrypt.co/381435/bitcoins-next-move-heres-what-to-watch"
-  },
-  {
-   "title": "Zcash Leads Crypto Bounce, Surging 8.5% as Bitcoin Reclaims $83,000",
-   "pub": "Tue, 20 Oct 2026 17:03:26 +0000",
-   "link": "https://decrypt.co/381424/zcash-crypto-bounce-surging-bitcoin-reclaims"
-  },
-  {
-   "title": "The Midterms Are the First Real Test of Whether Markets Beat Pollsters",
-   "pub": "Tue, 20 Oct 2026 16:26:58 +0000",
-   "link": "https://decrypt.co/380966/the-midterms-are-the-first-real-test-of-whether-markets-beat-pollsters"
   }
  ],
  "cryptonews": [
+  {
+   "title": "Here\u2019s what happened in crypto today",
+   "pub": "Wed, 21 Oct 2026 13:34:54 +0000",
+   "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+  },
   {
    "title": "PancakeSwap TVL tops $380M as major fee overhaul heads to vote",
    "pub": "Wed, 21 Oct 2026 10:50:52 +0000",
@@ -178,11 +183,6 @@
    "title": "S&P Global brings risk assessments to growing crypto lending vault sector",
    "pub": "Mon, 05 Oct 2026 17:58:58 +0000",
    "link": "https://cointelegraph.com/news/sp-global-launches-risk-assessments-for-10b-crypto-lending-vault-market?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Furious debate about THORChain vs NEAR shows idealism has limits",
-   "pub": "Fri, 02 Oct 2026 13:30:00 +0000",
-   "link": "https://cointelegraph.com/magazine/furious-debate-about-thorchain-vs-near-shows-idealism-has-limits?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
   }
  ]
 }

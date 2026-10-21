@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-10-21T17:14:09+00:00",
+ "generated_at": "2026-10-21T21:44:09+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 105.5,
+   "score": 111.5,
    "confidence": "High",
    "evidence": {
-    "github_repos": 46,
-    "github_top_velocity": 57.54,
-    "headline_hits": 6,
+    "github_repos": 45,
+    "github_top_velocity": 55.52,
+    "headline_hits": 7,
     "sample_headlines": [
      "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
      "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
-     "France proposes liability for crypto exchanges offering DeFi access"
+     "Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -20,7 +20,7 @@
    "member_repos": [
     {
      "full_name": "cxmza/windle",
-     "stars_per_day": 20.22,
+     "stars_per_day": 18.2,
      "url": "https://github.com/cxmza/windle"
     },
     {
@@ -47,17 +47,17 @@
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 65.7,
-   "confidence": "High",
+   "score": 60.2,
+   "confidence": "Medium",
    "evidence": {
-    "github_repos": 11,
-    "github_top_velocity": 45.57,
+    "github_repos": 10,
+    "github_top_velocity": 45.56,
     "headline_hits": 1,
     "sample_headlines": [
      "GTA 6 Trailer Features 'Dacity' Meme Coin\u2014Here's What Traders Think It'll Do"
     ],
-    "market_avg_7d_pct": 6.05,
-    "sources_confirming": 2
+    "market_avg_7d_pct": 3.33,
+    "sources_confirming": 1
    },
    "member_repos": [
     {
@@ -88,58 +88,17 @@
    ]
   },
   {
-   "narrative": "Wallets & UX",
-   "score": 34.1,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 18,
-    "github_top_velocity": 26.06,
-    "headline_hits": 1,
-    "sample_headlines": [
-     "Starknet introduces wallet privacy feature for DeFi activity"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "h100envy/gem-search",
-     "stars_per_day": 13.56,
-     "url": "https://github.com/h100envy/gem-search"
-    },
-    {
-     "full_name": "Janina21/Crypto-Checker",
-     "stars_per_day": 5.67,
-     "url": "https://github.com/Janina21/Crypto-Checker"
-    },
-    {
-     "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 2.02,
-     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
-    },
-    {
-     "full_name": "uni-launch/solana-token-creator",
-     "stars_per_day": 1.11,
-     "url": "https://github.com/uni-launch/solana-token-creator"
-    },
-    {
-     "full_name": "thaorivera/crypto-wallet-generator-cracker",
-     "stars_per_day": 1.0,
-     "url": "https://github.com/thaorivera/crypto-wallet-generator-cracker"
-    }
-   ]
-  },
-  {
    "narrative": "AI Agents on Solana",
-   "score": 32.0,
+   "score": 47.9,
    "confidence": "High",
    "evidence": {
-    "github_repos": 21,
-    "github_top_velocity": 16.01,
-    "headline_hits": 2,
+    "github_repos": 22,
+    "github_top_velocity": 15.92,
+    "headline_hits": 4,
     "sample_headlines": [
      "Capital starting to rotate back to crypto from AI: Raoul Pal",
-     "OpenAI Buys Orchestra Bio to Put AI Agents in Charge of Drug Development Grunt Work"
+     "Ken Griffin Says AI Is 'Almost Certainly' in a Bubble\u2014And Compares GPUs to Airline Seats",
+     "Nvidia Unveils Its Full-Stack Blueprint to Contain and Monitor AI Agents"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -173,56 +132,54 @@
    ]
   },
   {
-   "narrative": "Payments & Stablecoins",
-   "score": 27.3,
-   "confidence": "High",
+   "narrative": "Wallets & UX",
+   "score": 34.1,
+   "confidence": "Medium",
    "evidence": {
-    "github_repos": 6,
-    "github_top_velocity": 3.29,
-    "headline_hits": 3,
+    "github_repos": 18,
+    "github_top_velocity": 26.07,
+    "headline_hits": 1,
     "sample_headlines": [
-     "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
-     "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
-     "OCC Finalizes GENIUS Act Stablecoin Rules Ahead of January Deadline"
+     "Starknet introduces wallet privacy feature for DeFi activity"
     ],
     "market_avg_7d_pct": null,
-    "sources_confirming": 2
+    "sources_confirming": 1
    },
    "member_repos": [
     {
-     "full_name": "des35swim/hood-warfare",
-     "stars_per_day": 1.78,
-     "url": "https://github.com/des35swim/hood-warfare"
+     "full_name": "h100envy/gem-search",
+     "stars_per_day": 13.56,
+     "url": "https://github.com/h100envy/gem-search"
     },
     {
-     "full_name": "nirholas/papertrade-x402",
-     "stars_per_day": 0.5,
-     "url": "https://github.com/nirholas/papertrade-x402"
+     "full_name": "Janina21/Crypto-Checker",
+     "stars_per_day": 5.67,
+     "url": "https://github.com/Janina21/Crypto-Checker"
     },
     {
-     "full_name": "blueshift-gg/solana-pull-program",
-     "stars_per_day": 0.4,
-     "url": "https://github.com/blueshift-gg/solana-pull-program"
+     "full_name": "openarbmev/Openarb-Trade-SDK",
+     "stars_per_day": 2.02,
+     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
     },
     {
-     "full_name": "2274802010922/pipicachu",
-     "stars_per_day": 0.35,
-     "url": "https://github.com/2274802010922/pipicachu"
+     "full_name": "uni-launch/solana-token-creator",
+     "stars_per_day": 1.11,
+     "url": "https://github.com/uni-launch/solana-token-creator"
     },
     {
-     "full_name": "2274802010922/picachu_hackathon",
-     "stars_per_day": 0.2,
-     "url": "https://github.com/2274802010922/picachu_hackathon"
+     "full_name": "nathanliow/trickshot",
+     "stars_per_day": 0.95,
+     "url": "https://github.com/nathanliow/trickshot"
     }
    ]
   },
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 27.2,
+   "score": 27.1,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 45,
-    "github_top_velocity": 27.18,
+    "github_top_velocity": 27.11,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -262,7 +219,7 @@
    "confidence": "Medium",
    "evidence": {
     "github_repos": 3,
-    "github_top_velocity": 0.6,
+    "github_top_velocity": 0.63,
     "headline_hits": 3,
     "sample_headlines": [
      "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
@@ -274,9 +231,9 @@
    },
    "member_repos": [
     {
-     "full_name": "vectorix-cross/CrossYield",
-     "stars_per_day": 0.41,
-     "url": "https://github.com/vectorix-cross/CrossYield"
+     "full_name": "pandasi-team/CrossYield",
+     "stars_per_day": 0.39,
+     "url": "https://github.com/pandasi-team/CrossYield"
     },
     {
      "full_name": "truenorth-lj/sofinance-public",
@@ -285,8 +242,51 @@
     },
     {
      "full_name": "Zyxel89/owncurve",
-     "stars_per_day": 0.06,
+     "stars_per_day": 0.11,
      "url": "https://github.com/Zyxel89/owncurve"
+    }
+   ]
+  },
+  {
+   "narrative": "Payments & Stablecoins",
+   "score": 19.3,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 6,
+    "github_top_velocity": 3.29,
+    "headline_hits": 2,
+    "sample_headlines": [
+     "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
+     "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 2
+   },
+   "member_repos": [
+    {
+     "full_name": "des35swim/hood-warfare",
+     "stars_per_day": 1.78,
+     "url": "https://github.com/des35swim/hood-warfare"
+    },
+    {
+     "full_name": "nirholas/papertrade-x402",
+     "stars_per_day": 0.5,
+     "url": "https://github.com/nirholas/papertrade-x402"
+    },
+    {
+     "full_name": "blueshift-gg/solana-pull-program",
+     "stars_per_day": 0.4,
+     "url": "https://github.com/blueshift-gg/solana-pull-program"
+    },
+    {
+     "full_name": "2274802010922/pipicachu",
+     "stars_per_day": 0.35,
+     "url": "https://github.com/2274802010922/pipicachu"
+    },
+    {
+     "full_name": "2274802010922/picachu_hackathon",
+     "stars_per_day": 0.2,
+     "url": "https://github.com/2274802010922/picachu_hackathon"
     }
    ]
   },
@@ -295,8 +295,8 @@
    "score": 8.5,
    "confidence": "Low",
    "evidence": {
-    "github_repos": 3,
-    "github_top_velocity": 0.49,
+    "github_repos": 2,
+    "github_top_velocity": 0.47,
     "headline_hits": 1,
     "sample_headlines": [
      "Drift exploiter sends $61M ETH to Tornado Cash, holds $194M"
@@ -314,21 +314,16 @@
      "full_name": "Portaudit/referee",
      "stars_per_day": 0.14,
      "url": "https://github.com/Portaudit/referee"
-    },
-    {
-     "full_name": "hypnogaba/solana-signal-trader",
-     "stars_per_day": 0.02,
-     "url": "https://github.com/hypnogaba/solana-signal-trader"
     }
    ]
   },
   {
    "narrative": "Consumer & Social",
-   "score": 4.3,
+   "score": 4.2,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 8,
-    "github_top_velocity": 4.26,
+    "github_top_velocity": 4.19,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -347,7 +342,7 @@
     },
     {
      "full_name": "nirholas/skill-license",
-     "stars_per_day": 0.4,
+     "stars_per_day": 0.36,
      "url": "https://github.com/nirholas/skill-license"
     },
     {
@@ -357,7 +352,7 @@
     },
     {
      "full_name": "nirholas/three-ws-skill-license",
-     "stars_per_day": 0.3,
+     "stars_per_day": 0.27,
      "url": "https://github.com/nirholas/three-ws-skill-license"
     }
    ]

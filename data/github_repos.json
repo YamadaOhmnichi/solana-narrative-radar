@@ -6,8 +6,8 @@
   "stars": 182,
   "created": "2026-10-11T21:37:08Z",
   "language": "TypeScript",
-  "stars_per_day": 20.22,
-  "age_days": 9,
+  "stars_per_day": 18.2,
+  "age_days": 10,
   "topics": [
    "defi",
    "fastify",
@@ -216,17 +216,6 @@
   "topics": []
  },
  {
-  "full_name": "thaorivera/crypto-wallet-generator-cracker",
-  "url": "https://github.com/thaorivera/crypto-wallet-generator-cracker",
-  "description": "Multi-chain cryptocurrency wallet generator with built-in balance checker. Generates wallets for Bitcoin, Ethereum, Solana, and other major networks. Checks generated addresses against public blockcha",
-  "stars": 16,
-  "created": "2026-10-04T21:37:13Z",
-  "language": "C++",
-  "stars_per_day": 1.0,
-  "age_days": 16,
-  "topics": []
- },
- {
   "full_name": "nathanliow/trickshot",
   "url": "https://github.com/nathanliow/trickshot",
   "description": "Rebuild any Solana token from the chain and replay what any wallet did on it.",
@@ -235,6 +224,17 @@
   "language": "TypeScript",
   "stars_per_day": 0.95,
   "age_days": 58,
+  "topics": []
+ },
+ {
+  "full_name": "thaorivera/crypto-wallet-generator-cracker",
+  "url": "https://github.com/thaorivera/crypto-wallet-generator-cracker",
+  "description": "Multi-chain cryptocurrency wallet generator with built-in balance checker. Generates wallets for Bitcoin, Ethereum, Solana, and other major networks. Checks generated addresses against public blockcha",
+  "stars": 16,
+  "created": "2026-10-04T21:37:13Z",
+  "language": "C++",
+  "stars_per_day": 0.94,
+  "age_days": 17,
   "topics": []
  },
  {
@@ -418,8 +418,8 @@
   "stars": 5,
   "created": "2026-10-10T20:45:30Z",
   "language": "JavaScript",
-  "stars_per_day": 0.5,
-  "age_days": 10,
+  "stars_per_day": 0.45,
+  "age_days": 11,
   "topics": [
    "agents-md",
    "ai-agents",
@@ -452,23 +452,6 @@
   ]
  },
  {
-  "full_name": "vectorix-cross/CrossYield",
-  "url": "https://github.com/vectorix-cross/CrossYield",
-  "description": "CrossYield: Ethereum RWA deposit, Wormhole VAA, Solana vault shares, harvest loop.",
-  "stars": 15,
-  "created": "2026-09-13T17:36:27Z",
-  "language": "Solidity",
-  "stars_per_day": 0.41,
-  "age_days": 37,
-  "topics": [
-   "defi",
-   "ethereum",
-   "rwa",
-   "solana",
-   "web3"
-  ]
- },
- {
   "full_name": "blueshift-gg/solana-pull-program",
   "url": "https://github.com/blueshift-gg/solana-pull-program",
   "description": "Pull payments for Solana: an owner sets what may go out and what must come in, as a policy on chain or a signed one-time intent, and the program enforces it",
@@ -477,17 +460,6 @@
   "language": "TypeScript",
   "stars_per_day": 0.4,
   "age_days": 20,
-  "topics": []
- },
- {
-  "full_name": "ax-x2/rewind",
-  "url": "https://github.com/ax-x2/rewind",
-  "description": "recover historical and closed solana program binaries using jetstreamer",
-  "stars": 2,
-  "created": "2026-10-15T19:38:24Z",
-  "language": "Rust",
-  "stars_per_day": 0.4,
-  "age_days": 5,
   "topics": []
  },
  {
@@ -511,14 +483,42 @@
   ]
  },
  {
+  "full_name": "pandasi-team/CrossYield",
+  "url": "https://github.com/pandasi-team/CrossYield",
+  "description": "CrossYield: Ethereum RWA deposit, Wormhole VAA, Solana vault shares, harvest loop.",
+  "stars": 15,
+  "created": "2026-09-13T17:36:27Z",
+  "language": "Solidity",
+  "stars_per_day": 0.39,
+  "age_days": 38,
+  "topics": [
+   "defi",
+   "ethereum",
+   "rwa",
+   "solana",
+   "web3"
+  ]
+ },
+ {
+  "full_name": "BordrlessDex/bordrless-sdk",
+  "url": "https://github.com/BordrlessDex/bordrless-sdk",
+  "description": "TypeScript SDK for the Bordrless programs on Solana (@bordrless/sdk, @bordrless/shared)",
+  "stars": 5,
+  "created": "2026-10-07T23:47:55Z",
+  "language": "TypeScript",
+  "stars_per_day": 0.38,
+  "age_days": 13,
+  "topics": []
+ },
+ {
   "full_name": "nirholas/skill-license",
   "url": "https://github.com/nirholas/skill-license",
   "description": "On-chain skill licenses for agents \u2014 each purchased skill is a 1/1 SPL NFT plus a deterministic SkillLicense PDA. Mint, verify, and read trustless skill access in one import, no database required.",
   "stars": 4,
   "created": "2026-10-10T20:48:32Z",
   "language": "JavaScript",
-  "stars_per_day": 0.4,
-  "age_days": 10,
+  "stars_per_day": 0.36,
+  "age_days": 11,
   "topics": [
    "access-control",
    "agent",
@@ -590,6 +590,17 @@
   ]
  },
  {
+  "full_name": "ax-x2/rewind",
+  "url": "https://github.com/ax-x2/rewind",
+  "description": "recover historical and closed solana program binaries using jetstreamer",
+  "stars": 2,
+  "created": "2026-10-15T19:38:24Z",
+  "language": "Rust",
+  "stars_per_day": 0.33,
+  "age_days": 6,
+  "topics": []
+ },
+ {
   "full_name": "TodorBonchev/rust-auditor",
   "url": "https://github.com/TodorBonchev/rust-auditor",
   "description": "AI security audit skill for Solana programs (Anchor, native, Pinocchio)",
@@ -599,45 +610,6 @@
   "stars_per_day": 0.33,
   "age_days": 6,
   "topics": []
- },
- {
-  "full_name": "switch-afk/sol-pda",
-  "url": "https://github.com/switch-afk/sol-pda",
-  "description": "Derive Solana program derived addresses (PDAs) offline from your terminal",
-  "stars": 2,
-  "created": "2026-10-14T21:12:13Z",
-  "language": "JavaScript",
-  "stars_per_day": 0.33,
-  "age_days": 6,
-  "topics": [
-   "cli",
-   "nodejs",
-   "pda",
-   "program-derived-address",
-   "solana",
-   "web3",
-   "zero-dependency"
-  ]
- },
- {
-  "full_name": "swcstudiospace/PumpGrok",
-  "url": "https://github.com/swcstudiospace/PumpGrok",
-  "description": "1-Click Grok Bot 8 Man Crypto Trading Desk as seen on X",
-  "stars": 17,
-  "created": "2026-08-26T18:02:45Z",
-  "language": "Python",
-  "stars_per_day": 0.31,
-  "age_days": 55,
-  "topics": [
-   "ai-agents",
-   "blockchain",
-   "claude-code",
-   "cryptocurrency",
-   "cursor",
-   "grok",
-   "grok-bot",
-   "jupiter"
-  ]
  },
  {
   "full_name": "livid/exe-hub",
@@ -657,15 +629,24 @@
   ]
  },
  {
-  "full_name": "BordrlessDex/bordrless-sdk",
-  "url": "https://github.com/BordrlessDex/bordrless-sdk",
-  "description": "TypeScript SDK for the Bordrless programs on Solana (@bordrless/sdk, @bordrless/shared)",
-  "stars": 4,
-  "created": "2026-10-07T23:47:55Z",
-  "language": "TypeScript",
-  "stars_per_day": 0.31,
-  "age_days": 13,
-  "topics": []
+  "full_name": "swcstudiospace/PumpGrok",
+  "url": "https://github.com/swcstudiospace/PumpGrok",
+  "description": "1-Click Grok Bot 8 Man Crypto Trading Desk as seen on X",
+  "stars": 17,
+  "created": "2026-08-26T18:02:45Z",
+  "language": "Python",
+  "stars_per_day": 0.3,
+  "age_days": 56,
+  "topics": [
+   "ai-agents",
+   "blockchain",
+   "claude-code",
+   "cryptocurrency",
+   "cursor",
+   "grok",
+   "grok-bot",
+   "jupiter"
+  ]
  },
  {
   "full_name": "blueshift-gg/solana-ecvrf",
@@ -688,23 +669,22 @@
   ]
  },
  {
-  "full_name": "nirholas/three-ws-skill-license",
-  "url": "https://github.com/nirholas/three-ws-skill-license",
-  "description": "On-chain skill licenses for agents \u2014 each purchased skill is a 1/1 SPL NFT plus a deterministic SkillLicense PDA. Mint, verify, and read trustless skill access in one import, no database required.",
-  "stars": 3,
-  "created": "2026-10-10T20:52:05Z",
+  "full_name": "switch-afk/sol-pda",
+  "url": "https://github.com/switch-afk/sol-pda",
+  "description": "Derive Solana program derived addresses (PDAs) offline from your terminal",
+  "stars": 2,
+  "created": "2026-10-14T21:12:13Z",
   "language": "JavaScript",
-  "stars_per_day": 0.3,
-  "age_days": 10,
+  "stars_per_day": 0.29,
+  "age_days": 7,
   "topics": [
-   "access-control",
-   "agent",
-   "agent-skills",
-   "agents-md",
-   "ai-agents",
-   "anchor",
-   "esm",
-   "javascript"
+   "cli",
+   "nodejs",
+   "pda",
+   "program-derived-address",
+   "solana",
+   "web3",
+   "zero-dependency"
   ]
  },
  {
@@ -751,8 +731,8 @@
   "stars": 16,
   "created": "2026-08-23T20:45:06Z",
   "language": null,
-  "stars_per_day": 0.28,
-  "age_days": 58,
+  "stars_per_day": 0.27,
+  "age_days": 59,
   "topics": [
    "blockchain",
    "crypto",
@@ -764,14 +744,34 @@
   ]
  },
  {
+  "full_name": "nirholas/three-ws-skill-license",
+  "url": "https://github.com/nirholas/three-ws-skill-license",
+  "description": "On-chain skill licenses for agents \u2014 each purchased skill is a 1/1 SPL NFT plus a deterministic SkillLicense PDA. Mint, verify, and read trustless skill access in one import, no database required.",
+  "stars": 3,
+  "created": "2026-10-10T20:52:05Z",
+  "language": "JavaScript",
+  "stars_per_day": 0.27,
+  "age_days": 11,
+  "topics": [
+   "access-control",
+   "agent",
+   "agent-skills",
+   "agents-md",
+   "ai-agents",
+   "anchor",
+   "esm",
+   "javascript"
+  ]
+ },
+ {
   "full_name": "grubbymyster/Solana-Address-Validator-Tool",
   "url": "https://github.com/grubbymyster/Solana-Address-Validator-Tool",
   "description": "Solana Address Validator - professional tool for validating Solana wallet addresses, checking balance and verifying address format with quick lookup for Windows.",
   "stars": 15,
   "created": "2026-08-23T20:45:08Z",
   "language": null,
-  "stars_per_day": 0.26,
-  "age_days": 58,
+  "stars_per_day": 0.25,
+  "age_days": 59,
   "topics": [
    "address-validator",
    "balance-checker",
@@ -793,6 +793,26 @@
   "stars_per_day": 0.22,
   "age_days": 58,
   "topics": []
+ },
+ {
+  "full_name": "ekanshvcpkg/KEPT-DAPP",
+  "url": "https://github.com/ekanshvcpkg/KEPT-DAPP",
+  "description": "KEPT: stake SKR on your daily habits with friends, prove them with a live photo checked by on-device AI. Android app for the Solana Seeker.",
+  "stars": 2,
+  "created": "2026-10-12T13:31:37Z",
+  "language": "TypeScript",
+  "stars_per_day": 0.22,
+  "age_days": 9,
+  "topics": [
+   "anchor",
+   "android",
+   "expo",
+   "habit-tracker",
+   "react-native",
+   "seeker",
+   "solana",
+   "solana-mobile"
+  ]
  },
  {
   "full_name": "2274802010922/picachu_hackathon",
@@ -882,14 +902,25 @@
   ]
  },
  {
+  "full_name": "MuhKar1/zk-ballot-solana",
+  "url": "https://github.com/MuhKar1/zk-ballot-solana",
+  "description": "Privacy-preserving, verifiable voting on Solana. Noir circuits prove voter eligibility and one-vote-per-race without revealing identity or choice; ballots are ElGamal-encrypted and tallied via a verif",
+  "stars": 3,
+  "created": "2026-10-02T14:53:13Z",
+  "language": "TypeScript",
+  "stars_per_day": 0.16,
+  "age_days": 19,
+  "topics": []
+ },
+ {
   "full_name": "nirholas/impact-split",
   "url": "https://github.com/nirholas/impact-split",
   "description": "Charges a swap for the price impact that lasts, and gives back the impact that does not.",
   "stars": 7,
   "created": "2026-09-08T21:09:18Z",
   "language": "Solidity",
-  "stars_per_day": 0.17,
-  "age_days": 42,
+  "stars_per_day": 0.16,
+  "age_days": 43,
   "topics": [
    "agents-md",
    "ai-agents",
@@ -902,17 +933,6 @@
   ]
  },
  {
-  "full_name": "MuhKar1/zk-ballot-solana",
-  "url": "https://github.com/MuhKar1/zk-ballot-solana",
-  "description": "Privacy-preserving, verifiable voting on Solana. Noir circuits prove voter eligibility and one-vote-per-race without revealing identity or choice; ballots are ElGamal-encrypted and tallied via a verif",
-  "stars": 3,
-  "created": "2026-10-02T14:53:13Z",
-  "language": "TypeScript",
-  "stars_per_day": 0.16,
-  "age_days": 19,
-  "topics": []
- },
- {
   "full_name": "nirholas/flock-defi-index",
   "url": "https://github.com/nirholas/flock-defi-index",
   "description": "Methodology, screening and rebalance proposals for the Flock DeFi Index (FDI) on Solana",
@@ -920,7 +940,7 @@
   "created": "2026-09-07T21:43:35Z",
   "language": "TypeScript",
   "stars_per_day": 0.14,
-  "age_days": 43,
+  "age_days": 44,
   "topics": [
    "defi",
    "defi-index",
@@ -940,7 +960,7 @@
   "created": "2026-09-07T21:43:43Z",
   "language": "TypeScript",
   "stars_per_day": 0.14,
-  "age_days": 43,
+  "age_days": 44,
   "topics": [
    "defi",
    "dutch-auction",
@@ -960,7 +980,7 @@
   "created": "2026-09-07T21:43:26Z",
   "language": "Rust",
   "stars_per_day": 0.14,
-  "age_days": 43,
+  "age_days": 44,
   "topics": [
    "anchor",
    "auction",
@@ -970,26 +990,6 @@
    "index-fund",
    "open-source",
    "rebalancing"
-  ]
- },
- {
-  "full_name": "alizeeshan1234/svmScope",
-  "url": "https://github.com/alizeeshan1234/svmScope",
-  "description": "Transaction autopsy for Solana \u2014 decode any transaction, replay it locally in an embedded SVM, mutate state, time-travel, and freeze it into offline test fixtures",
-  "stars": 8,
-  "created": "2026-08-22T18:04:22Z",
-  "language": "Rust",
-  "stars_per_day": 0.14,
-  "age_days": 59,
-  "topics": [
-   "anchor",
-   "blockchain",
-   "devtools",
-   "litesvm",
-   "rust",
-   "simulator",
-   "solana",
-   "svm"
   ]
  },
  {
@@ -1029,6 +1029,26 @@
   ]
  },
  {
+  "full_name": "alizeeshan1234/svmScope",
+  "url": "https://github.com/alizeeshan1234/svmScope",
+  "description": "Transaction autopsy for Solana \u2014 decode any transaction, replay it locally in an embedded SVM, mutate state, time-travel, and freeze it into offline test fixtures",
+  "stars": 8,
+  "created": "2026-08-22T18:04:22Z",
+  "language": "Rust",
+  "stars_per_day": 0.13,
+  "age_days": 60,
+  "topics": [
+   "anchor",
+   "blockchain",
+   "devtools",
+   "litesvm",
+   "rust",
+   "simulator",
+   "solana",
+   "svm"
+  ]
+ },
+ {
   "full_name": "New1Direction/repo.ing",
   "url": "https://github.com/New1Direction/repo.ing",
   "description": "The market layer for open source. GitHub repository markets on Solana, builder earnings, and transparent protocol accounting.",
@@ -1043,24 +1063,6 @@
    "meteora",
    "nextjs",
    "open-source",
-   "solana"
-  ]
- },
- {
-  "full_name": "Supernova-protocol/svm-core",
-  "url": "https://github.com/Supernova-protocol/svm-core",
-  "description": "Core SVM smart contracts and execution architecture. Featuring deterministic Jito routing and immutable War Chest PDAs. (Private Beta)",
-  "stars": 2,
-  "created": "2026-10-03T18:45:29Z",
-  "language": null,
-  "stars_per_day": 0.12,
-  "age_days": 17,
-  "topics": [
-   "anchor",
-   "defi",
-   "jito",
-   "rust",
-   "smart-contracts",
    "solana"
   ]
  },
@@ -1113,6 +1115,41 @@
    "solana",
    "sp1",
    "zero-knowledge"
+  ]
+ },
+ {
+  "full_name": "Zyxel89/owncurve",
+  "url": "https://github.com/Zyxel89/owncurve",
+  "description": "Ownership coins on Meteora DBC + DAMM v2: milestone treasury, holder objections, self-defending price floor",
+  "stars": 2,
+  "created": "2026-10-03T15:19:16Z",
+  "language": "TypeScript",
+  "stars_per_day": 0.11,
+  "age_days": 18,
+  "topics": [
+   "anchor",
+   "bonding-curve",
+   "defi",
+   "meteora",
+   "solana"
+  ]
+ },
+ {
+  "full_name": "Supernova-protocol/svm-core",
+  "url": "https://github.com/Supernova-protocol/svm-core",
+  "description": "Core SVM smart contracts and execution architecture. Featuring deterministic Jito routing and immutable War Chest PDAs. (Private Beta)",
+  "stars": 2,
+  "created": "2026-10-03T18:45:29Z",
+  "language": null,
+  "stars_per_day": 0.11,
+  "age_days": 18,
+  "topics": [
+   "anchor",
+   "defi",
+   "jito",
+   "rust",
+   "smart-contracts",
+   "solana"
   ]
  },
  {
@@ -1214,26 +1251,6 @@
   ]
  },
  {
-  "full_name": "ayomidefagboyo/kata",
-  "url": "https://github.com/ayomidefagboyo/kata",
-  "description": "An autonomous perps agent whose trading policy retrains on its own realised outcomes. Live on Hyperliquid, expanding to Drift on Solana.",
-  "stars": 2,
-  "created": "2026-09-20T18:35:16Z",
-  "language": "Python",
-  "stars_per_day": 0.07,
-  "age_days": 30,
-  "topics": [
-   "ai-agent",
-   "defi",
-   "drift-protocol",
-   "hyperliquid",
-   "machine-learning",
-   "perpetuals",
-   "solana",
-   "trading-agent"
-  ]
- },
- {
   "full_name": "hu4927862-debug/solana-copy-lab",
   "url": "https://github.com/hu4927862-debug/solana-copy-lab",
   "description": "Evidence-first Solana copy-trading research: exact amounts, offline replay, paper risk and durable accounting.",
@@ -1251,21 +1268,6 @@
    "solana",
    "transaction-decoding",
    "typescript"
-  ]
- },
- {
-  "full_name": "tickerzhq/typeshi",
-  "url": "https://github.com/tickerzhq/typeshi",
-  "description": "lock in fn. typeshi is an open-source language over Rust that compiles to Solana programs (Anchor). Made by Tickerz.",
-  "stars": 1,
-  "created": "2026-10-06T03:37:26Z",
-  "language": "Rust",
-  "stars_per_day": 0.07,
-  "age_days": 15,
-  "topics": [
-   "rust",
-   "slang-language",
-   "solana"
   ]
  },
  {
@@ -1327,6 +1329,26 @@
   ]
  },
  {
+  "full_name": "ayomidefagboyo/kata",
+  "url": "https://github.com/ayomidefagboyo/kata",
+  "description": "An autonomous perps agent whose trading policy retrains on its own realised outcomes. Live on Hyperliquid, expanding to Drift on Solana.",
+  "stars": 2,
+  "created": "2026-09-20T18:35:16Z",
+  "language": "Python",
+  "stars_per_day": 0.06,
+  "age_days": 31,
+  "topics": [
+   "ai-agent",
+   "defi",
+   "drift-protocol",
+   "hyperliquid",
+   "machine-learning",
+   "perpetuals",
+   "solana",
+   "trading-agent"
+  ]
+ },
+ {
   "full_name": "ChiefWoods/oracle-demo",
   "url": "https://github.com/ChiefWoods/oracle-demo",
   "description": "Anchor program showing how to read from common Solana price oracles.",
@@ -1342,23 +1364,6 @@
    "redstone",
    "solana",
    "switchboard"
-  ]
- },
- {
-  "full_name": "Zyxel89/owncurve",
-  "url": "https://github.com/Zyxel89/owncurve",
-  "description": "Ownership coins on Meteora DBC + DAMM v2: milestone treasury, holder objections, self-defending price floor",
-  "stars": 1,
-  "created": "2026-10-03T15:19:16Z",
-  "language": "TypeScript",
-  "stars_per_day": 0.06,
-  "age_days": 18,
-  "topics": [
-   "anchor",
-   "bonding-curve",
-   "defi",
-   "meteora",
-   "solana"
   ]
  },
  {
@@ -1447,7 +1452,7 @@
   "created": "2026-09-05T17:41:31Z",
   "language": "TypeScript",
   "stars_per_day": 0.04,
-  "age_days": 45,
+  "age_days": 46,
   "topics": [
    "anchor",
    "devnet",
@@ -1512,26 +1517,6 @@
   "topics": []
  },
  {
-  "full_name": "antonkarasbiz/solana-execution-engine",
-  "url": "https://github.com/antonkarasbiz/solana-execution-engine",
-  "description": "Solana swap execution layer with quote simulation, impact caps, and production-style routing guards.",
-  "stars": 1,
-  "created": "2026-09-10T20:54:50Z",
-  "language": "TypeScript",
-  "stars_per_day": 0.03,
-  "age_days": 40,
-  "topics": [
-   "amm",
-   "blockchain",
-   "defi",
-   "execution",
-   "solana",
-   "trading",
-   "typescript",
-   "web3"
-  ]
- },
- {
   "full_name": "Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
   "url": "https://github.com/Mgabal/-AMM-Automated-Market-Maker-Solana-Anchor",
   "description": "",
@@ -1550,7 +1535,7 @@
   "created": "2026-09-15T21:38:53Z",
   "language": "TypeScript",
   "stars_per_day": 0.03,
-  "age_days": 35,
+  "age_days": 36,
   "topics": []
  },
  {
@@ -1561,7 +1546,7 @@
   "created": "2026-08-25T17:14:46Z",
   "language": "Rust",
   "stars_per_day": 0.02,
-  "age_days": 56,
+  "age_days": 57,
   "topics": []
  },
  {
@@ -1605,23 +1590,23 @@
   ]
  },
  {
-  "full_name": "hypnogaba/solana-signal-trader",
-  "url": "https://github.com/hypnogaba/solana-signal-trader",
-  "description": "Self-tuning Solana memecoin trading bot \u2014 Telegram signal ingestion, 14-check rug-risk stack, smart-money-weighted entry scoring, and an autonomous strategy review that retunes 20 parameters per chann",
+  "full_name": "antonkarasbiz/solana-execution-engine",
+  "url": "https://github.com/antonkarasbiz/solana-execution-engine",
+  "description": "Solana swap execution layer with quote simulation, impact caps, and production-style routing guards.",
   "stars": 1,
-  "created": "2026-08-27T09:20:00Z",
-  "language": "Python",
+  "created": "2026-09-10T20:54:50Z",
+  "language": "TypeScript",
   "stars_per_day": 0.02,
-  "age_days": 55,
+  "age_days": 41,
   "topics": [
-   "algorithmic-trading",
+   "amm",
+   "blockchain",
    "defi",
-   "jupiter",
-   "memecoin",
-   "python",
-   "quantitative-finance",
-   "self-tuning",
-   "solana"
+   "execution",
+   "solana",
+   "trading",
+   "typescript",
+   "web3"
   ]
  },
  {

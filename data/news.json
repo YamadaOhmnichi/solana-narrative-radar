@@ -63,6 +63,31 @@
  ],
  "decrypt": [
   {
+   "title": "Bitcoin ETFs Erase October Losses With $1 Billion in Three Days",
+   "pub": "Thu, 22 Oct 2026 16:31:07 +0000",
+   "link": "https://decrypt.co/381611/bitcoin-etfs-erase-october-losses-1-billion-three-days"
+  },
+  {
+   "title": "What Is a Neocloud? The GPU Clouds Powering the AI Boom",
+   "pub": "Thu, 22 Oct 2026 15:45:07 +0000",
+   "link": "https://decrypt.co/resources/what-is-a-neocloud-the-gpu-clouds-powering-the-ai-boom"
+  },
+  {
+   "title": "Major Banks Find Rogue AI Agents Inside Customer Accounts\u2014And They\u2019re 'Horrified'",
+   "pub": "Thu, 22 Oct 2026 15:24:18 +0000",
+   "link": "https://decrypt.co/381602/banks-rogue-ai-agents-inside-customer-accounts"
+  },
+  {
+   "title": "Trade Where You Read: Decrypt Brings Jupiter-Powered Trading to The Information Exchange",
+   "pub": "Thu, 22 Oct 2026 14:04:48 +0000",
+   "link": "https://decrypt.co/381593/trade-where-you-read-decrypt-brings-jupiter-powered-trading-to-the-information-exchange"
+  },
+  {
+   "title": "SoFi Launches Tokenized Deposit That Earns 4.4% and Converts to a Stablecoin",
+   "pub": "Thu, 22 Oct 2026 12:01:03 +0000",
+   "link": "https://decrypt.co/381174/sofi-launches-tokenized-deposit-that-earns-4-4-and-moves-like-a-stablecoin"
+  },
+  {
    "title": "Italy Busts Mafia 'Secret Bank' That Laundered Money Through Crypto, Seizes $24M",
    "pub": "Thu, 22 Oct 2026 10:45:13 +0000",
    "link": "https://decrypt.co/381589/italy-busts-mafia-secret-bank-that-laundered-money-through-crypto-seizes-24m"
@@ -96,38 +121,18 @@
    "title": "Bitcoin Hits Weekly High as Crypto Market Rebounds",
    "pub": "Wed, 21 Oct 2026 17:31:03 +0000",
    "link": "https://decrypt.co/381555/bitcoin-price-weekly-high-crypto-rebounds"
-  },
-  {
-   "title": "Dogecoin Gets a Dedicated Company to Build Out Its Ecosystem",
-   "pub": "Wed, 21 Oct 2026 16:46:04 +0000",
-   "link": "https://decrypt.co/381541/dogecoin-gets-dedicated-company-build-ecosystem"
-  },
-  {
-   "title": "Musk\u2019s SpaceX-Tesla Merger Would Create a Bitcoin Treasury Behemoth",
-   "pub": "Wed, 21 Oct 2026 16:16:05 +0000",
-   "link": "https://decrypt.co/381538/musk-spacex-tesla-merger-bitcoin-treasury-behemoth"
-  },
-  {
-   "title": "What Is a Bitcoin-Backed Loan? Borrowing Against BTC Explained",
-   "pub": "Wed, 21 Oct 2026 15:43:32 +0000",
-   "link": "https://decrypt.co/resources/what-is-a-bitcoin-backed-loan-borrowing-against-btc-explained"
-  },
-  {
-   "title": "PHP Panic: Two Critical Bugs Put 70% of the Internet at Risk, and Everyone Is Freaking Out",
-   "pub": "Wed, 21 Oct 2026 15:35:16 +0000",
-   "link": "https://decrypt.co/381519/php-panic-critical-bugs-70-percent-internet-risk-everyone-freaking-out"
-  },
-  {
-   "title": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
-   "pub": "Wed, 21 Oct 2026 14:24:25 +0000",
-   "link": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge"
   }
  ],
  "cryptonews": [
   {
    "title": "Here\u2019s what happened in crypto today",
-   "pub": "Thu, 22 Oct 2026 05:56:18 +0000",
+   "pub": "Thu, 22 Oct 2026 13:22:57 +0000",
    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+  },
+  {
+   "title": "The UK needs a workable route to regulated DeFi access",
+   "pub": "Thu, 22 Oct 2026 12:00:00 +0000",
+   "link": "https://cointelegraph.com/opinion/uk-crypto-rules-regulated-defi-access?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
   },
   {
    "title": "Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking",
@@ -178,11 +183,6 @@
    "title": "THORChain dev accuses Tether of temporarily freezing USDT vaults",
    "pub": "Fri, 09 Oct 2026 19:04:03 +0000",
    "link": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Crypto lending rises again\u2026 but have they solved the risks?",
-   "pub": "Thu, 08 Oct 2026 13:30:00 +0000",
-   "link": "https://cointelegraph.com/magazine/crypto-lending-rises-again-but-have-they-solved-the-risks?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
   }
  ]
 }

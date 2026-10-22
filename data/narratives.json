@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T21:44:09+00:00",
+ "generated_at": "2026-10-22T04:49:18+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
@@ -7,7 +7,7 @@
    "confidence": "High",
    "evidence": {
     "github_repos": 45,
-    "github_top_velocity": 55.52,
+    "github_top_velocity": 55.54,
     "headline_hits": 7,
     "sample_headlines": [
      "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
@@ -35,7 +35,7 @@
     },
     {
      "full_name": "QunatOrb/QuantOrb",
-     "stars_per_day": 3.5,
+     "stars_per_day": 3.62,
      "url": "https://github.com/QunatOrb/QuantOrb"
     },
     {
@@ -47,16 +47,16 @@
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 60.2,
+   "score": 60.0,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 10,
-    "github_top_velocity": 45.56,
+    "github_top_velocity": 45.61,
     "headline_hits": 1,
     "sample_headlines": [
      "GTA 6 Trailer Features 'Dacity' Meme Coin\u2014Here's What Traders Think It'll Do"
     ],
-    "market_avg_7d_pct": 3.33,
+    "market_avg_7d_pct": 3.2,
     "sources_confirming": 1
    },
    "member_repos": [
@@ -77,12 +77,12 @@
     },
     {
      "full_name": "QunatOrb/QuantOrb",
-     "stars_per_day": 3.5,
+     "stars_per_day": 3.62,
      "url": "https://github.com/QunatOrb/QuantOrb"
     },
     {
      "full_name": "BordrlessDex/bordrless-programs",
-     "stars_per_day": 0.85,
+     "stars_per_day": 0.79,
      "url": "https://github.com/BordrlessDex/bordrless-programs"
     }
    ]
@@ -93,7 +93,7 @@
    "confidence": "High",
    "evidence": {
     "github_repos": 22,
-    "github_top_velocity": 15.92,
+    "github_top_velocity": 15.87,
     "headline_hits": 4,
     "sample_headlines": [
      "Capital starting to rotate back to crypto from AI: Raoul Pal",
@@ -106,7 +106,7 @@
    "member_repos": [
     {
      "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 8.91,
+     "stars_per_day": 9.0,
      "url": "https://github.com/SpaceDataRig/space-data-rig"
     },
     {
@@ -116,28 +116,28 @@
     },
     {
      "full_name": "GuiBibeau/solos",
-     "stars_per_day": 0.86,
+     "stars_per_day": 0.83,
      "url": "https://github.com/GuiBibeau/solos"
     },
     {
      "full_name": "PillCrew/claimchain",
-     "stars_per_day": 0.62,
+     "stars_per_day": 0.61,
      "url": "https://github.com/PillCrew/claimchain"
     },
     {
      "full_name": "Parad0x-Labs/vool",
-     "stars_per_day": 0.53,
+     "stars_per_day": 0.52,
      "url": "https://github.com/Parad0x-Labs/vool"
     }
    ]
   },
   {
    "narrative": "Wallets & UX",
-   "score": 34.1,
+   "score": 34.0,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 18,
-    "github_top_velocity": 26.07,
+    "github_repos": 17,
+    "github_top_velocity": 26.04,
     "headline_hits": 1,
     "sample_headlines": [
      "Starknet introduces wallet privacy feature for DeFi activity"
@@ -167,19 +167,19 @@
      "url": "https://github.com/uni-launch/solana-token-creator"
     },
     {
-     "full_name": "nathanliow/trickshot",
-     "stars_per_day": 0.95,
-     "url": "https://github.com/nathanliow/trickshot"
+     "full_name": "thaorivera/crypto-wallet-generator-cracker",
+     "stars_per_day": 0.94,
+     "url": "https://github.com/thaorivera/crypto-wallet-generator-cracker"
     }
    ]
   },
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 27.1,
+   "score": 28.6,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 45,
-    "github_top_velocity": 27.11,
+    "github_top_velocity": 28.63,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -193,7 +193,7 @@
     },
     {
      "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 8.91,
+     "stars_per_day": 9.0,
      "url": "https://github.com/SpaceDataRig/space-data-rig"
     },
     {
@@ -202,14 +202,14 @@
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
     },
     {
-     "full_name": "GuiBibeau/solos",
-     "stars_per_day": 0.86,
-     "url": "https://github.com/GuiBibeau/solos"
+     "full_name": "Positano777/idl-drift-watch",
+     "stars_per_day": 2.0,
+     "url": "https://github.com/Positano777/idl-drift-watch"
     },
     {
-     "full_name": "DigitalShieldOfficial/DigitalShield-Hardware-Airgap-Sdk",
-     "stars_per_day": 0.61,
-     "url": "https://github.com/DigitalShieldOfficial/DigitalShield-Hardware-Airgap-Sdk"
+     "full_name": "GuiBibeau/solos",
+     "stars_per_day": 0.83,
+     "url": "https://github.com/GuiBibeau/solos"
     }
    ]
   },
@@ -253,7 +253,7 @@
    "confidence": "High",
    "evidence": {
     "github_repos": 6,
-    "github_top_velocity": 3.29,
+    "github_top_velocity": 3.34,
     "headline_hits": 2,
     "sample_headlines": [
      "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
@@ -265,12 +265,12 @@
    "member_repos": [
     {
      "full_name": "des35swim/hood-warfare",
-     "stars_per_day": 1.78,
+     "stars_per_day": 1.89,
      "url": "https://github.com/des35swim/hood-warfare"
     },
     {
      "full_name": "nirholas/papertrade-x402",
-     "stars_per_day": 0.5,
+     "stars_per_day": 0.45,
      "url": "https://github.com/nirholas/papertrade-x402"
     },
     {
@@ -285,7 +285,7 @@
     },
     {
      "full_name": "2274802010922/picachu_hackathon",
-     "stars_per_day": 0.2,
+     "stars_per_day": 0.19,
      "url": "https://github.com/2274802010922/picachu_hackathon"
     }
    ]
@@ -319,11 +319,11 @@
   },
   {
    "narrative": "Consumer & Social",
-   "score": 4.2,
+   "score": 4.3,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 8,
-    "github_top_velocity": 4.19,
+    "github_top_velocity": 4.29,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -332,7 +332,7 @@
    "member_repos": [
     {
      "full_name": "des35swim/hood-warfare",
-     "stars_per_day": 1.78,
+     "stars_per_day": 1.89,
      "url": "https://github.com/des35swim/hood-warfare"
     },
     {
@@ -359,11 +359,11 @@
   },
   {
    "narrative": "DePIN & Physical Infra",
-   "score": 1.8,
+   "score": 1.9,
    "confidence": "Low",
    "evidence": {
     "github_repos": 1,
-    "github_top_velocity": 1.78,
+    "github_top_velocity": 1.89,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -372,7 +372,7 @@
    "member_repos": [
     {
      "full_name": "des35swim/hood-warfare",
-     "stars_per_day": 1.78,
+     "stars_per_day": 1.89,
      "url": "https://github.com/des35swim/hood-warfare"
     }
    ]

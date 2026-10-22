@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-22T17:12:08+00:00",
+ "generated_at": "2026-10-22T21:37:20+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 125.1,
+   "score": 120.7,
    "confidence": "High",
    "evidence": {
-    "github_repos": 45,
-    "github_top_velocity": 53.11,
+    "github_repos": 44,
+    "github_top_velocity": 48.72,
     "headline_hits": 9,
     "sample_headlines": [
      "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
@@ -20,7 +20,7 @@
    "member_repos": [
     {
      "full_name": "cxmza/windle",
-     "stars_per_day": 18.1,
+     "stars_per_day": 16.45,
      "url": "https://github.com/cxmza/windle"
     },
     {
@@ -30,33 +30,33 @@
     },
     {
      "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 11.42,
+     "stars_per_day": 11.5,
      "url": "https://github.com/h100envy/crawl-hive"
-    },
-    {
-     "full_name": "QunatOrb/QuantOrb",
-     "stars_per_day": 3.22,
-     "url": "https://github.com/QunatOrb/QuantOrb"
     },
     {
      "full_name": "recogardtech/AutoPilotPM",
      "stars_per_day": 2.83,
      "url": "https://github.com/recogardtech/AutoPilotPM"
+    },
+    {
+     "full_name": "openarbmev/Openarb-Trade-SDK",
+     "stars_per_day": 1.98,
+     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
     }
    ]
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 63.3,
+   "score": 63.2,
    "confidence": "High",
    "evidence": {
     "github_repos": 22,
-    "github_top_velocity": 15.29,
+    "github_top_velocity": 15.25,
     "headline_hits": 6,
     "sample_headlines": [
      "Capital starting to rotate back to crypto from AI: Raoul Pal",
-     "What Is a Neocloud? The GPU Clouds Powering the AI Boom",
-     "Major Banks Find Rogue AI Agents Inside Customer Accounts\u2014And They\u2019re 'Horrified'"
+     "a16z Drops Crypto From Its Name, Widens Bets to AI and Frontier Tech",
+     "Meta Creates Non-Voting Stock to Fund AI Buildout, Keeping Zuckerberg in Control"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -91,14 +91,14 @@
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 51.0,
+   "score": 50.8,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 11,
-    "github_top_velocity": 43.02,
+    "github_top_velocity": 43.12,
     "headline_hits": 0,
     "sample_headlines": [],
-    "market_avg_7d_pct": -4.01,
+    "market_avg_7d_pct": -3.82,
     "sources_confirming": 1
    },
    "member_repos": [
@@ -114,13 +114,13 @@
     },
     {
      "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 11.42,
+     "stars_per_day": 11.5,
      "url": "https://github.com/h100envy/crawl-hive"
     },
     {
-     "full_name": "QunatOrb/QuantOrb",
+     "full_name": "QuantumOrb/QuantOrb",
      "stars_per_day": 3.22,
-     "url": "https://github.com/QunatOrb/QuantOrb"
+     "url": "https://github.com/QuantumOrb/QuantOrb"
     },
     {
      "full_name": "BordrlessDex/bordrless-programs",
@@ -135,7 +135,7 @@
    "confidence": "Medium",
    "evidence": {
     "github_repos": 3,
-    "github_top_velocity": 0.62,
+    "github_top_velocity": 0.61,
     "headline_hits": 4,
     "sample_headlines": [
      "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
@@ -147,9 +147,9 @@
    },
    "member_repos": [
     {
-     "full_name": "pandasi-team/CrossYield",
-     "stars_per_day": 0.39,
-     "url": "https://github.com/pandasi-team/CrossYield"
+     "full_name": "vectorix-cross/CrossYield",
+     "stars_per_day": 0.38,
+     "url": "https://github.com/vectorix-cross/CrossYield"
     },
     {
      "full_name": "truenorth-lj/sofinance-public",
@@ -206,6 +206,46 @@
    ]
   },
   {
+   "narrative": "Dev Tooling & Infra",
+   "score": 27.2,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 44,
+    "github_top_velocity": 27.19,
+    "headline_hits": 0,
+    "sample_headlines": [],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "h100envy/crawl-hive",
+     "stars_per_day": 11.5,
+     "url": "https://github.com/h100envy/crawl-hive"
+    },
+    {
+     "full_name": "SpaceDataRig/space-data-rig",
+     "stars_per_day": 8.58,
+     "url": "https://github.com/SpaceDataRig/space-data-rig"
+    },
+    {
+     "full_name": "Positano777/idl-drift-watch",
+     "stars_per_day": 2.0,
+     "url": "https://github.com/Positano777/idl-drift-watch"
+    },
+    {
+     "full_name": "openarbmev/Openarb-Trade-SDK",
+     "stars_per_day": 1.98,
+     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
+    },
+    {
+     "full_name": "GuiBibeau/solos",
+     "stars_per_day": 0.83,
+     "url": "https://github.com/GuiBibeau/solos"
+    }
+   ]
+  },
+  {
    "narrative": "Payments & Stablecoins",
    "score": 27.1,
    "confidence": "High",
@@ -250,46 +290,6 @@
    ]
   },
   {
-   "narrative": "Dev Tooling & Infra",
-   "score": 27.1,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 44,
-    "github_top_velocity": 27.14,
-    "headline_hits": 0,
-    "sample_headlines": [],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 11.42,
-     "url": "https://github.com/h100envy/crawl-hive"
-    },
-    {
-     "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 8.58,
-     "url": "https://github.com/SpaceDataRig/space-data-rig"
-    },
-    {
-     "full_name": "Positano777/idl-drift-watch",
-     "stars_per_day": 2.0,
-     "url": "https://github.com/Positano777/idl-drift-watch"
-    },
-    {
-     "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 1.98,
-     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
-    },
-    {
-     "full_name": "GuiBibeau/solos",
-     "stars_per_day": 0.83,
-     "url": "https://github.com/GuiBibeau/solos"
-    }
-   ]
-  },
-  {
    "narrative": "Security & Threats",
    "score": 8.4,
    "confidence": "Low",
@@ -323,11 +323,11 @@
   },
   {
    "narrative": "Consumer & Social",
-   "score": 4.0,
+   "score": 3.9,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 8,
-    "github_top_velocity": 4.05,
+    "github_repos": 7,
+    "github_top_velocity": 3.93,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -346,7 +346,7 @@
     },
     {
      "full_name": "nirholas/skill-license",
-     "stars_per_day": 0.36,
+     "stars_per_day": 0.33,
      "url": "https://github.com/nirholas/skill-license"
     },
     {
@@ -356,7 +356,7 @@
     },
     {
      "full_name": "nirholas/three-ws-skill-license",
-     "stars_per_day": 0.27,
+     "stars_per_day": 0.25,
      "url": "https://github.com/nirholas/three-ws-skill-license"
     }
    ]

@@ -6,8 +6,8 @@
   "stars": 181,
   "created": "2026-10-11T21:37:08Z",
   "language": "TypeScript",
-  "stars_per_day": 18.1,
-  "age_days": 10,
+  "stars_per_day": 16.45,
+  "age_days": 11,
   "topics": [
    "defi",
    "fastify",
@@ -60,10 +60,10 @@
   "full_name": "h100envy/crawl-hive",
   "url": "https://github.com/h100envy/crawl-hive",
   "description": "CrawlHive: open-source memecoin safety swarm. Bundles, snipers, linked operators, bubble map, LP locks and dev history on Solana, BNB, Base and Robinhood Chain, plus a Larpcheck second opinion. Free s",
-  "stars": 137,
+  "stars": 138,
   "created": "2026-10-10T14:29:26Z",
   "language": "TypeScript",
-  "stars_per_day": 11.42,
+  "stars_per_day": 11.5,
   "age_days": 12,
   "topics": [
    "base",
@@ -99,12 +99,12 @@
   "topics": []
  },
  {
-  "full_name": "QunatOrb/QuantOrb",
-  "url": "https://github.com/QunatOrb/QuantOrb",
-  "description": "Launch intelligence for pump.fun on Solana: a Telegram bot that screens every new launch, and a site that shows the model behind its decisions. In development - rolling releases.",
+  "full_name": "QuantumOrb/QuantOrb",
+  "url": "https://github.com/QuantumOrb/QuantOrb",
+  "description": "Memecoin holder scanner for Solana: see who really holds a token, how far the price falls if they sell, and what the owner can still change. ",
   "stars": 29,
   "created": "2026-10-13T12:18:33Z",
-  "language": "Python",
+  "language": "JavaScript",
   "stars_per_day": 3.22,
   "age_days": 9,
   "topics": []
@@ -368,26 +368,6 @@
   ]
  },
  {
-  "full_name": "nirholas/avatar-schema",
-  "url": "https://github.com/nirholas/avatar-schema",
-  "description": "JSON Schema and validator for three.ws on-chain avatar manifests \u2014 the canonical, hash-anchored format any cross-chain client can use to resolve an avatar.",
-  "stars": 5,
-  "created": "2026-10-10T20:45:30Z",
-  "language": "JavaScript",
-  "stars_per_day": 0.45,
-  "age_days": 11,
-  "topics": [
-   "agents-md",
-   "ai-agents",
-   "avatar",
-   "ens",
-   "evm",
-   "javascript",
-   "json-schema",
-   "llms-txt"
-  ]
- },
- {
   "full_name": "TDI-true-digital-intelligence/T.D.I-Labs-Solana-Trezor-Token",
   "url": "https://github.com/TDI-true-digital-intelligence/T.D.I-Labs-Solana-Trezor-Token",
   "description": "T.D.I Labs: 'TDI-Token' - Trezor Token - Created with Solana CLI Dev Tools - SPL Token-2022 Program \"Smart Contract\" - First documented (Trezor T Crypto Hardware) Signed Solana Token Creation OCT2026 ",
@@ -410,6 +390,26 @@
   "topics": []
  },
  {
+  "full_name": "nirholas/avatar-schema",
+  "url": "https://github.com/nirholas/avatar-schema",
+  "description": "JSON Schema and validator for three.ws on-chain avatar manifests \u2014 the canonical, hash-anchored format any cross-chain client can use to resolve an avatar.",
+  "stars": 5,
+  "created": "2026-10-10T20:45:30Z",
+  "language": "JavaScript",
+  "stars_per_day": 0.42,
+  "age_days": 12,
+  "topics": [
+   "agents-md",
+   "ai-agents",
+   "avatar",
+   "ens",
+   "evm",
+   "javascript",
+   "json-schema",
+   "llms-txt"
+  ]
+ },
+ {
   "full_name": "CrocSwap/goSVM",
   "url": "https://github.com/CrocSwap/goSVM",
   "description": "Write Solana and Fogo programs in Go. A compiler from a Go subset to SBF, with generated account validation, Go clients and local SVM tests. Public alpha.",
@@ -430,14 +430,14 @@
   ]
  },
  {
-  "full_name": "pandasi-team/CrossYield",
-  "url": "https://github.com/pandasi-team/CrossYield",
+  "full_name": "vectorix-cross/CrossYield",
+  "url": "https://github.com/vectorix-cross/CrossYield",
   "description": "CrossYield: Ethereum RWA deposit, Wormhole VAA, Solana vault shares, harvest loop.",
   "stars": 15,
   "created": "2026-09-13T17:36:27Z",
   "language": "Solidity",
-  "stars_per_day": 0.39,
-  "age_days": 38,
+  "stars_per_day": 0.38,
+  "age_days": 39,
   "topics": [
    "defi",
    "ethereum",
@@ -489,26 +489,6 @@
   ]
  },
  {
-  "full_name": "nirholas/skill-license",
-  "url": "https://github.com/nirholas/skill-license",
-  "description": "On-chain skill licenses for agents \u2014 each purchased skill is a 1/1 SPL NFT plus a deterministic SkillLicense PDA. Mint, verify, and read trustless skill access in one import, no database required.",
-  "stars": 4,
-  "created": "2026-10-10T20:48:32Z",
-  "language": "JavaScript",
-  "stars_per_day": 0.36,
-  "age_days": 11,
-  "topics": [
-   "access-control",
-   "agent",
-   "agents-md",
-   "ai-agents",
-   "anchor",
-   "javascript",
-   "license",
-   "llms-txt"
-  ]
- },
- {
   "full_name": "chainstacklabs/fomo-solana-rh-listeners",
   "url": "https://github.com/chainstacklabs/fomo-solana-rh-listeners",
   "description": "Onchain listeners and a technical reference for the FOMO trading app on Solana and Robinhood Chain",
@@ -526,17 +506,6 @@
    "trading",
    "web3"
   ]
- },
- {
-  "full_name": "ax-x2/rewind",
-  "url": "https://github.com/ax-x2/rewind",
-  "description": "recover historical and closed solana program binaries using jetstreamer",
-  "stars": 2,
-  "created": "2026-10-15T19:38:24Z",
-  "language": "Rust",
-  "stars_per_day": 0.33,
-  "age_days": 6,
-  "topics": []
  },
  {
   "full_name": "hrekokovgmmek-lab/solana-wallet-tracker",
@@ -578,14 +547,34 @@
   ]
  },
  {
+  "full_name": "nirholas/skill-license",
+  "url": "https://github.com/nirholas/skill-license",
+  "description": "On-chain skill licenses for agents \u2014 each purchased skill is a 1/1 SPL NFT plus a deterministic SkillLicense PDA. Mint, verify, and read trustless skill access in one import, no database required.",
+  "stars": 4,
+  "created": "2026-10-10T20:48:32Z",
+  "language": "JavaScript",
+  "stars_per_day": 0.33,
+  "age_days": 12,
+  "topics": [
+   "access-control",
+   "agent",
+   "agents-md",
+   "ai-agents",
+   "anchor",
+   "javascript",
+   "license",
+   "llms-txt"
+  ]
+ },
+ {
   "full_name": "swcstudiospace/PumpGrok",
   "url": "https://github.com/swcstudiospace/PumpGrok",
   "description": "1-Click Grok Bot 8 Man Crypto Trading Desk as seen on X",
-  "stars": 17,
+  "stars": 18,
   "created": "2026-08-26T18:02:45Z",
   "language": "Python",
-  "stars_per_day": 0.3,
-  "age_days": 56,
+  "stars_per_day": 0.32,
+  "age_days": 57,
   "topics": [
    "ai-agents",
    "blockchain",
@@ -655,23 +644,15 @@
   ]
  },
  {
-  "full_name": "switch-afk/sol-pda",
-  "url": "https://github.com/switch-afk/sol-pda",
-  "description": "Derive Solana program derived addresses (PDAs) offline from your terminal",
+  "full_name": "ax-x2/rewind",
+  "url": "https://github.com/ax-x2/rewind",
+  "description": "recover historical and closed solana program binaries using jetstreamer",
   "stars": 2,
-  "created": "2026-10-14T21:12:13Z",
-  "language": "JavaScript",
+  "created": "2026-10-15T19:38:24Z",
+  "language": "Rust",
   "stars_per_day": 0.29,
   "age_days": 7,
-  "topics": [
-   "cli",
-   "nodejs",
-   "pda",
-   "program-derived-address",
-   "solana",
-   "web3",
-   "zero-dependency"
-  ]
+  "topics": []
  },
  {
   "full_name": "TodorBonchev/rust-auditor",
@@ -712,7 +693,7 @@
   "created": "2026-08-23T20:45:06Z",
   "language": null,
   "stars_per_day": 0.27,
-  "age_days": 59,
+  "age_days": 60,
   "topics": [
    "blockchain",
    "crypto",
@@ -724,26 +705,6 @@
   ]
  },
  {
-  "full_name": "nirholas/three-ws-skill-license",
-  "url": "https://github.com/nirholas/three-ws-skill-license",
-  "description": "On-chain skill licenses for agents \u2014 each purchased skill is a 1/1 SPL NFT plus a deterministic SkillLicense PDA. Mint, verify, and read trustless skill access in one import, no database required.",
-  "stars": 3,
-  "created": "2026-10-10T20:52:05Z",
-  "language": "JavaScript",
-  "stars_per_day": 0.27,
-  "age_days": 11,
-  "topics": [
-   "access-control",
-   "agent",
-   "agent-skills",
-   "agents-md",
-   "ai-agents",
-   "anchor",
-   "esm",
-   "javascript"
-  ]
- },
- {
   "full_name": "grubbymyster/Solana-Address-Validator-Tool",
   "url": "https://github.com/grubbymyster/Solana-Address-Validator-Tool",
   "description": "Solana Address Validator - professional tool for validating Solana wallet addresses, checking balance and verifying address format with quick lookup for Windows.",
@@ -751,7 +712,7 @@
   "created": "2026-08-23T20:45:08Z",
   "language": null,
   "stars_per_day": 0.25,
-  "age_days": 59,
+  "age_days": 60,
   "topics": [
    "address-validator",
    "balance-checker",
@@ -761,6 +722,25 @@
    "solana-address-api-validator",
    "solana-address-validator",
    "solana-address-validator-tool"
+  ]
+ },
+ {
+  "full_name": "switch-afk/sol-pda",
+  "url": "https://github.com/switch-afk/sol-pda",
+  "description": "Derive Solana program derived addresses (PDAs) offline from your terminal",
+  "stars": 2,
+  "created": "2026-10-14T21:12:13Z",
+  "language": "JavaScript",
+  "stars_per_day": 0.25,
+  "age_days": 8,
+  "topics": [
+   "cli",
+   "nodejs",
+   "pda",
+   "program-derived-address",
+   "solana",
+   "web3",
+   "zero-dependency"
   ]
  },
  {
@@ -778,6 +758,26 @@
    "idl",
    "nodejs",
    "solana"
+  ]
+ },
+ {
+  "full_name": "nirholas/three-ws-skill-license",
+  "url": "https://github.com/nirholas/three-ws-skill-license",
+  "description": "On-chain skill licenses for agents \u2014 each purchased skill is a 1/1 SPL NFT plus a deterministic SkillLicense PDA. Mint, verify, and read trustless skill access in one import, no database required.",
+  "stars": 3,
+  "created": "2026-10-10T20:52:05Z",
+  "language": "JavaScript",
+  "stars_per_day": 0.25,
+  "age_days": 12,
+  "topics": [
+   "access-control",
+   "agent",
+   "agent-skills",
+   "agents-md",
+   "ai-agents",
+   "anchor",
+   "esm",
+   "javascript"
   ]
  },
  {
@@ -906,7 +906,7 @@
   "created": "2026-09-08T21:09:18Z",
   "language": "Solidity",
   "stars_per_day": 0.16,
-  "age_days": 43,
+  "age_days": 44,
   "topics": [
    "agents-md",
    "ai-agents",
@@ -1088,7 +1088,7 @@
   "created": "2026-10-03T18:45:29Z",
   "language": null,
   "stars_per_day": 0.11,
-  "age_days": 18,
+  "age_days": 19,
   "topics": [
    "anchor",
    "defi",
@@ -1190,24 +1190,6 @@
   ]
  },
  {
-  "full_name": "Laksz123/pulse-strike",
-  "url": "https://github.com/Laksz123/pulse-strike",
-  "description": "PULSE STRIKE \u2014 a browser team shooter with a Solana devnet market",
-  "stars": 1,
-  "created": "2026-10-08T02:27:06Z",
-  "language": "TypeScript",
-  "stars_per_day": 0.07,
-  "age_days": 14,
-  "topics": [
-   "anchor",
-   "browser-game",
-   "fps",
-   "game",
-   "solana",
-   "threejs"
-  ]
- },
- {
   "full_name": "subhdotsol/solana-programs",
   "url": "https://github.com/subhdotsol/solana-programs",
   "description": "A collection of Solana programs exploring on-chain systems, program architecture, DeFi primitives, account models, cryptography, and low-level Solana development.",
@@ -1253,7 +1235,7 @@
   "created": "2026-09-20T18:35:16Z",
   "language": "Python",
   "stars_per_day": 0.06,
-  "age_days": 31,
+  "age_days": 32,
   "topics": [
    "ai-agent",
    "defi",
@@ -1420,7 +1402,7 @@
   "created": "2026-09-05T17:41:31Z",
   "language": "TypeScript",
   "stars_per_day": 0.04,
-  "age_days": 46,
+  "age_days": 47,
   "topics": [
    "anchor",
    "devnet",
@@ -1503,7 +1485,7 @@
   "created": "2026-08-25T17:14:46Z",
   "language": "Rust",
   "stars_per_day": 0.02,
-  "age_days": 57,
+  "age_days": 58,
   "topics": []
  },
  {
@@ -1554,7 +1536,7 @@
   "created": "2026-09-10T20:54:50Z",
   "language": "TypeScript",
   "stars_per_day": 0.02,
-  "age_days": 41,
+  "age_days": 42,
   "topics": [
    "amm",
    "blockchain",
@@ -1610,5 +1592,22 @@
   "stars_per_day": 0.02,
   "age_days": 60,
   "topics": []
+ },
+ {
+  "full_name": "Hijanhv/pow-solana-janhavichavada",
+  "url": "https://github.com/Hijanhv/pow-solana-janhavichavada",
+  "description": "Proof of Work on Solana: every program, dApp, hackathon submission and Turbin3 assignment I have shipped, Nov 2024 to Jul 2026",
+  "stars": 1,
+  "created": "2026-09-10T09:54:57Z",
+  "language": "HTML",
+  "stars_per_day": 0.02,
+  "age_days": 42,
+  "topics": [
+   "anchor",
+   "portfolio",
+   "proof-of-work",
+   "solana",
+   "turbin3"
+  ]
  }
 ]

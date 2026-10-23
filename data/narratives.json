@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-10-23T04:51:46+00:00",
+ "generated_at": "2026-10-23T11:40:57+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 120.8,
+   "score": 113.5,
    "confidence": "High",
    "evidence": {
     "github_repos": 45,
-    "github_top_velocity": 48.82,
-    "headline_hits": 9,
+    "github_top_velocity": 49.46,
+    "headline_hits": 8,
     "sample_headlines": [
      "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
      "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
-     "Trade Where You Read: Decrypt Brings Jupiter-Powered Trading to The Information Exchange"
+     "The UK needs a workable route to regulated DeFi access"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -47,11 +47,11 @@
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 63.3,
+   "score": 64.2,
    "confidence": "High",
    "evidence": {
-    "github_repos": 22,
-    "github_top_velocity": 15.31,
+    "github_repos": 23,
+    "github_top_velocity": 16.24,
     "headline_hits": 6,
     "sample_headlines": [
      "Capital starting to rotate back to crypto from AI: Raoul Pal",
@@ -64,13 +64,18 @@
    "member_repos": [
     {
      "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 8.75,
+     "stars_per_day": 9.0,
      "url": "https://github.com/SpaceDataRig/space-data-rig"
     },
     {
      "full_name": "recogardtech/AutoPilotPM",
      "stars_per_day": 2.83,
      "url": "https://github.com/recogardtech/AutoPilotPM"
+    },
+    {
+     "full_name": "CompdProtocol/compd-solana",
+     "stars_per_day": 1.0,
+     "url": "https://github.com/CompdProtocol/compd-solana"
     },
     {
      "full_name": "GuiBibeau/solos",
@@ -81,24 +86,19 @@
      "full_name": "PillCrew/claimchain",
      "stars_per_day": 0.6,
      "url": "https://github.com/PillCrew/claimchain"
-    },
-    {
-     "full_name": "Parad0x-Labs/vool",
-     "stars_per_day": 0.5,
-     "url": "https://github.com/Parad0x-Labs/vool"
     }
    ]
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 45.8,
+   "score": 46.3,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 12,
-    "github_top_velocity": 43.35,
+    "github_repos": 11,
+    "github_top_velocity": 43.27,
     "headline_hits": 0,
     "sample_headlines": [],
-    "market_avg_7d_pct": -1.23,
+    "market_avg_7d_pct": -1.53,
     "sources_confirming": 1
    },
    "member_repos": [
@@ -130,46 +130,12 @@
    ]
   },
   {
-   "narrative": "RWA & Tokenization",
-   "score": 32.6,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 3,
-    "github_top_velocity": 0.61,
-    "headline_hits": 4,
-    "sample_headlines": [
-     "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
-     "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
-     "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "vectorix-cross/CrossYield",
-     "stars_per_day": 0.38,
-     "url": "https://github.com/vectorix-cross/CrossYield"
-    },
-    {
-     "full_name": "truenorth-lj/sofinance-public",
-     "stars_per_day": 0.12,
-     "url": "https://github.com/truenorth-lj/sofinance-public"
-    },
-    {
-     "full_name": "Zyxel89/owncurve",
-     "stars_per_day": 0.11,
-     "url": "https://github.com/Zyxel89/owncurve"
-    }
-   ]
-  },
-  {
    "narrative": "Dev Tooling & Infra",
-   "score": 27.4,
+   "score": 28.3,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 44,
-    "github_top_velocity": 27.38,
+    "github_top_velocity": 28.31,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -183,7 +149,7 @@
     },
     {
      "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 8.75,
+     "stars_per_day": 9.0,
      "url": "https://github.com/SpaceDataRig/space-data-rig"
     },
     {
@@ -197,63 +163,19 @@
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
     },
     {
-     "full_name": "GuiBibeau/solos",
-     "stars_per_day": 0.81,
-     "url": "https://github.com/GuiBibeau/solos"
-    }
-   ]
-  },
-  {
-   "narrative": "Payments & Stablecoins",
-   "score": 27.1,
-   "confidence": "High",
-   "evidence": {
-    "github_repos": 6,
-    "github_top_velocity": 3.07,
-    "headline_hits": 3,
-    "sample_headlines": [
-     "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
-     "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
-     "SoFi Launches Tokenized Deposit That Earns 4.4% and Converts to a Stablecoin"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 2
-   },
-   "member_repos": [
-    {
-     "full_name": "des35swim/hood-warfare",
-     "stars_per_day": 1.7,
-     "url": "https://github.com/des35swim/hood-warfare"
-    },
-    {
-     "full_name": "nirholas/papertrade-x402",
-     "stars_per_day": 0.42,
-     "url": "https://github.com/nirholas/papertrade-x402"
-    },
-    {
-     "full_name": "blueshift-gg/solana-pull-program",
-     "stars_per_day": 0.38,
-     "url": "https://github.com/blueshift-gg/solana-pull-program"
-    },
-    {
-     "full_name": "2274802010922/pipicachu",
-     "stars_per_day": 0.33,
-     "url": "https://github.com/2274802010922/pipicachu"
-    },
-    {
-     "full_name": "2274802010922/picachu_hackathon",
-     "stars_per_day": 0.19,
-     "url": "https://github.com/2274802010922/picachu_hackathon"
+     "full_name": "CompdProtocol/compd-solana",
+     "stars_per_day": 1.0,
+     "url": "https://github.com/CompdProtocol/compd-solana"
     }
    ]
   },
   {
    "narrative": "Wallets & UX",
-   "score": 26.8,
+   "score": 26.7,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 14,
-    "github_top_velocity": 18.83,
+    "github_top_velocity": 18.72,
     "headline_hits": 1,
     "sample_headlines": [
      "Starknet introduces wallet privacy feature for DeFi activity"
@@ -290,12 +212,99 @@
    ]
   },
   {
+   "narrative": "RWA & Tokenization",
+   "score": 25.8,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 5,
+    "github_top_velocity": 1.83,
+    "headline_hits": 3,
+    "sample_headlines": [
+     "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
+     "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
+     "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "CompdProtocol/compd-solana",
+     "stars_per_day": 1.0,
+     "url": "https://github.com/CompdProtocol/compd-solana"
+    },
+    {
+     "full_name": "vectorix-cross/CrossYield",
+     "stars_per_day": 0.38,
+     "url": "https://github.com/vectorix-cross/CrossYield"
+    },
+    {
+     "full_name": "CompdProtocol/CompdProtocol",
+     "stars_per_day": 0.22,
+     "url": "https://github.com/CompdProtocol/CompdProtocol"
+    },
+    {
+     "full_name": "truenorth-lj/sofinance-public",
+     "stars_per_day": 0.12,
+     "url": "https://github.com/truenorth-lj/sofinance-public"
+    },
+    {
+     "full_name": "Zyxel89/owncurve",
+     "stars_per_day": 0.11,
+     "url": "https://github.com/Zyxel89/owncurve"
+    }
+   ]
+  },
+  {
+   "narrative": "Payments & Stablecoins",
+   "score": 19.0,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 6,
+    "github_top_velocity": 3.04,
+    "headline_hits": 2,
+    "sample_headlines": [
+     "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
+     "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 2
+   },
+   "member_repos": [
+    {
+     "full_name": "des35swim/hood-warfare",
+     "stars_per_day": 1.7,
+     "url": "https://github.com/des35swim/hood-warfare"
+    },
+    {
+     "full_name": "nirholas/papertrade-x402",
+     "stars_per_day": 0.42,
+     "url": "https://github.com/nirholas/papertrade-x402"
+    },
+    {
+     "full_name": "blueshift-gg/solana-pull-program",
+     "stars_per_day": 0.36,
+     "url": "https://github.com/blueshift-gg/solana-pull-program"
+    },
+    {
+     "full_name": "2274802010922/pipicachu",
+     "stars_per_day": 0.32,
+     "url": "https://github.com/2274802010922/pipicachu"
+    },
+    {
+     "full_name": "2274802010922/picachu_hackathon",
+     "stars_per_day": 0.19,
+     "url": "https://github.com/2274802010922/picachu_hackathon"
+    }
+   ]
+  },
+  {
    "narrative": "Security & Threats",
    "score": 8.4,
    "confidence": "Low",
    "evidence": {
-    "github_repos": 3,
-    "github_top_velocity": 0.42,
+    "github_repos": 2,
+    "github_top_velocity": 0.36,
     "headline_hits": 1,
     "sample_headlines": [
      "Drift exploiter sends $61M ETH to Tornado Cash, holds $194M"
@@ -306,28 +315,23 @@
    "member_repos": [
     {
      "full_name": "TodorBonchev/rust-auditor",
-     "stars_per_day": 0.29,
+     "stars_per_day": 0.25,
      "url": "https://github.com/TodorBonchev/rust-auditor"
     },
     {
      "full_name": "Portaudit/referee",
      "stars_per_day": 0.11,
      "url": "https://github.com/Portaudit/referee"
-    },
-    {
-     "full_name": "hypnogaba/solana-signal-trader",
-     "stars_per_day": 0.02,
-     "url": "https://github.com/hypnogaba/solana-signal-trader"
     }
    ]
   },
   {
    "narrative": "Consumer & Social",
-   "score": 4.4,
+   "score": 4.3,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 9,
-    "github_top_velocity": 4.36,
+    "github_repos": 8,
+    "github_top_velocity": 4.29,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,

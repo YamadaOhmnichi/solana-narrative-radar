@@ -60,10 +60,10 @@
   "full_name": "h100envy/crawl-hive",
   "url": "https://github.com/h100envy/crawl-hive",
   "description": "CrawlHive: open-source memecoin safety swarm. Bundles, snipers, linked operators, bubble map, LP locks and dev history on Solana, BNB, Base and Robinhood Chain, plus a Larpcheck second opinion. Free s",
-  "stars": 138,
+  "stars": 137,
   "created": "2026-10-10T14:29:26Z",
   "language": "TypeScript",
-  "stars_per_day": 10.62,
+  "stars_per_day": 10.54,
   "age_days": 13,
   "topics": [
    "base",
@@ -377,26 +377,6 @@
   ]
  },
  {
-  "full_name": "mangiapanejohn-dev/MOBIUS-Searcher",
-  "url": "https://github.com/mangiapanejohn-dev/MOBIUS-Searcher",
-  "description": "A research-first quant bot for the terminal: Solana DEX arbitrage searcher with a Ratatui UI. Simulation-first, PAPER by default.",
-  "stars": 14,
-  "created": "2026-09-19T19:45:43Z",
-  "language": "Rust",
-  "stars_per_day": 0.42,
-  "age_days": 33,
-  "topics": [
-   "arbitrage",
-   "jito",
-   "jupiter",
-   "mev",
-   "quant",
-   "ratatui",
-   "rust",
-   "solana"
-  ]
- },
- {
   "full_name": "nirholas/papertrade-x402",
   "url": "https://github.com/nirholas/papertrade-x402",
   "description": "Pay-per-call Papertrade intelligence API for AI agents over x402: liquidation risk, liquidation maps, settlement estimates and top-trader stats, paid in USDC on Solana or Base.",
@@ -417,23 +397,23 @@
   ]
  },
  {
-  "full_name": "nirholas/avatar-schema",
-  "url": "https://github.com/nirholas/avatar-schema",
-  "description": "JSON Schema and validator for three.ws on-chain avatar manifests \u2014 the canonical, hash-anchored format any cross-chain client can use to resolve an avatar.",
-  "stars": 5,
-  "created": "2026-10-10T20:45:30Z",
-  "language": "JavaScript",
-  "stars_per_day": 0.42,
-  "age_days": 12,
+  "full_name": "mangiapanejohn-dev/MOBIUS-Searcher",
+  "url": "https://github.com/mangiapanejohn-dev/MOBIUS-Searcher",
+  "description": "A research-first quant bot for the terminal: Solana DEX arbitrage searcher with a Ratatui UI. Simulation-first, PAPER by default.",
+  "stars": 14,
+  "created": "2026-09-19T19:45:43Z",
+  "language": "Rust",
+  "stars_per_day": 0.41,
+  "age_days": 34,
   "topics": [
-   "agents-md",
-   "ai-agents",
-   "avatar",
-   "ens",
-   "evm",
-   "javascript",
-   "json-schema",
-   "llms-txt"
+   "arbitrage",
+   "jito",
+   "jupiter",
+   "mev",
+   "quant",
+   "ratatui",
+   "rust",
+   "solana"
   ]
  },
  {
@@ -444,7 +424,7 @@
   "created": "2026-09-13T17:36:27Z",
   "language": "Solidity",
   "stars_per_day": 0.38,
-  "age_days": 39,
+  "age_days": 40,
   "topics": [
    "defi",
    "ethereum",
@@ -476,22 +456,23 @@
   "topics": []
  },
  {
-  "full_name": "vectorix-cross/My-web3-projects",
-  "url": "https://github.com/vectorix-cross/My-web3-projects",
-  "description": "Index of Vectorix Web3 kinds: trading bots, token launch, NFT, x402, other chains.",
-  "stars": 14,
-  "created": "2026-09-13T17:36:07Z",
-  "language": null,
-  "stars_per_day": 0.36,
-  "age_days": 39,
+  "full_name": "nirholas/avatar-schema",
+  "url": "https://github.com/nirholas/avatar-schema",
+  "description": "JSON Schema and validator for three.ws on-chain avatar manifests \u2014 the canonical, hash-anchored format any cross-chain client can use to resolve an avatar.",
+  "stars": 5,
+  "created": "2026-10-10T20:45:30Z",
+  "language": "JavaScript",
+  "stars_per_day": 0.38,
+  "age_days": 13,
   "topics": [
-   "crypto",
-   "memecoin",
-   "polymarket",
-   "solana",
-   "token-launch",
-   "trading-bot",
-   "web3"
+   "agents-md",
+   "ai-agents",
+   "avatar",
+   "ens",
+   "evm",
+   "javascript",
+   "json-schema",
+   "llms-txt"
   ]
  },
  {
@@ -504,6 +485,25 @@
   "stars_per_day": 0.36,
   "age_days": 22,
   "topics": []
+ },
+ {
+  "full_name": "vectorix-cross/My-web3-projects",
+  "url": "https://github.com/vectorix-cross/My-web3-projects",
+  "description": "Index of Vectorix Web3 kinds: trading bots, token launch, NFT, x402, other chains.",
+  "stars": 14,
+  "created": "2026-09-13T17:36:07Z",
+  "language": null,
+  "stars_per_day": 0.35,
+  "age_days": 40,
+  "topics": [
+   "crypto",
+   "memecoin",
+   "polymarket",
+   "solana",
+   "token-launch",
+   "trading-bot",
+   "web3"
+  ]
  },
  {
   "full_name": "BordrlessDex/bordrless-sdk",
@@ -534,46 +534,6 @@
    "claude",
    "defi",
    "hyperliquid"
-  ]
- },
- {
-  "full_name": "nirholas/skill-license",
-  "url": "https://github.com/nirholas/skill-license",
-  "description": "On-chain skill licenses for agents \u2014 each purchased skill is a 1/1 SPL NFT plus a deterministic SkillLicense PDA. Mint, verify, and read trustless skill access in one import, no database required.",
-  "stars": 4,
-  "created": "2026-10-10T20:48:32Z",
-  "language": "JavaScript",
-  "stars_per_day": 0.33,
-  "age_days": 12,
-  "topics": [
-   "access-control",
-   "agent",
-   "agents-md",
-   "ai-agents",
-   "anchor",
-   "javascript",
-   "license",
-   "llms-txt"
-  ]
- },
- {
-  "full_name": "swcstudiospace/PumpGrok",
-  "url": "https://github.com/swcstudiospace/PumpGrok",
-  "description": "1-Click Grok Bot 8 Man Crypto Trading Desk as seen on X",
-  "stars": 18,
-  "created": "2026-08-26T18:02:45Z",
-  "language": "Python",
-  "stars_per_day": 0.32,
-  "age_days": 57,
-  "topics": [
-   "ai-agents",
-   "blockchain",
-   "claude-code",
-   "cryptocurrency",
-   "cursor",
-   "grok",
-   "grok-bot",
-   "jupiter"
   ]
  },
  {
@@ -616,6 +576,46 @@
   ]
  },
  {
+  "full_name": "swcstudiospace/PumpGrok",
+  "url": "https://github.com/swcstudiospace/PumpGrok",
+  "description": "1-Click Grok Bot 8 Man Crypto Trading Desk as seen on X",
+  "stars": 18,
+  "created": "2026-08-26T18:02:45Z",
+  "language": "Python",
+  "stars_per_day": 0.31,
+  "age_days": 58,
+  "topics": [
+   "ai-agents",
+   "blockchain",
+   "claude-code",
+   "cryptocurrency",
+   "cursor",
+   "grok",
+   "grok-bot",
+   "jupiter"
+  ]
+ },
+ {
+  "full_name": "nirholas/skill-license",
+  "url": "https://github.com/nirholas/skill-license",
+  "description": "On-chain skill licenses for agents \u2014 each purchased skill is a 1/1 SPL NFT plus a deterministic SkillLicense PDA. Mint, verify, and read trustless skill access in one import, no database required.",
+  "stars": 4,
+  "created": "2026-10-10T20:48:32Z",
+  "language": "JavaScript",
+  "stars_per_day": 0.31,
+  "age_days": 13,
+  "topics": [
+   "access-control",
+   "agent",
+   "agents-md",
+   "ai-agents",
+   "anchor",
+   "javascript",
+   "license",
+   "llms-txt"
+  ]
+ },
+ {
   "full_name": "livid/exe-hub",
   "url": "https://github.com/livid/exe-hub",
   "description": "A small public feed for exe nodes in one Go binary: ed25519-signed posts, SQLite, pictures on IPFS, an optional Solana token gate, hub-to-hub replication, and public pages that install as a PWA.",
@@ -631,17 +631,6 @@
    "ipfs",
    "social-feed"
   ]
- },
- {
-  "full_name": "ax-x2/rewind",
-  "url": "https://github.com/ax-x2/rewind",
-  "description": "recover historical and closed solana program binaries using jetstreamer",
-  "stars": 2,
-  "created": "2026-10-15T19:38:24Z",
-  "language": "Rust",
-  "stars_per_day": 0.29,
-  "age_days": 7,
-  "topics": []
  },
  {
   "full_name": "blueshift-gg/solana-ecvrf",
@@ -704,23 +693,15 @@
   ]
  },
  {
-  "full_name": "switch-afk/sol-pda",
-  "url": "https://github.com/switch-afk/sol-pda",
-  "description": "Derive Solana program derived addresses (PDAs) offline from your terminal",
+  "full_name": "ax-x2/rewind",
+  "url": "https://github.com/ax-x2/rewind",
+  "description": "recover historical and closed solana program binaries using jetstreamer",
   "stars": 2,
-  "created": "2026-10-14T21:12:13Z",
-  "language": "JavaScript",
+  "created": "2026-10-15T19:38:24Z",
+  "language": "Rust",
   "stars_per_day": 0.25,
   "age_days": 8,
-  "topics": [
-   "cli",
-   "nodejs",
-   "pda",
-   "program-derived-address",
-   "solana",
-   "web3",
-   "zero-dependency"
-  ]
+  "topics": []
  },
  {
   "full_name": "TodorBonchev/rust-auditor",
@@ -759,8 +740,8 @@
   "stars": 3,
   "created": "2026-10-10T20:52:05Z",
   "language": "JavaScript",
-  "stars_per_day": 0.25,
-  "age_days": 12,
+  "stars_per_day": 0.23,
+  "age_days": 13,
   "topics": [
    "access-control",
    "agent",
@@ -782,6 +763,25 @@
   "stars_per_day": 0.22,
   "age_days": 60,
   "topics": []
+ },
+ {
+  "full_name": "switch-afk/sol-pda",
+  "url": "https://github.com/switch-afk/sol-pda",
+  "description": "Derive Solana program derived addresses (PDAs) offline from your terminal",
+  "stars": 2,
+  "created": "2026-10-14T21:12:13Z",
+  "language": "JavaScript",
+  "stars_per_day": 0.22,
+  "age_days": 9,
+  "topics": [
+   "cli",
+   "nodejs",
+   "pda",
+   "program-derived-address",
+   "solana",
+   "web3",
+   "zero-dependency"
+  ]
  },
  {
   "full_name": "switch-afk/sol-idl-peek",
@@ -885,7 +885,7 @@
   "created": "2026-09-08T21:09:18Z",
   "language": "Solidity",
   "stars_per_day": 0.16,
-  "age_days": 44,
+  "age_days": 45,
   "topics": [
    "agents-md",
    "ai-agents",
@@ -915,6 +915,24 @@
    "solana",
    "solana-program",
    "upgrade-authority"
+  ]
+ },
+ {
+  "full_name": "New1Direction/repo.ing",
+  "url": "https://github.com/New1Direction/repo.ing",
+  "description": "The market layer for open source. GitHub repository markets on Solana, builder earnings, and transparent protocol accounting.",
+  "stars": 4,
+  "created": "2026-09-25T21:47:28Z",
+  "language": "JavaScript",
+  "stars_per_day": 0.15,
+  "age_days": 27,
+  "topics": [
+   "defi",
+   "github",
+   "meteora",
+   "nextjs",
+   "open-source",
+   "solana"
   ]
  },
  {
@@ -1057,42 +1075,6 @@
   ]
  },
  {
-  "full_name": "New1Direction/repo.ing",
-  "url": "https://github.com/New1Direction/repo.ing",
-  "description": "The market layer for open source. GitHub repository markets on Solana, builder earnings, and transparent protocol accounting.",
-  "stars": 3,
-  "created": "2026-09-25T21:47:28Z",
-  "language": "JavaScript",
-  "stars_per_day": 0.11,
-  "age_days": 27,
-  "topics": [
-   "defi",
-   "github",
-   "meteora",
-   "nextjs",
-   "open-source",
-   "solana"
-  ]
- },
- {
-  "full_name": "Supernova-protocol/svm-core",
-  "url": "https://github.com/Supernova-protocol/svm-core",
-  "description": "Core SVM smart contracts and execution architecture. Featuring deterministic Jito routing and immutable War Chest PDAs. (Private Beta)",
-  "stars": 2,
-  "created": "2026-10-03T18:45:29Z",
-  "language": null,
-  "stars_per_day": 0.11,
-  "age_days": 19,
-  "topics": [
-   "anchor",
-   "defi",
-   "jito",
-   "rust",
-   "smart-contracts",
-   "solana"
-  ]
- },
- {
   "full_name": "Portaudit/referee",
   "url": "https://github.com/Portaudit/referee",
   "description": "An independent settlement authority for Solana DvP trades. Not affiliated with or endorsed by the Solana Foundation.",
@@ -1153,6 +1135,24 @@
    "bonding-curve",
    "defi",
    "meteora",
+   "solana"
+  ]
+ },
+ {
+  "full_name": "Supernova-protocol/svm-core",
+  "url": "https://github.com/Supernova-protocol/svm-core",
+  "description": "Core SVM smart contracts and execution architecture. Featuring deterministic Jito routing and immutable War Chest PDAs. (Private Beta)",
+  "stars": 2,
+  "created": "2026-10-03T18:45:29Z",
+  "language": null,
+  "stars_per_day": 0.1,
+  "age_days": 20,
+  "topics": [
+   "anchor",
+   "defi",
+   "jito",
+   "rust",
+   "smart-contracts",
    "solana"
   ]
  },
@@ -1262,7 +1262,7 @@
   "created": "2026-09-20T18:35:16Z",
   "language": "Python",
   "stars_per_day": 0.06,
-  "age_days": 32,
+  "age_days": 33,
   "topics": [
    "ai-agent",
    "defi",
@@ -1402,7 +1402,7 @@
   "created": "2026-09-05T17:41:31Z",
   "language": "TypeScript",
   "stars_per_day": 0.04,
-  "age_days": 47,
+  "age_days": 48,
   "topics": [
    "anchor",
    "devnet",
@@ -1443,7 +1443,7 @@
   "created": "2026-09-17T17:09:31Z",
   "language": "Rust",
   "stars_per_day": 0.03,
-  "age_days": 35,
+  "age_days": 36,
   "topics": []
  },
  {
@@ -1512,7 +1512,7 @@
   "created": "2026-08-25T17:14:46Z",
   "language": "Rust",
   "stars_per_day": 0.02,
-  "age_days": 58,
+  "age_days": 59,
   "topics": []
  },
  {

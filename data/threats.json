@@ -3,10 +3,10 @@
   "full_name": "solana-classic/solana-classic",
   "url": "https://github.com/solana-classic/solana-classic",
   "description": "Bring back the fun. Open-source SVM blockchain development focused on art, NFTs, memes and their communities. Experimental testnet live.",
-  "stars": 580,
+  "stars": 521,
   "created": "2026-10-13T19:35:48Z",
   "language": "Rust",
-  "stars_per_day": 58.0,
+  "stars_per_day": 52.1,
   "age_days": 10,
   "topics": [
    "agave",
@@ -27,8 +27,8 @@
   "stars": 1237,
   "created": "2026-08-28T08:07:10Z",
   "language": "CSS",
-  "stars_per_day": 22.09,
-  "age_days": 56,
+  "stars_per_day": 21.7,
+  "age_days": 57,
   "topics": [
    "blockchain-integration",
    "cryptocoins",

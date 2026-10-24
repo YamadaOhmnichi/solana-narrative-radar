@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-24T04:38:37+00:00",
+ "generated_at": "2026-10-24T11:03:08+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 110.2,
+   "score": 121.1,
    "confidence": "High",
    "evidence": {
-    "github_repos": 45,
-    "github_top_velocity": 46.21,
+    "github_repos": 46,
+    "github_top_velocity": 57.07,
     "headline_hits": 8,
     "sample_headlines": [
      "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
@@ -20,13 +20,18 @@
    "member_repos": [
     {
      "full_name": "cxmza/windle",
-     "stars_per_day": 15.08,
+     "stars_per_day": 14.58,
      "url": "https://github.com/cxmza/windle"
     },
     {
      "full_name": "h100envy/gem-search",
      "stars_per_day": 12.28,
      "url": "https://github.com/h100envy/gem-search"
+    },
+    {
+     "full_name": "fountainkagegrid/solana-alpenglow-tracker-2026",
+     "stars_per_day": 12.0,
+     "url": "https://github.com/fountainkagegrid/solana-alpenglow-tracker-2026"
     },
     {
      "full_name": "h100envy/crawl-hive",
@@ -37,24 +42,19 @@
      "full_name": "recogardtech/AutoPilotPM",
      "stars_per_day": 2.72,
      "url": "https://github.com/recogardtech/AutoPilotPM"
-    },
-    {
-     "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 1.93,
-     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
     }
    ]
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 42.9,
+   "score": 66.8,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 11,
-    "github_top_velocity": 40.94,
+    "github_repos": 13,
+    "github_top_velocity": 64.56,
     "headline_hits": 0,
     "sample_headlines": [],
-    "market_avg_7d_pct": -0.96,
+    "market_avg_7d_pct": -1.14,
     "sources_confirming": 1
    },
    "member_repos": [
@@ -69,29 +69,29 @@
      "url": "https://github.com/h100envy/gem-search"
     },
     {
+     "full_name": "fountainkagegrid/solana-alpenglow-tracker-2026",
+     "stars_per_day": 12.0,
+     "url": "https://github.com/fountainkagegrid/solana-alpenglow-tracker-2026"
+    },
+    {
+     "full_name": "AndrewBrick56/Loreforge-Ai",
+     "stars_per_day": 12.0,
+     "url": "https://github.com/AndrewBrick56/Loreforge-Ai"
+    },
+    {
      "full_name": "h100envy/crawl-hive",
      "stars_per_day": 10.54,
      "url": "https://github.com/h100envy/crawl-hive"
-    },
-    {
-     "full_name": "QuantumOrb/QuantOrb",
-     "stars_per_day": 2.9,
-     "url": "https://github.com/QuantumOrb/QuantOrb"
-    },
-    {
-     "full_name": "BordrlessDex/bordrless-programs",
-     "stars_per_day": 0.69,
-     "url": "https://github.com/BordrlessDex/bordrless-programs"
     }
    ]
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 39.4,
+   "score": 51.0,
    "confidence": "High",
    "evidence": {
-    "github_repos": 23,
-    "github_top_velocity": 15.35,
+    "github_repos": 24,
+    "github_top_velocity": 27.04,
     "headline_hits": 3,
     "sample_headlines": [
      "Capital starting to rotate back to crypto from AI: Raoul Pal",
@@ -102,6 +102,11 @@
     "sources_confirming": 2
    },
    "member_repos": [
+    {
+     "full_name": "AndrewBrick56/Loreforge-Ai",
+     "stars_per_day": 12.0,
+     "url": "https://github.com/AndrewBrick56/Loreforge-Ai"
+    },
     {
      "full_name": "SpaceDataRig/space-data-rig",
      "stars_per_day": 8.38,
@@ -121,11 +126,6 @@
      "full_name": "GuiBibeau/solos",
      "stars_per_day": 0.79,
      "url": "https://github.com/GuiBibeau/solos"
-    },
-    {
-     "full_name": "PillCrew/claimchain",
-     "stars_per_day": 0.59,
-     "url": "https://github.com/PillCrew/claimchain"
     }
    ]
   },
@@ -135,7 +135,7 @@
    "confidence": "Medium",
    "evidence": {
     "github_repos": 5,
-    "github_top_velocity": 1.82,
+    "github_top_velocity": 1.81,
     "headline_hits": 4,
     "sample_headlines": [
      "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
@@ -163,7 +163,7 @@
     },
     {
      "full_name": "truenorth-lj/sofinance-public",
-     "stars_per_day": 0.12,
+     "stars_per_day": 0.11,
      "url": "https://github.com/truenorth-lj/sofinance-public"
     },
     {
@@ -174,12 +174,52 @@
    ]
   },
   {
+   "narrative": "Dev Tooling & Infra",
+   "score": 29.1,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 43,
+    "github_top_velocity": 29.14,
+    "headline_hits": 0,
+    "sample_headlines": [],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "h100envy/crawl-hive",
+     "stars_per_day": 10.54,
+     "url": "https://github.com/h100envy/crawl-hive"
+    },
+    {
+     "full_name": "SpaceDataRig/space-data-rig",
+     "stars_per_day": 8.38,
+     "url": "https://github.com/SpaceDataRig/space-data-rig"
+    },
+    {
+     "full_name": "lalalune/daosfun-source",
+     "stars_per_day": 4.0,
+     "url": "https://github.com/lalalune/daosfun-source"
+    },
+    {
+     "full_name": "openarbmev/Openarb-Trade-SDK",
+     "stars_per_day": 1.88,
+     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
+    },
+    {
+     "full_name": "CompdProtocol/compd-solana",
+     "stars_per_day": 1.0,
+     "url": "https://github.com/CompdProtocol/compd-solana"
+    }
+   ]
+  },
+  {
    "narrative": "Payments & Stablecoins",
    "score": 26.8,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 6,
-    "github_top_velocity": 2.84,
+    "github_top_velocity": 2.81,
     "headline_hits": 3,
     "sample_headlines": [
      "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
@@ -202,12 +242,12 @@
     },
     {
      "full_name": "blueshift-gg/solana-pull-program",
-     "stars_per_day": 0.36,
+     "stars_per_day": 0.35,
      "url": "https://github.com/blueshift-gg/solana-pull-program"
     },
     {
      "full_name": "2274802010922/pipicachu",
-     "stars_per_day": 0.32,
+     "stars_per_day": 0.3,
      "url": "https://github.com/2274802010922/pipicachu"
     },
     {
@@ -219,11 +259,11 @@
   },
   {
    "narrative": "Wallets & UX",
-   "score": 25.8,
+   "score": 23.8,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 13,
-    "github_top_velocity": 17.75,
+    "github_repos": 10,
+    "github_top_velocity": 15.84,
     "headline_hits": 1,
     "sample_headlines": [
      "Starknet introduces wallet privacy feature for DeFi activity"
@@ -239,73 +279,33 @@
     },
     {
      "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 1.93,
+     "stars_per_day": 1.88,
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
-    },
-    {
-     "full_name": "uni-launch/solana-token-creator",
-     "stars_per_day": 1.03,
-     "url": "https://github.com/uni-launch/solana-token-creator"
-    },
-    {
-     "full_name": "thaorivera/crypto-wallet-generator-cracker",
-     "stars_per_day": 0.84,
-     "url": "https://github.com/thaorivera/crypto-wallet-generator-cracker"
     },
     {
      "full_name": "DigitalShieldOfficial/DigitalShield-Hardware-Airgap-Sdk",
      "stars_per_day": 0.58,
      "url": "https://github.com/DigitalShieldOfficial/DigitalShield-Hardware-Airgap-Sdk"
-    }
-   ]
-  },
-  {
-   "narrative": "Dev Tooling & Infra",
-   "score": 25.5,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 43,
-    "github_top_velocity": 25.52,
-    "headline_hits": 0,
-    "sample_headlines": [],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 10.54,
-     "url": "https://github.com/h100envy/crawl-hive"
     },
     {
-     "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 8.38,
-     "url": "https://github.com/SpaceDataRig/space-data-rig"
+     "full_name": "BordrlessDex/bordrless-sdk",
+     "stars_per_day": 0.31,
+     "url": "https://github.com/BordrlessDex/bordrless-sdk"
     },
     {
-     "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 1.93,
-     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
-    },
-    {
-     "full_name": "CompdProtocol/compd-solana",
-     "stars_per_day": 1.0,
-     "url": "https://github.com/CompdProtocol/compd-solana"
-    },
-    {
-     "full_name": "Positano777/idl-drift-watch",
-     "stars_per_day": 1.0,
-     "url": "https://github.com/Positano777/idl-drift-watch"
+     "full_name": "Lamport-Robotics/lamport-vault",
+     "stars_per_day": 0.25,
+     "url": "https://github.com/Lamport-Robotics/lamport-vault"
     }
    ]
   },
   {
    "narrative": "Security & Threats",
-   "score": 16.4,
+   "score": 16.3,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 2,
-    "github_top_velocity": 0.36,
+    "github_top_velocity": 0.32,
     "headline_hits": 2,
     "sample_headlines": [
      "Crypto Scammers Who Used Prayer Groups to Lure Victims Must Pay $1.3 Billion, Says New York",
@@ -317,38 +317,33 @@
    "member_repos": [
     {
      "full_name": "TodorBonchev/rust-auditor",
-     "stars_per_day": 0.25,
+     "stars_per_day": 0.22,
      "url": "https://github.com/TodorBonchev/rust-auditor"
     },
     {
      "full_name": "Portaudit/referee",
-     "stars_per_day": 0.11,
+     "stars_per_day": 0.1,
      "url": "https://github.com/Portaudit/referee"
     }
    ]
   },
   {
    "narrative": "Consumer & Social",
-   "score": 3.8,
-   "confidence": "Medium",
+   "score": 2.8,
+   "confidence": "Low",
    "evidence": {
-    "github_repos": 7,
-    "github_top_velocity": 3.83,
+    "github_repos": 6,
+    "github_top_velocity": 2.79,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
-    "sources_confirming": 1
+    "sources_confirming": 0
    },
    "member_repos": [
     {
      "full_name": "des35swim/hood-warfare",
      "stars_per_day": 1.55,
      "url": "https://github.com/des35swim/hood-warfare"
-    },
-    {
-     "full_name": "uni-launch/solana-token-creator",
-     "stars_per_day": 1.03,
-     "url": "https://github.com/uni-launch/solana-token-creator"
     },
     {
      "full_name": "vectorix-cross/My-web3-projects",
@@ -362,8 +357,13 @@
     },
     {
      "full_name": "livid/exe-hub",
-     "stars_per_day": 0.3,
+     "stars_per_day": 0.29,
      "url": "https://github.com/livid/exe-hub"
+    },
+    {
+     "full_name": "nirholas/three-ws-skill-license",
+     "stars_per_day": 0.23,
+     "url": "https://github.com/nirholas/three-ws-skill-license"
     }
    ]
   },

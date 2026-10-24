@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-23T21:25:47+00:00",
+ "generated_at": "2026-10-24T04:38:37+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 111.6,
+   "score": 110.2,
    "confidence": "High",
    "evidence": {
     "github_repos": 45,
-    "github_top_velocity": 47.62,
+    "github_top_velocity": 46.21,
     "headline_hits": 8,
     "sample_headlines": [
      "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
@@ -20,12 +20,12 @@
    "member_repos": [
     {
      "full_name": "cxmza/windle",
-     "stars_per_day": 16.45,
+     "stars_per_day": 15.08,
      "url": "https://github.com/cxmza/windle"
     },
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 12.22,
+     "stars_per_day": 12.28,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
@@ -47,14 +47,14 @@
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 43.8,
+   "score": 42.9,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 11,
-    "github_top_velocity": 40.93,
+    "github_top_velocity": 40.94,
     "headline_hits": 0,
     "sample_headlines": [],
-    "market_avg_7d_pct": 1.41,
+    "market_avg_7d_pct": -0.96,
     "sources_confirming": 1
    },
    "member_repos": [
@@ -65,7 +65,7 @@
     },
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 12.22,
+     "stars_per_day": 12.28,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
@@ -80,18 +80,18 @@
     },
     {
      "full_name": "BordrlessDex/bordrless-programs",
-     "stars_per_day": 0.73,
+     "stars_per_day": 0.69,
      "url": "https://github.com/BordrlessDex/bordrless-programs"
     }
    ]
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 39.5,
+   "score": 39.4,
    "confidence": "High",
    "evidence": {
     "github_repos": 23,
-    "github_top_velocity": 15.45,
+    "github_top_velocity": 15.35,
     "headline_hits": 3,
     "sample_headlines": [
      "Capital starting to rotate back to crypto from AI: Raoul Pal",
@@ -119,12 +119,12 @@
     },
     {
      "full_name": "GuiBibeau/solos",
-     "stars_per_day": 0.81,
+     "stars_per_day": 0.79,
      "url": "https://github.com/GuiBibeau/solos"
     },
     {
      "full_name": "PillCrew/claimchain",
-     "stars_per_day": 0.6,
+     "stars_per_day": 0.59,
      "url": "https://github.com/PillCrew/claimchain"
     }
    ]
@@ -175,11 +175,11 @@
   },
   {
    "narrative": "Payments & Stablecoins",
-   "score": 26.9,
+   "score": 26.8,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 6,
-    "github_top_velocity": 2.89,
+    "github_top_velocity": 2.84,
     "headline_hits": 3,
     "sample_headlines": [
      "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
@@ -197,7 +197,7 @@
     },
     {
      "full_name": "nirholas/papertrade-x402",
-     "stars_per_day": 0.42,
+     "stars_per_day": 0.38,
      "url": "https://github.com/nirholas/papertrade-x402"
     },
     {
@@ -212,18 +212,60 @@
     },
     {
      "full_name": "2274802010922/picachu_hackathon",
-     "stars_per_day": 0.19,
+     "stars_per_day": 0.18,
      "url": "https://github.com/2274802010922/picachu_hackathon"
     }
    ]
   },
   {
-   "narrative": "Dev Tooling & Infra",
-   "score": 26.6,
+   "narrative": "Wallets & UX",
+   "score": 25.8,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 44,
-    "github_top_velocity": 26.64,
+    "github_repos": 13,
+    "github_top_velocity": 17.75,
+    "headline_hits": 1,
+    "sample_headlines": [
+     "Starknet introduces wallet privacy feature for DeFi activity"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "h100envy/gem-search",
+     "stars_per_day": 12.28,
+     "url": "https://github.com/h100envy/gem-search"
+    },
+    {
+     "full_name": "openarbmev/Openarb-Trade-SDK",
+     "stars_per_day": 1.93,
+     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
+    },
+    {
+     "full_name": "uni-launch/solana-token-creator",
+     "stars_per_day": 1.03,
+     "url": "https://github.com/uni-launch/solana-token-creator"
+    },
+    {
+     "full_name": "thaorivera/crypto-wallet-generator-cracker",
+     "stars_per_day": 0.84,
+     "url": "https://github.com/thaorivera/crypto-wallet-generator-cracker"
+    },
+    {
+     "full_name": "DigitalShieldOfficial/DigitalShield-Hardware-Airgap-Sdk",
+     "stars_per_day": 0.58,
+     "url": "https://github.com/DigitalShieldOfficial/DigitalShield-Hardware-Airgap-Sdk"
+    }
+   ]
+  },
+  {
+   "narrative": "Dev Tooling & Infra",
+   "score": 25.5,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 43,
+    "github_top_velocity": 25.52,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -241,11 +283,6 @@
      "url": "https://github.com/SpaceDataRig/space-data-rig"
     },
     {
-     "full_name": "Positano777/idl-drift-watch",
-     "stars_per_day": 2.0,
-     "url": "https://github.com/Positano777/idl-drift-watch"
-    },
-    {
      "full_name": "openarbmev/Openarb-Trade-SDK",
      "stars_per_day": 1.93,
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
@@ -254,48 +291,11 @@
      "full_name": "CompdProtocol/compd-solana",
      "stars_per_day": 1.0,
      "url": "https://github.com/CompdProtocol/compd-solana"
-    }
-   ]
-  },
-  {
-   "narrative": "Wallets & UX",
-   "score": 25.9,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 14,
-    "github_top_velocity": 17.89,
-    "headline_hits": 1,
-    "sample_headlines": [
-     "Starknet introduces wallet privacy feature for DeFi activity"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "h100envy/gem-search",
-     "stars_per_day": 12.22,
-     "url": "https://github.com/h100envy/gem-search"
     },
     {
-     "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 1.93,
-     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
-    },
-    {
-     "full_name": "uni-launch/solana-token-creator",
-     "stars_per_day": 1.03,
-     "url": "https://github.com/uni-launch/solana-token-creator"
-    },
-    {
-     "full_name": "thaorivera/crypto-wallet-generator-cracker",
-     "stars_per_day": 0.89,
-     "url": "https://github.com/thaorivera/crypto-wallet-generator-cracker"
-    },
-    {
-     "full_name": "DigitalShieldOfficial/DigitalShield-Hardware-Airgap-Sdk",
-     "stars_per_day": 0.6,
-     "url": "https://github.com/DigitalShieldOfficial/DigitalShield-Hardware-Airgap-Sdk"
+     "full_name": "Positano777/idl-drift-watch",
+     "stars_per_day": 1.0,
+     "url": "https://github.com/Positano777/idl-drift-watch"
     }
    ]
   },
@@ -329,11 +329,11 @@
   },
   {
    "narrative": "Consumer & Social",
-   "score": 4.0,
+   "score": 3.8,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 8,
-    "github_top_velocity": 4.05,
+    "github_repos": 7,
+    "github_top_velocity": 3.83,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,

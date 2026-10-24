@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-24T15:58:37+00:00",
+ "generated_at": "2026-10-24T20:51:26+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 108.3,
+   "score": 108.2,
    "confidence": "High",
    "evidence": {
     "github_repos": 45,
-    "github_top_velocity": 44.26,
+    "github_top_velocity": 44.16,
     "headline_hits": 8,
     "sample_headlines": [
      "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
@@ -35,7 +35,7 @@
     },
     {
      "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 2.72,
+     "stars_per_day": 2.62,
      "url": "https://github.com/recogardtech/AutoPilotPM"
     },
     {
@@ -46,21 +46,61 @@
    ]
   },
   {
+   "narrative": "Dev Tooling & Infra",
+   "score": 44.0,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 43,
+    "github_top_velocity": 44.02,
+    "headline_hits": 0,
+    "sample_headlines": [],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "lalalune/daosfun-source",
+     "stars_per_day": 20.0,
+     "url": "https://github.com/lalalune/daosfun-source"
+    },
+    {
+     "full_name": "h100envy/crawl-hive",
+     "stars_per_day": 9.86,
+     "url": "https://github.com/h100envy/crawl-hive"
+    },
+    {
+     "full_name": "SpaceDataRig/space-data-rig",
+     "stars_per_day": 8.0,
+     "url": "https://github.com/SpaceDataRig/space-data-rig"
+    },
+    {
+     "full_name": "openarbmev/Openarb-Trade-SDK",
+     "stars_per_day": 1.84,
+     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
+    },
+    {
+     "full_name": "CompdProtocol/compd-solana",
+     "stars_per_day": 1.0,
+     "url": "https://github.com/CompdProtocol/compd-solana"
+    }
+   ]
+  },
+  {
    "narrative": "Meme & Speculation",
-   "score": 44.9,
+   "score": 42.6,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 11,
-    "github_top_velocity": 39.1,
+    "github_top_velocity": 39.11,
     "headline_hits": 0,
     "sample_headlines": [],
-    "market_avg_7d_pct": -2.88,
+    "market_avg_7d_pct": -1.77,
     "sources_confirming": 1
    },
    "member_repos": [
     {
      "full_name": "nhovongoc0-max/meme-radar",
-     "stars_per_day": 12.65,
+     "stars_per_day": 12.67,
      "url": "https://github.com/nhovongoc0-max/meme-radar"
     },
     {
@@ -91,7 +131,7 @@
    "confidence": "High",
    "evidence": {
     "github_repos": 23,
-    "github_top_velocity": 14.9,
+    "github_top_velocity": 14.85,
     "headline_hits": 3,
     "sample_headlines": [
      "Capital starting to rotate back to crypto from AI: Raoul Pal",
@@ -104,12 +144,12 @@
    "member_repos": [
     {
      "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 7.93,
+     "stars_per_day": 8.0,
      "url": "https://github.com/SpaceDataRig/space-data-rig"
     },
     {
      "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 2.72,
+     "stars_per_day": 2.62,
      "url": "https://github.com/recogardtech/AutoPilotPM"
     },
     {
@@ -130,52 +170,12 @@
    ]
   },
   {
-   "narrative": "Dev Tooling & Infra",
-   "score": 38.0,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 43,
-    "github_top_velocity": 37.97,
-    "headline_hits": 0,
-    "sample_headlines": [],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "lalalune/daosfun-source",
-     "stars_per_day": 14.0,
-     "url": "https://github.com/lalalune/daosfun-source"
-    },
-    {
-     "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 9.86,
-     "url": "https://github.com/h100envy/crawl-hive"
-    },
-    {
-     "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 7.93,
-     "url": "https://github.com/SpaceDataRig/space-data-rig"
-    },
-    {
-     "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 1.84,
-     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
-    },
-    {
-     "full_name": "CompdProtocol/compd-solana",
-     "stars_per_day": 1.0,
-     "url": "https://github.com/CompdProtocol/compd-solana"
-    }
-   ]
-  },
-  {
    "narrative": "Payments & Stablecoins",
-   "score": 34.8,
+   "score": 34.7,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 6,
-    "github_top_velocity": 2.81,
+    "github_top_velocity": 2.68,
     "headline_hits": 4,
     "sample_headlines": [
      "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
@@ -188,7 +188,7 @@
    "member_repos": [
     {
      "full_name": "des35swim/hood-warfare",
-     "stars_per_day": 1.55,
+     "stars_per_day": 1.42,
      "url": "https://github.com/des35swim/hood-warfare"
     },
     {
@@ -219,7 +219,7 @@
    "confidence": "Medium",
    "evidence": {
     "github_repos": 5,
-    "github_top_velocity": 1.79,
+    "github_top_velocity": 1.78,
     "headline_hits": 4,
     "sample_headlines": [
      "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
@@ -237,7 +237,7 @@
     },
     {
      "full_name": "vectorix-cross/CrossYield",
-     "stars_per_day": 0.38,
+     "stars_per_day": 0.37,
      "url": "https://github.com/vectorix-cross/CrossYield"
     },
     {
@@ -263,7 +263,7 @@
    "confidence": "High",
    "evidence": {
     "github_repos": 10,
-    "github_top_velocity": 15.19,
+    "github_top_velocity": 15.18,
     "headline_hits": 2,
     "sample_headlines": [
      "Hong Kong\u2019s Biggest Bank Puts a Stablecoin in 3 Million Wallets",
@@ -330,11 +330,11 @@
   },
   {
    "narrative": "Consumer & Social",
-   "score": 10.8,
+   "score": 10.6,
    "confidence": "Low",
    "evidence": {
     "github_repos": 6,
-    "github_top_velocity": 2.78,
+    "github_top_velocity": 2.62,
     "headline_hits": 1,
     "sample_headlines": [
      "Game Publishers Have Pushed to Cut Discs Since 2007, Infinity Ward Veteran Says"
@@ -345,23 +345,23 @@
    "member_repos": [
     {
      "full_name": "des35swim/hood-warfare",
-     "stars_per_day": 1.55,
+     "stars_per_day": 1.42,
      "url": "https://github.com/des35swim/hood-warfare"
     },
     {
      "full_name": "vectorix-cross/My-web3-projects",
-     "stars_per_day": 0.35,
+     "stars_per_day": 0.34,
      "url": "https://github.com/vectorix-cross/My-web3-projects"
-    },
-    {
-     "full_name": "nirholas/skill-license",
-     "stars_per_day": 0.31,
-     "url": "https://github.com/nirholas/skill-license"
     },
     {
      "full_name": "livid/exe-hub",
      "stars_per_day": 0.29,
      "url": "https://github.com/livid/exe-hub"
+    },
+    {
+     "full_name": "nirholas/skill-license",
+     "stars_per_day": 0.29,
+     "url": "https://github.com/nirholas/skill-license"
     },
     {
      "full_name": "nirholas/three-ws-skill-license",
@@ -372,11 +372,11 @@
   },
   {
    "narrative": "DePIN & Physical Infra",
-   "score": 1.6,
+   "score": 1.4,
    "confidence": "Low",
    "evidence": {
     "github_repos": 1,
-    "github_top_velocity": 1.55,
+    "github_top_velocity": 1.42,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -385,7 +385,7 @@
    "member_repos": [
     {
      "full_name": "des35swim/hood-warfare",
-     "stars_per_day": 1.55,
+     "stars_per_day": 1.42,
      "url": "https://github.com/des35swim/hood-warfare"
     }
    ]

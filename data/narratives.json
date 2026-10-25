@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-25T04:43:21+00:00",
+ "generated_at": "2026-10-25T11:32:22+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 107.0,
+   "score": 106.5,
    "confidence": "High",
    "evidence": {
     "github_repos": 45,
-    "github_top_velocity": 43.0,
+    "github_top_velocity": 42.5,
     "headline_hits": 8,
     "sample_headlines": [
      "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
@@ -47,11 +47,11 @@
   },
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 47.7,
+   "score": 52.2,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 43,
-    "github_top_velocity": 47.7,
+    "github_top_velocity": 52.2,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -60,7 +60,7 @@
    "member_repos": [
     {
      "full_name": "lalalune/daosfun-source",
-     "stars_per_day": 24.0,
+     "stars_per_day": 29.0,
      "url": "https://github.com/lalalune/daosfun-source"
     },
     {
@@ -79,28 +79,28 @@
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
     },
     {
-     "full_name": "CompdProtocol/compd-solana",
-     "stars_per_day": 1.0,
-     "url": "https://github.com/CompdProtocol/compd-solana"
+     "full_name": "GuiBibeau/solos",
+     "stars_per_day": 0.77,
+     "url": "https://github.com/GuiBibeau/solos"
     }
    ]
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 40.9,
+   "score": 42.9,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 11,
-    "github_top_velocity": 39.16,
+    "github_top_velocity": 39.19,
     "headline_hits": 0,
     "sample_headlines": [],
-    "market_avg_7d_pct": 0.89,
+    "market_avg_7d_pct": -1.84,
     "sources_confirming": 1
    },
    "member_repos": [
     {
      "full_name": "nhovongoc0-max/meme-radar",
-     "stars_per_day": 12.7,
+     "stars_per_day": 12.74,
      "url": "https://github.com/nhovongoc0-max/meme-radar"
     },
     {
@@ -127,11 +127,11 @@
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 38.8,
+   "score": 38.4,
    "confidence": "High",
    "evidence": {
     "github_repos": 23,
-    "github_top_velocity": 14.84,
+    "github_top_velocity": 14.36,
     "headline_hits": 3,
     "sample_headlines": [
      "Capital starting to rotate back to crypto from AI: Raoul Pal",
@@ -153,11 +153,6 @@
      "url": "https://github.com/recogardtech/AutoPilotPM"
     },
     {
-     "full_name": "CompdProtocol/compd-solana",
-     "stars_per_day": 1.0,
-     "url": "https://github.com/CompdProtocol/compd-solana"
-    },
-    {
      "full_name": "GuiBibeau/solos",
      "stars_per_day": 0.77,
      "url": "https://github.com/GuiBibeau/solos"
@@ -166,6 +161,11 @@
      "full_name": "PillCrew/claimchain",
      "stars_per_day": 0.58,
      "url": "https://github.com/PillCrew/claimchain"
+    },
+    {
+     "full_name": "CompdProtocol/compd-solana",
+     "stars_per_day": 0.5,
+     "url": "https://github.com/CompdProtocol/compd-solana"
     }
    ]
   },
@@ -175,7 +175,7 @@
    "confidence": "Medium",
    "evidence": {
     "github_repos": 6,
-    "github_top_velocity": 2.65,
+    "github_top_velocity": 2.62,
     "headline_hits": 4,
     "sample_headlines": [
      "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
@@ -198,12 +198,12 @@
     },
     {
      "full_name": "blueshift-gg/solana-pull-program",
-     "stars_per_day": 0.35,
+     "stars_per_day": 0.33,
      "url": "https://github.com/blueshift-gg/solana-pull-program"
     },
     {
      "full_name": "2274802010922/pipicachu",
-     "stars_per_day": 0.3,
+     "stars_per_day": 0.29,
      "url": "https://github.com/2274802010922/pipicachu"
     },
     {
@@ -215,11 +215,11 @@
   },
   {
    "narrative": "RWA & Tokenization",
-   "score": 33.8,
+   "score": 33.3,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 5,
-    "github_top_velocity": 1.78,
+    "github_top_velocity": 1.28,
     "headline_hits": 4,
     "sample_headlines": [
      "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
@@ -232,7 +232,7 @@
    "member_repos": [
     {
      "full_name": "CompdProtocol/compd-solana",
-     "stars_per_day": 1.0,
+     "stars_per_day": 0.5,
      "url": "https://github.com/CompdProtocol/compd-solana"
     },
     {
@@ -259,11 +259,11 @@
   },
   {
    "narrative": "Wallets & UX",
-   "score": 31.2,
+   "score": 31.1,
    "confidence": "High",
    "evidence": {
     "github_repos": 10,
-    "github_top_velocity": 15.21,
+    "github_top_velocity": 15.15,
     "headline_hits": 2,
     "sample_headlines": [
      "Hong Kong\u2019s Biggest Bank Puts a Stablecoin in 3 Million Wallets",
@@ -295,7 +295,7 @@
     },
     {
      "full_name": "Lamport-Robotics/lamport-vault",
-     "stars_per_day": 0.25,
+     "stars_per_day": 0.23,
      "url": "https://github.com/Lamport-Robotics/lamport-vault"
     }
    ]
@@ -306,7 +306,7 @@
    "confidence": "Medium",
    "evidence": {
     "github_repos": 2,
-    "github_top_velocity": 0.32,
+    "github_top_velocity": 0.29,
     "headline_hits": 2,
     "sample_headlines": [
      "Crypto Scammers Who Used Prayer Groups to Lure Victims Must Pay $1.3 Billion, Says New York",
@@ -318,12 +318,12 @@
    "member_repos": [
     {
      "full_name": "TodorBonchev/rust-auditor",
-     "stars_per_day": 0.22,
+     "stars_per_day": 0.2,
      "url": "https://github.com/TodorBonchev/rust-auditor"
     },
     {
      "full_name": "Portaudit/referee",
-     "stars_per_day": 0.1,
+     "stars_per_day": 0.09,
      "url": "https://github.com/Portaudit/referee"
     }
    ]

@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-24T20:51:26+00:00",
+ "generated_at": "2026-10-25T04:43:21+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 108.2,
+   "score": 107.0,
    "confidence": "High",
    "evidence": {
     "github_repos": 45,
-    "github_top_velocity": 44.16,
+    "github_top_velocity": 43.0,
     "headline_hits": 8,
     "sample_headlines": [
      "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
@@ -20,12 +20,12 @@
    "member_repos": [
     {
      "full_name": "cxmza/windle",
-     "stars_per_day": 14.5,
+     "stars_per_day": 13.38,
      "url": "https://github.com/cxmza/windle"
     },
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 11.68,
+     "stars_per_day": 11.74,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
@@ -47,11 +47,11 @@
   },
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 44.0,
+   "score": 47.7,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 43,
-    "github_top_velocity": 44.02,
+    "github_top_velocity": 47.7,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -60,7 +60,7 @@
    "member_repos": [
     {
      "full_name": "lalalune/daosfun-source",
-     "stars_per_day": 20.0,
+     "stars_per_day": 24.0,
      "url": "https://github.com/lalalune/daosfun-source"
     },
     {
@@ -70,7 +70,7 @@
     },
     {
      "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 8.0,
+     "stars_per_day": 8.07,
      "url": "https://github.com/SpaceDataRig/space-data-rig"
     },
     {
@@ -87,25 +87,25 @@
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 42.6,
+   "score": 40.9,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 11,
-    "github_top_velocity": 39.11,
+    "github_top_velocity": 39.16,
     "headline_hits": 0,
     "sample_headlines": [],
-    "market_avg_7d_pct": -1.77,
+    "market_avg_7d_pct": 0.89,
     "sources_confirming": 1
    },
    "member_repos": [
     {
      "full_name": "nhovongoc0-max/meme-radar",
-     "stars_per_day": 12.67,
+     "stars_per_day": 12.7,
      "url": "https://github.com/nhovongoc0-max/meme-radar"
     },
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 11.68,
+     "stars_per_day": 11.74,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
@@ -120,18 +120,18 @@
     },
     {
      "full_name": "BordrlessDex/bordrless-programs",
-     "stars_per_day": 0.69,
+     "stars_per_day": 0.65,
      "url": "https://github.com/BordrlessDex/bordrless-programs"
     }
    ]
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 38.9,
+   "score": 38.8,
    "confidence": "High",
    "evidence": {
     "github_repos": 23,
-    "github_top_velocity": 14.85,
+    "github_top_velocity": 14.84,
     "headline_hits": 3,
     "sample_headlines": [
      "Capital starting to rotate back to crypto from AI: Raoul Pal",
@@ -144,7 +144,7 @@
    "member_repos": [
     {
      "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 8.0,
+     "stars_per_day": 8.07,
      "url": "https://github.com/SpaceDataRig/space-data-rig"
     },
     {
@@ -159,23 +159,23 @@
     },
     {
      "full_name": "GuiBibeau/solos",
-     "stars_per_day": 0.79,
+     "stars_per_day": 0.77,
      "url": "https://github.com/GuiBibeau/solos"
     },
     {
      "full_name": "PillCrew/claimchain",
-     "stars_per_day": 0.59,
+     "stars_per_day": 0.58,
      "url": "https://github.com/PillCrew/claimchain"
     }
    ]
   },
   {
    "narrative": "Payments & Stablecoins",
-   "score": 34.7,
+   "score": 34.6,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 6,
-    "github_top_velocity": 2.68,
+    "github_top_velocity": 2.65,
     "headline_hits": 4,
     "sample_headlines": [
      "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
@@ -193,7 +193,7 @@
     },
     {
      "full_name": "nirholas/papertrade-x402",
-     "stars_per_day": 0.38,
+     "stars_per_day": 0.36,
      "url": "https://github.com/nirholas/papertrade-x402"
     },
     {
@@ -208,7 +208,7 @@
     },
     {
      "full_name": "2274802010922/picachu_hackathon",
-     "stars_per_day": 0.18,
+     "stars_per_day": 0.17,
      "url": "https://github.com/2274802010922/picachu_hackathon"
     }
    ]
@@ -263,7 +263,7 @@
    "confidence": "High",
    "evidence": {
     "github_repos": 10,
-    "github_top_velocity": 15.18,
+    "github_top_velocity": 15.21,
     "headline_hits": 2,
     "sample_headlines": [
      "Hong Kong\u2019s Biggest Bank Puts a Stablecoin in 3 Million Wallets",
@@ -275,7 +275,7 @@
    "member_repos": [
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 11.68,
+     "stars_per_day": 11.74,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
@@ -285,12 +285,12 @@
     },
     {
      "full_name": "DigitalShieldOfficial/DigitalShield-Hardware-Airgap-Sdk",
-     "stars_per_day": 0.58,
+     "stars_per_day": 0.57,
      "url": "https://github.com/DigitalShieldOfficial/DigitalShield-Hardware-Airgap-Sdk"
     },
     {
      "full_name": "BordrlessDex/bordrless-sdk",
-     "stars_per_day": 0.31,
+     "stars_per_day": 0.29,
      "url": "https://github.com/BordrlessDex/bordrless-sdk"
     },
     {
@@ -334,7 +334,7 @@
    "confidence": "Low",
    "evidence": {
     "github_repos": 6,
-    "github_top_velocity": 2.62,
+    "github_top_velocity": 2.6,
     "headline_hits": 1,
     "sample_headlines": [
      "Game Publishers Have Pushed to Cut Discs Since 2007, Infinity Ward Veteran Says"
@@ -365,7 +365,7 @@
     },
     {
      "full_name": "nirholas/three-ws-skill-license",
-     "stars_per_day": 0.23,
+     "stars_per_day": 0.21,
      "url": "https://github.com/nirholas/three-ws-skill-license"
     }
    ]

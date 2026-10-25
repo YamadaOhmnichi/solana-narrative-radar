@@ -34,11 +34,11 @@
   "full_name": "nhovongoc0-max/meme-radar",
   "url": "https://github.com/nhovongoc0-max/meme-radar",
   "description": "Meme\u96f7\u8fbe\u5f00\u6e90\u7248\uff1a\u672c\u5730\u53ea\u8bfb\u3001\u591a\u94fe Meme \u5019\u9009\u626b\u63cf\u4e0e\u4eba\u5de5\u590d\u6838\u5de5\u5177",
-  "stars": 548,
+  "stars": 549,
   "created": "2026-09-11T12:14:57Z",
   "language": "JavaScript",
-  "stars_per_day": 12.74,
-  "age_days": 43,
+  "stars_per_day": 12.48,
+  "age_days": 44,
   "topics": [
    "bsc",
    "crypto",
@@ -56,8 +56,8 @@
   "stars": 223,
   "created": "2026-10-05T13:12:12Z",
   "language": "Python",
-  "stars_per_day": 11.74,
-  "age_days": 19,
+  "stars_per_day": 11.15,
+  "age_days": 20,
   "topics": [
    "memecoin",
    "open-source",
@@ -74,8 +74,8 @@
   "stars": 138,
   "created": "2026-10-10T14:29:26Z",
   "language": "TypeScript",
-  "stars_per_day": 9.86,
-  "age_days": 14,
+  "stars_per_day": 9.2,
+  "age_days": 15,
   "topics": [
    "base",
    "bnb-chain",
@@ -91,11 +91,11 @@
   "full_name": "SpaceDataRig/space-data-rig",
   "url": "https://github.com/SpaceDataRig/space-data-rig",
   "description": "Autonomous five-seat AI science rig: reproducible exoplanet transit detection on NASA Exoplanet Archive data, with Solana mainnet provenance anchoring.",
-  "stars": 113,
+  "stars": 114,
   "created": "2026-10-10T11:47:32Z",
   "language": "TypeScript",
-  "stars_per_day": 8.07,
-  "age_days": 14,
+  "stars_per_day": 7.6,
+  "age_days": 15,
   "topics": []
  },
  {
@@ -110,25 +110,25 @@
   "topics": []
  },
  {
-  "full_name": "QuantumOrb/QuantOrb",
-  "url": "https://github.com/QuantumOrb/QuantOrb",
-  "description": "Memecoin holder scanner for Solana: see who really holds a token, how far the price falls if they sell, and what the owner can still change. ",
-  "stars": 29,
-  "created": "2026-10-13T12:18:33Z",
-  "language": "JavaScript",
-  "stars_per_day": 2.64,
-  "age_days": 11,
-  "topics": []
- },
- {
   "full_name": "recogardtech/AutoPilotPM",
   "url": "https://github.com/recogardtech/AutoPilotPM",
   "description": "Open-source autonomous trading system powered by AI, built to monitor and trade across 1,000+ markets including Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs and multiple EVM networks. Finds o",
   "stars": 68,
   "created": "2026-09-28T16:18:16Z",
   "language": "TypeScript",
-  "stars_per_day": 2.62,
-  "age_days": 26,
+  "stars_per_day": 2.52,
+  "age_days": 27,
+  "topics": []
+ },
+ {
+  "full_name": "QuantumOrb/QuantOrb",
+  "url": "https://github.com/QuantumOrb/QuantOrb",
+  "description": "Memecoin holder scanner for Solana: see who really holds a token, how far the price falls if they sell, and what the owner can still change. ",
+  "stars": 29,
+  "created": "2026-10-13T12:18:33Z",
+  "language": "JavaScript",
+  "stars_per_day": 2.42,
+  "age_days": 12,
   "topics": []
  },
  {
@@ -138,8 +138,8 @@
   "stars": 81,
   "created": "2026-09-10T15:55:21Z",
   "language": "Rust",
-  "stars_per_day": 1.84,
-  "age_days": 44,
+  "stars_per_day": 1.8,
+  "age_days": 45,
   "topics": []
  },
  {
@@ -169,8 +169,8 @@
   "stars": 48,
   "created": "2026-09-15T15:39:09Z",
   "language": "Rust",
-  "stars_per_day": 1.23,
-  "age_days": 39,
+  "stars_per_day": 1.2,
+  "age_days": 40,
   "topics": []
  },
  {
@@ -180,8 +180,8 @@
   "stars": 37,
   "created": "2026-09-15T15:21:28Z",
   "language": "Python",
-  "stars_per_day": 0.95,
-  "age_days": 39,
+  "stars_per_day": 0.93,
+  "age_days": 40,
   "topics": []
  },
  {
@@ -264,17 +264,6 @@
   ]
  },
  {
-  "full_name": "uni-launch/token-launch-handbook",
-  "url": "https://github.com/uni-launch/token-launch-handbook",
-  "description": "Create and manage your own token without code \u2014 Solana, Ethereum, Base, BNB Chain and 5 more networks. Guides, costs, checklists.",
-  "stars": 18,
-  "created": "2026-09-23T13:40:32Z",
-  "language": "HTML",
-  "stars_per_day": 0.58,
-  "age_days": 31,
-  "topics": []
- },
- {
   "full_name": "DigitalShieldOfficial/DigitalShield-Hardware-Airgap-Sdk",
   "url": "https://github.com/DigitalShieldOfficial/DigitalShield-Hardware-Airgap-Sdk",
   "description": "Air-gap QR integration for Digital Shield hardware: account import and 11-chain transfer signing for third-party hot wallets.",
@@ -301,8 +290,19 @@
   "stars": 20,
   "created": "2026-09-19T11:50:15Z",
   "language": "TypeScript",
-  "stars_per_day": 0.57,
-  "age_days": 35,
+  "stars_per_day": 0.56,
+  "age_days": 36,
+  "topics": []
+ },
+ {
+  "full_name": "uni-launch/token-launch-handbook",
+  "url": "https://github.com/uni-launch/token-launch-handbook",
+  "description": "Create and manage your own token without code \u2014 Solana, Ethereum, Base, BNB Chain and 5 more networks. Guides, costs, checklists.",
+  "stars": 18,
+  "created": "2026-09-23T13:40:32Z",
+  "language": "HTML",
+  "stars_per_day": 0.56,
+  "age_days": 32,
   "topics": []
  },
  {
@@ -628,8 +628,8 @@
   "stars": 13,
   "created": "2026-09-07T11:34:00Z",
   "language": "Rust",
-  "stars_per_day": 0.28,
-  "age_days": 47,
+  "stars_per_day": 0.27,
+  "age_days": 48,
   "topics": [
    "ecvrf",
    "ed25519",
@@ -648,8 +648,8 @@
   "stars": 12,
   "created": "2026-09-11T13:07:30Z",
   "language": "JavaScript",
-  "stars_per_day": 0.28,
-  "age_days": 43,
+  "stars_per_day": 0.27,
+  "age_days": 44,
   "topics": [
    "ai-agents",
    "mcp",
@@ -730,17 +730,6 @@
   ]
  },
  {
-  "full_name": "TodorBonchev/rust-auditor",
-  "url": "https://github.com/TodorBonchev/rust-auditor",
-  "description": "AI security audit skill for Solana programs (Anchor, native, Pinocchio)",
-  "stars": 2,
-  "created": "2026-10-15T09:15:47Z",
-  "language": "Python",
-  "stars_per_day": 0.2,
-  "age_days": 10,
-  "topics": []
- },
- {
   "full_name": "switch-afk/sol-pda",
   "url": "https://github.com/switch-afk/sol-pda",
   "description": "Derive Solana program derived addresses (PDAs) offline from your terminal",
@@ -760,22 +749,15 @@
   ]
  },
  {
-  "full_name": "CompdProtocol/CompdProtocol",
-  "url": "https://github.com/CompdProtocol/CompdProtocol",
-  "description": "COMPD \u2014 The Compounder. Solana Mainnet \u00b7 Meteora DBC \u00b7 COMPD / SOL. Built to Compound.",
+  "full_name": "TodorBonchev/rust-auditor",
+  "url": "https://github.com/TodorBonchev/rust-auditor",
+  "description": "AI security audit skill for Solana programs (Anchor, native, Pinocchio)",
   "stars": 2,
-  "created": "2026-10-14T11:33:15Z",
-  "language": "Solidity",
+  "created": "2026-10-15T09:15:47Z",
+  "language": "Python",
   "stars_per_day": 0.2,
   "age_days": 10,
-  "topics": [
-   "defi",
-   "meteora",
-   "meteora-dbc",
-   "solana",
-   "treasury",
-   "web3"
-  ]
+  "topics": []
  },
  {
   "full_name": "switch-afk/sol-idl-peek",
@@ -792,6 +774,24 @@
    "idl",
    "nodejs",
    "solana"
+  ]
+ },
+ {
+  "full_name": "CompdProtocol/CompdProtocol",
+  "url": "https://github.com/CompdProtocol/CompdProtocol",
+  "description": "COMPD \u2014 The Compounder. Solana Mainnet \u00b7 Meteora DBC \u00b7 COMPD / SOL. Built to Compound.",
+  "stars": 2,
+  "created": "2026-10-14T11:33:15Z",
+  "language": "Solidity",
+  "stars_per_day": 0.18,
+  "age_days": 11,
+  "topics": [
+   "defi",
+   "meteora",
+   "meteora-dbc",
+   "solana",
+   "treasury",
+   "web3"
   ]
  },
  {
@@ -834,34 +834,14 @@
   ]
  },
  {
-  "full_name": "ekanshvcpkg/KEPT-DAPP",
-  "url": "https://github.com/ekanshvcpkg/KEPT-DAPP",
-  "description": "KEPT: stake SKR on your daily habits with friends, prove them with a live photo checked by on-device AI. Android app for the Solana Seeker.",
-  "stars": 2,
-  "created": "2026-10-12T13:31:37Z",
-  "language": "TypeScript",
-  "stars_per_day": 0.17,
-  "age_days": 12,
-  "topics": [
-   "anchor",
-   "android",
-   "expo",
-   "habit-tracker",
-   "react-native",
-   "seeker",
-   "solana",
-   "solana-mobile"
-  ]
- },
- {
   "full_name": "stakemap-sol/stakemap",
   "url": "https://github.com/stakemap-sol/stakemap",
   "description": "StakeMap - the map of Solana stake: which stake pools, delegation programs and known stakeholders stake on which validators, epoch by epoch.",
   "stars": 3,
   "created": "2026-10-05T12:02:37Z",
   "language": "JavaScript",
-  "stars_per_day": 0.16,
-  "age_days": 19,
+  "stars_per_day": 0.15,
+  "age_days": 20,
   "topics": [
    "data-visualization",
    "open-data",
@@ -893,15 +873,24 @@
   ]
  },
  {
-  "full_name": "MuhKar1/zk-ballot-solana",
-  "url": "https://github.com/MuhKar1/zk-ballot-solana",
-  "description": "Privacy-preserving, verifiable voting on Solana. Noir circuits prove voter eligibility and one-vote-per-race without revealing identity or choice; ballots are ElGamal-encrypted and tallied via a verif",
-  "stars": 3,
-  "created": "2026-10-02T14:53:13Z",
+  "full_name": "ekanshvcpkg/KEPT-DAPP",
+  "url": "https://github.com/ekanshvcpkg/KEPT-DAPP",
+  "description": "KEPT: stake SKR on your daily habits with friends, prove them with a live photo checked by on-device AI. Android app for the Solana Seeker.",
+  "stars": 2,
+  "created": "2026-10-12T13:31:37Z",
   "language": "TypeScript",
-  "stars_per_day": 0.14,
-  "age_days": 22,
-  "topics": []
+  "stars_per_day": 0.15,
+  "age_days": 13,
+  "topics": [
+   "anchor",
+   "android",
+   "expo",
+   "habit-tracker",
+   "react-native",
+   "seeker",
+   "solana",
+   "solana-mobile"
+  ]
  },
  {
   "full_name": "switch-afk/sol-program-info",
@@ -942,21 +931,15 @@
   ]
  },
  {
-  "full_name": "unwindfi/unwind-protocol",
-  "url": "https://github.com/unwindfi/unwind-protocol",
-  "description": "Permissionless perpetuals on Solana, cleared by batch auction. List any Solana token, with leverage.",
-  "stars": 2,
-  "created": "2026-10-10T15:39:21Z",
+  "full_name": "MuhKar1/zk-ballot-solana",
+  "url": "https://github.com/MuhKar1/zk-ballot-solana",
+  "description": "Privacy-preserving, verifiable voting on Solana. Noir circuits prove voter eligibility and one-vote-per-race without revealing identity or choice; ballots are ElGamal-encrypted and tallied via a verif",
+  "stars": 3,
+  "created": "2026-10-02T14:53:13Z",
   "language": "TypeScript",
-  "stars_per_day": 0.14,
-  "age_days": 14,
-  "topics": [
-   "anchor",
-   "batch-auction",
-   "defi",
-   "perpetuals",
-   "solana"
-  ]
+  "stars_per_day": 0.13,
+  "age_days": 23,
+  "topics": []
  },
  {
   "full_name": "nirholas/flock-defi-index",
@@ -1019,15 +1002,21 @@
   ]
  },
  {
-  "full_name": "Rishi713144/anchor-calculator",
-  "url": "https://github.com/Rishi713144/anchor-calculator",
-  "description": "Solana Anchor calculator with a native Rust counter program",
-  "stars": 1,
-  "created": "2026-10-16T12:44:45Z",
+  "full_name": "unwindfi/unwind-protocol",
+  "url": "https://github.com/unwindfi/unwind-protocol",
+  "description": "Permissionless perpetuals on Solana, cleared by batch auction. List any Solana token, with leverage.",
+  "stars": 2,
+  "created": "2026-10-10T15:39:21Z",
   "language": "TypeScript",
-  "stars_per_day": 0.12,
-  "age_days": 8,
-  "topics": []
+  "stars_per_day": 0.13,
+  "age_days": 15,
+  "topics": [
+   "anchor",
+   "batch-auction",
+   "defi",
+   "perpetuals",
+   "solana"
+  ]
  },
  {
   "full_name": "truenorth-lj/sofinance-public",
@@ -1048,6 +1037,17 @@
    "rwa",
    "solana"
   ]
+ },
+ {
+  "full_name": "Rishi713144/anchor-calculator",
+  "url": "https://github.com/Rishi713144/anchor-calculator",
+  "description": "Solana Anchor calculator with a native Rust counter program",
+  "stars": 1,
+  "created": "2026-10-16T12:44:45Z",
+  "language": "TypeScript",
+  "stars_per_day": 0.11,
+  "age_days": 9,
+  "topics": []
  },
  {
   "full_name": "blueshift-gg/solana-ml-dsa",
@@ -1081,43 +1081,6 @@
   ]
  },
  {
-  "full_name": "Zyxel89/proof-of-strategy",
-  "url": "https://github.com/Zyxel89/proof-of-strategy",
-  "description": "  Verifiable, MEV-resistant execution layer in Rust for AI trading agents on Solana",
-  "stars": 3,
-  "created": "2026-09-23T11:35:54Z",
-  "language": "Rust",
-  "stars_per_day": 0.1,
-  "age_days": 31,
-  "topics": [
-   "ai-agents",
-   "defi",
-   "jito",
-   "mev",
-   "rust",
-   "solana",
-   "sp1",
-   "zero-knowledge"
-  ]
- },
- {
-  "full_name": "Zyxel89/owncurve",
-  "url": "https://github.com/Zyxel89/owncurve",
-  "description": "Ownership coins on Meteora DBC + DAMM v2: milestone treasury, holder objections, self-defending price floor",
-  "stars": 2,
-  "created": "2026-10-03T15:19:16Z",
-  "language": "TypeScript",
-  "stars_per_day": 0.1,
-  "age_days": 21,
-  "topics": [
-   "anchor",
-   "bonding-curve",
-   "defi",
-   "meteora",
-   "solana"
-  ]
- },
- {
   "full_name": "Supernova-protocol/svm-core",
   "url": "https://github.com/Supernova-protocol/svm-core",
   "description": "Core SVM smart contracts and execution architecture. Featuring deterministic Jito routing and immutable War Chest PDAs. (Private Beta)",
@@ -1143,7 +1106,7 @@
   "created": "2026-09-09T14:29:31Z",
   "language": "Python",
   "stars_per_day": 0.09,
-  "age_days": 45,
+  "age_days": 46,
   "topics": [
    "analytics",
    "blockchain",
@@ -1153,6 +1116,43 @@
    "portfolio-tracking",
    "python",
    "risk-management"
+  ]
+ },
+ {
+  "full_name": "Zyxel89/proof-of-strategy",
+  "url": "https://github.com/Zyxel89/proof-of-strategy",
+  "description": "  Verifiable, MEV-resistant execution layer in Rust for AI trading agents on Solana",
+  "stars": 3,
+  "created": "2026-09-23T11:35:54Z",
+  "language": "Rust",
+  "stars_per_day": 0.09,
+  "age_days": 32,
+  "topics": [
+   "ai-agents",
+   "defi",
+   "jito",
+   "mev",
+   "rust",
+   "solana",
+   "sp1",
+   "zero-knowledge"
+  ]
+ },
+ {
+  "full_name": "Zyxel89/owncurve",
+  "url": "https://github.com/Zyxel89/owncurve",
+  "description": "Ownership coins on Meteora DBC + DAMM v2: milestone treasury, holder objections, self-defending price floor",
+  "stars": 2,
+  "created": "2026-10-03T15:19:16Z",
+  "language": "TypeScript",
+  "stars_per_day": 0.09,
+  "age_days": 22,
+  "topics": [
+   "anchor",
+   "bonding-curve",
+   "defi",
+   "meteora",
+   "solana"
   ]
  },
  {
@@ -1210,7 +1210,7 @@
   "created": "2026-10-08T15:02:34Z",
   "language": "TypeScript",
   "stars_per_day": 0.06,
-  "age_days": 16,
+  "age_days": 17,
   "topics": [
    "ai-agent",
    "defi",
@@ -1230,7 +1230,7 @@
   "created": "2026-10-08T15:42:41Z",
   "language": "TypeScript",
   "stars_per_day": 0.06,
-  "age_days": 16,
+  "age_days": 17,
   "topics": [
    "bundle",
    "defi",
@@ -1250,7 +1250,7 @@
   "created": "2026-08-30T14:43:02Z",
   "language": null,
   "stars_per_day": 0.05,
-  "age_days": 55,
+  "age_days": 56,
   "topics": [
    "anchor",
    "pinocchio",
@@ -1346,7 +1346,7 @@
   "created": "2026-09-30T14:52:31Z",
   "language": "TypeScript",
   "stars_per_day": 0.04,
-  "age_days": 24,
+  "age_days": 25,
   "topics": []
  },
  {
@@ -1368,7 +1368,7 @@
   "created": "2026-10-01T15:33:23Z",
   "language": "Rust",
   "stars_per_day": 0.04,
-  "age_days": 23,
+  "age_days": 24,
   "topics": []
  },
  {
@@ -1398,7 +1398,7 @@
   "created": "2026-09-27T15:40:43Z",
   "language": null,
   "stars_per_day": 0.04,
-  "age_days": 27,
+  "age_days": 28,
   "topics": []
  },
  {
@@ -1442,7 +1442,7 @@
   "created": "2026-09-25T13:37:47Z",
   "language": "Rust",
   "stars_per_day": 0.03,
-  "age_days": 29,
+  "age_days": 30,
   "topics": []
  },
  {
@@ -1500,7 +1500,7 @@
   "created": "2026-09-11T12:55:56Z",
   "language": "Rust",
   "stars_per_day": 0.02,
-  "age_days": 43,
+  "age_days": 44,
   "topics": []
  },
  {

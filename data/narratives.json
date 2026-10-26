@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-25T20:52:27+00:00",
+ "generated_at": "2026-10-26T04:49:30+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 105.1,
+   "score": 108.2,
    "confidence": "High",
    "evidence": {
-    "github_repos": 45,
-    "github_top_velocity": 41.11,
+    "github_repos": 46,
+    "github_top_velocity": 44.16,
     "headline_hits": 8,
     "sample_headlines": [
      "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
@@ -20,7 +20,7 @@
    "member_repos": [
     {
      "full_name": "cxmza/windle",
-     "stars_per_day": 13.38,
+     "stars_per_day": 12.43,
      "url": "https://github.com/cxmza/windle"
     },
     {
@@ -30,28 +30,28 @@
     },
     {
      "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 9.2,
+     "stars_per_day": 9.33,
      "url": "https://github.com/h100envy/crawl-hive"
+    },
+    {
+     "full_name": "fountainkagegrid/solana-alpenglow-tracker-2026",
+     "stars_per_day": 4.0,
+     "url": "https://github.com/fountainkagegrid/solana-alpenglow-tracker-2026"
     },
     {
      "full_name": "recogardtech/AutoPilotPM",
      "stars_per_day": 2.52,
      "url": "https://github.com/recogardtech/AutoPilotPM"
-    },
-    {
-     "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 1.8,
-     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
     }
    ]
   },
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 51.7,
+   "score": 53.2,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 44,
-    "github_top_velocity": 51.67,
+    "github_repos": 43,
+    "github_top_velocity": 53.19,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -60,17 +60,17 @@
    "member_repos": [
     {
      "full_name": "lalalune/daosfun-source",
-     "stars_per_day": 29.0,
+     "stars_per_day": 30.0,
      "url": "https://github.com/lalalune/daosfun-source"
     },
     {
      "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 9.2,
+     "stars_per_day": 9.33,
      "url": "https://github.com/h100envy/crawl-hive"
     },
     {
      "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 7.6,
+     "stars_per_day": 7.73,
      "url": "https://github.com/SpaceDataRig/space-data-rig"
     },
     {
@@ -87,14 +87,14 @@
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 41.6,
+   "score": 51.2,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 11,
-    "github_top_velocity": 37.46,
+    "github_top_velocity": 45.06,
     "headline_hits": 0,
     "sample_headlines": [],
-    "market_avg_7d_pct": 2.07,
+    "market_avg_7d_pct": -3.05,
     "sources_confirming": 1
    },
    "member_repos": [
@@ -110,28 +110,72 @@
     },
     {
      "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 9.2,
+     "stars_per_day": 9.33,
      "url": "https://github.com/h100envy/crawl-hive"
     },
     {
-     "full_name": "QuantumOrb/QuantOrb",
-     "stars_per_day": 2.42,
-     "url": "https://github.com/QuantumOrb/QuantOrb"
+     "full_name": "fountainkagegrid/solana-alpenglow-tracker-2026",
+     "stars_per_day": 4.0,
+     "url": "https://github.com/fountainkagegrid/solana-alpenglow-tracker-2026"
     },
     {
-     "full_name": "BordrlessDex/bordrless-programs",
-     "stars_per_day": 0.65,
-     "url": "https://github.com/BordrlessDex/bordrless-programs"
+     "full_name": "AndrewBrick56/Loreforge-Ai",
+     "stars_per_day": 4.0,
+     "url": "https://github.com/AndrewBrick56/Loreforge-Ai"
+    }
+   ]
+  },
+  {
+   "narrative": "AI Agents on Solana",
+   "score": 50.0,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 22,
+    "github_top_velocity": 17.96,
+    "headline_hits": 4,
+    "sample_headlines": [
+     "AI agents help rescue ETH\u2019s Glamsterdam fork, \u2018Steal My Bitcoin\u2019 site: Hodler\u2019s Digest",
+     "Capital starting to rotate back to crypto from AI: Raoul Pal",
+     "SEC Flags AI 'Super Intelligence' and Tokenization as Systemic Market Risks"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 2
+   },
+   "member_repos": [
+    {
+     "full_name": "SpaceDataRig/space-data-rig",
+     "stars_per_day": 7.73,
+     "url": "https://github.com/SpaceDataRig/space-data-rig"
+    },
+    {
+     "full_name": "AndrewBrick56/Loreforge-Ai",
+     "stars_per_day": 4.0,
+     "url": "https://github.com/AndrewBrick56/Loreforge-Ai"
+    },
+    {
+     "full_name": "recogardtech/AutoPilotPM",
+     "stars_per_day": 2.52,
+     "url": "https://github.com/recogardtech/AutoPilotPM"
+    },
+    {
+     "full_name": "CompdProtocol/compd-solana",
+     "stars_per_day": 1.0,
+     "url": "https://github.com/CompdProtocol/compd-solana"
+    },
+    {
+     "full_name": "GuiBibeau/solos",
+     "stars_per_day": 0.75,
+     "url": "https://github.com/GuiBibeau/solos"
     }
    ]
   },
   {
    "narrative": "RWA & Tokenization",
-   "score": 41.2,
+   "score": 41.8,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 5,
-    "github_top_velocity": 1.24,
+    "github_top_velocity": 1.83,
     "headline_hits": 5,
     "sample_headlines": [
      "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
@@ -144,7 +188,7 @@
    "member_repos": [
     {
      "full_name": "CompdProtocol/compd-solana",
-     "stars_per_day": 0.5,
+     "stars_per_day": 1.0,
      "url": "https://github.com/CompdProtocol/compd-solana"
     },
     {
@@ -154,7 +198,7 @@
     },
     {
      "full_name": "CompdProtocol/CompdProtocol",
-     "stars_per_day": 0.18,
+     "stars_per_day": 0.27,
      "url": "https://github.com/CompdProtocol/CompdProtocol"
     },
     {
@@ -170,100 +214,12 @@
    ]
   },
   {
-   "narrative": "AI Agents on Solana",
-   "score": 37.8,
-   "confidence": "High",
-   "evidence": {
-    "github_repos": 23,
-    "github_top_velocity": 13.77,
-    "headline_hits": 3,
-    "sample_headlines": [
-     "Capital starting to rotate back to crypto from AI: Raoul Pal",
-     "SEC Flags AI 'Super Intelligence' and Tokenization as Systemic Market Risks",
-     "Bitcoin Core Rewrites Its Security Policy for a World Where AI Finds Bugs in One Prompt"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 2
-   },
-   "member_repos": [
-    {
-     "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 7.6,
-     "url": "https://github.com/SpaceDataRig/space-data-rig"
-    },
-    {
-     "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 2.52,
-     "url": "https://github.com/recogardtech/AutoPilotPM"
-    },
-    {
-     "full_name": "GuiBibeau/solos",
-     "stars_per_day": 0.77,
-     "url": "https://github.com/GuiBibeau/solos"
-    },
-    {
-     "full_name": "PillCrew/claimchain",
-     "stars_per_day": 0.58,
-     "url": "https://github.com/PillCrew/claimchain"
-    },
-    {
-     "full_name": "CompdProtocol/compd-solana",
-     "stars_per_day": 0.5,
-     "url": "https://github.com/CompdProtocol/compd-solana"
-    }
-   ]
-  },
-  {
-   "narrative": "Payments & Stablecoins",
-   "score": 34.5,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 6,
-    "github_top_velocity": 2.51,
-    "headline_hits": 4,
-    "sample_headlines": [
-     "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
-     "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
-     "Hong Kong\u2019s Biggest Bank Puts a Stablecoin in 3 Million Wallets"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "des35swim/hood-warfare",
-     "stars_per_day": 1.31,
-     "url": "https://github.com/des35swim/hood-warfare"
-    },
-    {
-     "full_name": "nirholas/papertrade-x402",
-     "stars_per_day": 0.36,
-     "url": "https://github.com/nirholas/papertrade-x402"
-    },
-    {
-     "full_name": "blueshift-gg/solana-pull-program",
-     "stars_per_day": 0.33,
-     "url": "https://github.com/blueshift-gg/solana-pull-program"
-    },
-    {
-     "full_name": "2274802010922/pipicachu",
-     "stars_per_day": 0.29,
-     "url": "https://github.com/2274802010922/pipicachu"
-    },
-    {
-     "full_name": "2274802010922/picachu_hackathon",
-     "stars_per_day": 0.17,
-     "url": "https://github.com/2274802010922/picachu_hackathon"
-    }
-   ]
-  },
-  {
    "narrative": "Wallets & UX",
    "score": 30.5,
    "confidence": "High",
    "evidence": {
     "github_repos": 10,
-    "github_top_velocity": 14.51,
+    "github_top_velocity": 14.48,
     "headline_hits": 2,
     "sample_headlines": [
      "Hong Kong\u2019s Biggest Bank Puts a Stablecoin in 3 Million Wallets",
@@ -285,18 +241,62 @@
     },
     {
      "full_name": "DigitalShieldOfficial/DigitalShield-Hardware-Airgap-Sdk",
-     "stars_per_day": 0.57,
+     "stars_per_day": 0.55,
      "url": "https://github.com/DigitalShieldOfficial/DigitalShield-Hardware-Airgap-Sdk"
     },
     {
      "full_name": "BordrlessDex/bordrless-sdk",
-     "stars_per_day": 0.29,
+     "stars_per_day": 0.28,
      "url": "https://github.com/BordrlessDex/bordrless-sdk"
     },
     {
      "full_name": "Lamport-Robotics/lamport-vault",
      "stars_per_day": 0.23,
      "url": "https://github.com/Lamport-Robotics/lamport-vault"
+    }
+   ]
+  },
+  {
+   "narrative": "Payments & Stablecoins",
+   "score": 26.5,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 6,
+    "github_top_velocity": 2.48,
+    "headline_hits": 3,
+    "sample_headlines": [
+     "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
+     "Hong Kong\u2019s Biggest Bank Puts a Stablecoin in 3 Million Wallets",
+     "Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser\u2019s Firm"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "des35swim/hood-warfare",
+     "stars_per_day": 1.31,
+     "url": "https://github.com/des35swim/hood-warfare"
+    },
+    {
+     "full_name": "blueshift-gg/solana-pull-program",
+     "stars_per_day": 0.33,
+     "url": "https://github.com/blueshift-gg/solana-pull-program"
+    },
+    {
+     "full_name": "nirholas/papertrade-x402",
+     "stars_per_day": 0.33,
+     "url": "https://github.com/nirholas/papertrade-x402"
+    },
+    {
+     "full_name": "2274802010922/pipicachu",
+     "stars_per_day": 0.29,
+     "url": "https://github.com/2274802010922/pipicachu"
+    },
+    {
+     "full_name": "2274802010922/picachu_hackathon",
+     "stars_per_day": 0.17,
+     "url": "https://github.com/2274802010922/picachu_hackathon"
     }
    ]
   },

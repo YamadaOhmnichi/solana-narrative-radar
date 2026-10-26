@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-26T04:49:30+00:00",
+ "generated_at": "2026-10-26T13:05:49+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 108.2,
+   "score": 107.9,
    "confidence": "High",
    "evidence": {
-    "github_repos": 46,
-    "github_top_velocity": 44.16,
+    "github_repos": 47,
+    "github_top_velocity": 43.86,
     "headline_hits": 8,
     "sample_headlines": [
      "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
@@ -20,7 +20,7 @@
    "member_repos": [
     {
      "full_name": "cxmza/windle",
-     "stars_per_day": 12.43,
+     "stars_per_day": 12.36,
      "url": "https://github.com/cxmza/windle"
     },
     {
@@ -30,7 +30,7 @@
     },
     {
      "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 9.33,
+     "stars_per_day": 9.4,
      "url": "https://github.com/h100envy/crawl-hive"
     },
     {
@@ -46,61 +46,21 @@
    ]
   },
   {
-   "narrative": "Dev Tooling & Infra",
-   "score": 53.2,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 43,
-    "github_top_velocity": 53.19,
-    "headline_hits": 0,
-    "sample_headlines": [],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "lalalune/daosfun-source",
-     "stars_per_day": 30.0,
-     "url": "https://github.com/lalalune/daosfun-source"
-    },
-    {
-     "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 9.33,
-     "url": "https://github.com/h100envy/crawl-hive"
-    },
-    {
-     "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 7.73,
-     "url": "https://github.com/SpaceDataRig/space-data-rig"
-    },
-    {
-     "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 1.8,
-     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
-    },
-    {
-     "full_name": "voiiku/solana-vote-dapp",
-     "stars_per_day": 1.0,
-     "url": "https://github.com/voiiku/solana-vote-dapp"
-    }
-   ]
-  },
-  {
    "narrative": "Meme & Speculation",
-   "score": 51.2,
+   "score": 44.0,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 11,
-    "github_top_velocity": 45.06,
+    "github_top_velocity": 43.63,
     "headline_hits": 0,
     "sample_headlines": [],
-    "market_avg_7d_pct": -3.05,
+    "market_avg_7d_pct": 0.17,
     "sources_confirming": 1
    },
    "member_repos": [
     {
      "full_name": "nhovongoc0-max/meme-radar",
-     "stars_per_day": 12.48,
+     "stars_per_day": 12.2,
      "url": "https://github.com/nhovongoc0-max/meme-radar"
     },
     {
@@ -110,7 +70,7 @@
     },
     {
      "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 9.33,
+     "stars_per_day": 9.4,
      "url": "https://github.com/h100envy/crawl-hive"
     },
     {
@@ -120,63 +80,59 @@
     },
     {
      "full_name": "AndrewBrick56/Loreforge-Ai",
-     "stars_per_day": 4.0,
+     "stars_per_day": 3.0,
      "url": "https://github.com/AndrewBrick56/Loreforge-Ai"
     }
    ]
   },
   {
-   "narrative": "AI Agents on Solana",
-   "score": 50.0,
-   "confidence": "High",
+   "narrative": "Dev Tooling & Infra",
+   "score": 37.3,
+   "confidence": "Medium",
    "evidence": {
-    "github_repos": 22,
-    "github_top_velocity": 17.96,
-    "headline_hits": 4,
-    "sample_headlines": [
-     "AI agents help rescue ETH\u2019s Glamsterdam fork, \u2018Steal My Bitcoin\u2019 site: Hodler\u2019s Digest",
-     "Capital starting to rotate back to crypto from AI: Raoul Pal",
-     "SEC Flags AI 'Super Intelligence' and Tokenization as Systemic Market Risks"
-    ],
+    "github_repos": 42,
+    "github_top_velocity": 37.31,
+    "headline_hits": 0,
+    "sample_headlines": [],
     "market_avg_7d_pct": null,
-    "sources_confirming": 2
+    "sources_confirming": 1
    },
    "member_repos": [
     {
+     "full_name": "lalalune/daosfun-source",
+     "stars_per_day": 15.5,
+     "url": "https://github.com/lalalune/daosfun-source"
+    },
+    {
+     "full_name": "h100envy/crawl-hive",
+     "stars_per_day": 9.4,
+     "url": "https://github.com/h100envy/crawl-hive"
+    },
+    {
      "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 7.73,
+     "stars_per_day": 7.25,
      "url": "https://github.com/SpaceDataRig/space-data-rig"
     },
     {
-     "full_name": "AndrewBrick56/Loreforge-Ai",
-     "stars_per_day": 4.0,
-     "url": "https://github.com/AndrewBrick56/Loreforge-Ai"
-    },
-    {
-     "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 2.52,
-     "url": "https://github.com/recogardtech/AutoPilotPM"
-    },
-    {
-     "full_name": "CompdProtocol/compd-solana",
-     "stars_per_day": 1.0,
-     "url": "https://github.com/CompdProtocol/compd-solana"
+     "full_name": "openarbmev/Openarb-Trade-SDK",
+     "stars_per_day": 1.8,
+     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
     },
     {
      "full_name": "GuiBibeau/solos",
-     "stars_per_day": 0.75,
+     "stars_per_day": 0.78,
      "url": "https://github.com/GuiBibeau/solos"
     }
    ]
   },
   {
    "narrative": "RWA & Tokenization",
-   "score": 41.8,
+   "score": 33.5,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 5,
-    "github_top_velocity": 1.83,
-    "headline_hits": 5,
+    "github_top_velocity": 1.47,
+    "headline_hits": 4,
     "sample_headlines": [
      "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
      "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
@@ -188,7 +144,7 @@
    "member_repos": [
     {
      "full_name": "CompdProtocol/compd-solana",
-     "stars_per_day": 1.0,
+     "stars_per_day": 0.67,
      "url": "https://github.com/CompdProtocol/compd-solana"
     },
     {
@@ -198,12 +154,12 @@
     },
     {
      "full_name": "CompdProtocol/CompdProtocol",
-     "stars_per_day": 0.27,
+     "stars_per_day": 0.25,
      "url": "https://github.com/CompdProtocol/CompdProtocol"
     },
     {
      "full_name": "truenorth-lj/sofinance-public",
-     "stars_per_day": 0.11,
+     "stars_per_day": 0.1,
      "url": "https://github.com/truenorth-lj/sofinance-public"
     },
     {
@@ -214,12 +170,55 @@
    ]
   },
   {
+   "narrative": "AI Agents on Solana",
+   "score": 32.2,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 22,
+    "github_top_velocity": 16.18,
+    "headline_hits": 2,
+    "sample_headlines": [
+     "AI agents help rescue ETH\u2019s Glamsterdam fork, \u2018Steal My Bitcoin\u2019 site: Hodler\u2019s Digest",
+     "Capital starting to rotate back to crypto from AI: Raoul Pal"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 2
+   },
+   "member_repos": [
+    {
+     "full_name": "SpaceDataRig/space-data-rig",
+     "stars_per_day": 7.25,
+     "url": "https://github.com/SpaceDataRig/space-data-rig"
+    },
+    {
+     "full_name": "AndrewBrick56/Loreforge-Ai",
+     "stars_per_day": 3.0,
+     "url": "https://github.com/AndrewBrick56/Loreforge-Ai"
+    },
+    {
+     "full_name": "recogardtech/AutoPilotPM",
+     "stars_per_day": 2.52,
+     "url": "https://github.com/recogardtech/AutoPilotPM"
+    },
+    {
+     "full_name": "GuiBibeau/solos",
+     "stars_per_day": 0.78,
+     "url": "https://github.com/GuiBibeau/solos"
+    },
+    {
+     "full_name": "CompdProtocol/compd-solana",
+     "stars_per_day": 0.67,
+     "url": "https://github.com/CompdProtocol/compd-solana"
+    }
+   ]
+  },
+  {
    "narrative": "Wallets & UX",
-   "score": 30.5,
+   "score": 30.4,
    "confidence": "High",
    "evidence": {
     "github_repos": 10,
-    "github_top_velocity": 14.48,
+    "github_top_velocity": 14.42,
     "headline_hits": 2,
     "sample_headlines": [
      "Hong Kong\u2019s Biggest Bank Puts a Stablecoin in 3 Million Wallets",
@@ -251,18 +250,18 @@
     },
     {
      "full_name": "Lamport-Robotics/lamport-vault",
-     "stars_per_day": 0.23,
+     "stars_per_day": 0.21,
      "url": "https://github.com/Lamport-Robotics/lamport-vault"
     }
    ]
   },
   {
    "narrative": "Payments & Stablecoins",
-   "score": 26.5,
+   "score": 26.4,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 6,
-    "github_top_velocity": 2.48,
+    "github_top_velocity": 2.45,
     "headline_hits": 3,
     "sample_headlines": [
      "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
@@ -279,18 +278,18 @@
      "url": "https://github.com/des35swim/hood-warfare"
     },
     {
-     "full_name": "blueshift-gg/solana-pull-program",
-     "stars_per_day": 0.33,
-     "url": "https://github.com/blueshift-gg/solana-pull-program"
-    },
-    {
      "full_name": "nirholas/papertrade-x402",
      "stars_per_day": 0.33,
      "url": "https://github.com/nirholas/papertrade-x402"
     },
     {
+     "full_name": "blueshift-gg/solana-pull-program",
+     "stars_per_day": 0.32,
+     "url": "https://github.com/blueshift-gg/solana-pull-program"
+    },
+    {
      "full_name": "2274802010922/pipicachu",
-     "stars_per_day": 0.29,
+     "stars_per_day": 0.27,
      "url": "https://github.com/2274802010922/pipicachu"
     },
     {
@@ -306,7 +305,7 @@
    "confidence": "Low",
    "evidence": {
     "github_repos": 6,
-    "github_top_velocity": 2.45,
+    "github_top_velocity": 2.44,
     "headline_hits": 1,
     "sample_headlines": [
      "Game Publishers Have Pushed to Cut Discs Since 2007, Infinity Ward Veteran Says"
@@ -327,7 +326,7 @@
     },
     {
      "full_name": "livid/exe-hub",
-     "stars_per_day": 0.29,
+     "stars_per_day": 0.28,
      "url": "https://github.com/livid/exe-hub"
     },
     {
@@ -348,7 +347,7 @@
    "confidence": "Low",
    "evidence": {
     "github_repos": 2,
-    "github_top_velocity": 0.19,
+    "github_top_velocity": 0.17,
     "headline_hits": 1,
     "sample_headlines": [
      "Drift exploiter sends $61M ETH to Tornado Cash, holds $194M"
@@ -359,12 +358,12 @@
    "member_repos": [
     {
      "full_name": "TodorBonchev/rust-auditor",
-     "stars_per_day": 0.1,
+     "stars_per_day": 0.09,
      "url": "https://github.com/TodorBonchev/rust-auditor"
     },
     {
      "full_name": "Portaudit/referee",
-     "stars_per_day": 0.09,
+     "stars_per_day": 0.08,
      "url": "https://github.com/Portaudit/referee"
     }
    ]

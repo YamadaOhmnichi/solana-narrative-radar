@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-27T12:14:11+00:00",
+ "generated_at": "2026-10-27T18:03:03+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 178.0,
+   "score": 179.0,
    "confidence": "High",
    "evidence": {
     "github_repos": 46,
-    "github_top_velocity": 113.98,
+    "github_top_velocity": 115.0,
     "headline_hits": 8,
     "sample_headlines": [
      "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
@@ -30,31 +30,31 @@
     },
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 10.62,
+     "stars_per_day": 10.14,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
      "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 8.94,
+     "stars_per_day": 8.41,
      "url": "https://github.com/h100envy/crawl-hive"
     },
     {
      "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 6.15,
+     "stars_per_day": 6.92,
      "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
     }
    ]
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 112.7,
+   "score": 120.0,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 12,
-    "github_top_velocity": 111.84,
+    "github_repos": 13,
+    "github_top_velocity": 113.04,
     "headline_hits": 0,
     "sample_headlines": [],
-    "market_avg_7d_pct": -0.43,
+    "market_avg_7d_pct": -3.5,
     "sources_confirming": 1
    },
    "member_repos": [
@@ -65,38 +65,38 @@
     },
     {
      "full_name": "nhovongoc0-max/meme-radar",
-     "stars_per_day": 12.22,
+     "stars_per_day": 11.96,
      "url": "https://github.com/nhovongoc0-max/meme-radar"
     },
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 10.62,
+     "stars_per_day": 10.14,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
      "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 8.94,
+     "stars_per_day": 8.41,
      "url": "https://github.com/h100envy/crawl-hive"
     },
     {
      "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 6.15,
+     "stars_per_day": 6.92,
      "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
     }
    ]
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 74.9,
+   "score": 59.6,
    "confidence": "High",
    "evidence": {
     "github_repos": 21,
-    "github_top_velocity": 18.94,
-    "headline_hits": 7,
+    "github_top_velocity": 19.65,
+    "headline_hits": 5,
     "sample_headlines": [
      "AI agents help rescue ETH\u2019s Glamsterdam fork, \u2018Steal My Bitcoin\u2019 site: Hodler\u2019s Digest",
      "Capital starting to rotate back to crypto from AI: Raoul Pal",
-     "OpenAI Launches GPT-6.1 Terra, Its Half-Good AI Model at Half the Price"
+     "Bitcoin Mining Firm Luxor Raises $16 Million to Scale Its AI Compute Push"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -104,17 +104,17 @@
    "member_repos": [
     {
      "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 7.0,
+     "stars_per_day": 7.06,
      "url": "https://github.com/SpaceDataRig/space-data-rig"
     },
     {
      "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 6.15,
+     "stars_per_day": 6.92,
      "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
     },
     {
      "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 2.64,
+     "stars_per_day": 2.52,
      "url": "https://github.com/recogardtech/AutoPilotPM"
     },
     {
@@ -130,100 +130,17 @@
    ]
   },
   {
-   "narrative": "Dev Tooling & Infra",
-   "score": 31.8,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 42,
-    "github_top_velocity": 31.78,
-    "headline_hits": 0,
-    "sample_headlines": [],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "lalalune/daosfun-source",
-     "stars_per_day": 10.33,
-     "url": "https://github.com/lalalune/daosfun-source"
-    },
-    {
-     "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 8.94,
-     "url": "https://github.com/h100envy/crawl-hive"
-    },
-    {
-     "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 7.0,
-     "url": "https://github.com/SpaceDataRig/space-data-rig"
-    },
-    {
-     "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 1.76,
-     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
-    },
-    {
-     "full_name": "CompdProtocol/compd-solana-programs",
-     "stars_per_day": 1.0,
-     "url": "https://github.com/CompdProtocol/compd-solana-programs"
-    }
-   ]
-  },
-  {
-   "narrative": "Wallets & UX",
-   "score": 29.8,
-   "confidence": "High",
-   "evidence": {
-    "github_repos": 9,
-    "github_top_velocity": 13.77,
-    "headline_hits": 2,
-    "sample_headlines": [
-     "Bitcoin Wallet Fixes Critical Flaw That Redirected Funds to Attackers",
-     "Starknet introduces wallet privacy feature for DeFi activity"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 2
-   },
-   "member_repos": [
-    {
-     "full_name": "h100envy/gem-search",
-     "stars_per_day": 10.62,
-     "url": "https://github.com/h100envy/gem-search"
-    },
-    {
-     "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 1.76,
-     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
-    },
-    {
-     "full_name": "DigitalShieldOfficial/DigitalShield-Hardware-Airgap-Sdk",
-     "stars_per_day": 0.59,
-     "url": "https://github.com/DigitalShieldOfficial/DigitalShield-Hardware-Airgap-Sdk"
-    },
-    {
-     "full_name": "BordrlessDex/bordrless-sdk",
-     "stars_per_day": 0.26,
-     "url": "https://github.com/BordrlessDex/bordrless-sdk"
-    },
-    {
-     "full_name": "Lamport-Robotics/lamport-vault",
-     "stars_per_day": 0.2,
-     "url": "https://github.com/Lamport-Robotics/lamport-vault"
-    }
-   ]
-  },
-  {
    "narrative": "Payments & Stablecoins",
-   "score": 26.3,
+   "score": 34.2,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 6,
-    "github_top_velocity": 2.3,
-    "headline_hits": 3,
+    "github_top_velocity": 2.22,
+    "headline_hits": 4,
     "sample_headlines": [
      "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
-     "Ripple Wins Final OCC Approval for Trust Bank Behind $2.6B RLUSD Stablecoin",
-     "Canada\u2019s Draft Stablecoin Rules Cap Redemption Fees at 1% and Ban Yield"
+     "Circle Pushes Deeper Into Latin America With USDC Settlement in Colombia",
+     "Ripple Wins Final OCC Approval for Trust Bank Behind $2.6B RLUSD Stablecoin"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 1
@@ -231,7 +148,7 @@
    "member_repos": [
     {
      "full_name": "des35swim/hood-warfare",
-     "stars_per_day": 1.21,
+     "stars_per_day": 1.13,
      "url": "https://github.com/des35swim/hood-warfare"
     },
     {
@@ -258,12 +175,12 @@
   },
   {
    "narrative": "RWA & Tokenization",
-   "score": 26.3,
+   "score": 34.2,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 6,
-    "github_top_velocity": 2.27,
-    "headline_hits": 3,
+    "github_top_velocity": 2.25,
+    "headline_hits": 4,
     "sample_headlines": [
      "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
      "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
@@ -285,7 +202,7 @@
     },
     {
      "full_name": "vectorix-cross/CrossYield",
-     "stars_per_day": 0.35,
+     "stars_per_day": 0.34,
      "url": "https://github.com/vectorix-cross/CrossYield"
     },
     {
@@ -301,19 +218,100 @@
    ]
   },
   {
-   "narrative": "Security & Threats",
-   "score": 16.2,
+   "narrative": "Dev Tooling & Infra",
+   "score": 32.9,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 2,
-    "github_top_velocity": 0.16,
-    "headline_hits": 2,
+    "github_repos": 43,
+    "github_top_velocity": 32.87,
+    "headline_hits": 0,
+    "sample_headlines": [],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "lalalune/daosfun-source",
+     "stars_per_day": 10.33,
+     "url": "https://github.com/lalalune/daosfun-source"
+    },
+    {
+     "full_name": "h100envy/crawl-hive",
+     "stars_per_day": 8.41,
+     "url": "https://github.com/h100envy/crawl-hive"
+    },
+    {
+     "full_name": "SpaceDataRig/space-data-rig",
+     "stars_per_day": 7.06,
+     "url": "https://github.com/SpaceDataRig/space-data-rig"
+    },
+    {
+     "full_name": "aaronjmars/walletscan",
+     "stars_per_day": 2.0,
+     "url": "https://github.com/aaronjmars/walletscan"
+    },
+    {
+     "full_name": "openarbmev/Openarb-Trade-SDK",
+     "stars_per_day": 1.72,
+     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
+    }
+   ]
+  },
+  {
+   "narrative": "Wallets & UX",
+   "score": 23.2,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 10,
+    "github_top_velocity": 15.25,
+    "headline_hits": 1,
     "sample_headlines": [
-     "South Korea Arrests Seven in First Big AI-Assisted Hacking Case",
-     "Drift exploiter sends $61M ETH to Tornado Cash, holds $194M"
+     "Starknet introduces wallet privacy feature for DeFi activity"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "h100envy/gem-search",
+     "stars_per_day": 10.14,
+     "url": "https://github.com/h100envy/gem-search"
+    },
+    {
+     "full_name": "aaronjmars/walletscan",
+     "stars_per_day": 2.0,
+     "url": "https://github.com/aaronjmars/walletscan"
+    },
+    {
+     "full_name": "openarbmev/Openarb-Trade-SDK",
+     "stars_per_day": 1.72,
+     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
+    },
+    {
+     "full_name": "DigitalShieldOfficial/DigitalShield-Hardware-Airgap-Sdk",
+     "stars_per_day": 0.59,
+     "url": "https://github.com/DigitalShieldOfficial/DigitalShield-Hardware-Airgap-Sdk"
+    },
+    {
+     "full_name": "BordrlessDex/bordrless-sdk",
+     "stars_per_day": 0.26,
+     "url": "https://github.com/BordrlessDex/bordrless-sdk"
+    }
+   ]
+  },
+  {
+   "narrative": "Security & Threats",
+   "score": 8.2,
+   "confidence": "Low",
+   "evidence": {
+    "github_repos": 2,
+    "github_top_velocity": 0.16,
+    "headline_hits": 1,
+    "sample_headlines": [
+     "Drift exploiter sends $61M ETH to Tornado Cash, holds $194M"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 0
    },
    "member_repos": [
     {
@@ -330,11 +328,11 @@
   },
   {
    "narrative": "Consumer & Social",
-   "score": 2.3,
+   "score": 2.2,
    "confidence": "Low",
    "evidence": {
     "github_repos": 6,
-    "github_top_velocity": 2.31,
+    "github_top_velocity": 2.22,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -343,12 +341,12 @@
    "member_repos": [
     {
      "full_name": "des35swim/hood-warfare",
-     "stars_per_day": 1.21,
+     "stars_per_day": 1.13,
      "url": "https://github.com/des35swim/hood-warfare"
     },
     {
      "full_name": "vectorix-cross/My-web3-projects",
-     "stars_per_day": 0.33,
+     "stars_per_day": 0.32,
      "url": "https://github.com/vectorix-cross/My-web3-projects"
     },
     {
@@ -370,11 +368,11 @@
   },
   {
    "narrative": "DePIN & Physical Infra",
-   "score": 1.2,
+   "score": 1.1,
    "confidence": "Low",
    "evidence": {
     "github_repos": 1,
-    "github_top_velocity": 1.21,
+    "github_top_velocity": 1.13,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -383,7 +381,7 @@
    "member_repos": [
     {
      "full_name": "des35swim/hood-warfare",
-     "stars_per_day": 1.21,
+     "stars_per_day": 1.13,
      "url": "https://github.com/des35swim/hood-warfare"
     }
    ]

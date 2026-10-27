@@ -56,8 +56,8 @@
   "stars": 173,
   "created": "2026-10-11T21:37:08Z",
   "language": "TypeScript",
-  "stars_per_day": 11.53,
-  "age_days": 15,
+  "stars_per_day": 10.81,
+  "age_days": 16,
   "topics": [
    "defi",
    "fastify",
@@ -133,11 +133,11 @@
   "full_name": "teraus111/web3-agent-kit-solana-trading",
   "url": "https://github.com/teraus111/web3-agent-kit-solana-trading",
   "description": "Build autonomous AI agents that interact with blockchains \u2014 in minutes, not months.",
-  "stars": 90,
+  "stars": 92,
   "created": "2026-10-13T19:59:48Z",
   "language": "Python",
-  "stars_per_day": 6.92,
-  "age_days": 13,
+  "stars_per_day": 6.57,
+  "age_days": 14,
   "topics": [
    "agent",
    "ai",
@@ -164,10 +164,10 @@
   "full_name": "recogardtech/AutoPilotPM",
   "url": "https://github.com/recogardtech/AutoPilotPM",
   "description": "Open-source autonomous trading system powered by AI, built to monitor and trade across 1,000+ markets including Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs and multiple EVM networks. Finds o",
-  "stars": 73,
+  "stars": 75,
   "created": "2026-09-28T16:18:16Z",
   "language": "TypeScript",
-  "stars_per_day": 2.52,
+  "stars_per_day": 2.59,
   "age_days": 29,
   "topics": []
  },
@@ -423,8 +423,8 @@
   "stars": 17,
   "created": "2026-09-18T22:06:01Z",
   "language": "Python",
-  "stars_per_day": 0.45,
-  "age_days": 38,
+  "stars_per_day": 0.44,
+  "age_days": 39,
   "topics": [
    "agent",
    "ai",
@@ -460,8 +460,8 @@
   "stars": 14,
   "created": "2026-09-19T19:45:43Z",
   "language": "Rust",
-  "stars_per_day": 0.38,
-  "age_days": 37,
+  "stars_per_day": 0.37,
+  "age_days": 38,
   "topics": [
    "arbitrage",
    "jito",
@@ -541,26 +541,6 @@
   ]
  },
  {
-  "full_name": "nirholas/avatar-schema",
-  "url": "https://github.com/nirholas/avatar-schema",
-  "description": "JSON Schema and validator for three.ws on-chain avatar manifests \u2014 the canonical, hash-anchored format any cross-chain client can use to resolve an avatar.",
-  "stars": 5,
-  "created": "2026-10-10T20:45:30Z",
-  "language": "JavaScript",
-  "stars_per_day": 0.31,
-  "age_days": 16,
-  "topics": [
-   "agents-md",
-   "ai-agents",
-   "avatar",
-   "ens",
-   "evm",
-   "javascript",
-   "json-schema",
-   "llms-txt"
-  ]
- },
- {
   "full_name": "chainstacklabs/fomo-solana-rh-listeners",
   "url": "https://github.com/chainstacklabs/fomo-solana-rh-listeners",
   "description": "Onchain listeners and a technical reference for the FOMO trading app on Solana and Robinhood Chain",
@@ -577,6 +557,26 @@
    "solana",
    "trading",
    "web3"
+  ]
+ },
+ {
+  "full_name": "nirholas/avatar-schema",
+  "url": "https://github.com/nirholas/avatar-schema",
+  "description": "JSON Schema and validator for three.ws on-chain avatar manifests \u2014 the canonical, hash-anchored format any cross-chain client can use to resolve an avatar.",
+  "stars": 5,
+  "created": "2026-10-10T20:45:30Z",
+  "language": "JavaScript",
+  "stars_per_day": 0.29,
+  "age_days": 17,
+  "topics": [
+   "agents-md",
+   "ai-agents",
+   "avatar",
+   "ens",
+   "evm",
+   "javascript",
+   "json-schema",
+   "llms-txt"
   ]
  },
  {
@@ -696,8 +696,8 @@
   "stars": 4,
   "created": "2026-10-10T20:48:32Z",
   "language": "JavaScript",
-  "stars_per_day": 0.25,
-  "age_days": 16,
+  "stars_per_day": 0.24,
+  "age_days": 17,
   "topics": [
    "access-control",
    "agent",
@@ -774,8 +774,8 @@
   "stars": 3,
   "created": "2026-10-10T20:52:05Z",
   "language": "JavaScript",
-  "stars_per_day": 0.19,
-  "age_days": 16,
+  "stars_per_day": 0.18,
+  "age_days": 17,
   "topics": [
    "access-control",
    "agent",
@@ -794,28 +794,9 @@
   "stars": 2,
   "created": "2026-10-15T19:38:24Z",
   "language": "Rust",
-  "stars_per_day": 0.18,
-  "age_days": 11,
-  "topics": []
- },
- {
-  "full_name": "switch-afk/sol-pda",
-  "url": "https://github.com/switch-afk/sol-pda",
-  "description": "Derive Solana program derived addresses (PDAs) offline from your terminal",
-  "stars": 2,
-  "created": "2026-10-14T21:12:13Z",
-  "language": "JavaScript",
   "stars_per_day": 0.17,
   "age_days": 12,
-  "topics": [
-   "cli",
-   "nodejs",
-   "pda",
-   "program-derived-address",
-   "solana",
-   "web3",
-   "zero-dependency"
-  ]
+  "topics": []
  },
  {
   "full_name": "2274802010922/picachu_hackathon",
@@ -838,6 +819,25 @@
   ]
  },
  {
+  "full_name": "switch-afk/sol-pda",
+  "url": "https://github.com/switch-afk/sol-pda",
+  "description": "Derive Solana program derived addresses (PDAs) offline from your terminal",
+  "stars": 2,
+  "created": "2026-10-14T21:12:13Z",
+  "language": "JavaScript",
+  "stars_per_day": 0.15,
+  "age_days": 13,
+  "topics": [
+   "cli",
+   "nodejs",
+   "pda",
+   "program-derived-address",
+   "solana",
+   "web3",
+   "zero-dependency"
+  ]
+ },
+ {
   "full_name": "switch-afk/sol-idl-peek",
   "url": "https://github.com/switch-afk/sol-idl-peek",
   "description": "Peek at the on-chain Anchor IDL of any Solana program from your terminal",
@@ -852,26 +852,6 @@
    "idl",
    "nodejs",
    "solana"
-  ]
- },
- {
-  "full_name": "nirholas/impact-split",
-  "url": "https://github.com/nirholas/impact-split",
-  "description": "Charges a swap for the price impact that lasts, and gives back the impact that does not.",
-  "stars": 7,
-  "created": "2026-09-08T21:09:18Z",
-  "language": "Solidity",
-  "stars_per_day": 0.15,
-  "age_days": 48,
-  "topics": [
-   "agents-md",
-   "ai-agents",
-   "amm",
-   "defi",
-   "ethereum",
-   "llms-txt",
-   "open-source",
-   "smart-contracts"
   ]
  },
  {
@@ -894,21 +874,23 @@
   ]
  },
  {
-  "full_name": "New1Direction/repo.ing",
-  "url": "https://github.com/New1Direction/repo.ing",
-  "description": "The market layer for open source. GitHub repository markets on Solana, builder earnings, and transparent protocol accounting.",
-  "stars": 4,
-  "created": "2026-09-25T21:47:28Z",
-  "language": "JavaScript",
-  "stars_per_day": 0.13,
-  "age_days": 31,
+  "full_name": "nirholas/impact-split",
+  "url": "https://github.com/nirholas/impact-split",
+  "description": "Charges a swap for the price impact that lasts, and gives back the impact that does not.",
+  "stars": 7,
+  "created": "2026-09-08T21:09:18Z",
+  "language": "Solidity",
+  "stars_per_day": 0.14,
+  "age_days": 49,
   "topics": [
+   "agents-md",
+   "ai-agents",
+   "amm",
    "defi",
-   "github",
-   "meteora",
-   "nextjs",
+   "ethereum",
+   "llms-txt",
    "open-source",
-   "solana"
+   "smart-contracts"
   ]
  },
  {
@@ -970,7 +952,7 @@
   "created": "2026-09-07T21:43:35Z",
   "language": "TypeScript",
   "stars_per_day": 0.12,
-  "age_days": 49,
+  "age_days": 50,
   "topics": [
    "defi",
    "defi-index",
@@ -990,7 +972,7 @@
   "created": "2026-09-07T21:43:43Z",
   "language": "TypeScript",
   "stars_per_day": 0.12,
-  "age_days": 49,
+  "age_days": 50,
   "topics": [
    "defi",
    "dutch-auction",
@@ -1010,7 +992,7 @@
   "created": "2026-09-07T21:43:26Z",
   "language": "Rust",
   "stars_per_day": 0.12,
-  "age_days": 49,
+  "age_days": 50,
   "topics": [
    "anchor",
    "auction",
@@ -1020,6 +1002,24 @@
    "index-fund",
    "open-source",
    "rebalancing"
+  ]
+ },
+ {
+  "full_name": "New1Direction/repo.ing",
+  "url": "https://github.com/New1Direction/repo.ing",
+  "description": "The market layer for open source. GitHub repository markets on Solana, builder earnings, and transparent protocol accounting.",
+  "stars": 4,
+  "created": "2026-09-25T21:47:28Z",
+  "language": "JavaScript",
+  "stars_per_day": 0.12,
+  "age_days": 32,
+  "topics": [
+   "defi",
+   "github",
+   "meteora",
+   "nextjs",
+   "open-source",
+   "solana"
   ]
  },
  {
@@ -1110,24 +1110,6 @@
   ]
  },
  {
-  "full_name": "Supernova-protocol/svm-core",
-  "url": "https://github.com/Supernova-protocol/svm-core",
-  "description": "Core SVM smart contracts and execution architecture. Featuring deterministic Jito routing and immutable War Chest PDAs. (Private Beta)",
-  "stars": 2,
-  "created": "2026-10-03T18:45:29Z",
-  "language": null,
-  "stars_per_day": 0.09,
-  "age_days": 23,
-  "topics": [
-   "anchor",
-   "defi",
-   "jito",
-   "rust",
-   "smart-contracts",
-   "solana"
-  ]
- },
- {
   "full_name": "Rishi713144/anchor-calculator",
   "url": "https://github.com/Rishi713144/anchor-calculator",
   "description": "Solana Anchor calculator with a native Rust counter program",
@@ -1172,6 +1154,24 @@
    "bonding-curve",
    "defi",
    "meteora",
+   "solana"
+  ]
+ },
+ {
+  "full_name": "Supernova-protocol/svm-core",
+  "url": "https://github.com/Supernova-protocol/svm-core",
+  "description": "Core SVM smart contracts and execution architecture. Featuring deterministic Jito routing and immutable War Chest PDAs. (Private Beta)",
+  "stars": 2,
+  "created": "2026-10-03T18:45:29Z",
+  "language": null,
+  "stars_per_day": 0.08,
+  "age_days": 24,
+  "topics": [
+   "anchor",
+   "defi",
+   "jito",
+   "rust",
+   "smart-contracts",
    "solana"
   ]
  },
@@ -1234,26 +1234,6 @@
   "topics": []
  },
  {
-  "full_name": "ayomidefagboyo/kata",
-  "url": "https://github.com/ayomidefagboyo/kata",
-  "description": "An autonomous perps agent whose trading policy retrains on its own realised outcomes. Live on Hyperliquid, expanding to Drift on Solana.",
-  "stars": 2,
-  "created": "2026-09-20T18:35:16Z",
-  "language": "Python",
-  "stars_per_day": 0.06,
-  "age_days": 36,
-  "topics": [
-   "ai-agent",
-   "defi",
-   "drift-protocol",
-   "hyperliquid",
-   "machine-learning",
-   "perpetuals",
-   "solana",
-   "trading-agent"
-  ]
- },
- {
   "full_name": "subhdotsol/solana-programs",
   "url": "https://github.com/subhdotsol/solana-programs",
   "description": "A collection of Solana programs exploring on-chain systems, program architecture, DeFi primitives, account models, cryptography, and low-level Solana development.",
@@ -1309,6 +1289,26 @@
    "move",
    "nextjs",
    "privacy"
+  ]
+ },
+ {
+  "full_name": "ayomidefagboyo/kata",
+  "url": "https://github.com/ayomidefagboyo/kata",
+  "description": "An autonomous perps agent whose trading policy retrains on its own realised outcomes. Live on Hyperliquid, expanding to Drift on Solana.",
+  "stars": 2,
+  "created": "2026-09-20T18:35:16Z",
+  "language": "Python",
+  "stars_per_day": 0.05,
+  "age_days": 37,
+  "topics": [
+   "ai-agent",
+   "defi",
+   "drift-protocol",
+   "hyperliquid",
+   "machine-learning",
+   "perpetuals",
+   "solana",
+   "trading-agent"
   ]
  },
  {
@@ -1551,7 +1551,7 @@
   "created": "2026-09-15T21:38:53Z",
   "language": "TypeScript",
   "stars_per_day": 0.02,
-  "age_days": 41,
+  "age_days": 42,
   "topics": []
  }
 ]

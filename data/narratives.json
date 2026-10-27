@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-10-27T18:03:03+00:00",
+ "generated_at": "2026-10-27T22:15:23+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 179.0,
+   "score": 186.0,
    "confidence": "High",
    "evidence": {
     "github_repos": 46,
-    "github_top_velocity": 115.0,
-    "headline_hits": 8,
+    "github_top_velocity": 114.0,
+    "headline_hits": 9,
     "sample_headlines": [
      "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
      "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
-     "The UK needs a workable route to regulated DeFi access"
+     "Robinhood Taps Ripple's Stablecoin, Treasury Software and Trading Loans"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -25,7 +25,7 @@
     },
     {
      "full_name": "cxmza/windle",
-     "stars_per_day": 11.53,
+     "stars_per_day": 10.81,
      "url": "https://github.com/cxmza/windle"
     },
     {
@@ -40,21 +40,21 @@
     },
     {
      "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 6.92,
+     "stars_per_day": 6.57,
      "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
     }
    ]
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 120.0,
+   "score": 119.9,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 13,
-    "github_top_velocity": 113.04,
+    "github_top_velocity": 112.69,
     "headline_hits": 0,
     "sample_headlines": [],
-    "market_avg_7d_pct": -3.5,
+    "market_avg_7d_pct": -3.61,
     "sources_confirming": 1
    },
    "member_repos": [
@@ -80,23 +80,23 @@
     },
     {
      "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 6.92,
+     "stars_per_day": 6.57,
      "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
     }
    ]
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 59.6,
+   "score": 51.3,
    "confidence": "High",
    "evidence": {
     "github_repos": 21,
-    "github_top_velocity": 19.65,
-    "headline_hits": 5,
+    "github_top_velocity": 19.34,
+    "headline_hits": 4,
     "sample_headlines": [
      "AI agents help rescue ETH\u2019s Glamsterdam fork, \u2018Steal My Bitcoin\u2019 site: Hodler\u2019s Digest",
      "Capital starting to rotate back to crypto from AI: Raoul Pal",
-     "Bitcoin Mining Firm Luxor Raises $16 Million to Scale Its AI Compute Push"
+     "China's Stock Market Has Lost $2.4 Trillion as Investors Doubt Its AI Boom Will Ever Pay Off"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -109,12 +109,12 @@
     },
     {
      "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 6.92,
+     "stars_per_day": 6.57,
      "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
     },
     {
      "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 2.52,
+     "stars_per_day": 2.59,
      "url": "https://github.com/recogardtech/AutoPilotPM"
     },
     {
@@ -139,8 +139,8 @@
     "headline_hits": 4,
     "sample_headlines": [
      "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
-     "Circle Pushes Deeper Into Latin America With USDC Settlement in Colombia",
-     "Ripple Wins Final OCC Approval for Trust Bank Behind $2.6B RLUSD Stablecoin"
+     "Robinhood Taps Ripple's Stablecoin, Treasury Software and Trading Loans",
+     "Anchorage Positions Itself as Custody Backbone of US-Mexico Stablecoin Corridor"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 1
@@ -259,17 +259,18 @@
   },
   {
    "narrative": "Wallets & UX",
-   "score": 23.2,
-   "confidence": "Medium",
+   "score": 31.2,
+   "confidence": "High",
    "evidence": {
     "github_repos": 10,
     "github_top_velocity": 15.25,
-    "headline_hits": 1,
+    "headline_hits": 2,
     "sample_headlines": [
+     "Bitcoin Wallet Maker Keystone Pulls Devices as Stolen Key Opens Door to Fakes",
      "Starknet introduces wallet privacy feature for DeFi activity"
     ],
     "market_avg_7d_pct": null,
-    "sources_confirming": 1
+    "sources_confirming": 2
    },
    "member_repos": [
     {
@@ -332,7 +333,7 @@
    "confidence": "Low",
    "evidence": {
     "github_repos": 6,
-    "github_top_velocity": 2.22,
+    "github_top_velocity": 2.2,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -356,12 +357,12 @@
     },
     {
      "full_name": "nirholas/skill-license",
-     "stars_per_day": 0.25,
+     "stars_per_day": 0.24,
      "url": "https://github.com/nirholas/skill-license"
     },
     {
      "full_name": "nirholas/three-ws-skill-license",
-     "stars_per_day": 0.19,
+     "stars_per_day": 0.18,
      "url": "https://github.com/nirholas/three-ws-skill-license"
     }
    ]

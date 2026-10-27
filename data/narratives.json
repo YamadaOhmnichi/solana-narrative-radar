@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-27T05:07:35+00:00",
+ "generated_at": "2026-10-27T12:14:11+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 176.6,
+   "score": 178.0,
    "confidence": "High",
    "evidence": {
     "github_repos": 46,
-    "github_top_velocity": 112.57,
+    "github_top_velocity": 113.98,
     "headline_hits": 8,
     "sample_headlines": [
      "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
@@ -35,26 +35,26 @@
     },
     {
      "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 8.88,
+     "stars_per_day": 8.94,
      "url": "https://github.com/h100envy/crawl-hive"
     },
     {
      "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 4.85,
+     "stars_per_day": 6.15,
      "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
     }
    ]
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 114.1,
+   "score": 112.7,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 12,
-    "github_top_velocity": 110.5,
+    "github_top_velocity": 111.84,
     "headline_hits": 0,
     "sample_headlines": [],
-    "market_avg_7d_pct": -1.78,
+    "market_avg_7d_pct": -0.43,
     "sources_confirming": 1
    },
    "member_repos": [
@@ -75,23 +75,23 @@
     },
     {
      "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 8.88,
+     "stars_per_day": 8.94,
      "url": "https://github.com/h100envy/crawl-hive"
     },
     {
      "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 4.85,
+     "stars_per_day": 6.15,
      "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
     }
    ]
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 74.0,
+   "score": 74.9,
    "confidence": "High",
    "evidence": {
     "github_repos": 21,
-    "github_top_velocity": 17.98,
+    "github_top_velocity": 18.94,
     "headline_hits": 7,
     "sample_headlines": [
      "AI agents help rescue ETH\u2019s Glamsterdam fork, \u2018Steal My Bitcoin\u2019 site: Hodler\u2019s Digest",
@@ -104,17 +104,17 @@
    "member_repos": [
     {
      "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 7.31,
+     "stars_per_day": 7.0,
      "url": "https://github.com/SpaceDataRig/space-data-rig"
     },
     {
      "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 4.85,
+     "stars_per_day": 6.15,
      "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
     },
     {
      "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 2.5,
+     "stars_per_day": 2.64,
      "url": "https://github.com/recogardtech/AutoPilotPM"
     },
     {
@@ -123,19 +123,19 @@
      "url": "https://github.com/GuiBibeau/solos"
     },
     {
-     "full_name": "CompdProtocol/compd-solana",
-     "stars_per_day": 0.67,
-     "url": "https://github.com/CompdProtocol/compd-solana"
+     "full_name": "PillCrew/claimchain",
+     "stars_per_day": 0.57,
+     "url": "https://github.com/PillCrew/claimchain"
     }
    ]
   },
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 37.3,
+   "score": 31.8,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 42,
-    "github_top_velocity": 37.34,
+    "github_top_velocity": 31.78,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -144,17 +144,17 @@
    "member_repos": [
     {
      "full_name": "lalalune/daosfun-source",
-     "stars_per_day": 15.5,
+     "stars_per_day": 10.33,
      "url": "https://github.com/lalalune/daosfun-source"
     },
     {
      "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 8.88,
+     "stars_per_day": 8.94,
      "url": "https://github.com/h100envy/crawl-hive"
     },
     {
      "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 7.31,
+     "stars_per_day": 7.0,
      "url": "https://github.com/SpaceDataRig/space-data-rig"
     },
     {
@@ -197,7 +197,7 @@
     },
     {
      "full_name": "DigitalShieldOfficial/DigitalShield-Hardware-Airgap-Sdk",
-     "stars_per_day": 0.56,
+     "stars_per_day": 0.59,
      "url": "https://github.com/DigitalShieldOfficial/DigitalShield-Hardware-Airgap-Sdk"
     },
     {
@@ -207,18 +207,62 @@
     },
     {
      "full_name": "Lamport-Robotics/lamport-vault",
-     "stars_per_day": 0.21,
+     "stars_per_day": 0.2,
      "url": "https://github.com/Lamport-Robotics/lamport-vault"
     }
    ]
   },
   {
-   "narrative": "RWA & Tokenization",
-   "score": 26.5,
+   "narrative": "Payments & Stablecoins",
+   "score": 26.3,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 6,
-    "github_top_velocity": 2.46,
+    "github_top_velocity": 2.3,
+    "headline_hits": 3,
+    "sample_headlines": [
+     "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
+     "Ripple Wins Final OCC Approval for Trust Bank Behind $2.6B RLUSD Stablecoin",
+     "Canada\u2019s Draft Stablecoin Rules Cap Redemption Fees at 1% and Ban Yield"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "des35swim/hood-warfare",
+     "stars_per_day": 1.21,
+     "url": "https://github.com/des35swim/hood-warfare"
+    },
+    {
+     "full_name": "blueshift-gg/solana-pull-program",
+     "stars_per_day": 0.31,
+     "url": "https://github.com/blueshift-gg/solana-pull-program"
+    },
+    {
+     "full_name": "nirholas/papertrade-x402",
+     "stars_per_day": 0.31,
+     "url": "https://github.com/nirholas/papertrade-x402"
+    },
+    {
+     "full_name": "2274802010922/pipicachu",
+     "stars_per_day": 0.26,
+     "url": "https://github.com/2274802010922/pipicachu"
+    },
+    {
+     "full_name": "2274802010922/picachu_hackathon",
+     "stars_per_day": 0.16,
+     "url": "https://github.com/2274802010922/picachu_hackathon"
+    }
+   ]
+  },
+  {
+   "narrative": "RWA & Tokenization",
+   "score": 26.3,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 6,
+    "github_top_velocity": 2.27,
     "headline_hits": 3,
     "sample_headlines": [
      "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
@@ -236,7 +280,7 @@
     },
     {
      "full_name": "CompdProtocol/compd-solana",
-     "stars_per_day": 0.67,
+     "stars_per_day": 0.5,
      "url": "https://github.com/CompdProtocol/compd-solana"
     },
     {
@@ -246,7 +290,7 @@
     },
     {
      "full_name": "CompdProtocol/CompdProtocol",
-     "stars_per_day": 0.25,
+     "stars_per_day": 0.23,
      "url": "https://github.com/CompdProtocol/CompdProtocol"
     },
     {
@@ -257,55 +301,12 @@
    ]
   },
   {
-   "narrative": "Payments & Stablecoins",
-   "score": 18.3,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 6,
-    "github_top_velocity": 2.32,
-    "headline_hits": 2,
-    "sample_headlines": [
-     "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
-     "Canada\u2019s Draft Stablecoin Rules Cap Redemption Fees at 1% and Ban Yield"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "des35swim/hood-warfare",
-     "stars_per_day": 1.21,
-     "url": "https://github.com/des35swim/hood-warfare"
-    },
-    {
-     "full_name": "blueshift-gg/solana-pull-program",
-     "stars_per_day": 0.32,
-     "url": "https://github.com/blueshift-gg/solana-pull-program"
-    },
-    {
-     "full_name": "nirholas/papertrade-x402",
-     "stars_per_day": 0.31,
-     "url": "https://github.com/nirholas/papertrade-x402"
-    },
-    {
-     "full_name": "2274802010922/pipicachu",
-     "stars_per_day": 0.27,
-     "url": "https://github.com/2274802010922/pipicachu"
-    },
-    {
-     "full_name": "2274802010922/picachu_hackathon",
-     "stars_per_day": 0.16,
-     "url": "https://github.com/2274802010922/picachu_hackathon"
-    }
-   ]
-  },
-  {
    "narrative": "Security & Threats",
    "score": 16.2,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 2,
-    "github_top_velocity": 0.17,
+    "github_top_velocity": 0.16,
     "headline_hits": 2,
     "sample_headlines": [
      "South Korea Arrests Seven in First Big AI-Assisted Hacking Case",
@@ -316,14 +317,14 @@
    },
    "member_repos": [
     {
-     "full_name": "TodorBonchev/rust-auditor",
-     "stars_per_day": 0.09,
-     "url": "https://github.com/TodorBonchev/rust-auditor"
-    },
-    {
      "full_name": "Portaudit/referee",
      "stars_per_day": 0.08,
      "url": "https://github.com/Portaudit/referee"
+    },
+    {
+     "full_name": "TodorBonchev/rust-auditor",
+     "stars_per_day": 0.08,
+     "url": "https://github.com/TodorBonchev/rust-auditor"
     }
    ]
   },

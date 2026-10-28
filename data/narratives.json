@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-27T22:15:23+00:00",
+ "generated_at": "2026-10-28T05:44:21+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 186.0,
+   "score": 168.7,
    "confidence": "High",
    "evidence": {
     "github_repos": 46,
-    "github_top_velocity": 114.0,
+    "github_top_velocity": 96.67,
     "headline_hits": 9,
     "sample_headlines": [
      "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
@@ -20,7 +20,7 @@
    "member_repos": [
     {
      "full_name": "wcoxptzhhdbo/solana-sniper-bot",
-     "stars_per_day": 70.0,
+     "stars_per_day": 52.5,
      "url": "https://github.com/wcoxptzhhdbo/solana-sniper-bot"
     },
     {
@@ -35,32 +35,32 @@
     },
     {
      "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 8.41,
+     "stars_per_day": 8.47,
      "url": "https://github.com/h100envy/crawl-hive"
     },
     {
      "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 6.57,
+     "stars_per_day": 7.14,
      "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
     }
    ]
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 119.9,
+   "score": 100.8,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 13,
-    "github_top_velocity": 112.69,
+    "github_top_velocity": 95.78,
     "headline_hits": 0,
     "sample_headlines": [],
-    "market_avg_7d_pct": -3.61,
+    "market_avg_7d_pct": -2.53,
     "sources_confirming": 1
    },
    "member_repos": [
     {
      "full_name": "wcoxptzhhdbo/solana-sniper-bot",
-     "stars_per_day": 70.0,
+     "stars_per_day": 52.5,
      "url": "https://github.com/wcoxptzhhdbo/solana-sniper-bot"
     },
     {
@@ -75,23 +75,23 @@
     },
     {
      "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 8.41,
+     "stars_per_day": 8.47,
      "url": "https://github.com/h100envy/crawl-hive"
     },
     {
      "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 6.57,
+     "stars_per_day": 7.14,
      "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
     }
    ]
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 51.3,
+   "score": 52.0,
    "confidence": "High",
    "evidence": {
-    "github_repos": 21,
-    "github_top_velocity": 19.34,
+    "github_repos": 22,
+    "github_top_velocity": 19.99,
     "headline_hits": 4,
     "sample_headlines": [
      "AI agents help rescue ETH\u2019s Glamsterdam fork, \u2018Steal My Bitcoin\u2019 site: Hodler\u2019s Digest",
@@ -104,12 +104,12 @@
    "member_repos": [
     {
      "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 7.06,
+     "stars_per_day": 7.18,
      "url": "https://github.com/SpaceDataRig/space-data-rig"
     },
     {
      "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 6.57,
+     "stars_per_day": 7.14,
      "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
     },
     {
@@ -119,23 +119,63 @@
     },
     {
      "full_name": "GuiBibeau/solos",
-     "stars_per_day": 0.76,
+     "stars_per_day": 0.74,
      "url": "https://github.com/GuiBibeau/solos"
     },
     {
      "full_name": "PillCrew/claimchain",
-     "stars_per_day": 0.57,
+     "stars_per_day": 0.56,
      "url": "https://github.com/PillCrew/claimchain"
     }
    ]
   },
   {
-   "narrative": "Payments & Stablecoins",
-   "score": 34.2,
+   "narrative": "Dev Tooling & Infra",
+   "score": 34.4,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 6,
-    "github_top_velocity": 2.22,
+    "github_repos": 43,
+    "github_top_velocity": 34.35,
+    "headline_hits": 0,
+    "sample_headlines": [],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "lalalune/daosfun-source",
+     "stars_per_day": 10.67,
+     "url": "https://github.com/lalalune/daosfun-source"
+    },
+    {
+     "full_name": "h100envy/crawl-hive",
+     "stars_per_day": 8.47,
+     "url": "https://github.com/h100envy/crawl-hive"
+    },
+    {
+     "full_name": "SpaceDataRig/space-data-rig",
+     "stars_per_day": 7.18,
+     "url": "https://github.com/SpaceDataRig/space-data-rig"
+    },
+    {
+     "full_name": "typesol/typesol",
+     "stars_per_day": 2.0,
+     "url": "https://github.com/typesol/typesol"
+    },
+    {
+     "full_name": "aaronjmars/walletscan",
+     "stars_per_day": 2.0,
+     "url": "https://github.com/aaronjmars/walletscan"
+    }
+   ]
+  },
+  {
+   "narrative": "Payments & Stablecoins",
+   "score": 34.1,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 5,
+    "github_top_velocity": 2.15,
     "headline_hits": 4,
     "sample_headlines": [
      "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
@@ -158,7 +198,7 @@
     },
     {
      "full_name": "nirholas/papertrade-x402",
-     "stars_per_day": 0.31,
+     "stars_per_day": 0.29,
      "url": "https://github.com/nirholas/papertrade-x402"
     },
     {
@@ -175,11 +215,11 @@
   },
   {
    "narrative": "RWA & Tokenization",
-   "score": 34.2,
+   "score": 33.8,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 6,
-    "github_top_velocity": 2.25,
+    "github_top_velocity": 1.75,
     "headline_hits": 4,
     "sample_headlines": [
      "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
@@ -192,7 +232,7 @@
    "member_repos": [
     {
      "full_name": "CompdProtocol/compd-solana-programs",
-     "stars_per_day": 1.0,
+     "stars_per_day": 0.5,
      "url": "https://github.com/CompdProtocol/compd-solana-programs"
     },
     {
@@ -218,52 +258,12 @@
    ]
   },
   {
-   "narrative": "Dev Tooling & Infra",
-   "score": 32.9,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 43,
-    "github_top_velocity": 32.87,
-    "headline_hits": 0,
-    "sample_headlines": [],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "lalalune/daosfun-source",
-     "stars_per_day": 10.33,
-     "url": "https://github.com/lalalune/daosfun-source"
-    },
-    {
-     "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 8.41,
-     "url": "https://github.com/h100envy/crawl-hive"
-    },
-    {
-     "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 7.06,
-     "url": "https://github.com/SpaceDataRig/space-data-rig"
-    },
-    {
-     "full_name": "aaronjmars/walletscan",
-     "stars_per_day": 2.0,
-     "url": "https://github.com/aaronjmars/walletscan"
-    },
-    {
-     "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 1.72,
-     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
-    }
-   ]
-  },
-  {
    "narrative": "Wallets & UX",
    "score": 31.2,
    "confidence": "High",
    "evidence": {
     "github_repos": 10,
-    "github_top_velocity": 15.25,
+    "github_top_velocity": 15.2,
     "headline_hits": 2,
     "sample_headlines": [
      "Bitcoin Wallet Maker Keystone Pulls Devices as Stolen Key Opens Door to Fakes",
@@ -290,12 +290,12 @@
     },
     {
      "full_name": "DigitalShieldOfficial/DigitalShield-Hardware-Airgap-Sdk",
-     "stars_per_day": 0.59,
+     "stars_per_day": 0.57,
      "url": "https://github.com/DigitalShieldOfficial/DigitalShield-Hardware-Airgap-Sdk"
     },
     {
      "full_name": "BordrlessDex/bordrless-sdk",
-     "stars_per_day": 0.26,
+     "stars_per_day": 0.25,
      "url": "https://github.com/BordrlessDex/bordrless-sdk"
     }
    ]
@@ -306,7 +306,7 @@
    "confidence": "Low",
    "evidence": {
     "github_repos": 2,
-    "github_top_velocity": 0.16,
+    "github_top_velocity": 0.15,
     "headline_hits": 1,
     "sample_headlines": [
      "Drift exploiter sends $61M ETH to Tornado Cash, holds $194M"
@@ -316,14 +316,14 @@
    },
    "member_repos": [
     {
-     "full_name": "Portaudit/referee",
-     "stars_per_day": 0.08,
-     "url": "https://github.com/Portaudit/referee"
-    },
-    {
      "full_name": "TodorBonchev/rust-auditor",
      "stars_per_day": 0.08,
      "url": "https://github.com/TodorBonchev/rust-auditor"
+    },
+    {
+     "full_name": "Portaudit/referee",
+     "stars_per_day": 0.07,
+     "url": "https://github.com/Portaudit/referee"
     }
    ]
   },

@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-28T05:44:21+00:00",
+ "generated_at": "2026-10-28T12:56:55+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 168.7,
+   "score": 170.5,
    "confidence": "High",
    "evidence": {
-    "github_repos": 46,
-    "github_top_velocity": 96.67,
+    "github_repos": 47,
+    "github_top_velocity": 98.54,
     "headline_hits": 9,
     "sample_headlines": [
      "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
@@ -40,21 +40,21 @@
     },
     {
      "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 7.14,
+     "stars_per_day": 7.57,
      "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
     }
    ]
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 100.8,
+   "score": 104.0,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 13,
-    "github_top_velocity": 95.78,
+    "github_top_velocity": 95.99,
     "headline_hits": 0,
     "sample_headlines": [],
-    "market_avg_7d_pct": -2.53,
+    "market_avg_7d_pct": -3.99,
     "sources_confirming": 1
    },
    "member_repos": [
@@ -65,7 +65,7 @@
     },
     {
      "full_name": "nhovongoc0-max/meme-radar",
-     "stars_per_day": 11.96,
+     "stars_per_day": 11.7,
      "url": "https://github.com/nhovongoc0-max/meme-radar"
     },
     {
@@ -80,18 +80,18 @@
     },
     {
      "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 7.14,
+     "stars_per_day": 7.57,
      "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
     }
    ]
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 52.0,
+   "score": 53.9,
    "confidence": "High",
    "evidence": {
-    "github_repos": 22,
-    "github_top_velocity": 19.99,
+    "github_repos": 24,
+    "github_top_velocity": 21.92,
     "headline_hits": 4,
     "sample_headlines": [
      "AI agents help rescue ETH\u2019s Glamsterdam fork, \u2018Steal My Bitcoin\u2019 site: Hodler\u2019s Digest",
@@ -103,14 +103,14 @@
    },
    "member_repos": [
     {
-     "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 7.18,
-     "url": "https://github.com/SpaceDataRig/space-data-rig"
+     "full_name": "teraus111/web3-agent-kit-solana-trading",
+     "stars_per_day": 7.57,
+     "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
     },
     {
-     "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 7.14,
-     "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
+     "full_name": "SpaceDataRig/space-data-rig",
+     "stars_per_day": 6.83,
+     "url": "https://github.com/SpaceDataRig/space-data-rig"
     },
     {
      "full_name": "recogardtech/AutoPilotPM",
@@ -118,69 +118,29 @@
      "url": "https://github.com/recogardtech/AutoPilotPM"
     },
     {
+     "full_name": "BadmonLano/perps",
+     "stars_per_day": 2.0,
+     "url": "https://github.com/BadmonLano/perps"
+    },
+    {
      "full_name": "GuiBibeau/solos",
      "stars_per_day": 0.74,
      "url": "https://github.com/GuiBibeau/solos"
-    },
-    {
-     "full_name": "PillCrew/claimchain",
-     "stars_per_day": 0.56,
-     "url": "https://github.com/PillCrew/claimchain"
-    }
-   ]
-  },
-  {
-   "narrative": "Dev Tooling & Infra",
-   "score": 34.4,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 43,
-    "github_top_velocity": 34.35,
-    "headline_hits": 0,
-    "sample_headlines": [],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "lalalune/daosfun-source",
-     "stars_per_day": 10.67,
-     "url": "https://github.com/lalalune/daosfun-source"
-    },
-    {
-     "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 8.47,
-     "url": "https://github.com/h100envy/crawl-hive"
-    },
-    {
-     "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 7.18,
-     "url": "https://github.com/SpaceDataRig/space-data-rig"
-    },
-    {
-     "full_name": "typesol/typesol",
-     "stars_per_day": 2.0,
-     "url": "https://github.com/typesol/typesol"
-    },
-    {
-     "full_name": "aaronjmars/walletscan",
-     "stars_per_day": 2.0,
-     "url": "https://github.com/aaronjmars/walletscan"
     }
    ]
   },
   {
    "narrative": "Payments & Stablecoins",
-   "score": 34.1,
+   "score": 42.1,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 5,
-    "github_top_velocity": 2.15,
-    "headline_hits": 4,
+    "github_top_velocity": 2.13,
+    "headline_hits": 5,
     "sample_headlines": [
      "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
-     "Robinhood Taps Ripple's Stablecoin, Treasury Software and Trading Loans",
-     "Anchorage Positions Itself as Custody Backbone of US-Mexico Stablecoin Corridor"
+     "Moody's Rates Ripple's $2.6B RLUSD Stablecoin A2, a Day After OCC Bank Approval",
+     "Robinhood Taps Ripple's Stablecoin, Treasury Software and Trading Loans"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 1
@@ -193,7 +153,7 @@
     },
     {
      "full_name": "blueshift-gg/solana-pull-program",
-     "stars_per_day": 0.31,
+     "stars_per_day": 0.3,
      "url": "https://github.com/blueshift-gg/solana-pull-program"
     },
     {
@@ -203,7 +163,7 @@
     },
     {
      "full_name": "2274802010922/pipicachu",
-     "stars_per_day": 0.26,
+     "stars_per_day": 0.25,
      "url": "https://github.com/2274802010922/pipicachu"
     },
     {
@@ -215,16 +175,16 @@
   },
   {
    "narrative": "RWA & Tokenization",
-   "score": 33.8,
+   "score": 41.6,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 6,
-    "github_top_velocity": 1.75,
-    "headline_hits": 4,
+    "github_top_velocity": 1.62,
+    "headline_hits": 5,
     "sample_headlines": [
+     "Mirae Asset Securities issues tokenized notes on Solana",
      "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
-     "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
-     "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours"
+     "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 1
@@ -237,7 +197,7 @@
     },
     {
      "full_name": "CompdProtocol/compd-solana",
-     "stars_per_day": 0.5,
+     "stars_per_day": 0.4,
      "url": "https://github.com/CompdProtocol/compd-solana"
     },
     {
@@ -247,23 +207,23 @@
     },
     {
      "full_name": "CompdProtocol/CompdProtocol",
-     "stars_per_day": 0.23,
+     "stars_per_day": 0.21,
      "url": "https://github.com/CompdProtocol/CompdProtocol"
     },
     {
      "full_name": "truenorth-lj/sofinance-public",
-     "stars_per_day": 0.1,
+     "stars_per_day": 0.09,
      "url": "https://github.com/truenorth-lj/sofinance-public"
     }
    ]
   },
   {
    "narrative": "Wallets & UX",
-   "score": 31.2,
+   "score": 31.6,
    "confidence": "High",
    "evidence": {
     "github_repos": 10,
-    "github_top_velocity": 15.2,
+    "github_top_velocity": 15.58,
     "headline_hits": 2,
     "sample_headlines": [
      "Bitcoin Wallet Maker Keystone Pulls Devices as Stolen Key Opens Door to Fakes",
@@ -294,27 +254,74 @@
      "url": "https://github.com/DigitalShieldOfficial/DigitalShield-Hardware-Airgap-Sdk"
     },
     {
-     "full_name": "BordrlessDex/bordrless-sdk",
-     "stars_per_day": 0.25,
-     "url": "https://github.com/BordrlessDex/bordrless-sdk"
+     "full_name": "BadmonLano/meme-sniper",
+     "stars_per_day": 0.5,
+     "url": "https://github.com/BadmonLano/meme-sniper"
+    }
+   ]
+  },
+  {
+   "narrative": "Dev Tooling & Infra",
+   "score": 30.3,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 43,
+    "github_top_velocity": 30.33,
+    "headline_hits": 0,
+    "sample_headlines": [],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "h100envy/crawl-hive",
+     "stars_per_day": 8.47,
+     "url": "https://github.com/h100envy/crawl-hive"
+    },
+    {
+     "full_name": "lalalune/daosfun-source",
+     "stars_per_day": 8.0,
+     "url": "https://github.com/lalalune/daosfun-source"
+    },
+    {
+     "full_name": "SpaceDataRig/space-data-rig",
+     "stars_per_day": 6.83,
+     "url": "https://github.com/SpaceDataRig/space-data-rig"
+    },
+    {
+     "full_name": "aaronjmars/walletscan",
+     "stars_per_day": 2.0,
+     "url": "https://github.com/aaronjmars/walletscan"
+    },
+    {
+     "full_name": "openarbmev/Openarb-Trade-SDK",
+     "stars_per_day": 1.72,
+     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
     }
    ]
   },
   {
    "narrative": "Security & Threats",
-   "score": 8.2,
-   "confidence": "Low",
+   "score": 24.6,
+   "confidence": "Medium",
    "evidence": {
-    "github_repos": 2,
-    "github_top_velocity": 0.15,
-    "headline_hits": 1,
+    "github_repos": 3,
+    "github_top_velocity": 0.65,
+    "headline_hits": 3,
     "sample_headlines": [
+     "Bithumb Says Hackers Accessed Internal System, Leaking Personal Data",
+     "Coinbase Customer Data Hit in Analytics Vendor Breach, Funds \u2018Not Impacted\u2019",
      "Drift exploiter sends $61M ETH to Tornado Cash, holds $194M"
     ],
     "market_avg_7d_pct": null,
-    "sources_confirming": 0
+    "sources_confirming": 1
    },
    "member_repos": [
+    {
+     "full_name": "BadmonLano/meme-sniper",
+     "stars_per_day": 0.5,
+     "url": "https://github.com/BadmonLano/meme-sniper"
+    },
     {
      "full_name": "TodorBonchev/rust-auditor",
      "stars_per_day": 0.08,
@@ -333,7 +340,7 @@
    "confidence": "Low",
    "evidence": {
     "github_repos": 6,
-    "github_top_velocity": 2.2,
+    "github_top_velocity": 2.19,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -352,7 +359,7 @@
     },
     {
      "full_name": "livid/exe-hub",
-     "stars_per_day": 0.28,
+     "stars_per_day": 0.27,
      "url": "https://github.com/livid/exe-hub"
     },
     {

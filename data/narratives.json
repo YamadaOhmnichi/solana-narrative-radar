@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-29T05:50:28+00:00",
+ "generated_at": "2026-10-29T13:03:38+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 160.3,
+   "score": 158.1,
    "confidence": "High",
    "evidence": {
     "github_repos": 46,
-    "github_top_velocity": 88.32,
+    "github_top_velocity": 86.05,
     "headline_hits": 9,
     "sample_headlines": [
      "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
@@ -20,7 +20,7 @@
    "member_repos": [
     {
      "full_name": "wcoxptzhhdbo/solana-sniper-bot",
-     "stars_per_day": 42.0,
+     "stars_per_day": 39.4,
      "url": "https://github.com/wcoxptzhhdbo/solana-sniper-bot"
     },
     {
@@ -35,7 +35,7 @@
     },
     {
      "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 8.4,
+     "stars_per_day": 8.73,
      "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
     },
     {
@@ -47,27 +47,25 @@
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 103.7,
-   "confidence": "High",
+   "score": 89.1,
+   "confidence": "Medium",
    "evidence": {
     "github_repos": 13,
-    "github_top_velocity": 84.57,
-    "headline_hits": 1,
-    "sample_headlines": [
-     "Aptos Advisor Leaves Post, Moves Meme-Fueled Campaign to Meta Stock"
-    ],
-    "market_avg_7d_pct": -5.54,
-    "sources_confirming": 2
+    "github_top_velocity": 81.94,
+    "headline_hits": 0,
+    "sample_headlines": [],
+    "market_avg_7d_pct": -3.59,
+    "sources_confirming": 1
    },
    "member_repos": [
     {
      "full_name": "wcoxptzhhdbo/solana-sniper-bot",
-     "stars_per_day": 42.0,
+     "stars_per_day": 39.4,
      "url": "https://github.com/wcoxptzhhdbo/solana-sniper-bot"
     },
     {
      "full_name": "nhovongoc0-max/meme-radar",
-     "stars_per_day": 11.7,
+     "stars_per_day": 11.46,
      "url": "https://github.com/nhovongoc0-max/meme-radar"
     },
     {
@@ -77,7 +75,7 @@
     },
     {
      "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 8.4,
+     "stars_per_day": 8.73,
      "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
     },
     {
@@ -89,11 +87,11 @@
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 80.7,
+   "score": 81.5,
    "confidence": "High",
    "evidence": {
-    "github_repos": 24,
-    "github_top_velocity": 24.73,
+    "github_repos": 25,
+    "github_top_velocity": 25.46,
     "headline_hits": 7,
     "sample_headlines": [
      "AI agents help rescue ETH\u2019s Glamsterdam fork, \u2018Steal My Bitcoin\u2019 site: Hodler\u2019s Digest",
@@ -106,12 +104,12 @@
    "member_repos": [
     {
      "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 8.4,
+     "stars_per_day": 8.73,
      "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
     },
     {
      "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 6.83,
+     "stars_per_day": 6.58,
      "url": "https://github.com/SpaceDataRig/space-data-rig"
     },
     {
@@ -125,20 +123,20 @@
      "url": "https://github.com/recogardtech/AutoPilotPM"
     },
     {
-     "full_name": "GuiBibeau/solos",
-     "stars_per_day": 0.72,
-     "url": "https://github.com/GuiBibeau/solos"
+     "full_name": "RedDuckTeam/redduck-solana-audit",
+     "stars_per_day": 1.0,
+     "url": "https://github.com/RedDuckTeam/redduck-solana-audit"
     }
    ]
   },
   {
    "narrative": "RWA & Tokenization",
-   "score": 41.4,
+   "score": 33.4,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 6,
-    "github_top_velocity": 1.44,
-    "headline_hits": 5,
+    "github_top_velocity": 1.36,
+    "headline_hits": 4,
     "sample_headlines": [
      "Mirae Asset Securities issues tokenized notes on Solana",
      "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
@@ -148,11 +146,6 @@
     "sources_confirming": 1
    },
    "member_repos": [
-    {
-     "full_name": "CompdProtocol/compd-solana",
-     "stars_per_day": 0.4,
-     "url": "https://github.com/CompdProtocol/compd-solana"
-    },
     {
      "full_name": "vectorix-cross/CrossYield",
      "stars_per_day": 0.33,
@@ -164,8 +157,13 @@
      "url": "https://github.com/CompdProtocol/compd-solana-programs"
     },
     {
+     "full_name": "CompdProtocol/compd-solana",
+     "stars_per_day": 0.33,
+     "url": "https://github.com/CompdProtocol/compd-solana"
+    },
+    {
      "full_name": "CompdProtocol/CompdProtocol",
-     "stars_per_day": 0.21,
+     "stars_per_day": 0.2,
      "url": "https://github.com/CompdProtocol/CompdProtocol"
     },
     {
@@ -177,11 +175,11 @@
   },
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 29.2,
+   "score": 27.5,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 43,
-    "github_top_velocity": 29.21,
+    "github_top_velocity": 27.46,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -194,14 +192,14 @@
      "url": "https://github.com/h100envy/crawl-hive"
     },
     {
-     "full_name": "lalalune/daosfun-source",
-     "stars_per_day": 8.0,
-     "url": "https://github.com/lalalune/daosfun-source"
+     "full_name": "SpaceDataRig/space-data-rig",
+     "stars_per_day": 6.58,
+     "url": "https://github.com/SpaceDataRig/space-data-rig"
     },
     {
-     "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 6.83,
-     "url": "https://github.com/SpaceDataRig/space-data-rig"
+     "full_name": "lalalune/daosfun-source",
+     "stars_per_day": 6.4,
+     "url": "https://github.com/lalalune/daosfun-source"
     },
     {
      "full_name": "openarbmev/Openarb-Trade-SDK",
@@ -210,7 +208,7 @@
     },
     {
      "full_name": "typesol/typesol",
-     "stars_per_day": 1.5,
+     "stars_per_day": 1.0,
      "url": "https://github.com/typesol/typesol"
     }
    ]
@@ -259,17 +257,18 @@
   },
   {
    "narrative": "Payments & Stablecoins",
-   "score": 10.0,
-   "confidence": "Low",
+   "score": 18.0,
+   "confidence": "Medium",
    "evidence": {
     "github_repos": 5,
-    "github_top_velocity": 2.04,
-    "headline_hits": 1,
+    "github_top_velocity": 2.02,
+    "headline_hits": 2,
     "sample_headlines": [
-     "Tx launches USTX stablecoin to pull RWA liquidity onto its chain"
+     "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
+     "Polygon Extends Its Stablecoin Payments Infrastructure to Solana"
     ],
     "market_avg_7d_pct": null,
-    "sources_confirming": 0
+    "sources_confirming": 1
    },
    "member_repos": [
     {
@@ -279,7 +278,7 @@
     },
     {
      "full_name": "blueshift-gg/solana-pull-program",
-     "stars_per_day": 0.3,
+     "stars_per_day": 0.29,
      "url": "https://github.com/blueshift-gg/solana-pull-program"
     },
     {
@@ -289,7 +288,7 @@
     },
     {
      "full_name": "2274802010922/pipicachu",
-     "stars_per_day": 0.25,
+     "stars_per_day": 0.24,
      "url": "https://github.com/2274802010922/pipicachu"
     },
     {
@@ -301,11 +300,11 @@
   },
   {
    "narrative": "Security & Threats",
-   "score": 8.8,
+   "score": 9.7,
    "confidence": "Low",
    "evidence": {
-    "github_repos": 3,
-    "github_top_velocity": 0.75,
+    "github_repos": 4,
+    "github_top_velocity": 1.74,
     "headline_hits": 1,
     "sample_headlines": [
      "Drift exploiter sends $61M ETH to Tornado Cash, holds $194M"
@@ -315,19 +314,24 @@
    },
    "member_repos": [
     {
+     "full_name": "RedDuckTeam/redduck-solana-audit",
+     "stars_per_day": 1.0,
+     "url": "https://github.com/RedDuckTeam/redduck-solana-audit"
+    },
+    {
      "full_name": "BadmonLano/meme-sniper",
      "stars_per_day": 0.6,
      "url": "https://github.com/BadmonLano/meme-sniper"
     },
     {
-     "full_name": "TodorBonchev/rust-auditor",
-     "stars_per_day": 0.08,
-     "url": "https://github.com/TodorBonchev/rust-auditor"
-    },
-    {
      "full_name": "Portaudit/referee",
      "stars_per_day": 0.07,
      "url": "https://github.com/Portaudit/referee"
+    },
+    {
+     "full_name": "TodorBonchev/rust-auditor",
+     "stars_per_day": 0.07,
+     "url": "https://github.com/TodorBonchev/rust-auditor"
     }
    ]
   },

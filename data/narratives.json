@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-28T22:36:49+00:00",
+ "generated_at": "2026-10-29T05:50:28+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 157.7,
+   "score": 160.3,
    "confidence": "High",
    "evidence": {
     "github_repos": 46,
-    "github_top_velocity": 85.67,
+    "github_top_velocity": 88.32,
     "headline_hits": 9,
     "sample_headlines": [
      "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
@@ -34,30 +34,30 @@
      "url": "https://github.com/h100envy/gem-search"
     },
     {
+     "full_name": "teraus111/web3-agent-kit-solana-trading",
+     "stars_per_day": 8.4,
+     "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
+    },
+    {
      "full_name": "h100envy/crawl-hive",
      "stars_per_day": 8.06,
      "url": "https://github.com/h100envy/crawl-hive"
-    },
-    {
-     "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 7.73,
-     "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
     }
    ]
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 101.1,
-   "confidence": "Medium",
+   "score": 103.7,
+   "confidence": "High",
    "evidence": {
     "github_repos": 13,
-    "github_top_velocity": 83.74,
+    "github_top_velocity": 84.57,
     "headline_hits": 1,
     "sample_headlines": [
      "Aptos Advisor Leaves Post, Moves Meme-Fueled Campaign to Meta Stock"
     ],
-    "market_avg_7d_pct": -4.67,
-    "sources_confirming": 1
+    "market_avg_7d_pct": -5.54,
+    "sources_confirming": 2
    },
    "member_repos": [
     {
@@ -76,24 +76,24 @@
      "url": "https://github.com/h100envy/gem-search"
     },
     {
+     "full_name": "teraus111/web3-agent-kit-solana-trading",
+     "stars_per_day": 8.4,
+     "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
+    },
+    {
      "full_name": "h100envy/crawl-hive",
      "stars_per_day": 8.06,
      "url": "https://github.com/h100envy/crawl-hive"
-    },
-    {
-     "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 7.73,
-     "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
     }
    ]
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 77.9,
+   "score": 80.7,
    "confidence": "High",
    "evidence": {
     "github_repos": 24,
-    "github_top_velocity": 21.9,
+    "github_top_velocity": 24.73,
     "headline_hits": 7,
     "sample_headlines": [
      "AI agents help rescue ETH\u2019s Glamsterdam fork, \u2018Steal My Bitcoin\u2019 site: Hodler\u2019s Digest",
@@ -106,7 +106,7 @@
    "member_repos": [
     {
      "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 7.73,
+     "stars_per_day": 8.4,
      "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
     },
     {
@@ -115,29 +115,29 @@
      "url": "https://github.com/SpaceDataRig/space-data-rig"
     },
     {
+     "full_name": "BadmonLano/perps",
+     "stars_per_day": 4.0,
+     "url": "https://github.com/BadmonLano/perps"
+    },
+    {
      "full_name": "recogardtech/AutoPilotPM",
      "stars_per_day": 2.53,
      "url": "https://github.com/recogardtech/AutoPilotPM"
     },
     {
-     "full_name": "BadmonLano/perps",
-     "stars_per_day": 2.0,
-     "url": "https://github.com/BadmonLano/perps"
-    },
-    {
      "full_name": "GuiBibeau/solos",
-     "stars_per_day": 0.74,
+     "stars_per_day": 0.72,
      "url": "https://github.com/GuiBibeau/solos"
     }
    ]
   },
   {
    "narrative": "RWA & Tokenization",
-   "score": 41.6,
+   "score": 41.4,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 6,
-    "github_top_velocity": 1.61,
+    "github_top_velocity": 1.44,
     "headline_hits": 5,
     "sample_headlines": [
      "Mirae Asset Securities issues tokenized notes on Solana",
@@ -149,11 +149,6 @@
    },
    "member_repos": [
     {
-     "full_name": "CompdProtocol/compd-solana-programs",
-     "stars_per_day": 0.5,
-     "url": "https://github.com/CompdProtocol/compd-solana-programs"
-    },
-    {
      "full_name": "CompdProtocol/compd-solana",
      "stars_per_day": 0.4,
      "url": "https://github.com/CompdProtocol/compd-solana"
@@ -162,6 +157,11 @@
      "full_name": "vectorix-cross/CrossYield",
      "stars_per_day": 0.33,
      "url": "https://github.com/vectorix-cross/CrossYield"
+    },
+    {
+     "full_name": "CompdProtocol/compd-solana-programs",
+     "stars_per_day": 0.33,
+     "url": "https://github.com/CompdProtocol/compd-solana-programs"
     },
     {
      "full_name": "CompdProtocol/CompdProtocol",
@@ -177,11 +177,11 @@
   },
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 29.4,
+   "score": 29.2,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 43,
-    "github_top_velocity": 29.37,
+    "github_top_velocity": 29.21,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -217,11 +217,11 @@
   },
   {
    "narrative": "Wallets & UX",
-   "score": 22.0,
+   "score": 22.2,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 10,
-    "github_top_velocity": 14.04,
+    "github_top_velocity": 14.21,
     "headline_hits": 1,
     "sample_headlines": [
      "Starknet introduces wallet privacy feature for DeFi activity"
@@ -246,24 +246,24 @@
      "url": "https://github.com/aaronjmars/walletscan"
     },
     {
-     "full_name": "DigitalShieldOfficial/DigitalShield-Hardware-Airgap-Sdk",
-     "stars_per_day": 0.57,
-     "url": "https://github.com/DigitalShieldOfficial/DigitalShield-Hardware-Airgap-Sdk"
+     "full_name": "BadmonLano/meme-sniper",
+     "stars_per_day": 0.6,
+     "url": "https://github.com/BadmonLano/meme-sniper"
     },
     {
-     "full_name": "BadmonLano/meme-sniper",
-     "stars_per_day": 0.4,
-     "url": "https://github.com/BadmonLano/meme-sniper"
+     "full_name": "DigitalShieldOfficial/DigitalShield-Hardware-Airgap-Sdk",
+     "stars_per_day": 0.56,
+     "url": "https://github.com/DigitalShieldOfficial/DigitalShield-Hardware-Airgap-Sdk"
     }
    ]
   },
   {
    "narrative": "Payments & Stablecoins",
-   "score": 10.1,
+   "score": 10.0,
    "confidence": "Low",
    "evidence": {
     "github_repos": 5,
-    "github_top_velocity": 2.06,
+    "github_top_velocity": 2.04,
     "headline_hits": 1,
     "sample_headlines": [
      "Tx launches USTX stablecoin to pull RWA liquidity onto its chain"
@@ -284,7 +284,7 @@
     },
     {
      "full_name": "nirholas/papertrade-x402",
-     "stars_per_day": 0.29,
+     "stars_per_day": 0.28,
      "url": "https://github.com/nirholas/papertrade-x402"
     },
     {
@@ -294,18 +294,18 @@
     },
     {
      "full_name": "2274802010922/picachu_hackathon",
-     "stars_per_day": 0.16,
+     "stars_per_day": 0.15,
      "url": "https://github.com/2274802010922/picachu_hackathon"
     }
    ]
   },
   {
    "narrative": "Security & Threats",
-   "score": 8.6,
+   "score": 8.8,
    "confidence": "Low",
    "evidence": {
     "github_repos": 3,
-    "github_top_velocity": 0.55,
+    "github_top_velocity": 0.75,
     "headline_hits": 1,
     "sample_headlines": [
      "Drift exploiter sends $61M ETH to Tornado Cash, holds $194M"
@@ -316,7 +316,7 @@
    "member_repos": [
     {
      "full_name": "BadmonLano/meme-sniper",
-     "stars_per_day": 0.4,
+     "stars_per_day": 0.6,
      "url": "https://github.com/BadmonLano/meme-sniper"
     },
     {

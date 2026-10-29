@@ -88,6 +88,26 @@
   ]
  },
  {
+  "full_name": "teraus111/web3-agent-kit-solana-trading",
+  "url": "https://github.com/teraus111/web3-agent-kit-solana-trading",
+  "description": "Build autonomous AI agents that interact with blockchains \u2014 in minutes, not months.",
+  "stars": 126,
+  "created": "2026-10-13T19:59:48Z",
+  "language": "Python",
+  "stars_per_day": 8.4,
+  "age_days": 15,
+  "topics": [
+   "agent",
+   "ai",
+   "bitcoin",
+   "bundler",
+   "defi",
+   "ethereum",
+   "launchpad",
+   "llm"
+  ]
+ },
+ {
   "full_name": "h100envy/crawl-hive",
   "url": "https://github.com/h100envy/crawl-hive",
   "description": "CrawlHive: open-source memecoin safety swarm. Bundles, snipers, linked operators, bubble map, LP locks and dev history on Solana, BNB, Base and Robinhood Chain, plus a Larpcheck second opinion. Free s",
@@ -119,26 +139,6 @@
   "topics": []
  },
  {
-  "full_name": "teraus111/web3-agent-kit-solana-trading",
-  "url": "https://github.com/teraus111/web3-agent-kit-solana-trading",
-  "description": "Build autonomous AI agents that interact with blockchains \u2014 in minutes, not months.",
-  "stars": 116,
-  "created": "2026-10-13T19:59:48Z",
-  "language": "Python",
-  "stars_per_day": 7.73,
-  "age_days": 15,
-  "topics": [
-   "agent",
-   "ai",
-   "bitcoin",
-   "bundler",
-   "defi",
-   "ethereum",
-   "launchpad",
-   "llm"
-  ]
- },
- {
   "full_name": "SpaceDataRig/space-data-rig",
   "url": "https://github.com/SpaceDataRig/space-data-rig",
   "description": "Autonomous five-seat AI science rig: reproducible exoplanet transit detection on NASA Exoplanet Archive data, with Solana mainnet provenance anchoring.",
@@ -161,6 +161,26 @@
   "topics": []
  },
  {
+  "full_name": "BadmonLano/perps",
+  "url": "https://github.com/BadmonLano/perps",
+  "description": "Jupiter Perps (SOL/BTC/ETH) bot: your SI agent calls the shots within your rules",
+  "stars": 4,
+  "created": "2026-10-27T22:41:14Z",
+  "language": "Python",
+  "stars_per_day": 4.0,
+  "age_days": 1,
+  "topics": [
+   "ai-agent",
+   "autonomous-agents",
+   "crypto",
+   "defi",
+   "grok",
+   "jupiter",
+   "leverage-trading",
+   "open-source"
+  ]
+ },
+ {
   "full_name": "recogardtech/AutoPilotPM",
   "url": "https://github.com/recogardtech/AutoPilotPM",
   "description": "Open-source autonomous trading system powered by AI, built to monitor and trade across 1,000+ markets including Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs and multiple EVM networks. Finds o",
@@ -181,26 +201,6 @@
   "stars_per_day": 2.0,
   "age_days": 15,
   "topics": []
- },
- {
-  "full_name": "BadmonLano/perps",
-  "url": "https://github.com/BadmonLano/perps",
-  "description": "Jupiter Perps (SOL/BTC/ETH) bot: your SI agent calls the shots within your rules",
-  "stars": 2,
-  "created": "2026-10-27T22:41:14Z",
-  "language": "Python",
-  "stars_per_day": 2.0,
-  "age_days": 1,
-  "topics": [
-   "ai-agent",
-   "autonomous-agents",
-   "crypto",
-   "defi",
-   "grok",
-   "jupiter",
-   "leverage-trading",
-   "open-source"
-  ]
  },
  {
   "full_name": "openarbmev/Openarb-Trade-SDK",
@@ -293,8 +293,8 @@
   "stars": 31,
   "created": "2026-09-16T01:11:08Z",
   "language": "JavaScript",
-  "stars_per_day": 0.74,
-  "age_days": 42,
+  "stars_per_day": 0.72,
+  "age_days": 43,
   "topics": [
    "agentic-ai",
    "ai-agents",
@@ -307,14 +307,34 @@
   ]
  },
  {
+  "full_name": "BadmonLano/meme-sniper",
+  "url": "https://github.com/BadmonLano/meme-sniper",
+  "description": "Solana meme sniper run by your SI agent: scans, rug-checks, buys and sells, plus a gated launch rail with GitHub repo attach. Live trading with safety caps, launch rail off by default. Python, MIT.",
+  "stars": 3,
+  "created": "2026-10-23T16:40:37Z",
+  "language": "Python",
+  "stars_per_day": 0.6,
+  "age_days": 5,
+  "topics": [
+   "ai-agent",
+   "autonomous-agents",
+   "crypto",
+   "defi",
+   "github-oauth",
+   "grok",
+   "memecoin",
+   "open-source"
+  ]
+ },
+ {
   "full_name": "renato-osec/goonfi-v2-decompiled",
   "url": "https://github.com/renato-osec/goonfi-v2-decompiled",
   "description": "Byte-identical decompiled Rust source of the closed-source GoonFi V2 Solana program (research)",
   "stars": 16,
   "created": "2026-10-02T03:23:51Z",
   "language": "Rust",
-  "stars_per_day": 0.62,
-  "age_days": 26,
+  "stars_per_day": 0.59,
+  "age_days": 27,
   "topics": []
  },
  {
@@ -324,8 +344,8 @@
   "stars": 23,
   "created": "2026-09-18T02:46:00Z",
   "language": null,
-  "stars_per_day": 0.57,
-  "age_days": 40,
+  "stars_per_day": 0.56,
+  "age_days": 41,
   "topics": [
    "airgap",
    "bc-ur",
@@ -344,8 +364,8 @@
   "stars": 31,
   "created": "2026-09-02T23:40:59Z",
   "language": "Python",
-  "stars_per_day": 0.56,
-  "age_days": 55,
+  "stars_per_day": 0.55,
+  "age_days": 56,
   "topics": [
    "ai-agents",
    "crypto-trading",
@@ -364,8 +384,8 @@
   "stars": 11,
   "created": "2026-10-07T23:47:41Z",
   "language": "Rust",
-  "stars_per_day": 0.55,
-  "age_days": 20,
+  "stars_per_day": 0.52,
+  "age_days": 21,
   "topics": []
  },
  {
@@ -391,31 +411,14 @@
   "topics": []
  },
  {
-  "full_name": "CompdProtocol/compd-solana-programs",
-  "url": "https://github.com/CompdProtocol/compd-solana-programs",
-  "description": "COMPD Solana treasury programs for fee accounting, allocation, and execution controls.",
-  "stars": 1,
-  "created": "2026-10-26T03:52:14Z",
-  "language": "Rust",
-  "stars_per_day": 0.5,
-  "age_days": 2,
-  "topics": [
-   "anchor",
-   "defi",
-   "rust",
-   "solana",
-   "treasury"
-  ]
- },
- {
   "full_name": "CrocSwap/goSVM",
   "url": "https://github.com/CrocSwap/goSVM",
   "description": "Write Solana and Fogo programs in Go. A compiler from a Go subset to SBF, with generated account validation, Go clients and local SVM tests. Public alpha.",
   "stars": 10,
   "created": "2026-10-07T04:08:56Z",
   "language": "Go",
-  "stars_per_day": 0.48,
-  "age_days": 21,
+  "stars_per_day": 0.45,
+  "age_days": 22,
   "topics": [
    "compiler",
    "fogo",
@@ -468,26 +471,6 @@
   ]
  },
  {
-  "full_name": "BadmonLano/meme-sniper",
-  "url": "https://github.com/BadmonLano/meme-sniper",
-  "description": "Solana meme sniper run by your SI agent: scans, rug-checks, buys and sells, plus a gated launch rail with GitHub repo attach. Live trading with safety caps, launch rail off by default. Python, MIT.",
-  "stars": 2,
-  "created": "2026-10-23T16:40:37Z",
-  "language": "Python",
-  "stars_per_day": 0.4,
-  "age_days": 5,
-  "topics": [
-   "ai-agent",
-   "autonomous-agents",
-   "crypto",
-   "defi",
-   "github-oauth",
-   "grok",
-   "memecoin",
-   "open-source"
-  ]
- },
- {
   "full_name": "mangiapanejohn-dev/MOBIUS-Searcher",
   "url": "https://github.com/mangiapanejohn-dev/MOBIUS-Searcher",
   "description": "A research-first quant bot for the terminal: Solana DEX arbitrage searcher with a Ratatui UI. Simulation-first, PAPER by default.",
@@ -525,20 +508,20 @@
   ]
  },
  {
-  "full_name": "Positano777/idl-drift-watch",
-  "url": "https://github.com/Positano777/idl-drift-watch",
-  "description": "Offline structural review for Anchor-style Solana IDLs. Flags interface drift; no dependencies, network, or signing. MIT.",
-  "stars": 2,
-  "created": "2026-10-21T23:27:24Z",
-  "language": "JavaScript",
+  "full_name": "CompdProtocol/compd-solana-programs",
+  "url": "https://github.com/CompdProtocol/compd-solana-programs",
+  "description": "COMPD Solana treasury programs for fee accounting, allocation, and execution controls.",
+  "stars": 1,
+  "created": "2026-10-26T03:52:14Z",
+  "language": "Rust",
   "stars_per_day": 0.33,
-  "age_days": 6,
+  "age_days": 3,
   "topics": [
    "anchor",
-   "developer-tools",
-   "idl",
-   "open-source",
-   "solana"
+   "defi",
+   "rust",
+   "solana",
+   "treasury"
   ]
  },
  {
@@ -602,14 +585,31 @@
   ]
  },
  {
+  "full_name": "Positano777/idl-drift-watch",
+  "url": "https://github.com/Positano777/idl-drift-watch",
+  "description": "Offline structural review for Anchor-style Solana IDLs. Flags interface drift; no dependencies, network, or signing. MIT.",
+  "stars": 2,
+  "created": "2026-10-21T23:27:24Z",
+  "language": "JavaScript",
+  "stars_per_day": 0.29,
+  "age_days": 7,
+  "topics": [
+   "anchor",
+   "developer-tools",
+   "idl",
+   "open-source",
+   "solana"
+  ]
+ },
+ {
   "full_name": "nirholas/papertrade-x402",
   "url": "https://github.com/nirholas/papertrade-x402",
   "description": "Pay-per-call Papertrade intelligence API for AI agents over x402: liquidation risk, liquidation maps, settlement estimates and top-trader stats, paid in USDC on Solana or Base.",
   "stars": 5,
   "created": "2026-10-11T03:47:50Z",
   "language": "TypeScript",
-  "stars_per_day": 0.29,
-  "age_days": 17,
+  "stars_per_day": 0.28,
+  "age_days": 18,
   "topics": [
    "agent-payments",
    "agentic-commerce",
@@ -696,17 +696,6 @@
   ]
  },
  {
-  "full_name": "BordrlessDex/bordrless-sdk",
-  "url": "https://github.com/BordrlessDex/bordrless-sdk",
-  "description": "TypeScript SDK for the Bordrless programs on Solana (@bordrless/sdk, @bordrless/shared)",
-  "stars": 5,
-  "created": "2026-10-07T23:47:55Z",
-  "language": "TypeScript",
-  "stars_per_day": 0.25,
-  "age_days": 20,
-  "topics": []
- },
- {
   "full_name": "2274802010922/pipicachu",
   "url": "https://github.com/2274802010922/pipicachu",
   "description": "Best Solana Integration winner \u00b7 UniHackFest 2026. USDC escrow for community trades, with immutable settlement, transparent 98/1/1 fees and verifiable Solana receipts.",
@@ -727,25 +716,14 @@
   ]
  },
  {
-  "full_name": "TDI-true-digital-intelligence/T.D.I-Labs-Solana-Trezor-Token",
-  "url": "https://github.com/TDI-true-digital-intelligence/T.D.I-Labs-Solana-Trezor-Token",
-  "description": "T.D.I Labs: 'TDI-Token' - Trezor Token - Created with Solana CLI Dev Tools - SPL Token-2022 Program \"Smart Contract\" - First documented (Trezor T Crypto Hardware) Signed Solana Token Creation OCT2026 ",
-  "stars": 3,
-  "created": "2026-10-15T02:56:26Z",
-  "language": "Shell",
-  "stars_per_day": 0.23,
-  "age_days": 13,
-  "topics": []
- },
- {
-  "full_name": "TDI-true-digital-intelligence/T.D.I-Labs-Trezor-Mint-Kit",
-  "url": "https://github.com/TDI-true-digital-intelligence/T.D.I-Labs-Trezor-Mint-Kit",
-  "description": "T.D.I Labs: 'Trezor Mint Kit - Solana Token Creation DApp' - Ubuntu 24.04 Script \"protocol\" - Solana CLI  Dev Tools - SPL Token-2022 Program \"Smart Contract\" - First documented Trezor T Signed Token C",
-  "stars": 3,
-  "created": "2026-10-15T01:26:51Z",
-  "language": "Rust",
-  "stars_per_day": 0.23,
-  "age_days": 13,
+  "full_name": "BordrlessDex/bordrless-sdk",
+  "url": "https://github.com/BordrlessDex/bordrless-sdk",
+  "description": "TypeScript SDK for the Bordrless programs on Solana (@bordrless/sdk, @bordrless/shared)",
+  "stars": 5,
+  "created": "2026-10-07T23:47:55Z",
+  "language": "TypeScript",
+  "stars_per_day": 0.24,
+  "age_days": 21,
   "topics": []
  },
  {
@@ -789,24 +767,26 @@
   ]
  },
  {
-  "full_name": "HandcuffAttorney/yieldboard",
-  "url": "https://github.com/HandcuffAttorney/yieldboard",
-  "description": "yieldboard - open source utility, updated 2026-10-04",
-  "stars": 5,
-  "created": "2026-10-04T03:40:40Z",
-  "language": "C++",
+  "full_name": "TDI-true-digital-intelligence/T.D.I-Labs-Solana-Trezor-Token",
+  "url": "https://github.com/TDI-true-digital-intelligence/T.D.I-Labs-Solana-Trezor-Token",
+  "description": "T.D.I Labs: 'TDI-Token' - Trezor Token - Created with Solana CLI Dev Tools - SPL Token-2022 Program \"Smart Contract\" - First documented (Trezor T Crypto Hardware) Signed Solana Token Creation OCT2026 ",
+  "stars": 3,
+  "created": "2026-10-15T02:56:26Z",
+  "language": "Shell",
   "stars_per_day": 0.21,
-  "age_days": 24,
-  "topics": [
-   "apy",
-   "arbitrum",
-   "cpp",
-   "crypto",
-   "defi",
-   "desktop-app",
-   "ethereum",
-   "finance"
-  ]
+  "age_days": 14,
+  "topics": []
+ },
+ {
+  "full_name": "TDI-true-digital-intelligence/T.D.I-Labs-Trezor-Mint-Kit",
+  "url": "https://github.com/TDI-true-digital-intelligence/T.D.I-Labs-Trezor-Mint-Kit",
+  "description": "T.D.I Labs: 'Trezor Mint Kit - Solana Token Creation DApp' - Ubuntu 24.04 Script \"protocol\" - Solana CLI  Dev Tools - SPL Token-2022 Program \"Smart Contract\" - First documented Trezor T Signed Token C",
+  "stars": 3,
+  "created": "2026-10-15T01:26:51Z",
+  "language": "Rust",
+  "stars_per_day": 0.21,
+  "age_days": 14,
+  "topics": []
  },
  {
   "full_name": "CompdProtocol/CompdProtocol",
@@ -827,14 +807,34 @@
   ]
  },
  {
+  "full_name": "HandcuffAttorney/yieldboard",
+  "url": "https://github.com/HandcuffAttorney/yieldboard",
+  "description": "yieldboard - open source utility, updated 2026-10-04",
+  "stars": 5,
+  "created": "2026-10-04T03:40:40Z",
+  "language": "C++",
+  "stars_per_day": 0.2,
+  "age_days": 25,
+  "topics": [
+   "apy",
+   "arbitrum",
+   "cpp",
+   "crypto",
+   "defi",
+   "desktop-app",
+   "ethereum",
+   "finance"
+  ]
+ },
+ {
   "full_name": "Lamport-Robotics/lamport-vault",
   "url": "https://github.com/Lamport-Robotics/lamport-vault",
   "description": "Post-quantum custody for Solana: hash-based (LMS, RFC 8554) vault and registry programs, SDK and vectors",
   "stars": 3,
   "created": "2026-10-12T05:26:00Z",
   "language": "TypeScript",
-  "stars_per_day": 0.19,
-  "age_days": 16,
+  "stars_per_day": 0.18,
+  "age_days": 17,
   "topics": [
    "anchor-framework",
    "hash-based-signatures",
@@ -867,14 +867,25 @@
   ]
  },
  {
+  "full_name": "ax-x2/rewind",
+  "url": "https://github.com/ax-x2/rewind",
+  "description": "recover historical and closed solana program binaries using jetstreamer",
+  "stars": 2,
+  "created": "2026-10-15T19:38:24Z",
+  "language": "Rust",
+  "stars_per_day": 0.15,
+  "age_days": 13,
+  "topics": []
+ },
+ {
   "full_name": "2274802010922/picachu_hackathon",
   "url": "https://github.com/2274802010922/picachu_hackathon",
   "description": "Goal-based Solana repayment planner with finite-grid allocation, shared reserves and verified Kamino Devnet receipts. VI/EN narrated demos.",
   "stars": 5,
   "created": "2026-09-26T03:55:36Z",
   "language": "TypeScript",
-  "stars_per_day": 0.16,
-  "age_days": 32,
+  "stars_per_day": 0.15,
+  "age_days": 33,
   "topics": [
    "defi",
    "devnet",
@@ -885,17 +896,6 @@
    "repayment-planner",
    "solana"
   ]
- },
- {
-  "full_name": "ax-x2/rewind",
-  "url": "https://github.com/ax-x2/rewind",
-  "description": "recover historical and closed solana program binaries using jetstreamer",
-  "stars": 2,
-  "created": "2026-10-15T19:38:24Z",
-  "language": "Rust",
-  "stars_per_day": 0.15,
-  "age_days": 13,
-  "topics": []
  },
  {
   "full_name": "switch-afk/sol-pda",
@@ -1069,7 +1069,7 @@
   "created": "2026-10-03T00:09:16Z",
   "language": "JavaScript",
   "stars_per_day": 0.12,
-  "age_days": 25,
+  "age_days": 26,
   "topics": [
    "ai-agents",
    "ai-trading",
@@ -1274,7 +1274,7 @@
   "created": "2026-10-14T04:49:33Z",
   "language": "TypeScript",
   "stars_per_day": 0.07,
-  "age_days": 14,
+  "age_days": 15,
   "topics": [
    "anchor",
    "devnet",
@@ -1319,7 +1319,7 @@
   "created": "2026-09-18T01:27:17Z",
   "language": "HTML",
   "stars_per_day": 0.05,
-  "age_days": 40,
+  "age_days": 41,
   "topics": [
    "ai",
    "colosseum",
@@ -1531,7 +1531,7 @@
   "created": "2026-09-14T01:47:19Z",
   "language": "Rust",
   "stars_per_day": 0.02,
-  "age_days": 44,
+  "age_days": 45,
   "topics": []
  },
  {

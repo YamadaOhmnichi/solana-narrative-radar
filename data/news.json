@@ -1,6 +1,11 @@
 {
  "cointelegraph": [
   {
+   "title": "Polygon expands Open Money Stack to Solana, after Tron rollout",
+   "pub": "Thu, 29 Oct 2026 13:00:00 +0000",
+   "link": "https://cointelegraph.com/news/polygon-brings-open-money-stack-payments-services-to-solana?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
+  },
+  {
    "title": "Mirae Asset Securities issues tokenized notes on Solana",
    "pub": "Wed, 28 Oct 2026 11:05:33 +0000",
    "link": "https://cointelegraph.com/news/mirae-asset-securities-tokenized-notes-solana?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
@@ -54,14 +59,59 @@
    "title": "Capital starting to rotate back to crypto from AI: Raoul Pal",
    "pub": "Tue, 06 Oct 2026 13:30:00 +0000",
    "link": "https://cointelegraph.com/magazine/weaker-dollar-crypto-green-light-raoul-pal-trade-secrets?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Solana Foundation targets settlement in seconds with DvP launch",
-   "pub": "Tue, 06 Oct 2026 09:11:26 +0000",
-   "link": "https://cointelegraph.com/news/solana-foundation-settlement-seconds-dvp?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
   }
  ],
  "decrypt": [
+  {
+   "title": "Binance Drained of $5.5 Billion in Suspected Hack, Tether and Circle Freeze $1.8 Billion",
+   "pub": "Thu, 29 Oct 2026 21:36:24 +0000",
+   "link": "https://decrypt.co/382191/binance-suspected-hack-5-billion-tether-circle-freeze-crypto"
+  },
+  {
+   "title": "Coinbase Swings to $719 Million Q3 Profit on Crypto Gains",
+   "pub": "Thu, 29 Oct 2026 20:46:43 +0000",
+   "link": "https://decrypt.co/382188/coinbase-beats-719-million-q3-profit-crypto-gains"
+  },
+  {
+   "title": "Chrome Can Now Pull Details From Your Gmail to Fill Out Web Forms",
+   "pub": "Thu, 29 Oct 2026 19:46:02 +0000",
+   "link": "https://decrypt.co/382183/chrome-pull-details-from-your-gmail-web-forms"
+  },
+  {
+   "title": "Polymarket Pauses Trading as Prediction Market Investigates Security Incident",
+   "pub": "Thu, 29 Oct 2026 18:53:44 +0000",
+   "link": "https://decrypt.co/382185/polymarket-pauses-trading-prediction-market-security-incident"
+  },
+  {
+   "title": "Hackers Publish Work Details of 41,000 Homeland Security Employees",
+   "pub": "Thu, 29 Oct 2026 18:46:02 +0000",
+   "link": "https://decrypt.co/382181/hackers-publish-work-details-homeland-security-employees"
+  },
+  {
+   "title": "Crypto Spends $176 Million on Midterms, But Only 13% of Voters See It as a Priority",
+   "pub": "Thu, 29 Oct 2026 17:46:02 +0000",
+   "link": "https://decrypt.co/382179/crypto-spends-176-million-midterms-only-13-percent-voters-priority"
+  },
+  {
+   "title": "$11 Billion in Bitcoin Options Expire Tomorrow\u2014Here's What It Means",
+   "pub": "Thu, 29 Oct 2026 17:15:11 +0000",
+   "link": "https://decrypt.co/382171/11-billion-bitcoin-options-expire-tomorrow-what-means"
+  },
+  {
+   "title": "4M Bitcoin Bought Above $85K Could Cap Recovery: Glassnode",
+   "pub": "Thu, 29 Oct 2026 16:32:47 +0000",
+   "link": "https://decrypt.co/382161/4m-bitcoin-bought-above-85k-could-cap-recovery-glassnode"
+  },
+  {
+   "title": "Hyperliquid's HYPE Jumps 13% as NYSE Owner ICE Moves to Bring Its Perpetual Futures to the US",
+   "pub": "Thu, 29 Oct 2026 15:59:48 +0000",
+   "link": "https://decrypt.co/382149/hyperliquid-hype-jumps-nyse-owner-ice-perpetual-futures-us"
+  },
+  {
+   "title": "Walmart Blocks Its Stock From OKX-ICE Tokenized Trading Venue",
+   "pub": "Thu, 29 Oct 2026 15:07:15 +0000",
+   "link": "https://decrypt.co/382145/walmart-blocks-stock-okx-ice-tokenized-trading-venue"
+  },
   {
    "title": "Polygon Extends Its Stablecoin Payments Infrastructure to Solana",
    "pub": "Thu, 29 Oct 2026 13:01:02 +0000",
@@ -71,56 +121,6 @@
    "title": "Justin Sun's HTX Agrees to Leave UK in Settlement With Financial Watchdog",
    "pub": "Thu, 29 Oct 2026 12:58:28 +0000",
    "link": "https://decrypt.co/382138/justin-suns-htx-agrees-to-leave-uk-in-settlement-with-financial-watchdog"
-  },
-  {
-   "title": "Morning Minute: Hedge Funds Left the BTC ETF Trade and Sovereign Wealth Stepped In",
-   "pub": "Thu, 29 Oct 2026 12:30:38 +0000",
-   "link": "https://decrypt.co/382135/morning-minute-hedge-funds-left-the-btc-etf-trade-and-sovereign-wealth-stepped-in"
-  },
-  {
-   "title": "Treasury Sanctions 11 Over North Korean IT Worker Scheme That Moved Millions in Crypto",
-   "pub": "Thu, 29 Oct 2026 11:32:51 +0000",
-   "link": "https://decrypt.co/382132/treasury-sanctions-11-over-north-korean-it-worker-scheme-that-moved-millions-in-crypto"
-  },
-  {
-   "title": "Utah Files Felony Charges Against Kalshi, Co-Founders Over Sports Bets",
-   "pub": "Thu, 29 Oct 2026 11:06:40 +0000",
-   "link": "https://decrypt.co/382124/utah-files-felony-charges-against-kalshi-co-founders-over-sports-bets"
-  },
-  {
-   "title": "Bitcoin Treasury Datavault AI Says It Can\u2019t Access Its BTC, Stock Tanks",
-   "pub": "Wed, 28 Oct 2026 21:46:02 +0000",
-   "link": "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc"
-  },
-  {
-   "title": "Chip Maker SK Hynix Posts Record Quarter as AI Memory Demand Overwhelms Supply",
-   "pub": "Wed, 28 Oct 2026 21:16:03 +0000",
-   "link": "https://decrypt.co/382114/sk-hynix-record-quarter-ai-memory-demand"
-  },
-  {
-   "title": "AI Security Startup Upwind Raises $400M at $3.8B Valuation",
-   "pub": "Wed, 28 Oct 2026 20:16:03 +0000",
-   "link": "https://decrypt.co/382101/ai-security-startup-upwind-raises-400m"
-  },
-  {
-   "title": "More Americans Have Tried Crypto, But Few Are Sticking With It: Survey",
-   "pub": "Wed, 28 Oct 2026 19:46:03 +0000",
-   "link": "https://decrypt.co/382100/more-americans-tried-crypto-few-staying-survey"
-  },
-  {
-   "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
-   "pub": "Wed, 28 Oct 2026 19:16:02 +0000",
-   "link": "https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia"
-  },
-  {
-   "title": "Fed Stands Pat, Bitcoin Holds Steady\u2014But a December Rate Hike Is in Play",
-   "pub": "Wed, 28 Oct 2026 18:25:18 +0000",
-   "link": "https://decrypt.co/382092/fed-hold-interest-rate-steady-bitcoin-december-rate-hike"
-  },
-  {
-   "title": "AI Can Quietly Influence Experts\u2019 Decisions, Anthropic Study Finds",
-   "pub": "Wed, 28 Oct 2026 17:36:02 +0000",
-   "link": "https://decrypt.co/382065/ai-can-quietly-influence-experts-decisions"
   }
  ],
  "cryptonews": [

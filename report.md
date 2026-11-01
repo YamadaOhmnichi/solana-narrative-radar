@@ -1,6 +1,6 @@
 # Solana Narrative Radar — Fortnightly Report
 
-Generated: 2026-11-01T06:08:04+00:00  |  Methodology v0.1
+Generated: 2026-11-01T13:26:45+00:00  |  Methodology v0.1
 
 ## On-chain context (live, public RPC)
 
@@ -10,9 +10,9 @@ Generated: 2026-11-01T06:08:04+00:00  |  Methodology v0.1
 
 ## Detected Narratives (ranked)
 
-### 1. DeFi / Trading Infra  —  confidence: High  (score 319.5)
+### 1. DeFi / Trading Infra  —  confidence: High  (score 318.9)
 
-- GitHub repos matching: **44**  (top velocity 255.47 stars/day)
+- GitHub repos matching: **44**  (top velocity 254.9 stars/day)
 - Headline mentions (last fortnight): **8**
 - Cross-source confirmation: **2/3**
 
@@ -22,18 +22,18 @@ Generated: 2026-11-01T06:08:04+00:00  |  Methodology v0.1
   - The UK needs a workable route to regulated DeFi access
 
   Top repos:
-  - [DolphinStronghold9/stolen-crypto-tracer](https://github.com/DolphinStronghold9/stolen-crypto-tracer) — 129.0 stars/day
+  - [DolphinStronghold9/stolen-crypto-tracer](https://github.com/DolphinStronghold9/stolen-crypto-tracer) — 130.0 stars/day
   - [tapoooooty/hypergrad](https://github.com/tapoooooty/hypergrad) — 66.0 stars/day
-  - [Piratelord54942/Telegram-Channel-Admin-rpocket](https://github.com/Piratelord54942/Telegram-Channel-Admin-rpocket) — 22.33 stars/day
+  - [Piratelord54942/Telegram-Channel-Admin-rpocket](https://github.com/Piratelord54942/Telegram-Channel-Admin-rpocket) — 21.0 stars/day
 
   **Build ideas:**
-  - Copy-trading guardrail bot: open-source program + bot that mirrors KOL wallets but with hard loss caps and sandwich-protection, riding the 44 trading-infrastructure repos at 255.47 stars/day.
+  - Copy-trading guardrail bot: open-source program + bot that mirrors KOL wallets but with hard loss caps and sandwich-protection, riding the 44 trading-infrastructure repos at 254.9 stars/day.
   - Perp risk dashboard: real-time liquidation-heat map over Solana perps using public RPC; headlines show perp/DeFi coverage (8 hits) while retail seeks clearer risk tooling.
   - Intent-based DEX aggregator SDK with MEV-protection defaults — the aggregator lane is crowded but the intent/MEV-protection angle is under-served based on repo descriptions sampled.
 
-### 2. Payments & Stablecoins  —  confidence: Medium  (score 289.8)
+### 2. Payments & Stablecoins  —  confidence: Medium  (score 290.7)
 
-- GitHub repos matching: **7**  (top velocity 281.76 stars/day)
+- GitHub repos matching: **7**  (top velocity 282.74 stars/day)
 - Headline mentions (last fortnight): **1**
 - Cross-source confirmation: **1/3**
 
@@ -42,7 +42,7 @@ Generated: 2026-11-01T06:08:04+00:00  |  Methodology v0.1
 
   Top repos:
   - [Signcluengine/onchain-money-trail-analyzer](https://github.com/Signcluengine/onchain-money-trail-analyzer) — 151.0 stars/day
-  - [DolphinStronghold9/stolen-crypto-tracer](https://github.com/DolphinStronghold9/stolen-crypto-tracer) — 129.0 stars/day
+  - [DolphinStronghold9/stolen-crypto-tracer](https://github.com/DolphinStronghold9/stolen-crypto-tracer) — 130.0 stars/day
   - [des35swim/hood-warfare](https://github.com/des35swim/hood-warfare) — 0.89 stars/day
 
   **Build ideas:**
@@ -50,9 +50,9 @@ Generated: 2026-11-01T06:08:04+00:00  |  Methodology v0.1
   - Subscription billing program: SPL streaming contract with cancel-anytime semantics for SaaS pricing on-chain.
   - Cross-border payroll pilot: batch USDC payouts with memo-based reconciliation; targets remittance-adjacent repos and stablecoin volume signals.
 
-### 3. Wallets & UX  —  confidence: Medium  (score 171.8)
+### 3. Wallets & UX  —  confidence: Medium  (score 171.2)
 
-- GitHub repos matching: **15**  (top velocity 163.83 stars/day)
+- GitHub repos matching: **15**  (top velocity 163.21 stars/day)
 - Headline mentions (last fortnight): **1**
 - Cross-source confirmation: **1/3**
 
@@ -60,51 +60,51 @@ Generated: 2026-11-01T06:08:04+00:00  |  Methodology v0.1
   - Starknet introduces wallet privacy feature for DeFi activity
 
   Top repos:
-  - [DolphinStronghold9/stolen-crypto-tracer](https://github.com/DolphinStronghold9/stolen-crypto-tracer) — 129.0 stars/day
-  - [Piratelord54942/Telegram-Channel-Admin-rpocket](https://github.com/Piratelord54942/Telegram-Channel-Admin-rpocket) — 22.33 stars/day
-  - [h100envy/gem-search](https://github.com/h100envy/gem-search) — 8.62 stars/day
+  - [DolphinStronghold9/stolen-crypto-tracer](https://github.com/DolphinStronghold9/stolen-crypto-tracer) — 130.0 stars/day
+  - [Piratelord54942/Telegram-Channel-Admin-rpocket](https://github.com/Piratelord54942/Telegram-Channel-Admin-rpocket) — 21.0 stars/day
+  - [h100envy/gem-search](https://github.com/h100envy/gem-search) — 8.33 stars/day
 
   **Build ideas:**
-  - One-tap embedded wallet for Telegram mini-apps on Solana, targeting the wallet-UX friction visible in 15 new wallet/onboarding repos at 163.83 stars/day.
+  - One-tap embedded wallet for Telegram mini-apps on Solana, targeting the wallet-UX friction visible in 15 new wallet/onboarding repos at 163.21 stars/day.
   - Session-key wallet: a SPL program that issues 24h scoped keys (spend cap, program allowlist) so dapps never touch the main key — direct answer to onboarding drop-off that wallet repos are attacking.
   - Wallet-drain canary service: continuous simulation that alerts users when a signature request would exfiltrate tokens (security headlines: 1 this period — users clearly need guardrails).
 
-### 4. Dev Tooling & Infra  —  confidence: Medium  (score 160.9)
+### 4. Dev Tooling & Infra  —  confidence: Medium  (score 158.2)
 
-- GitHub repos matching: **46**  (top velocity 160.92 stars/day)
+- GitHub repos matching: **46**  (top velocity 158.24 stars/day)
 - Headline mentions (last fortnight): **0**
 - Cross-source confirmation: **1/3**
 
   Top repos:
-  - [DolphinStronghold9/stolen-crypto-tracer](https://github.com/DolphinStronghold9/stolen-crypto-tracer) — 129.0 stars/day
-  - [refrax-xyz/refrax-node](https://github.com/refrax-xyz/refrax-node) — 8.5 stars/day
+  - [DolphinStronghold9/stolen-crypto-tracer](https://github.com/DolphinStronghold9/stolen-crypto-tracer) — 130.0 stars/day
   - [h100envy/crawl-hive](https://github.com/h100envy/crawl-hive) — 7.0 stars/day
+  - [refrax-xyz/refrax-node](https://github.com/refrax-xyz/refrax-node) — 6.8 stars/day
 
   **Build ideas:**
-  - Local-first Solana dev container: one command that ships validator, airdropped test keypair, and explorer UI (rides the 46 tooling repos at 160.92 stars/day).
+  - Local-first Solana dev container: one command that ships validator, airdropped test keypair, and explorer UI (rides the 46 tooling repos at 158.24 stars/day).
   - Program-diff explorer: show what changed between two deployed program versions (upgrade authority audit trail) — infra trusts need this as more programs go live.
   - Free hosted RPC status page with per-method latency/limits across public providers; every new dev hits rate limits on day one.
 
-### 5. Meme & Speculation  —  confidence: High  (score 122.4)
+### 5. Meme & Speculation  —  confidence: High  (score 118.3)
 
-- GitHub repos matching: **11**  (top velocity 104.86 stars/day)
+- GitHub repos matching: **11**  (top velocity 104.31 stars/day)
 - Headline mentions (last fortnight): **0**
-- Market 7d avg change: **-8.78%**
+- Market 7d avg change: **-7.01%**
 - Cross-source confirmation: **2/3**
 
   Top repos:
   - [tapoooooty/hypergrad](https://github.com/tapoooooty/hypergrad) — 66.0 stars/day
-  - [nhovongoc0-max/meme-radar](https://github.com/nhovongoc0-max/meme-radar) — 11.0 stars/day
-  - [teraus111/web3-agent-kit-solana-trading](https://github.com/teraus111/web3-agent-kit-solana-trading) — 8.78 stars/day
+  - [nhovongoc0-max/meme-radar](https://github.com/nhovongoc0-max/meme-radar) — 10.78 stars/day
+  - [teraus111/web3-agent-kit-solana-trading](https://github.com/teraus111/web3-agent-kit-solana-trading) — 8.83 stars/day
 
   **Build ideas:**
-  - Launchpad honesty score: index every pump.fun-style launch by LP lock, mint authority, holder concentration and dev-wallet behavior; surfaces the few credible launches (avg 7d change -8.78%).
+  - Launchpad honesty score: index every pump.fun-style launch by LP lock, mint authority, holder concentration and dev-wallet behavior; surfaces the few credible launches (avg 7d change -7.01%).
   - Anti-sniper launch template: open-source fair-launch program (no-bundle, capped per-wallet buys) that new launchpads can adopt — a counter-position to the sniper-bot repos in the dataset.
-  - Meme-velocity dashboard: tracks avg 7d change -8.78% so traders see which launches have real retention vs. pure rotation.
+  - Meme-velocity dashboard: tracks avg 7d change -7.01% so traders see which launches have real retention vs. pure rotation.
 
-### 6. AI Agents on Solana  —  confidence: High  (score 83.9)
+### 6. AI Agents on Solana  —  confidence: High  (score 82.1)
 
-- GitHub repos matching: **26**  (top velocity 43.95 stars/day)
+- GitHub repos matching: **26**  (top velocity 42.06 stars/day)
 - Headline mentions (last fortnight): **5**
 - Cross-source confirmation: **2/3**
 
@@ -114,12 +114,12 @@ Generated: 2026-11-01T06:08:04+00:00  |  Methodology v0.1
   - Why AI Models Cheat: Reward Hacking, Explained
 
   Top repos:
-  - [Piratelord54942/Telegram-Channel-Admin-rpocket](https://github.com/Piratelord54942/Telegram-Channel-Admin-rpocket) — 22.33 stars/day
-  - [teraus111/web3-agent-kit-solana-trading](https://github.com/teraus111/web3-agent-kit-solana-trading) — 8.78 stars/day
-  - [SpaceDataRig/space-data-rig](https://github.com/SpaceDataRig/space-data-rig) — 6.19 stars/day
+  - [Piratelord54942/Telegram-Channel-Admin-rpocket](https://github.com/Piratelord54942/Telegram-Channel-Admin-rpocket) — 21.0 stars/day
+  - [teraus111/web3-agent-kit-solana-trading](https://github.com/teraus111/web3-agent-kit-solana-trading) — 8.83 stars/day
+  - [SpaceDataRig/space-data-rig](https://github.com/SpaceDataRig/space-data-rig) — 5.91 stars/day
 
   **Build ideas:**
-  - Agent-wallet runtime: a Go/Type SDK that gives every AI agent a non-custodial Solana wallet with per-action spend limits and an auditable on-chain action log (rides the 25 new agent repos at 43.95 stars/day).
+  - Agent-wallet runtime: a Go/Type SDK that gives every AI agent a non-custodial Solana wallet with per-action spend limits and an auditable on-chain action log (rides the 25 new agent repos at 42.06 stars/day).
   - Agent-to-agent escrow program: an Anchor program where two agents lock funds against a task hash and release on verifiable completion — targets the trust gap visible in Piratelord54942/Telegram-Channel-Admin-rpocket-style automation repos.
   - Agent fee rail: x402-style HTTP 402 paywall in Rust/TS that lets any API monetize per-call for AI agents paying in USDC — stablecoin rail already has deep volume/mcap ratio on Solana.
 

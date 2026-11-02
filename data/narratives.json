@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-02T06:06:43+00:00",
+ "generated_at": "2026-11-02T15:56:52+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 197.7,
+   "score": 198.5,
    "confidence": "High",
    "evidence": {
     "github_repos": 43,
-    "github_top_velocity": 133.7,
+    "github_top_velocity": 134.51,
     "headline_hits": 8,
     "sample_headlines": [
      "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
@@ -20,7 +20,7 @@
    "member_repos": [
     {
      "full_name": "DolphinStronghold9/stolen-crypto-tracer",
-     "stars_per_day": 67.5,
+     "stars_per_day": 68.5,
      "url": "https://github.com/DolphinStronghold9/stolen-crypto-tracer"
     },
     {
@@ -30,28 +30,28 @@
     },
     {
      "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 8.53,
+     "stars_per_day": 8.95,
      "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
-    },
-    {
-     "full_name": "h100envy/gem-search",
-     "stars_per_day": 8.33,
-     "url": "https://github.com/h100envy/gem-search"
     },
     {
      "full_name": "cxmza/windle",
      "stars_per_day": 8.19,
      "url": "https://github.com/cxmza/windle"
+    },
+    {
+     "full_name": "h100envy/gem-search",
+     "stars_per_day": 8.04,
+     "url": "https://github.com/h100envy/gem-search"
     }
    ]
   },
   {
    "narrative": "Payments & Stablecoins",
-   "score": 156.2,
+   "score": 161.2,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 7,
-    "github_top_velocity": 148.19,
+    "github_top_velocity": 153.18,
     "headline_hits": 1,
     "sample_headlines": [
      "Tx launches USTX stablecoin to pull RWA liquidity onto its chain"
@@ -62,12 +62,12 @@
    "member_repos": [
     {
      "full_name": "Signcluengine/onchain-money-trail-analyzer",
-     "stars_per_day": 79.0,
+     "stars_per_day": 83.0,
      "url": "https://github.com/Signcluengine/onchain-money-trail-analyzer"
     },
     {
      "full_name": "DolphinStronghold9/stolen-crypto-tracer",
-     "stars_per_day": 67.5,
+     "stars_per_day": 68.5,
      "url": "https://github.com/DolphinStronghold9/stolen-crypto-tracer"
     },
     {
@@ -77,7 +77,7 @@
     },
     {
      "full_name": "blueshift-gg/solana-pull-program",
-     "stars_per_day": 0.26,
+     "stars_per_day": 0.25,
      "url": "https://github.com/blueshift-gg/solana-pull-program"
     },
     {
@@ -89,22 +89,23 @@
   },
   {
    "narrative": "Wallets & UX",
-   "score": 106.5,
-   "confidence": "Medium",
+   "score": 115.1,
+   "confidence": "High",
    "evidence": {
     "github_repos": 16,
-    "github_top_velocity": 98.48,
-    "headline_hits": 1,
+    "github_top_velocity": 99.13,
+    "headline_hits": 2,
     "sample_headlines": [
+     "BTCPay Tells Merchants to Switch Off Servers Amid Hot Wallet Attack Reports",
      "Starknet introduces wallet privacy feature for DeFi activity"
     ],
     "market_avg_7d_pct": null,
-    "sources_confirming": 1
+    "sources_confirming": 2
    },
    "member_repos": [
     {
      "full_name": "DolphinStronghold9/stolen-crypto-tracer",
-     "stars_per_day": 67.5,
+     "stars_per_day": 68.5,
      "url": "https://github.com/DolphinStronghold9/stolen-crypto-tracer"
     },
     {
@@ -114,7 +115,7 @@
     },
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 8.33,
+     "stars_per_day": 8.04,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
@@ -124,18 +125,18 @@
     },
     {
      "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 1.56,
+     "stars_per_day": 1.53,
      "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
     }
    ]
   },
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 95.8,
+   "score": 94.4,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 46,
-    "github_top_velocity": 95.85,
+    "github_top_velocity": 94.42,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -144,41 +145,41 @@
    "member_repos": [
     {
      "full_name": "DolphinStronghold9/stolen-crypto-tracer",
-     "stars_per_day": 67.5,
+     "stars_per_day": 68.5,
      "url": "https://github.com/DolphinStronghold9/stolen-crypto-tracer"
     },
     {
-     "full_name": "refrax-xyz/refrax-node",
-     "stars_per_day": 6.8,
-     "url": "https://github.com/refrax-xyz/refrax-node"
-    },
-    {
      "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 6.68,
+     "stars_per_day": 6.39,
      "url": "https://github.com/h100envy/crawl-hive"
     },
     {
      "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 6.14,
+     "stars_per_day": 5.96,
      "url": "https://github.com/SpaceDataRig/space-data-rig"
     },
     {
+     "full_name": "refrax-xyz/refrax-node",
+     "stars_per_day": 5.67,
+     "url": "https://github.com/refrax-xyz/refrax-node"
+    },
+    {
      "full_name": "lalalune/daosfun-source",
-     "stars_per_day": 4.0,
+     "stars_per_day": 3.67,
      "url": "https://github.com/lalalune/daosfun-source"
     }
    ]
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 74.4,
+   "score": 76.8,
    "confidence": "High",
    "evidence": {
     "github_repos": 10,
-    "github_top_velocity": 61.46,
+    "github_top_velocity": 61.48,
     "headline_hits": 0,
     "sample_headlines": [],
-    "market_avg_7d_pct": -6.46,
+    "market_avg_7d_pct": -7.66,
     "sources_confirming": 2
    },
    "member_repos": [
@@ -189,34 +190,34 @@
     },
     {
      "full_name": "nhovongoc0-max/meme-radar",
-     "stars_per_day": 10.78,
+     "stars_per_day": 10.58,
      "url": "https://github.com/nhovongoc0-max/meme-radar"
     },
     {
      "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 8.53,
+     "stars_per_day": 8.95,
      "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
     },
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 8.33,
+     "stars_per_day": 8.04,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
      "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 6.68,
+     "stars_per_day": 6.39,
      "url": "https://github.com/h100envy/crawl-hive"
     }
    ]
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 74.3,
+   "score": 66.4,
    "confidence": "High",
    "evidence": {
     "github_repos": 25,
-    "github_top_velocity": 26.32,
-    "headline_hits": 6,
+    "github_top_velocity": 26.39,
+    "headline_hits": 5,
     "sample_headlines": [
      "AI agents help rescue ETH\u2019s Glamsterdam fork, \u2018Steal My Bitcoin\u2019 site: Hodler\u2019s Digest",
      "Capital starting to rotate back to crypto from AI: Raoul Pal",
@@ -228,18 +229,18 @@
    "member_repos": [
     {
      "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 8.53,
+     "stars_per_day": 8.95,
      "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
-    },
-    {
-     "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 6.14,
-     "url": "https://github.com/SpaceDataRig/space-data-rig"
     },
     {
      "full_name": "Piratelord54942/Telegram-Channel-Admin-rpocket",
      "stars_per_day": 6.0,
      "url": "https://github.com/Piratelord54942/Telegram-Channel-Admin-rpocket"
+    },
+    {
+     "full_name": "SpaceDataRig/space-data-rig",
+     "stars_per_day": 5.96,
+     "url": "https://github.com/SpaceDataRig/space-data-rig"
     },
     {
      "full_name": "recogardtech/AutoPilotPM",
@@ -255,16 +256,16 @@
   },
   {
    "narrative": "Security & Threats",
-   "score": 72.8,
+   "score": 64.8,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 4,
     "github_top_velocity": 0.8,
-    "headline_hits": 9,
+    "headline_hits": 8,
     "sample_headlines": [
-     "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
-     "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
-     "Why AI Models Cheat: Reward Hacking, Explained"
+     "Morning Minute: Binance Hack Leads to Mass Outflows While FBI Opens Probe",
+     "FBI Blames North Korea for $6B Binance Hack as Exchange Reopens Withdrawals",
+     "Bitcoin ETF Investors Head for the Exits After Record Binance Hack"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 1
@@ -298,7 +299,7 @@
    "confidence": "Medium",
    "evidence": {
     "github_repos": 3,
-    "github_top_velocity": 0.46,
+    "github_top_velocity": 0.45,
     "headline_hits": 4,
     "sample_headlines": [
      "Mirae Asset Securities issues tokenized notes on Solana",
@@ -315,24 +316,24 @@
      "url": "https://github.com/vectorix-cross/CrossYield"
     },
     {
-     "full_name": "truenorth-lj/sofinance-public",
-     "stars_per_day": 0.08,
-     "url": "https://github.com/truenorth-lj/sofinance-public"
-    },
-    {
      "full_name": "Zyxel89/owncurve",
      "stars_per_day": 0.07,
      "url": "https://github.com/Zyxel89/owncurve"
+    },
+    {
+     "full_name": "truenorth-lj/sofinance-public",
+     "stars_per_day": 0.07,
+     "url": "https://github.com/truenorth-lj/sofinance-public"
     }
    ]
   },
   {
    "narrative": "DePIN & Physical Infra",
-   "score": 7.6,
+   "score": 6.5,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 2,
-    "github_top_velocity": 7.65,
+    "github_top_velocity": 6.52,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -341,7 +342,7 @@
    "member_repos": [
     {
      "full_name": "refrax-xyz/refrax-node",
-     "stars_per_day": 6.8,
+     "stars_per_day": 5.67,
      "url": "https://github.com/refrax-xyz/refrax-node"
     },
     {

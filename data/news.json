@@ -1,6 +1,11 @@
 {
  "cointelegraph": [
   {
+   "title": "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
+   "pub": "Mon, 02 Nov 2026 21:16:24 +0000",
+   "link": "https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
+  },
+  {
    "title": "Polygon expands Open Money Stack to Solana, after Tron rollout",
    "pub": "Thu, 29 Oct 2026 13:00:00 +0000",
    "link": "https://cointelegraph.com/news/polygon-brings-open-money-stack-payments-services-to-solana?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
@@ -54,73 +59,68 @@
    "title": "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
    "pub": "Tue, 13 Oct 2026 19:48:06 +0000",
    "link": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-solana-bnb-chain?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Capital starting to rotate back to crypto from AI: Raoul Pal",
-   "pub": "Tue, 06 Oct 2026 13:30:00 +0000",
-   "link": "https://cointelegraph.com/magazine/weaker-dollar-crypto-green-light-raoul-pal-trade-secrets?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
   }
  ],
  "decrypt": [
   {
+   "title": "Claude Fable 5.5, GPT 6.2 Astra Could Be Right Around the Corner, Leaks Suggest",
+   "pub": "Mon, 02 Nov 2026 23:10:25 +0000",
+   "link": "https://decrypt.co/382390/claude-mythos-fable-5-5-gpt-6-2-astra-leaks"
+  },
+  {
+   "title": "Bitcoin Firm Strive Climbs Up the Treasury Ranks With Another Big Buy",
+   "pub": "Mon, 02 Nov 2026 22:16:02 +0000",
+   "link": "https://decrypt.co/382385/bitcoin-firm-strive-treasury-ranks-another-big-buy"
+  },
+  {
+   "title": "Mystery $106 Million Crypto Theft Hits EU Entity Days After Binance Hack",
+   "pub": "Mon, 02 Nov 2026 21:16:03 +0000",
+   "link": "https://decrypt.co/382383/mystery-106-million-crypto-theft-eu-entity-binance-hack"
+  },
+  {
+   "title": "Claude-Built Linux Exploit Targets Bug That Ubuntu Still Hasn't Patched",
+   "pub": "Mon, 02 Nov 2026 20:36:03 +0000",
+   "link": "https://decrypt.co/382375/claude-built-linux-exploit-bug-ubuntu"
+  },
+  {
+   "title": "Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience",
+   "pub": "Mon, 02 Nov 2026 19:46:02 +0000",
+   "link": "https://decrypt.co/382357/tom-lee-calls-bottom-ai-stock-selloff-crypto"
+  },
+  {
+   "title": "North Korea Is Laundering Binance Hack Loot at One New Wallet Every 25 Seconds",
+   "pub": "Mon, 02 Nov 2026 18:46:03 +0000",
+   "link": "https://decrypt.co/382355/north-korea-laundering-binance-hack-loot-new-wallet-every-25-seconds"
+  },
+  {
+   "title": "Proton Users Revolt After CEO Calls Security Caution 'Loser Thinking' Amid AI Push",
+   "pub": "Mon, 02 Nov 2026 18:16:02 +0000",
+   "link": "https://decrypt.co/382353/proton-users-revolt-ceo-calls-security-caution-loser-thinking-ai"
+  },
+  {
+   "title": "Nvidia and Nike Lead Biggest Wave Yet of Tokenized Stock Objections",
+   "pub": "Mon, 02 Nov 2026 17:36:03 +0000",
+   "link": "https://decrypt.co/382348/nvidia-nike-biggest-wave-yet-tokenized-stock-objections"
+  },
+  {
+   "title": "Elon Musk Mocks Sam Altman Over Claim Home PCs Are Wasting RAM",
+   "pub": "Mon, 02 Nov 2026 17:07:28 +0000",
+   "link": "https://decrypt.co/382345/elon-musk-mocks-sam-altman-over-claim-home-pcs-are-wasting-ram"
+  },
+  {
+   "title": "Brazil's Largest Exchange Mercado Bitcoin Halts Withdrawals After $40 Million Hack",
+   "pub": "Mon, 02 Nov 2026 16:46:03 +0000",
+   "link": "https://decrypt.co/382341/mercado-bitcoin-halts-withdrawals-40-million-hack"
+  },
+  {
+   "title": "Bitmine Buys More Ethereum as Tom Lee Calls the Binance Hack Bullish",
+   "pub": "Mon, 02 Nov 2026 16:23:24 +0000",
+   "link": "https://decrypt.co/382340/bitmine-buys-more-ethereum-tom-lee-binance-hack-bullish"
+  },
+  {
    "title": "How T7X Is Building the Infrastructure for a New Era of Capital Markets",
    "pub": "Mon, 02 Nov 2026 15:01:03 +0000",
    "link": "https://decrypt.co/382147/how-t7x-is-building-the-infrastructure-for-a-new-era-of-capital-markets"
-  },
-  {
-   "title": "Morning Minute: Binance Hack Leads to Mass Outflows While FBI Opens Probe",
-   "pub": "Mon, 02 Nov 2026 13:34:02 +0000",
-   "link": "https://decrypt.co/382332/morning-minute-the-binance-hack-leads-to-mass-outflows-while-fbi-opens-probe"
-  },
-  {
-   "title": "Strategy Resumes Bitcoin Buys With $66M Purchase",
-   "pub": "Mon, 02 Nov 2026 13:19:36 +0000",
-   "link": "https://decrypt.co/382333/strategy-resumes-bitcoin-buys-with-66m-purchase"
-  },
-  {
-   "title": "BTCPay Tells Merchants to Switch Off Servers Amid Hot Wallet Attack Reports",
-   "pub": "Mon, 02 Nov 2026 12:24:18 +0000",
-   "link": "https://decrypt.co/382324/btcpay-tells-merchants-to-switch-off-servers-amid-hot-wallet-attack-reports"
-  },
-  {
-   "title": "FBI Blames North Korea for $6B Binance Hack as Exchange Reopens Withdrawals",
-   "pub": "Mon, 02 Nov 2026 10:36:19 +0000",
-   "link": "https://decrypt.co/382316/fbi-blames-north-korea-for-6b-binance-hack-as-exchange-reopens-withdrawals"
-  },
-  {
-   "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
-   "pub": "Sun, 01 Nov 2026 16:01:02 +0000",
-   "link": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack"
-  },
-  {
-   "title": "How to Run an AI Model Locally\u2014And Why You Might Want To",
-   "pub": "Sun, 01 Nov 2026 14:01:02 +0000",
-   "link": "https://decrypt.co/382295/how-to-run-ai-model-locally-why-you-might-want"
-  },
-  {
-   "title": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
-   "pub": "Sat, 31 Oct 2026 15:01:02 +0000",
-   "link": "https://decrypt.co/382306/binance-hack-everything-you-need-to-know"
-  },
-  {
-   "title": "Why AI Models Cheat: Reward Hacking, Explained",
-   "pub": "Sat, 31 Oct 2026 13:01:03 +0000",
-   "link": "https://decrypt.co/382274/why-ai-models-cheat-reward-hacking-explained"
-  },
-  {
-   "title": "Binance Hack Shows Why Offshore Exchanges Need US Oversight, CFTC Chair Says",
-   "pub": "Fri, 30 Oct 2026 21:16:04 +0000",
-   "link": "https://decrypt.co/382285/binance-hack-why-offshore-exchanges-need-us-oversight-cftc-chair"
-  },
-  {
-   "title": "Intel Stock Suffers Worst Crash in 50 Years as Weak Forecast Overshadows AI Chip Demand",
-   "pub": "Fri, 30 Oct 2026 20:53:23 +0000",
-   "link": "https://decrypt.co/382287/intel-stock-suffers-worst-crash-in-50-years-as-weak-forecast-overshadows-ai-chip-demand"
-  },
-  {
-   "title": "Worried About Crypto Hacks? Buy Bitcoin Proxies in Stock Market Instead, Say Wall Street Firms",
-   "pub": "Fri, 30 Oct 2026 20:06:03 +0000",
-   "link": "https://decrypt.co/382282/crypto-hacks-buy-bitcoin-proxies-stock-market-wall-street"
   }
  ],
  "cryptonews": [

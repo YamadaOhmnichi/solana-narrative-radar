@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-03T00:59:20+00:00",
+ "generated_at": "2026-11-03T14:17:27+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 169.2,
+   "score": 186.3,
    "confidence": "High",
    "evidence": {
     "github_repos": 42,
-    "github_top_velocity": 105.21,
+    "github_top_velocity": 122.28,
     "headline_hits": 8,
     "sample_headlines": [
      "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
@@ -20,8 +20,13 @@
    "member_repos": [
     {
      "full_name": "DolphinStronghold9/stolen-crypto-tracer",
-     "stars_per_day": 47.33,
+     "stars_per_day": 50.33,
      "url": "https://github.com/DolphinStronghold9/stolen-crypto-tracer"
+    },
+    {
+     "full_name": "outgoingyang/solana-sniping-bot",
+     "stars_per_day": 22.0,
+     "url": "https://github.com/outgoingyang/solana-sniping-bot"
     },
     {
      "full_name": "tapoooooty/hypergrad",
@@ -30,28 +35,63 @@
     },
     {
      "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 8.55,
+     "stars_per_day": 8.65,
      "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
     },
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 8.04,
+     "stars_per_day": 7.76,
      "url": "https://github.com/h100envy/gem-search"
+    }
+   ]
+  },
+  {
+   "narrative": "Meme & Speculation",
+   "score": 165.5,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 13,
+    "github_top_velocity": 147.61,
+    "headline_hits": 0,
+    "sample_headlines": [],
+    "market_avg_7d_pct": -8.93,
+    "sources_confirming": 2
+   },
+   "member_repos": [
+    {
+     "full_name": "chadandyou/jrames",
+     "stars_per_day": 71.0,
+     "url": "https://github.com/chadandyou/jrames"
     },
     {
-     "full_name": "cxmza/windle",
-     "stars_per_day": 7.82,
-     "url": "https://github.com/cxmza/windle"
+     "full_name": "outgoingyang/solana-sniping-bot",
+     "stars_per_day": 22.0,
+     "url": "https://github.com/outgoingyang/solana-sniping-bot"
+    },
+    {
+     "full_name": "tapoooooty/hypergrad",
+     "stars_per_day": 17.75,
+     "url": "https://github.com/tapoooooty/hypergrad"
+    },
+    {
+     "full_name": "nhovongoc0-max/meme-radar",
+     "stars_per_day": 10.38,
+     "url": "https://github.com/nhovongoc0-max/meme-radar"
+    },
+    {
+     "full_name": "teraus111/web3-agent-kit-solana-trading",
+     "stars_per_day": 8.65,
+     "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
     }
    ]
   },
   {
    "narrative": "Payments & Stablecoins",
-   "score": 114.6,
+   "score": 116.8,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 7,
-    "github_top_velocity": 106.64,
+    "github_repos": 6,
+    "github_top_velocity": 108.79,
     "headline_hits": 1,
     "sample_headlines": [
      "Tx launches USTX stablecoin to pull RWA liquidity onto its chain"
@@ -67,33 +107,73 @@
     },
     {
      "full_name": "DolphinStronghold9/stolen-crypto-tracer",
-     "stars_per_day": 47.33,
+     "stars_per_day": 50.33,
      "url": "https://github.com/DolphinStronghold9/stolen-crypto-tracer"
     },
     {
-     "full_name": "des35swim/hood-warfare",
-     "stars_per_day": 0.81,
-     "url": "https://github.com/des35swim/hood-warfare"
-    },
-    {
      "full_name": "blueshift-gg/solana-pull-program",
-     "stars_per_day": 0.25,
+     "stars_per_day": 0.24,
      "url": "https://github.com/blueshift-gg/solana-pull-program"
     },
     {
      "full_name": "nirholas/papertrade-x402",
-     "stars_per_day": 0.23,
+     "stars_per_day": 0.22,
      "url": "https://github.com/nirholas/papertrade-x402"
+    },
+    {
+     "full_name": "2274802010922/pipicachu",
+     "stars_per_day": 0.2,
+     "url": "https://github.com/2274802010922/pipicachu"
+    }
+   ]
+  },
+  {
+   "narrative": "Dev Tooling & Infra",
+   "score": 110.0,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 49,
+    "github_top_velocity": 110.0,
+    "headline_hits": 0,
+    "sample_headlines": [],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "DolphinStronghold9/stolen-crypto-tracer",
+     "stars_per_day": 50.33,
+     "url": "https://github.com/DolphinStronghold9/stolen-crypto-tracer"
+    },
+    {
+     "full_name": "outgoingyang/solana-sniping-bot",
+     "stars_per_day": 22.0,
+     "url": "https://github.com/outgoingyang/solana-sniping-bot"
+    },
+    {
+     "full_name": "Nexq-Pro/program",
+     "stars_per_day": 7.39,
+     "url": "https://github.com/Nexq-Pro/program"
+    },
+    {
+     "full_name": "Nexq-Pro/explorer",
+     "stars_per_day": 7.35,
+     "url": "https://github.com/Nexq-Pro/explorer"
+    },
+    {
+     "full_name": "h100envy/crawl-hive",
+     "stars_per_day": 6.43,
+     "url": "https://github.com/h100envy/crawl-hive"
     }
    ]
   },
   {
    "narrative": "Wallets & UX",
-   "score": 90.6,
+   "score": 93.2,
    "confidence": "High",
    "evidence": {
-    "github_repos": 16,
-    "github_top_velocity": 74.56,
+    "github_repos": 17,
+    "github_top_velocity": 77.23,
     "headline_hits": 2,
     "sample_headlines": [
      "North Korea Is Laundering Binance Hack Loot at One New Wallet Every 25 Seconds",
@@ -105,7 +185,7 @@
    "member_repos": [
     {
      "full_name": "DolphinStronghold9/stolen-crypto-tracer",
-     "stars_per_day": 47.33,
+     "stars_per_day": 50.33,
      "url": "https://github.com/DolphinStronghold9/stolen-crypto-tracer"
     },
     {
@@ -115,7 +195,7 @@
     },
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 8.04,
+     "stars_per_day": 7.76,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
@@ -131,92 +211,56 @@
    ]
   },
   {
-   "narrative": "Meme & Speculation",
-   "score": 77.4,
+   "narrative": "Security & Threats",
+   "score": 86.7,
    "confidence": "High",
    "evidence": {
-    "github_repos": 11,
-    "github_top_velocity": 56.41,
-    "headline_hits": 0,
-    "sample_headlines": [],
-    "market_avg_7d_pct": -10.49,
+    "github_repos": 5,
+    "github_top_velocity": 22.7,
+    "headline_hits": 8,
+    "sample_headlines": [
+     "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
+     "Morning Minute: Tom Lee Calls the Binance Hack Bullish for Ethereum",
+     "Liquid Network Restores Full Bitcoin Backing Two Months After $320M Exploit"
+    ],
+    "market_avg_7d_pct": null,
     "sources_confirming": 2
    },
    "member_repos": [
     {
-     "full_name": "tapoooooty/hypergrad",
-     "stars_per_day": 17.75,
-     "url": "https://github.com/tapoooooty/hypergrad"
+     "full_name": "outgoingyang/solana-sniping-bot",
+     "stars_per_day": 22.0,
+     "url": "https://github.com/outgoingyang/solana-sniping-bot"
     },
     {
-     "full_name": "nhovongoc0-max/meme-radar",
-     "stars_per_day": 10.58,
-     "url": "https://github.com/nhovongoc0-max/meme-radar"
+     "full_name": "BadmonLano/meme-sniper",
+     "stars_per_day": 0.4,
+     "url": "https://github.com/BadmonLano/meme-sniper"
     },
     {
-     "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 8.55,
-     "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
+     "full_name": "RedDuckTeam/redduck-solana-audit",
+     "stars_per_day": 0.2,
+     "url": "https://github.com/RedDuckTeam/redduck-solana-audit"
     },
     {
-     "full_name": "h100envy/gem-search",
-     "stars_per_day": 8.04,
-     "url": "https://github.com/h100envy/gem-search"
+     "full_name": "Portaudit/referee",
+     "stars_per_day": 0.05,
+     "url": "https://github.com/Portaudit/referee"
     },
     {
-     "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 6.39,
-     "url": "https://github.com/h100envy/crawl-hive"
-    }
-   ]
-  },
-  {
-   "narrative": "Dev Tooling & Infra",
-   "score": 73.2,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 46,
-    "github_top_velocity": 73.25,
-    "headline_hits": 0,
-    "sample_headlines": [],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "DolphinStronghold9/stolen-crypto-tracer",
-     "stars_per_day": 47.33,
-     "url": "https://github.com/DolphinStronghold9/stolen-crypto-tracer"
-    },
-    {
-     "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 6.39,
-     "url": "https://github.com/h100envy/crawl-hive"
-    },
-    {
-     "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 5.96,
-     "url": "https://github.com/SpaceDataRig/space-data-rig"
-    },
-    {
-     "full_name": "refrax-xyz/refrax-node",
-     "stars_per_day": 5.67,
-     "url": "https://github.com/refrax-xyz/refrax-node"
-    },
-    {
-     "full_name": "lalalune/daosfun-source",
-     "stars_per_day": 3.67,
-     "url": "https://github.com/lalalune/daosfun-source"
+     "full_name": "TodorBonchev/rust-auditor",
+     "stars_per_day": 0.05,
+     "url": "https://github.com/TodorBonchev/rust-auditor"
     }
    ]
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 68.2,
+   "score": 75.3,
    "confidence": "High",
    "evidence": {
-    "github_repos": 27,
-    "github_top_velocity": 44.25,
+    "github_repos": 26,
+    "github_top_velocity": 51.31,
     "headline_hits": 3,
     "sample_headlines": [
      "AI agents help rescue ETH\u2019s Glamsterdam fork, \u2018Steal My Bitcoin\u2019 site: Hodler\u2019s Digest",
@@ -229,12 +273,12 @@
    "member_repos": [
     {
      "full_name": "askglyph/glyph",
-     "stars_per_day": 19.0,
+     "stars_per_day": 27.0,
      "url": "https://github.com/askglyph/glyph"
     },
     {
      "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 8.55,
+     "stars_per_day": 8.65,
      "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
     },
     {
@@ -249,58 +293,49 @@
     },
     {
      "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 2.17,
+     "stars_per_day": 2.2,
      "url": "https://github.com/recogardtech/AutoPilotPM"
     }
    ]
   },
   {
-   "narrative": "Security & Threats",
-   "score": 56.7,
+   "narrative": "DePIN & Physical Infra",
+   "score": 34.2,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 4,
-    "github_top_velocity": 0.71,
-    "headline_hits": 7,
-    "sample_headlines": [
-     "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
-     "Mystery $106 Million Crypto Theft Hits EU Entity Days After Binance Hack",
-     "Claude-Built Linux Exploit Targets Bug That Ubuntu Still Hasn't Patched"
-    ],
+    "github_repos": 3,
+    "github_top_velocity": 34.25,
+    "headline_hits": 0,
+    "sample_headlines": [],
     "market_avg_7d_pct": null,
     "sources_confirming": 1
    },
    "member_repos": [
     {
-     "full_name": "BadmonLano/meme-sniper",
-     "stars_per_day": 0.4,
-     "url": "https://github.com/BadmonLano/meme-sniper"
+     "full_name": "outgoingyang/solana-sniping-bot",
+     "stars_per_day": 22.0,
+     "url": "https://github.com/outgoingyang/solana-sniping-bot"
     },
     {
-     "full_name": "RedDuckTeam/redduck-solana-audit",
-     "stars_per_day": 0.2,
-     "url": "https://github.com/RedDuckTeam/redduck-solana-audit"
+     "full_name": "Nexq-Pro/program",
+     "stars_per_day": 7.39,
+     "url": "https://github.com/Nexq-Pro/program"
     },
     {
-     "full_name": "TodorBonchev/rust-auditor",
-     "stars_per_day": 0.06,
-     "url": "https://github.com/TodorBonchev/rust-auditor"
-    },
-    {
-     "full_name": "Portaudit/referee",
-     "stars_per_day": 0.05,
-     "url": "https://github.com/Portaudit/referee"
+     "full_name": "refrax-xyz/refrax-node",
+     "stars_per_day": 4.86,
+     "url": "https://github.com/refrax-xyz/refrax-node"
     }
    ]
   },
   {
    "narrative": "RWA & Tokenization",
-   "score": 40.4,
+   "score": 32.4,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 3,
     "github_top_velocity": 0.44,
-    "headline_hits": 5,
+    "headline_hits": 4,
     "sample_headlines": [
      "Mirae Asset Securities issues tokenized notes on Solana",
      "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
@@ -329,11 +364,11 @@
   },
   {
    "narrative": "Consumer & Social",
-   "score": 20.1,
+   "score": 27.3,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 4,
-    "github_top_velocity": 20.11,
+    "github_repos": 3,
+    "github_top_velocity": 27.3,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -342,13 +377,8 @@
    "member_repos": [
     {
      "full_name": "askglyph/glyph",
-     "stars_per_day": 19.0,
+     "stars_per_day": 27.0,
      "url": "https://github.com/askglyph/glyph"
-    },
-    {
-     "full_name": "des35swim/hood-warfare",
-     "stars_per_day": 0.81,
-     "url": "https://github.com/des35swim/hood-warfare"
     },
     {
      "full_name": "nirholas/skill-license",
@@ -359,31 +389,6 @@
      "full_name": "nirholas/three-ws-skill-license",
      "stars_per_day": 0.13,
      "url": "https://github.com/nirholas/three-ws-skill-license"
-    }
-   ]
-  },
-  {
-   "narrative": "DePIN & Physical Infra",
-   "score": 6.5,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 2,
-    "github_top_velocity": 6.48,
-    "headline_hits": 0,
-    "sample_headlines": [],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "refrax-xyz/refrax-node",
-     "stars_per_day": 5.67,
-     "url": "https://github.com/refrax-xyz/refrax-node"
-    },
-    {
-     "full_name": "des35swim/hood-warfare",
-     "stars_per_day": 0.81,
-     "url": "https://github.com/des35swim/hood-warfare"
     }
    ]
   }

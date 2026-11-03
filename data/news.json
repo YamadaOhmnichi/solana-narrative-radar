@@ -63,64 +63,64 @@
  ],
  "decrypt": [
   {
+   "title": "Tether Holds 150,000 Bitcoin, CEO Says\u2014About 50,000 More Than Its Reserve Report Shows",
+   "pub": "Tue, 03 Nov 2026 22:46:02 +0000",
+   "link": "https://decrypt.co/382474/tether-holds-150000-bitcoin-ceo-says"
+  },
+  {
+   "title": "Anthropic's AI Is Getting Cheaper to Use. That's Becoming a Problem for Its Business",
+   "pub": "Tue, 03 Nov 2026 21:50:17 +0000",
+   "link": "https://decrypt.co/382471/anthropic-ai-cheaper-use-problem-for-business"
+  },
+  {
+   "title": "CrowdStrike Launches AI Agent 'Kill Switch,' Plans to Acquire Fiddler AI",
+   "pub": "Tue, 03 Nov 2026 21:16:03 +0000",
+   "link": "https://decrypt.co/382467/crowdstrike-ai-agent-kill-switch-acquire-fiddler-ai"
+  },
+  {
+   "title": "Justin Sun Accuses Trump-Backed World Liberty of Using UAE Ties to Escape Federal Court",
+   "pub": "Tue, 03 Nov 2026 20:36:02 +0000",
+   "link": "https://decrypt.co/382469/justin-sun-sanctions-trump-backed-world-liberty-uae-ties"
+  },
+  {
+   "title": "Crypto Docs Host GitBook Hit by AI Agent Security Breach, Urges Users to Rotate Keys",
+   "pub": "Tue, 03 Nov 2026 19:46:03 +0000",
+   "link": "https://decrypt.co/382465/crypto-docs-gitbook-ai-agent-security-breach"
+  },
+  {
+   "title": "CFTC Lets Traders Bet on Stocks With Crypto-Style Perpetual Futures",
+   "pub": "Tue, 03 Nov 2026 19:16:02 +0000",
+   "link": "https://decrypt.co/382464/cftc-traders-bet-stocks-with-crypto-style-perpetual-futures"
+  },
+  {
+   "title": "Brazil's Biggest Bitcoin Exchange Says It Will Refund Users After a $40 Million Hack",
+   "pub": "Tue, 03 Nov 2026 18:16:03 +0000",
+   "link": "https://decrypt.co/382459/brazil-mercado-bitcoin-will-refund-users-40-million-hack"
+  },
+  {
+   "title": "Elon Musk\u2019s Tesla and SpaceX Block Their Stock From OKX-ICE Tokenized Venue",
+   "pub": "Tue, 03 Nov 2026 17:46:15 +0000",
+   "link": "https://decrypt.co/382458/elon-musk-tesla-spacex-block-okx-ice-tokenized-stock"
+  },
+  {
+   "title": "Five Ways North Korea Breaks Into Crypto Firms\u2014and How Binance Was Hacked",
+   "pub": "Tue, 03 Nov 2026 17:30:54 +0000",
+   "link": "https://decrypt.co/382420/five-ways-north-korea-breaks-into-crypto-firms-and-how-binance-was-hacked"
+  },
+  {
+   "title": "Epidemic of Hacked Freezers Spreads Across Europe",
+   "pub": "Tue, 03 Nov 2026 17:04:46 +0000",
+   "link": "https://decrypt.co/382423/epidemic-hacked-freezers-spreads-europe"
+  },
+  {
+   "title": "UK Says AI-Powered Ransomware Attack on Critical Infrastructure 'Highly Likely' by 2028",
+   "pub": "Tue, 03 Nov 2026 16:09:19 +0000",
+   "link": "https://decrypt.co/382411/uk-says-ai-powered-ransomware-attack-on-critical-infrastructure-highly-likely-by-2028"
+  },
+  {
    "title": "Ethereum Privacy Network Aztec Rolls Out Major Security and Speed Upgrade",
    "pub": "Tue, 03 Nov 2026 14:01:02 +0000",
    "link": "https://decrypt.co/382387/ethereum-privacy-network-aztec-security-speed-upgrade"
-  },
-  {
-   "title": "Morning Minute: Tom Lee Calls the Binance Hack Bullish for Ethereum",
-   "pub": "Tue, 03 Nov 2026 13:11:47 +0000",
-   "link": "https://decrypt.co/382410/morning-minute-tom-lee-calls-the-binance-hack-bullish-for-ethereum"
-  },
-  {
-   "title": "Binance Misses Monthly Luna Classic Burn for First Time Since 2023",
-   "pub": "Tue, 03 Nov 2026 12:15:29 +0000",
-   "link": "https://decrypt.co/382401/binance-misses-monthly-luna-classic-burn-for-first-time-since-2023"
-  },
-  {
-   "title": "Liquid Network Restores Full Bitcoin Backing Two Months After $320M Exploit",
-   "pub": "Tue, 03 Nov 2026 11:22:10 +0000",
-   "link": "https://decrypt.co/382397/liquid-network-restores-full-bitcoin-backing-two-months-after-320m-exploit"
-  },
-  {
-   "title": "North Korea Denies $6.3B Binance Hack, Calls FBI Finding a 'Political Provocation'",
-   "pub": "Tue, 03 Nov 2026 10:18:48 +0000",
-   "link": "https://decrypt.co/382394/north-korea-denies-6-3b-binance-hack-calls-fbi-finding-a-political-provocation"
-  },
-  {
-   "title": "Claude Fable 5.5, GPT 6.2 Astra Could Be Right Around the Corner, Leaks Suggest",
-   "pub": "Mon, 02 Nov 2026 23:10:25 +0000",
-   "link": "https://decrypt.co/382390/claude-mythos-fable-5-5-gpt-6-2-astra-leaks"
-  },
-  {
-   "title": "Bitcoin Firm Strive Climbs Up the Treasury Ranks With Another Big Buy",
-   "pub": "Mon, 02 Nov 2026 22:16:02 +0000",
-   "link": "https://decrypt.co/382385/bitcoin-firm-strive-treasury-ranks-another-big-buy"
-  },
-  {
-   "title": "Mystery $106 Million Crypto Theft Hits EU Entity Days After Binance Hack",
-   "pub": "Mon, 02 Nov 2026 21:16:03 +0000",
-   "link": "https://decrypt.co/382383/mystery-106-million-crypto-theft-eu-entity-binance-hack"
-  },
-  {
-   "title": "Claude-Built Linux Exploit Targets Bug That Ubuntu Still Hasn't Patched",
-   "pub": "Mon, 02 Nov 2026 20:36:03 +0000",
-   "link": "https://decrypt.co/382375/claude-built-linux-exploit-bug-ubuntu"
-  },
-  {
-   "title": "Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience",
-   "pub": "Mon, 02 Nov 2026 19:46:02 +0000",
-   "link": "https://decrypt.co/382357/tom-lee-calls-bottom-ai-stock-selloff-crypto"
-  },
-  {
-   "title": "North Korea Is Laundering Binance Hack Loot at One New Wallet Every 25 Seconds",
-   "pub": "Mon, 02 Nov 2026 18:46:03 +0000",
-   "link": "https://decrypt.co/382355/north-korea-laundering-binance-hack-loot-new-wallet-every-25-seconds"
-  },
-  {
-   "title": "Proton Users Revolt After CEO Calls Security Caution 'Loser Thinking' Amid AI Push",
-   "pub": "Mon, 02 Nov 2026 18:16:02 +0000",
-   "link": "https://decrypt.co/382353/proton-users-revolt-ceo-calls-security-caution-loser-thinking-ai"
   }
  ],
  "cryptonews": [

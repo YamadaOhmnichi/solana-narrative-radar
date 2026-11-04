@@ -1,5 +1,26 @@
 [
  {
+  "full_name": "PatchBuilderAmplify/stolen-crypto-tracer",
+  "url": "https://github.com/PatchBuilderAmplify/stolen-crypto-tracer",
+  "description": "Paste a wallet or a transaction hash and follow stolen crypto to the exchange that can freeze it. Works across Bitcoin, Ethereum, TRON, BNB Chain and Solana. One-click report.",
+  "stars": 396,
+  "created": "2026-11-03T17:08:02Z",
+  "language": "JavaScript",
+  "stars_per_day": 396.0,
+  "age_days": 1,
+  "topics": [
+   "blockchain",
+   "crypto",
+   "exchange",
+   "osint",
+   "report",
+   "stolen-crypto",
+   "tracing",
+   "usdt"
+  ],
+  "flag": "velocity-anomaly"
+ },
+ {
   "full_name": "solana-program/groth16-verifier-program",
   "url": "https://github.com/solana-program/groth16-verifier-program",
   "description": "A solana program for Groth16 verifier",
@@ -7,7 +28,7 @@
   "created": "2026-09-12T18:05:35Z",
   "language": "Rust",
   "stars_per_day": 0.02,
-  "age_days": 52,
+  "age_days": 53,
   "topics": [],
   "flag": "brand-impersonation"
  }

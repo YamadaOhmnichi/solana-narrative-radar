@@ -3,11 +3,11 @@
   "full_name": "PatchBuilderAmplify/stolen-crypto-tracer",
   "url": "https://github.com/PatchBuilderAmplify/stolen-crypto-tracer",
   "description": "Paste a wallet or a transaction hash and follow stolen crypto to the exchange that can freeze it. Works across Bitcoin, Ethereum, TRON, BNB Chain and Solana. One-click report.",
-  "stars": 401,
+  "stars": 405,
   "created": "2026-11-03T17:08:02Z",
   "language": "JavaScript",
-  "stars_per_day": 401.0,
-  "age_days": 1,
+  "stars_per_day": 202.5,
+  "age_days": 2,
   "topics": [
    "blockchain",
    "crypto",
@@ -24,11 +24,11 @@
   "full_name": "Torquatoatkins/Drainer-Tool-Solana",
   "url": "https://github.com/Torquatoatkins/Drainer-Tool-Solana",
   "description": "Solana Drainer Tool \u2014 Automated SOL and SPL token drainer for Solana wallets with real-time balance monitoring, multi-wallet sweeping, Phantom/Backpack/Solflare compatibility, and stealth transaction ",
-  "stars": 50,
+  "stars": 51,
   "created": "2026-11-03T17:18:12Z",
   "language": "Python",
-  "stars_per_day": 50.0,
-  "age_days": 1,
+  "stars_per_day": 25.5,
+  "age_days": 2,
   "topics": [
    "auto-withdraw-bot",
    "auto-withdraw-script",
@@ -49,7 +49,7 @@
   "created": "2026-09-12T18:05:35Z",
   "language": "Rust",
   "stars_per_day": 0.02,
-  "age_days": 53,
+  "age_days": 54,
   "topics": [],
   "flag": "brand-impersonation"
  }

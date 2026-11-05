@@ -1,16 +1,60 @@
 {
- "generated_at": "2026-11-04T19:46:23+00:00",
+ "generated_at": "2026-11-05T06:48:45+00:00",
  "narratives": [
   {
-   "narrative": "Meme & Speculation",
-   "score": 220.2,
+   "narrative": "AI Agents on Solana",
+   "score": 288.7,
    "confidence": "High",
    "evidence": {
-    "github_repos": 14,
-    "github_top_velocity": 201.59,
+    "github_repos": 26,
+    "github_top_velocity": 240.67,
+    "headline_hits": 6,
+    "sample_headlines": [
+     "AI agents help rescue ETH\u2019s Glamsterdam fork, \u2018Steal My Bitcoin\u2019 site: Hodler\u2019s Digest",
+     "Google Tells Schools They Can Reject AI\u2014But They'll Lose Search, Too",
+     "US Bank Regulator Issues First AI Framework as Banks Battle Rogue Agents"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 2
+   },
+   "member_repos": [
+    {
+     "full_name": "relayworkslab/relayworks",
+     "stars_per_day": 105.0,
+     "url": "https://github.com/relayworkslab/relayworks"
+    },
+    {
+     "full_name": "relayworkslab/relayworks-recovery",
+     "stars_per_day": 103.0,
+     "url": "https://github.com/relayworkslab/relayworks-recovery"
+    },
+    {
+     "full_name": "askglyph/glyph",
+     "stars_per_day": 15.5,
+     "url": "https://github.com/askglyph/glyph"
+    },
+    {
+     "full_name": "teraus111/web3-agent-kit-solana-trading",
+     "stars_per_day": 8.23,
+     "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
+    },
+    {
+     "full_name": "SpaceDataRig/space-data-rig",
+     "stars_per_day": 5.16,
+     "url": "https://github.com/SpaceDataRig/space-data-rig"
+    }
+   ]
+  },
+  {
+   "narrative": "Meme & Speculation",
+   "score": 195.3,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 12,
+    "github_top_velocity": 176.26,
     "headline_hits": 0,
     "sample_headlines": [],
-    "market_avg_7d_pct": -9.3,
+    "market_avg_7d_pct": -9.51,
     "sources_confirming": 2
    },
    "member_repos": [
@@ -20,13 +64,8 @@
      "url": "https://github.com/chadandyou/jrames"
     },
     {
-     "full_name": "outgoingyang/solana-sniping-bot",
-     "stars_per_day": 22.0,
-     "url": "https://github.com/outgoingyang/solana-sniping-bot"
-    },
-    {
      "full_name": "tapoooooty/hypergrad",
-     "stars_per_day": 13.0,
+     "stars_per_day": 10.83,
      "url": "https://github.com/tapoooooty/hypergrad"
     },
     {
@@ -36,158 +75,39 @@
     },
     {
      "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 8.57,
-     "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
-    }
-   ]
-  },
-  {
-   "narrative": "DeFi / Trading Infra",
-   "score": 134.2,
-   "confidence": "High",
-   "evidence": {
-    "github_repos": 40,
-    "github_top_velocity": 62.18,
-    "headline_hits": 9,
-    "sample_headlines": [
-     "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
-     "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
-     "Morning Minute: CFTC Clears Stock Perps, Gets Sued the Same Day"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 2
-   },
-   "member_repos": [
-    {
-     "full_name": "outgoingyang/solana-sniping-bot",
-     "stars_per_day": 22.0,
-     "url": "https://github.com/outgoingyang/solana-sniping-bot"
-    },
-    {
-     "full_name": "tapoooooty/hypergrad",
-     "stars_per_day": 13.0,
-     "url": "https://github.com/tapoooooty/hypergrad"
-    },
-    {
-     "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 8.57,
+     "stars_per_day": 8.23,
      "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
     },
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 7.5,
+     "stars_per_day": 7.53,
      "url": "https://github.com/h100envy/gem-search"
-    },
-    {
-     "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 5.92,
-     "url": "https://github.com/h100envy/crawl-hive"
-    }
-   ]
-  },
-  {
-   "narrative": "Dev Tooling & Infra",
-   "score": 74.9,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 49,
-    "github_top_velocity": 74.9,
-    "headline_hits": 0,
-    "sample_headlines": [],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "outgoingyang/solana-sniping-bot",
-     "stars_per_day": 22.0,
-     "url": "https://github.com/outgoingyang/solana-sniping-bot"
-    },
-    {
-     "full_name": "mAphrica/solana-foundation-kora",
-     "stars_per_day": 13.0,
-     "url": "https://github.com/mAphrica/solana-foundation-kora"
-    },
-    {
-     "full_name": "Nexq-Pro/program",
-     "stars_per_day": 7.03,
-     "url": "https://github.com/Nexq-Pro/program"
-    },
-    {
-     "full_name": "Nexq-Pro/explorer",
-     "stars_per_day": 7.0,
-     "url": "https://github.com/Nexq-Pro/explorer"
-    },
-    {
-     "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 5.92,
-     "url": "https://github.com/h100envy/crawl-hive"
-    }
-   ]
-  },
-  {
-   "narrative": "AI Agents on Solana",
-   "score": 67.1,
-   "confidence": "High",
-   "evidence": {
-    "github_repos": 25,
-    "github_top_velocity": 35.08,
-    "headline_hits": 4,
-    "sample_headlines": [
-     "AI agents help rescue ETH\u2019s Glamsterdam fork, \u2018Steal My Bitcoin\u2019 site: Hodler\u2019s Digest",
-     "US Voters Back AI Data Center Restrictions in At Least 29 Communities",
-     "What Is x402? How AI Agents Pay With Crypto"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 2
-   },
-   "member_repos": [
-    {
-     "full_name": "askglyph/glyph",
-     "stars_per_day": 15.5,
-     "url": "https://github.com/askglyph/glyph"
-    },
-    {
-     "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 8.57,
-     "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
-    },
-    {
-     "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 5.28,
-     "url": "https://github.com/SpaceDataRig/space-data-rig"
-    },
-    {
-     "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 2.08,
-     "url": "https://github.com/recogardtech/AutoPilotPM"
-    },
-    {
-     "full_name": "AndrewBrick56/Loreforge-Ai",
-     "stars_per_day": 1.62,
-     "url": "https://github.com/AndrewBrick56/Loreforge-Ai"
     }
    ]
   },
   {
    "narrative": "Payments & Stablecoins",
-   "score": 60.0,
-   "confidence": "High",
+   "score": 146.6,
+   "confidence": "Medium",
    "evidence": {
-    "github_repos": 5,
-    "github_top_velocity": 44.02,
-    "headline_hits": 2,
+    "github_repos": 6,
+    "github_top_velocity": 138.55,
+    "headline_hits": 1,
     "sample_headlines": [
-     "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
-     "USDC Issuer Circle Quietly Cuts 5% of Staff in Profitable Quarter"
+     "Tx launches USTX stablecoin to pull RWA liquidity onto its chain"
     ],
     "market_avg_7d_pct": null,
-    "sources_confirming": 2
+    "sources_confirming": 1
    },
    "member_repos": [
     {
+     "full_name": "relayworkslab/relayworks-recovery",
+     "stars_per_day": 103.0,
+     "url": "https://github.com/relayworkslab/relayworks-recovery"
+    },
+    {
      "full_name": "Signcluengine/onchain-money-trail-analyzer",
-     "stars_per_day": 43.25,
+     "stars_per_day": 34.8,
      "url": "https://github.com/Signcluengine/onchain-money-trail-analyzer"
     },
     {
@@ -197,18 +117,139 @@
     },
     {
      "full_name": "nirholas/papertrade-x402",
-     "stars_per_day": 0.21,
+     "stars_per_day": 0.2,
      "url": "https://github.com/nirholas/papertrade-x402"
     },
     {
      "full_name": "2274802010922/pipicachu",
      "stars_per_day": 0.19,
      "url": "https://github.com/2274802010922/pipicachu"
+    }
+   ]
+  },
+  {
+   "narrative": "Wallets & UX",
+   "score": 132.1,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 16,
+    "github_top_velocity": 124.09,
+    "headline_hits": 1,
+    "sample_headlines": [
+     "Starknet introduces wallet privacy feature for DeFi activity"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "relayworkslab/relayworks",
+     "stars_per_day": 105.0,
+     "url": "https://github.com/relayworkslab/relayworks"
     },
     {
-     "full_name": "2274802010922/picachu_hackathon",
-     "stars_per_day": 0.13,
-     "url": "https://github.com/2274802010922/picachu_hackathon"
+     "full_name": "anica2020/Seed-Wallet-Checker",
+     "stars_per_day": 8.25,
+     "url": "https://github.com/anica2020/Seed-Wallet-Checker"
+    },
+    {
+     "full_name": "h100envy/gem-search",
+     "stars_per_day": 7.53,
+     "url": "https://github.com/h100envy/gem-search"
+    },
+    {
+     "full_name": "openarbmev/Openarb-Trade-SDK",
+     "stars_per_day": 1.47,
+     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
+    },
+    {
+     "full_name": "DigitalShieldOfficial/DigitalShield-Hardware-Airgap-Sdk",
+     "stars_per_day": 0.48,
+     "url": "https://github.com/DigitalShieldOfficial/DigitalShield-Hardware-Airgap-Sdk"
+    }
+   ]
+  },
+  {
+   "narrative": "DeFi / Trading Infra",
+   "score": 101.9,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 39,
+    "github_top_velocity": 37.94,
+    "headline_hits": 8,
+    "sample_headlines": [
+     "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
+     "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
+     "The UK needs a workable route to regulated DeFi access"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 2
+   },
+   "member_repos": [
+    {
+     "full_name": "tapoooooty/hypergrad",
+     "stars_per_day": 10.83,
+     "url": "https://github.com/tapoooooty/hypergrad"
+    },
+    {
+     "full_name": "teraus111/web3-agent-kit-solana-trading",
+     "stars_per_day": 8.23,
+     "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
+    },
+    {
+     "full_name": "h100envy/gem-search",
+     "stars_per_day": 7.53,
+     "url": "https://github.com/h100envy/gem-search"
+    },
+    {
+     "full_name": "h100envy/crawl-hive",
+     "stars_per_day": 5.96,
+     "url": "https://github.com/h100envy/crawl-hive"
+    },
+    {
+     "full_name": "recogardtech/AutoPilotPM",
+     "stars_per_day": 2.08,
+     "url": "https://github.com/recogardtech/AutoPilotPM"
+    }
+   ]
+  },
+  {
+   "narrative": "Dev Tooling & Infra",
+   "score": 51.2,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 48,
+    "github_top_velocity": 51.19,
+    "headline_hits": 0,
+    "sample_headlines": [],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "mAphrica/solana-foundation-kora",
+     "stars_per_day": 11.38,
+     "url": "https://github.com/mAphrica/solana-foundation-kora"
+    },
+    {
+     "full_name": "Nexq-Pro/program",
+     "stars_per_day": 7.06,
+     "url": "https://github.com/Nexq-Pro/program"
+    },
+    {
+     "full_name": "Nexq-Pro/explorer",
+     "stars_per_day": 7.03,
+     "url": "https://github.com/Nexq-Pro/explorer"
+    },
+    {
+     "full_name": "h100envy/crawl-hive",
+     "stars_per_day": 5.96,
+     "url": "https://github.com/h100envy/crawl-hive"
+    },
+    {
+     "full_name": "SpaceDataRig/space-data-rig",
+     "stars_per_day": 5.16,
+     "url": "https://github.com/SpaceDataRig/space-data-rig"
     }
    ]
   },
@@ -248,25 +289,21 @@
   },
   {
    "narrative": "Security & Threats",
-   "score": 38.7,
-   "confidence": "High",
+   "score": 24.7,
+   "confidence": "Medium",
    "evidence": {
-    "github_repos": 5,
-    "github_top_velocity": 22.69,
-    "headline_hits": 2,
+    "github_repos": 4,
+    "github_top_velocity": 0.66,
+    "headline_hits": 3,
     "sample_headlines": [
      "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
+     "Coinbase Says 99% of Customer Crypto Is Offline and Out of Hackers\u2019 Reach",
      "Drift exploiter sends $61M ETH to Tornado Cash, holds $194M"
     ],
     "market_avg_7d_pct": null,
-    "sources_confirming": 2
+    "sources_confirming": 1
    },
    "member_repos": [
-    {
-     "full_name": "outgoingyang/solana-sniping-bot",
-     "stars_per_day": 22.0,
-     "url": "https://github.com/outgoingyang/solana-sniping-bot"
-    },
     {
      "full_name": "BadmonLano/meme-sniper",
      "stars_per_day": 0.42,
@@ -274,7 +311,7 @@
     },
     {
      "full_name": "RedDuckTeam/redduck-solana-audit",
-     "stars_per_day": 0.17,
+     "stars_per_day": 0.14,
      "url": "https://github.com/RedDuckTeam/redduck-solana-audit"
     },
     {
@@ -290,85 +327,12 @@
    ]
   },
   {
-   "narrative": "Wallets & UX",
-   "score": 35.2,
-   "confidence": "High",
-   "evidence": {
-    "github_repos": 15,
-    "github_top_velocity": 19.21,
-    "headline_hits": 2,
-    "sample_headlines": [
-     "Judge Orders Bitcoin Wallet Returned to Family of Convicted Canadian Killer",
-     "Starknet introduces wallet privacy feature for DeFi activity"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 2
-   },
-   "member_repos": [
-    {
-     "full_name": "anica2020/Seed-Wallet-Checker",
-     "stars_per_day": 8.25,
-     "url": "https://github.com/anica2020/Seed-Wallet-Checker"
-    },
-    {
-     "full_name": "h100envy/gem-search",
-     "stars_per_day": 7.5,
-     "url": "https://github.com/h100envy/gem-search"
-    },
-    {
-     "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 1.47,
-     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
-    },
-    {
-     "full_name": "DigitalShieldOfficial/DigitalShield-Hardware-Airgap-Sdk",
-     "stars_per_day": 0.49,
-     "url": "https://github.com/DigitalShieldOfficial/DigitalShield-Hardware-Airgap-Sdk"
-    },
-    {
-     "full_name": "BadmonLano/meme-sniper",
-     "stars_per_day": 0.42,
-     "url": "https://github.com/BadmonLano/meme-sniper"
-    }
-   ]
-  },
-  {
-   "narrative": "DePIN & Physical Infra",
-   "score": 33.3,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 3,
-    "github_top_velocity": 33.28,
-    "headline_hits": 0,
-    "sample_headlines": [],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "outgoingyang/solana-sniping-bot",
-     "stars_per_day": 22.0,
-     "url": "https://github.com/outgoingyang/solana-sniping-bot"
-    },
-    {
-     "full_name": "Nexq-Pro/program",
-     "stars_per_day": 7.03,
-     "url": "https://github.com/Nexq-Pro/program"
-    },
-    {
-     "full_name": "refrax-xyz/refrax-node",
-     "stars_per_day": 4.25,
-     "url": "https://github.com/refrax-xyz/refrax-node"
-    }
-   ]
-  },
-  {
    "narrative": "Consumer & Social",
    "score": 15.8,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 3,
-    "github_top_velocity": 15.79,
+    "github_repos": 4,
+    "github_top_velocity": 15.82,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -382,13 +346,43 @@
     },
     {
      "full_name": "nirholas/skill-license",
-     "stars_per_day": 0.17,
+     "stars_per_day": 0.16,
      "url": "https://github.com/nirholas/skill-license"
     },
     {
      "full_name": "nirholas/three-ws-skill-license",
      "stars_per_day": 0.12,
      "url": "https://github.com/nirholas/three-ws-skill-license"
+    },
+    {
+     "full_name": "Laksz123/pulse-strike",
+     "stars_per_day": 0.04,
+     "url": "https://github.com/Laksz123/pulse-strike"
+    }
+   ]
+  },
+  {
+   "narrative": "DePIN & Physical Infra",
+   "score": 11.3,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 2,
+    "github_top_velocity": 11.31,
+    "headline_hits": 0,
+    "sample_headlines": [],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "Nexq-Pro/program",
+     "stars_per_day": 7.06,
+     "url": "https://github.com/Nexq-Pro/program"
+    },
+    {
+     "full_name": "refrax-xyz/refrax-node",
+     "stars_per_day": 4.25,
+     "url": "https://github.com/refrax-xyz/refrax-node"
     }
    ]
   }

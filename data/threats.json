@@ -24,10 +24,10 @@
   "full_name": "Torquatoatkins/Drainer-Tool-Solana",
   "url": "https://github.com/Torquatoatkins/Drainer-Tool-Solana",
   "description": "Solana Drainer Tool \u2014 Automated SOL and SPL token drainer for Solana wallets with real-time balance monitoring, multi-wallet sweeping, Phantom/Backpack/Solflare compatibility, and stealth transaction ",
-  "stars": 51,
+  "stars": 139,
   "created": "2026-11-03T17:18:12Z",
   "language": "Python",
-  "stars_per_day": 25.5,
+  "stars_per_day": 69.5,
   "age_days": 2,
   "topics": [
    "auto-withdraw-bot",

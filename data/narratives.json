@@ -1,27 +1,151 @@
 {
- "generated_at": "2026-11-06T06:49:02+00:00",
+ "generated_at": "2026-11-06T19:25:39+00:00",
  "narratives": [
   {
-   "narrative": "Meme & Speculation",
-   "score": 128.2,
-   "confidence": "High",
+   "narrative": "Dev Tooling & Infra",
+   "score": 181.0,
+   "confidence": "Medium",
    "evidence": {
-    "github_repos": 13,
-    "github_top_velocity": 114.5,
+    "github_repos": 52,
+    "github_top_velocity": 181.02,
     "headline_hits": 0,
     "sample_headlines": [],
-    "market_avg_7d_pct": -6.84,
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "PatchBuilderAmplify/stolen-crypto-tracer",
+     "stars_per_day": 129.0,
+     "url": "https://github.com/PatchBuilderAmplify/stolen-crypto-tracer"
+    },
+    {
+     "full_name": "mAphrica/solana-foundation-kora",
+     "stars_per_day": 10.11,
+     "url": "https://github.com/mAphrica/solana-foundation-kora"
+    },
+    {
+     "full_name": "outgoingyang/solana-sniping-bot",
+     "stars_per_day": 7.33,
+     "url": "https://github.com/outgoingyang/solana-sniping-bot"
+    },
+    {
+     "full_name": "Nexq-Pro/program",
+     "stars_per_day": 6.57,
+     "url": "https://github.com/Nexq-Pro/program"
+    },
+    {
+     "full_name": "Nexq-Pro/explorer",
+     "stars_per_day": 6.54,
+     "url": "https://github.com/Nexq-Pro/explorer"
+    }
+   ]
+  },
+  {
+   "narrative": "Payments & Stablecoins",
+   "score": 168.4,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 7,
+    "github_top_velocity": 160.38,
+    "headline_hits": 1,
+    "sample_headlines": [
+     "Tx launches USTX stablecoin to pull RWA liquidity onto its chain"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "PatchBuilderAmplify/stolen-crypto-tracer",
+     "stars_per_day": 129.0,
+     "url": "https://github.com/PatchBuilderAmplify/stolen-crypto-tracer"
+    },
+    {
+     "full_name": "Signcluengine/onchain-money-trail-analyzer",
+     "stars_per_day": 27.67,
+     "url": "https://github.com/Signcluengine/onchain-money-trail-analyzer"
+    },
+    {
+     "full_name": "orrery-node/orrery",
+     "stars_per_day": 3.0,
+     "url": "https://github.com/orrery-node/orrery"
+    },
+    {
+     "full_name": "blueshift-gg/solana-pull-program",
+     "stars_per_day": 0.22,
+     "url": "https://github.com/blueshift-gg/solana-pull-program"
+    },
+    {
+     "full_name": "nirholas/papertrade-x402",
+     "stars_per_day": 0.19,
+     "url": "https://github.com/nirholas/papertrade-x402"
+    }
+   ]
+  },
+  {
+   "narrative": "Wallets & UX",
+   "score": 153.7,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 16,
+    "github_top_velocity": 145.7,
+    "headline_hits": 1,
+    "sample_headlines": [
+     "Starknet introduces wallet privacy feature for DeFi activity"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "PatchBuilderAmplify/stolen-crypto-tracer",
+     "stars_per_day": 129.0,
+     "url": "https://github.com/PatchBuilderAmplify/stolen-crypto-tracer"
+    },
+    {
+     "full_name": "h100envy/gem-search",
+     "stars_per_day": 7.06,
+     "url": "https://github.com/h100envy/gem-search"
+    },
+    {
+     "full_name": "anica2020/Seed-Wallet-Checker",
+     "stars_per_day": 6.6,
+     "url": "https://github.com/anica2020/Seed-Wallet-Checker"
+    },
+    {
+     "full_name": "openarbmev/Openarb-Trade-SDK",
+     "stars_per_day": 1.37,
+     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
+    },
+    {
+     "full_name": "DigitalShieldOfficial/DigitalShield-Hardware-Airgap-Sdk",
+     "stars_per_day": 0.51,
+     "url": "https://github.com/DigitalShieldOfficial/DigitalShield-Hardware-Airgap-Sdk"
+    }
+   ]
+  },
+  {
+   "narrative": "Meme & Speculation",
+   "score": 104.6,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 14,
+    "github_top_velocity": 91.79,
+    "headline_hits": 0,
+    "sample_headlines": [],
+    "market_avg_7d_pct": -6.41,
     "sources_confirming": 2
    },
    "member_repos": [
     {
      "full_name": "chadandyou/jrames",
-     "stars_per_day": 63.5,
+     "stars_per_day": 40.33,
      "url": "https://github.com/chadandyou/jrames"
     },
     {
      "full_name": "nhovongoc0-max/meme-radar",
-     "stars_per_day": 10.07,
+     "stars_per_day": 9.89,
      "url": "https://github.com/nhovongoc0-max/meme-radar"
     },
     {
@@ -35,24 +159,24 @@
      "url": "https://github.com/outgoingyang/solana-sniping-bot"
     },
     {
-     "full_name": "h100envy/gem-search",
-     "stars_per_day": 7.29,
-     "url": "https://github.com/h100envy/gem-search"
+     "full_name": "teraus111/web3-agent-kit-solana-trading",
+     "stars_per_day": 7.17,
+     "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
     }
    ]
   },
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 105.6,
+   "score": 89.1,
    "confidence": "High",
    "evidence": {
     "github_repos": 41,
-    "github_top_velocity": 41.61,
-    "headline_hits": 8,
+    "github_top_velocity": 41.14,
+    "headline_hits": 6,
     "sample_headlines": [
      "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
-     "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
-     "Solana Labs\u2019 Leap Launches Mobile App for Trading Tokenized Stocks and Crypto"
+     "The UK needs a workable route to regulated DeFi access",
+     "Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -69,34 +193,34 @@
      "url": "https://github.com/outgoingyang/solana-sniping-bot"
     },
     {
-     "full_name": "h100envy/gem-search",
-     "stars_per_day": 7.29,
-     "url": "https://github.com/h100envy/gem-search"
-    },
-    {
      "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 7.13,
+     "stars_per_day": 7.17,
      "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
     },
     {
+     "full_name": "h100envy/gem-search",
+     "stars_per_day": 7.06,
+     "url": "https://github.com/h100envy/gem-search"
+    },
+    {
      "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 5.73,
+     "stars_per_day": 5.56,
      "url": "https://github.com/h100envy/crawl-hive"
     }
    ]
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 58.6,
+   "score": 76.0,
    "confidence": "High",
    "evidence": {
-    "github_repos": 24,
-    "github_top_velocity": 26.61,
-    "headline_hits": 4,
+    "github_repos": 26,
+    "github_top_velocity": 27.99,
+    "headline_hits": 6,
     "sample_headlines": [
      "AI agents help rescue ETH\u2019s Glamsterdam fork, \u2018Steal My Bitcoin\u2019 site: Hodler\u2019s Digest",
-     "OpenAI Promises to Foot AI\u2019s Power Bill After Voter Revolt. Who Enforces It?",
-     "DOJ Creates 'Super Intelligence' Task Force to Guard Against AI Abuse"
+     "Anthropic IPO Valuation Could Be Slashed in Half to $1T After AI Stock Rout: Report",
+     "Tesla to Wind Down Cybertruck Production as Elon Musk Pivots to Robotaxis and AI"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -104,117 +228,43 @@
    "member_repos": [
     {
      "full_name": "askglyph/glyph",
-     "stars_per_day": 10.33,
+     "stars_per_day": 7.75,
      "url": "https://github.com/askglyph/glyph"
     },
     {
      "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 7.13,
+     "stars_per_day": 7.17,
      "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
     },
     {
      "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 5.23,
+     "stars_per_day": 5.07,
      "url": "https://github.com/SpaceDataRig/space-data-rig"
     },
     {
+     "full_name": "orrery-node/orrery",
+     "stars_per_day": 3.0,
+     "url": "https://github.com/orrery-node/orrery"
+    },
+    {
      "full_name": "recogardtech/AutoPilotPM",
-     "stars_per_day": 2.05,
+     "stars_per_day": 2.0,
      "url": "https://github.com/recogardtech/AutoPilotPM"
-    },
-    {
-     "full_name": "BadmonLano/perps",
-     "stars_per_day": 0.67,
-     "url": "https://github.com/BadmonLano/perps"
-    }
-   ]
-  },
-  {
-   "narrative": "Dev Tooling & Infra",
-   "score": 54.4,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 50,
-    "github_top_velocity": 54.36,
-    "headline_hits": 0,
-    "sample_headlines": [],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "mAphrica/solana-foundation-kora",
-     "stars_per_day": 10.11,
-     "url": "https://github.com/mAphrica/solana-foundation-kora"
-    },
-    {
-     "full_name": "outgoingyang/solana-sniping-bot",
-     "stars_per_day": 7.33,
-     "url": "https://github.com/outgoingyang/solana-sniping-bot"
-    },
-    {
-     "full_name": "Nexq-Pro/program",
-     "stars_per_day": 6.76,
-     "url": "https://github.com/Nexq-Pro/program"
-    },
-    {
-     "full_name": "Nexq-Pro/explorer",
-     "stars_per_day": 6.74,
-     "url": "https://github.com/Nexq-Pro/explorer"
-    },
-    {
-     "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 5.73,
-     "url": "https://github.com/h100envy/crawl-hive"
-    }
-   ]
-  },
-  {
-   "narrative": "RWA & Tokenization",
-   "score": 40.4,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 3,
-    "github_top_velocity": 0.41,
-    "headline_hits": 5,
-    "sample_headlines": [
-     "Mirae Asset Securities issues tokenized notes on Solana",
-     "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
-     "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "vectorix-cross/CrossYield",
-     "stars_per_day": 0.28,
-     "url": "https://github.com/vectorix-cross/CrossYield"
-    },
-    {
-     "full_name": "truenorth-lj/sofinance-public",
-     "stars_per_day": 0.07,
-     "url": "https://github.com/truenorth-lj/sofinance-public"
-    },
-    {
-     "full_name": "Zyxel89/owncurve",
-     "stars_per_day": 0.06,
-     "url": "https://github.com/Zyxel89/owncurve"
     }
    ]
   },
   {
    "narrative": "Security & Threats",
-   "score": 39.9,
+   "score": 40.0,
    "confidence": "High",
    "evidence": {
     "github_repos": 5,
-    "github_top_velocity": 7.92,
+    "github_top_velocity": 8.03,
     "headline_hits": 4,
     "sample_headlines": [
      "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
-     "Mercado Bitcoin Said Its Hack Was Contained, But Blockchain Data Tells a Different Story",
-     "OpenAI Found 948 Linux Security Flaws\u2014And Figured Out How to Exploit Them"
+     "US Sanctions 45 More Targets Tied to Alleged Crypto Scam Empire Prince Group",
+     "Crypto Card Provider Gnosis Pay Says Hackers Accessed Customer Data"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -227,12 +277,12 @@
     },
     {
      "full_name": "BadmonLano/meme-sniper",
-     "stars_per_day": 0.38,
+     "stars_per_day": 0.36,
      "url": "https://github.com/BadmonLano/meme-sniper"
     },
     {
      "full_name": "RedDuckTeam/redduck-solana-audit",
-     "stars_per_day": 0.12,
+     "stars_per_day": 0.25,
      "url": "https://github.com/RedDuckTeam/redduck-solana-audit"
     },
     {
@@ -248,96 +298,46 @@
    ]
   },
   {
-   "narrative": "Payments & Stablecoins",
-   "score": 37.2,
+   "narrative": "RWA & Tokenization",
+   "score": 24.4,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 5,
-    "github_top_velocity": 29.23,
-    "headline_hits": 1,
+    "github_repos": 3,
+    "github_top_velocity": 0.4,
+    "headline_hits": 3,
     "sample_headlines": [
-     "Tx launches USTX stablecoin to pull RWA liquidity onto its chain"
+     "Mirae Asset Securities issues tokenized notes on Solana",
+     "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
+     "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 1
    },
    "member_repos": [
     {
-     "full_name": "Signcluengine/onchain-money-trail-analyzer",
-     "stars_per_day": 28.5,
-     "url": "https://github.com/Signcluengine/onchain-money-trail-analyzer"
+     "full_name": "vectorix-cross/CrossYield",
+     "stars_per_day": 0.28,
+     "url": "https://github.com/vectorix-cross/CrossYield"
     },
     {
-     "full_name": "blueshift-gg/solana-pull-program",
-     "stars_per_day": 0.23,
-     "url": "https://github.com/blueshift-gg/solana-pull-program"
+     "full_name": "Zyxel89/owncurve",
+     "stars_per_day": 0.06,
+     "url": "https://github.com/Zyxel89/owncurve"
     },
     {
-     "full_name": "nirholas/papertrade-x402",
-     "stars_per_day": 0.19,
-     "url": "https://github.com/nirholas/papertrade-x402"
-    },
-    {
-     "full_name": "2274802010922/pipicachu",
-     "stars_per_day": 0.19,
-     "url": "https://github.com/2274802010922/pipicachu"
-    },
-    {
-     "full_name": "2274802010922/picachu_hackathon",
-     "stars_per_day": 0.12,
-     "url": "https://github.com/2274802010922/picachu_hackathon"
-    }
-   ]
-  },
-  {
-   "narrative": "Wallets & UX",
-   "score": 25.9,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 16,
-    "github_top_velocity": 17.88,
-    "headline_hits": 1,
-    "sample_headlines": [
-     "Starknet introduces wallet privacy feature for DeFi activity"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "anica2020/Seed-Wallet-Checker",
-     "stars_per_day": 7.33,
-     "url": "https://github.com/anica2020/Seed-Wallet-Checker"
-    },
-    {
-     "full_name": "h100envy/gem-search",
-     "stars_per_day": 7.29,
-     "url": "https://github.com/h100envy/gem-search"
-    },
-    {
-     "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 1.41,
-     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
-    },
-    {
-     "full_name": "DigitalShieldOfficial/DigitalShield-Hardware-Airgap-Sdk",
-     "stars_per_day": 0.49,
-     "url": "https://github.com/DigitalShieldOfficial/DigitalShield-Hardware-Airgap-Sdk"
-    },
-    {
-     "full_name": "BadmonLano/meme-sniper",
-     "stars_per_day": 0.38,
-     "url": "https://github.com/BadmonLano/meme-sniper"
+     "full_name": "truenorth-lj/sofinance-public",
+     "stars_per_day": 0.06,
+     "url": "https://github.com/truenorth-lj/sofinance-public"
     }
    ]
   },
   {
    "narrative": "DePIN & Physical Infra",
-   "score": 17.9,
+   "score": 17.3,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 3,
-    "github_top_velocity": 17.87,
+    "github_top_velocity": 17.3,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -351,23 +351,23 @@
     },
     {
      "full_name": "Nexq-Pro/program",
-     "stars_per_day": 6.76,
+     "stars_per_day": 6.57,
      "url": "https://github.com/Nexq-Pro/program"
     },
     {
      "full_name": "refrax-xyz/refrax-node",
-     "stars_per_day": 3.78,
+     "stars_per_day": 3.4,
      "url": "https://github.com/refrax-xyz/refrax-node"
     }
    ]
   },
   {
    "narrative": "Consumer & Social",
-   "score": 10.6,
+   "score": 8.0,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 3,
-    "github_top_velocity": 10.6,
+    "github_top_velocity": 8.02,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -376,7 +376,7 @@
    "member_repos": [
     {
      "full_name": "askglyph/glyph",
-     "stars_per_day": 10.33,
+     "stars_per_day": 7.75,
      "url": "https://github.com/askglyph/glyph"
     },
     {

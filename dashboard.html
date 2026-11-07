@@ -18,7 +18,7 @@
  .heads li.head{color:#f5a623;font-style:italic} .ideas b{color:#14f195}
 </style></head><body>
 <h1>Solana Narrative Radar</h1>
-<div class="sub">Fortnightly autonomous trend detection · generated 2026-11-07T05:59:44+00:00 · v0.1</div>
+<div class="sub">Fortnightly autonomous trend detection · generated 2026-11-07T13:03:38+00:00 · v0.1</div>
 <div class="onchain">
  <span>Live network: <b>3495.3 TPS avg</b> (30 RPC samples)</span>
  <span>TPS trend: <b>3.83%</b></span>
@@ -46,45 +46,30 @@
         <span class="name">Dev Tooling &amp; Infra</span>
         <span class="conf conf-medium">Medium</span>
       </div>
-      <div class="score">178.0 <div class="bar" style="width:207px"></div></div>
+      <div class="score">174.4 <div class="bar" style="width:203px"></div></div>
       <div class="ev">
-        <span>52 repos</span> ·
-        <span>178.01★/d</span> ·
+        <span>51 repos</span> ·
+        <span>174.37★/d</span> ·
         <span>0 headlines</span> ·
         <span>1/3 sources</span>
       </div>
       
-      <div class="ideas"><b>Build ideas</b><ul><li>Local-first Solana dev container: one command that ships validator, airdropped test keypair, and explorer UI (rides the 52 tooling repos at 178.01 stars/day).</li><li>Program-diff explorer: show what changed between two deployed program versions (upgrade authority audit trail) — infra trusts need this as more programs go live.</li><li>Free hosted RPC status page with per-method latency/limits across public providers; every new dev hits rate limits on day one.</li></ul></div>
+      <div class="ideas"><b>Build ideas</b><ul><li>Local-first Solana dev container: one command that ships validator, airdropped test keypair, and explorer UI (rides the 51 tooling repos at 174.37 stars/day).</li><li>Program-diff explorer: show what changed between two deployed program versions (upgrade authority audit trail) — infra trusts need this as more programs go live.</li><li>Free hosted RPC status page with per-method latency/limits across public providers; every new dev hits rate limits on day one.</li></ul></div>
     </div>
     <div class="card">
       <div class="card-head">
         <span class="name">DeFi / Trading Infra</span>
         <span class="conf conf-high">High</span>
       </div>
-      <div class="score">168.2 <div class="bar" style="width:196px"></div></div>
+      <div class="score">168.3 <div class="bar" style="width:196px"></div></div>
       <div class="ev">
         <span>43 repos</span> ·
-        <span>112.23★/d</span> ·
+        <span>112.33★/d</span> ·
         <span>7 headlines</span> ·
         <span>2/3 sources</span>
       </div>
       <ul class="heads"><li class='head'>Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading</li><li class='head'>Greece Passes Crypto Tax Law With 10% Gains Levy, 15% on Staking and DeFi</li><li class='head'>The UK needs a workable route to regulated DeFi access</li></ul>
-      <div class="ideas"><b>Build ideas</b><ul><li>Copy-trading guardrail bot: open-source program + bot that mirrors KOL wallets but with hard loss caps and sandwich-protection, riding the 43 trading-infrastructure repos at 112.23 stars/day.</li><li>Perp risk dashboard: real-time liquidation-heat map over Solana perps using public RPC; headlines show perp/DeFi coverage (7 hits) while retail seeks clearer risk tooling.</li><li>Intent-based DEX aggregator SDK with MEV-protection defaults — the aggregator lane is crowded but the intent/MEV-protection angle is under-served based on repo descriptions sampled.</li></ul></div>
-    </div>
-    <div class="card">
-      <div class="card-head">
-        <span class="name">Meme &amp; Speculation</span>
-        <span class="conf conf-high">High</span>
-      </div>
-      <div class="score">155.4 <div class="bar" style="width:181px"></div></div>
-      <div class="ev">
-        <span>14 repos</span> ·
-        <span>138.14★/d</span> ·
-        <span>0 headlines</span> ·
-        <span>2/3 sources</span>
-      </div>
-      
-      <div class="ideas"><b>Build ideas</b><ul><li>Launchpad honesty score: index every pump.fun-style launch by LP lock, mint authority, holder concentration and dev-wallet behavior; surfaces the few credible launches (avg 7d change -8.64%).</li><li>Anti-sniper launch template: open-source fair-launch program (no-bundle, capped per-wallet buys) that new launchpads can adopt — a counter-position to the sniper-bot repos in the dataset.</li><li>Meme-velocity dashboard: tracks avg 7d change -8.64% so traders see which launches have real retention vs. pure rotation.</li></ul></div>
+      <div class="ideas"><b>Build ideas</b><ul><li>Copy-trading guardrail bot: open-source program + bot that mirrors KOL wallets but with hard loss caps and sandwich-protection, riding the 43 trading-infrastructure repos at 112.33 stars/day.</li><li>Perp risk dashboard: real-time liquidation-heat map over Solana perps using public RPC; headlines show perp/DeFi coverage (7 hits) while retail seeks clearer risk tooling.</li><li>Intent-based DEX aggregator SDK with MEV-protection defaults — the aggregator lane is crowded but the intent/MEV-protection angle is under-served based on repo descriptions sampled.</li></ul></div>
     </div>
     <div class="card">
       <div class="card-head">
@@ -94,52 +79,67 @@
       <div class="score">153.7 <div class="bar" style="width:179px"></div></div>
       <div class="ev">
         <span>19 repos</span> ·
-        <span>145.68★/d</span> ·
+        <span>145.67★/d</span> ·
         <span>1 headlines</span> ·
         <span>1/3 sources</span>
       </div>
       <ul class="heads"><li class='head'>Starknet introduces wallet privacy feature for DeFi activity</li></ul>
-      <div class="ideas"><b>Build ideas</b><ul><li>One-tap embedded wallet for Telegram mini-apps on Solana, targeting the wallet-UX friction visible in 19 new wallet/onboarding repos at 145.68 stars/day.</li><li>Session-key wallet: a SPL program that issues 24h scoped keys (spend cap, program allowlist) so dapps never touch the main key — direct answer to onboarding drop-off that wallet repos are attacking.</li><li>Wallet-drain canary service: continuous simulation that alerts users when a signature request would exfiltrate tokens (security headlines: 1 this period — users clearly need guardrails).</li></ul></div>
+      <div class="ideas"><b>Build ideas</b><ul><li>One-tap embedded wallet for Telegram mini-apps on Solana, targeting the wallet-UX friction visible in 19 new wallet/onboarding repos at 145.67 stars/day.</li><li>Session-key wallet: a SPL program that issues 24h scoped keys (spend cap, program allowlist) so dapps never touch the main key — direct answer to onboarding drop-off that wallet repos are attacking.</li><li>Wallet-drain canary service: continuous simulation that alerts users when a signature request would exfiltrate tokens (security headlines: 1 this period — users clearly need guardrails).</li></ul></div>
+    </div>
+    <div class="card">
+      <div class="card-head">
+        <span class="name">Meme &amp; Speculation</span>
+        <span class="conf conf-high">High</span>
+      </div>
+      <div class="score">145.8 <div class="bar" style="width:170px"></div></div>
+      <div class="ev">
+        <span>14 repos</span> ·
+        <span>127.86★/d</span> ·
+        <span>0 headlines</span> ·
+        <span>2/3 sources</span>
+      </div>
+      
+      <div class="ideas"><b>Build ideas</b><ul><li>Launchpad honesty score: index every pump.fun-style launch by LP lock, mint authority, holder concentration and dev-wallet behavior; surfaces the few credible launches (avg 7d change -8.96%).</li><li>Anti-sniper launch template: open-source fair-launch program (no-bundle, capped per-wallet buys) that new launchpads can adopt — a counter-position to the sniper-bot repos in the dataset.</li><li>Meme-velocity dashboard: tracks avg 7d change -8.96% so traders see which launches have real retention vs. pure rotation.</li></ul></div>
     </div>
     <div class="card">
       <div class="card-head">
         <span class="name">AI Agents on Solana</span>
         <span class="conf conf-high">High</span>
       </div>
-      <div class="score">117.4 <div class="bar" style="width:137px"></div></div>
+      <div class="score">122.5 <div class="bar" style="width:143px"></div></div>
       <div class="ev">
-        <span>28 repos</span> ·
-        <span>77.36★/d</span> ·
+        <span>29 repos</span> ·
+        <span>82.52★/d</span> ·
         <span>5 headlines</span> ·
         <span>2/3 sources</span>
       </div>
       <ul class="heads"><li class='head'>AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest</li><li class='head'>Anthropic IPO Valuation Could Be Slashed in Half to $1T After AI Stock Rout: Report</li><li class='head'>Tesla to Wind Down Cybertruck Production as Elon Musk Pivots to Robotaxis and AI</li></ul>
-      <div class="ideas"><b>Build ideas</b><ul><li>Agent-wallet runtime: a Go/Type SDK that gives every AI agent a non-custodial Solana wallet with per-action spend limits and an auditable on-chain action log (rides the 25 new agent repos at 77.36 stars/day).</li><li>Agent-to-agent escrow program: an Anchor program where two agents lock funds against a task hash and release on verifiable completion — targets the trust gap visible in Beingfluresurrect/Solana-token-sniper-style automation repos.</li><li>Agent fee rail: x402-style HTTP 402 paywall in Rust/TS that lets any API monetize per-call for AI agents paying in USDC — stablecoin rail already has deep volume/mcap ratio on Solana.</li></ul></div>
+      <div class="ideas"><b>Build ideas</b><ul><li>Agent-wallet runtime: a Go/Type SDK that gives every AI agent a non-custodial Solana wallet with per-action spend limits and an auditable on-chain action log (rides the 25 new agent repos at 82.52 stars/day).</li><li>Agent-to-agent escrow program: an Anchor program where two agents lock funds against a task hash and release on verifiable completion — targets the trust gap visible in Beingfluresurrect/Solana-token-sniper-style automation repos.</li><li>Agent fee rail: x402-style HTTP 402 paywall in Rust/TS that lets any API monetize per-call for AI agents paying in USDC — stablecoin rail already has deep volume/mcap ratio on Solana.</li></ul></div>
     </div>
     <div class="card">
       <div class="card-head">
         <span class="name">Security &amp; Threats</span>
         <span class="conf conf-high">High</span>
       </div>
-      <div class="score">89.2 <div class="bar" style="width:104px"></div></div>
+      <div class="score">89.3 <div class="bar" style="width:104px"></div></div>
       <div class="ev">
         <span>6 repos</span> ·
-        <span>57.17★/d</span> ·
+        <span>57.26★/d</span> ·
         <span>4 headlines</span> ·
         <span>2/3 sources</span>
       </div>
       <ul class="heads"><li class='head'>Crypto investigators flag suspected $106M theft, $786K Solana bot drain</li><li class='head'>US Sanctions 45 More Targets Tied to Alleged Crypto Scam Empire Prince Group</li><li class='head'>Crypto Card Provider Gnosis Pay Says Hackers Accessed Customer Data</li></ul>
-      <div class="ideas"><b>Build ideas</b><ul><li>Open drainer-signature registry: community-maintained feed of known malicious program IDs + a free API dapps/wallets can query before signing (drainer repos at 57.17 stars/day show industrial-scale scam ops).</li><li>Pre-sign simulation widget: embeddable, self-hosted tool that runs a tx against a forked state and flags token transfers to unknown owners — targets the phishing/drainer headline cluster (4 hits).</li><li>Rug-pull early warning for launchpads: on-chain LP-lock + authority-change monitor with public API; pairs with the meme-launchpad narrative instead of fighting it.</li></ul></div>
+      <div class="ideas"><b>Build ideas</b><ul><li>Open drainer-signature registry: community-maintained feed of known malicious program IDs + a free API dapps/wallets can query before signing (drainer repos at 57.26 stars/day show industrial-scale scam ops).</li><li>Pre-sign simulation widget: embeddable, self-hosted tool that runs a tx against a forked state and flags token transfers to unknown owners — targets the phishing/drainer headline cluster (4 hits).</li><li>Rug-pull early warning for launchpads: on-chain LP-lock + authority-change monitor with public API; pairs with the meme-launchpad narrative instead of fighting it.</li></ul></div>
     </div>
     <div class="card">
       <div class="card-head">
         <span class="name">DePIN &amp; Physical Infra</span>
         <span class="conf conf-medium">Medium</span>
       </div>
-      <div class="score">66.5 <div class="bar" style="width:77px"></div></div>
+      <div class="score">66.3 <div class="bar" style="width:77px"></div></div>
       <div class="ev">
         <span>4 repos</span> ·
-        <span>66.53★/d</span> ·
+        <span>66.32★/d</span> ·
         <span>0 headlines</span> ·
         <span>1/3 sources</span>
       </div>

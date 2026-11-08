@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-07T21:52:22+00:00",
+ "generated_at": "2026-11-08T06:03:45+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 199.6,
+   "score": 218.5,
    "confidence": "High",
    "evidence": {
     "github_repos": 43,
-    "github_top_velocity": 143.6,
+    "github_top_velocity": 162.46,
     "headline_hits": 7,
     "sample_headlines": [
      "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
@@ -20,17 +20,17 @@
    "member_repos": [
     {
      "full_name": "Beingfluresurrect/Solana-token-sniper",
-     "stars_per_day": 82.0,
+     "stars_per_day": 101.0,
      "url": "https://github.com/Beingfluresurrect/Solana-token-sniper"
     },
     {
      "full_name": "ismeh7765/FlashUSDT-v",
-     "stars_per_day": 25.0,
+     "stars_per_day": 26.0,
      "url": "https://github.com/ismeh7765/FlashUSDT-v"
     },
     {
      "full_name": "tapoooooty/hypergrad",
-     "stars_per_day": 8.12,
+     "stars_per_day": 7.22,
      "url": "https://github.com/tapoooooty/hypergrad"
     },
     {
@@ -40,27 +40,27 @@
     },
     {
      "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 6.72,
+     "stars_per_day": 6.8,
      "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
     }
    ]
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 177.5,
+   "score": 196.9,
    "confidence": "High",
    "evidence": {
-    "github_repos": 15,
-    "github_top_velocity": 158.41,
+    "github_repos": 14,
+    "github_top_velocity": 176.36,
     "headline_hits": 0,
     "sample_headlines": [],
-    "market_avg_7d_pct": -9.54,
+    "market_avg_7d_pct": -10.28,
     "sources_confirming": 2
    },
    "member_repos": [
     {
      "full_name": "Beingfluresurrect/Solana-token-sniper",
-     "stars_per_day": 82.0,
+     "stars_per_day": 101.0,
      "url": "https://github.com/Beingfluresurrect/Solana-token-sniper"
     },
     {
@@ -75,7 +75,7 @@
     },
     {
      "full_name": "tapoooooty/hypergrad",
-     "stars_per_day": 8.12,
+     "stars_per_day": 7.22,
      "url": "https://github.com/tapoooooty/hypergrad"
     },
     {
@@ -86,12 +86,56 @@
    ]
   },
   {
+   "narrative": "AI Agents on Solana",
+   "score": 160.9,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 26,
+    "github_top_velocity": 128.91,
+    "headline_hits": 4,
+    "sample_headlines": [
+     "AI agents help rescue ETH\u2019s Glamsterdam fork, \u2018Steal My Bitcoin\u2019 site: Hodler\u2019s Digest",
+     "AI Chip Stocks Bounce After Global Rout\u2014But Is the Bubble Starting to Burst?",
+     "Anthropic IPO Valuation Could Be Slashed in Half to $1T After AI Stock Rout: Report"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 2
+   },
+   "member_repos": [
+    {
+     "full_name": "Beingfluresurrect/Solana-token-sniper",
+     "stars_per_day": 101.0,
+     "url": "https://github.com/Beingfluresurrect/Solana-token-sniper"
+    },
+    {
+     "full_name": "teraus111/web3-agent-kit-solana-trading",
+     "stars_per_day": 6.8,
+     "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
+    },
+    {
+     "full_name": "askglyph/glyph",
+     "stars_per_day": 6.2,
+     "url": "https://github.com/askglyph/glyph"
+    },
+    {
+     "full_name": "riverstatesmanrevere/Solana-token-sniper",
+     "stars_per_day": 5.33,
+     "url": "https://github.com/riverstatesmanrevere/Solana-token-sniper"
+    },
+    {
+     "full_name": "SpaceDataRig/space-data-rig",
+     "stars_per_day": 5.0,
+     "url": "https://github.com/SpaceDataRig/space-data-rig"
+    }
+   ]
+  },
+  {
    "narrative": "Payments & Stablecoins",
-   "score": 157.8,
+   "score": 154.3,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 8,
-    "github_top_velocity": 149.82,
+    "github_top_velocity": 146.33,
     "headline_hits": 1,
     "sample_headlines": [
      "Tx launches USTX stablecoin to pull RWA liquidity onto its chain"
@@ -107,17 +151,17 @@
     },
     {
      "full_name": "ismeh7765/FlashUSDT-v",
-     "stars_per_day": 25.0,
+     "stars_per_day": 26.0,
      "url": "https://github.com/ismeh7765/FlashUSDT-v"
     },
     {
      "full_name": "Signcluengine/onchain-money-trail-analyzer",
-     "stars_per_day": 23.86,
+     "stars_per_day": 20.88,
      "url": "https://github.com/Signcluengine/onchain-money-trail-analyzer"
     },
     {
      "full_name": "orrery-node/orrery",
-     "stars_per_day": 3.0,
+     "stars_per_day": 1.5,
      "url": "https://github.com/orrery-node/orrery"
     },
     {
@@ -128,56 +172,12 @@
    ]
   },
   {
-   "narrative": "AI Agents on Solana",
-   "score": 143.7,
-   "confidence": "High",
-   "evidence": {
-    "github_repos": 28,
-    "github_top_velocity": 111.65,
-    "headline_hits": 4,
-    "sample_headlines": [
-     "AI agents help rescue ETH\u2019s Glamsterdam fork, \u2018Steal My Bitcoin\u2019 site: Hodler\u2019s Digest",
-     "AI Chip Stocks Bounce After Global Rout\u2014But Is the Bubble Starting to Burst?",
-     "Anthropic IPO Valuation Could Be Slashed in Half to $1T After AI Stock Rout: Report"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 2
-   },
-   "member_repos": [
-    {
-     "full_name": "Beingfluresurrect/Solana-token-sniper",
-     "stars_per_day": 82.0,
-     "url": "https://github.com/Beingfluresurrect/Solana-token-sniper"
-    },
-    {
-     "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 6.72,
-     "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
-    },
-    {
-     "full_name": "askglyph/glyph",
-     "stars_per_day": 6.2,
-     "url": "https://github.com/askglyph/glyph"
-    },
-    {
-     "full_name": "riverstatesmanrevere/Solana-token-sniper",
-     "stars_per_day": 5.6,
-     "url": "https://github.com/riverstatesmanrevere/Solana-token-sniper"
-    },
-    {
-     "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 5.0,
-     "url": "https://github.com/SpaceDataRig/space-data-rig"
-    }
-   ]
-  },
-  {
    "narrative": "Dev Tooling & Infra",
-   "score": 142.1,
+   "score": 139.5,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 51,
-    "github_top_velocity": 142.1,
+    "github_top_velocity": 139.53,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -191,17 +191,17 @@
     },
     {
      "full_name": "mAphrica/solana-foundation-kora",
-     "stars_per_day": 9.1,
+     "stars_per_day": 8.27,
      "url": "https://github.com/mAphrica/solana-foundation-kora"
     },
     {
      "full_name": "Nexq-Pro/program",
-     "stars_per_day": 6.47,
+     "stars_per_day": 6.53,
      "url": "https://github.com/Nexq-Pro/program"
     },
     {
      "full_name": "Nexq-Pro/explorer",
-     "stars_per_day": 6.44,
+     "stars_per_day": 6.5,
      "url": "https://github.com/Nexq-Pro/explorer"
     },
     {
@@ -212,12 +212,56 @@
    ]
   },
   {
+   "narrative": "Security & Threats",
+   "score": 138.9,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 6,
+    "github_top_velocity": 106.94,
+    "headline_hits": 4,
+    "sample_headlines": [
+     "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
+     "US Sanctions 45 More Targets Tied to Alleged Crypto Scam Empire Prince Group",
+     "Crypto Card Provider Gnosis Pay Says Hackers Accessed Customer Data"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 2
+   },
+   "member_repos": [
+    {
+     "full_name": "Beingfluresurrect/Solana-token-sniper",
+     "stars_per_day": 101.0,
+     "url": "https://github.com/Beingfluresurrect/Solana-token-sniper"
+    },
+    {
+     "full_name": "riverstatesmanrevere/Solana-token-sniper",
+     "stars_per_day": 5.33,
+     "url": "https://github.com/riverstatesmanrevere/Solana-token-sniper"
+    },
+    {
+     "full_name": "BadmonLano/meme-sniper",
+     "stars_per_day": 0.33,
+     "url": "https://github.com/BadmonLano/meme-sniper"
+    },
+    {
+     "full_name": "RedDuckTeam/redduck-solana-audit",
+     "stars_per_day": 0.2,
+     "url": "https://github.com/RedDuckTeam/redduck-solana-audit"
+    },
+    {
+     "full_name": "Portaudit/referee",
+     "stars_per_day": 0.04,
+     "url": "https://github.com/Portaudit/referee"
+    }
+   ]
+  },
+  {
    "narrative": "Wallets & UX",
    "score": 121.0,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 18,
-    "github_top_velocity": 113.01,
+    "github_top_velocity": 113.0,
     "headline_hits": 1,
     "sample_headlines": [
      "Starknet introduces wallet privacy feature for DeFi activity"
@@ -248,62 +292,18 @@
     },
     {
      "full_name": "DigitalShieldOfficial/DigitalShield-Hardware-Airgap-Sdk",
-     "stars_per_day": 0.5,
+     "stars_per_day": 0.49,
      "url": "https://github.com/DigitalShieldOfficial/DigitalShield-Hardware-Airgap-Sdk"
     }
    ]
   },
   {
-   "narrative": "Security & Threats",
-   "score": 120.2,
-   "confidence": "High",
-   "evidence": {
-    "github_repos": 6,
-    "github_top_velocity": 88.23,
-    "headline_hits": 4,
-    "sample_headlines": [
-     "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
-     "US Sanctions 45 More Targets Tied to Alleged Crypto Scam Empire Prince Group",
-     "Crypto Card Provider Gnosis Pay Says Hackers Accessed Customer Data"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 2
-   },
-   "member_repos": [
-    {
-     "full_name": "Beingfluresurrect/Solana-token-sniper",
-     "stars_per_day": 82.0,
-     "url": "https://github.com/Beingfluresurrect/Solana-token-sniper"
-    },
-    {
-     "full_name": "riverstatesmanrevere/Solana-token-sniper",
-     "stars_per_day": 5.6,
-     "url": "https://github.com/riverstatesmanrevere/Solana-token-sniper"
-    },
-    {
-     "full_name": "BadmonLano/meme-sniper",
-     "stars_per_day": 0.33,
-     "url": "https://github.com/BadmonLano/meme-sniper"
-    },
-    {
-     "full_name": "RedDuckTeam/redduck-solana-audit",
-     "stars_per_day": 0.22,
-     "url": "https://github.com/RedDuckTeam/redduck-solana-audit"
-    },
-    {
-     "full_name": "Portaudit/referee",
-     "stars_per_day": 0.04,
-     "url": "https://github.com/Portaudit/referee"
-    }
-   ]
-  },
-  {
    "narrative": "DePIN & Physical Infra",
-   "score": 97.2,
+   "score": 116.0,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 4,
-    "github_top_velocity": 97.16,
+    "github_top_velocity": 115.95,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -312,17 +312,17 @@
    "member_repos": [
     {
      "full_name": "Beingfluresurrect/Solana-token-sniper",
-     "stars_per_day": 82.0,
+     "stars_per_day": 101.0,
      "url": "https://github.com/Beingfluresurrect/Solana-token-sniper"
     },
     {
      "full_name": "Nexq-Pro/program",
-     "stars_per_day": 6.47,
+     "stars_per_day": 6.53,
      "url": "https://github.com/Nexq-Pro/program"
     },
     {
      "full_name": "riverstatesmanrevere/Solana-token-sniper",
-     "stars_per_day": 5.6,
+     "stars_per_day": 5.33,
      "url": "https://github.com/riverstatesmanrevere/Solana-token-sniper"
     },
     {

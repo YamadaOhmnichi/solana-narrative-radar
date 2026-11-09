@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-11-08T22:07:28+00:00",
+ "generated_at": "2026-11-09T06:33:25+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 150.6,
+   "score": 144.3,
    "confidence": "High",
    "evidence": {
-    "github_repos": 43,
-    "github_top_velocity": 94.6,
-    "headline_hits": 7,
+    "github_repos": 44,
+    "github_top_velocity": 96.31,
+    "headline_hits": 6,
     "sample_headlines": [
      "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
      "Greece Passes Crypto Tax Law With 10% Gains Levy, 15% on Staking and DeFi",
@@ -25,7 +25,7 @@
     },
     {
      "full_name": "ismeh7765/FlashUSDT-v",
-     "stars_per_day": 15.5,
+     "stars_per_day": 16.0,
      "url": "https://github.com/ismeh7765/FlashUSDT-v"
     },
     {
@@ -47,14 +47,14 @@
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 143.6,
+   "score": 139.2,
    "confidence": "High",
    "evidence": {
     "github_repos": 14,
-    "github_top_velocity": 112.68,
+    "github_top_velocity": 112.44,
     "headline_hits": 0,
     "sample_headlines": [],
-    "market_avg_7d_pct": -15.48,
+    "market_avg_7d_pct": -13.4,
     "sources_confirming": 2
    },
    "member_repos": [
@@ -91,7 +91,7 @@
    "confidence": "Medium",
    "evidence": {
     "github_repos": 8,
-    "github_top_velocity": 114.04,
+    "github_top_velocity": 114.02,
     "headline_hits": 1,
     "sample_headlines": [
      "Tx launches USTX stablecoin to pull RWA liquidity onto its chain"
@@ -112,12 +112,12 @@
     },
     {
      "full_name": "ismeh7765/FlashUSDT-v",
-     "stars_per_day": 15.5,
+     "stars_per_day": 16.0,
      "url": "https://github.com/ismeh7765/FlashUSDT-v"
     },
     {
      "full_name": "orrery-node/orrery",
-     "stars_per_day": 1.5,
+     "stars_per_day": 1.0,
      "url": "https://github.com/orrery-node/orrery"
     },
     {
@@ -129,11 +129,11 @@
   },
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 119.0,
+   "score": 117.8,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 51,
-    "github_top_velocity": 118.98,
+    "github_top_velocity": 117.8,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -147,7 +147,7 @@
     },
     {
      "full_name": "mAphrica/solana-foundation-kora",
-     "stars_per_day": 8.27,
+     "stars_per_day": 7.58,
      "url": "https://github.com/mAphrica/solana-foundation-kora"
     },
     {
@@ -168,16 +168,58 @@
    ]
   },
   {
+   "narrative": "AI Agents on Solana",
+   "score": 94.6,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 26,
+    "github_top_velocity": 70.64,
+    "headline_hits": 3,
+    "sample_headlines": [
+     "AI agents help rescue ETH\u2019s Glamsterdam fork, \u2018Steal My Bitcoin\u2019 site: Hodler\u2019s Digest",
+     "AI Chip Stocks Bounce After Global Rout\u2014But Is the Bubble Starting to Burst?",
+     "Blockchain is \u2018perfect solution\u2019 for AI agent trust, VeChain CEO says"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 2
+   },
+   "member_repos": [
+    {
+     "full_name": "Beingfluresurrect/Solana-token-sniper",
+     "stars_per_day": 45.0,
+     "url": "https://github.com/Beingfluresurrect/Solana-token-sniper"
+    },
+    {
+     "full_name": "teraus111/web3-agent-kit-solana-trading",
+     "stars_per_day": 6.58,
+     "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
+    },
+    {
+     "full_name": "askglyph/glyph",
+     "stars_per_day": 5.17,
+     "url": "https://github.com/askglyph/glyph"
+    },
+    {
+     "full_name": "riverstatesmanrevere/Solana-token-sniper",
+     "stars_per_day": 5.09,
+     "url": "https://github.com/riverstatesmanrevere/Solana-token-sniper"
+    },
+    {
+     "full_name": "SpaceDataRig/space-data-rig",
+     "stars_per_day": 4.86,
+     "url": "https://github.com/SpaceDataRig/space-data-rig"
+    }
+   ]
+  },
+  {
    "narrative": "Wallets & UX",
-   "score": 100.9,
+   "score": 92.9,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 19,
-    "github_top_velocity": 92.88,
-    "headline_hits": 1,
-    "sample_headlines": [
-     "Starknet introduces wallet privacy feature for DeFi activity"
-    ],
+    "github_top_velocity": 92.86,
+    "headline_hits": 0,
+    "sample_headlines": [],
     "market_avg_7d_pct": null,
     "sources_confirming": 1
    },
@@ -204,62 +246,18 @@
     },
     {
      "full_name": "DigitalShieldOfficial/DigitalShield-Hardware-Airgap-Sdk",
-     "stars_per_day": 0.49,
+     "stars_per_day": 0.48,
      "url": "https://github.com/DigitalShieldOfficial/DigitalShield-Hardware-Airgap-Sdk"
     }
    ]
   },
   {
-   "narrative": "AI Agents on Solana",
-   "score": 95.4,
-   "confidence": "High",
-   "evidence": {
-    "github_repos": 26,
-    "github_top_velocity": 71.43,
-    "headline_hits": 3,
-    "sample_headlines": [
-     "AI agents help rescue ETH\u2019s Glamsterdam fork, \u2018Steal My Bitcoin\u2019 site: Hodler\u2019s Digest",
-     "AI Chip Stocks Bounce After Global Rout\u2014But Is the Bubble Starting to Burst?",
-     "Blockchain is \u2018perfect solution\u2019 for AI agent trust, VeChain CEO says"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 2
-   },
-   "member_repos": [
-    {
-     "full_name": "Beingfluresurrect/Solana-token-sniper",
-     "stars_per_day": 45.0,
-     "url": "https://github.com/Beingfluresurrect/Solana-token-sniper"
-    },
-    {
-     "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 6.58,
-     "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
-    },
-    {
-     "full_name": "riverstatesmanrevere/Solana-token-sniper",
-     "stars_per_day": 5.33,
-     "url": "https://github.com/riverstatesmanrevere/Solana-token-sniper"
-    },
-    {
-     "full_name": "askglyph/glyph",
-     "stars_per_day": 5.17,
-     "url": "https://github.com/askglyph/glyph"
-    },
-    {
-     "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 4.86,
-     "url": "https://github.com/SpaceDataRig/space-data-rig"
-    }
-   ]
-  },
-  {
    "narrative": "Security & Threats",
-   "score": 82.9,
+   "score": 82.7,
    "confidence": "High",
    "evidence": {
     "github_repos": 6,
-    "github_top_velocity": 50.92,
+    "github_top_velocity": 50.66,
     "headline_hits": 4,
     "sample_headlines": [
      "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
@@ -277,7 +275,7 @@
     },
     {
      "full_name": "riverstatesmanrevere/Solana-token-sniper",
-     "stars_per_day": 5.33,
+     "stars_per_day": 5.09,
      "url": "https://github.com/riverstatesmanrevere/Solana-token-sniper"
     },
     {
@@ -287,7 +285,7 @@
     },
     {
      "full_name": "RedDuckTeam/redduck-solana-audit",
-     "stars_per_day": 0.2,
+     "stars_per_day": 0.18,
      "url": "https://github.com/RedDuckTeam/redduck-solana-audit"
     },
     {
@@ -299,11 +297,11 @@
   },
   {
    "narrative": "DePIN & Physical Infra",
-   "score": 59.5,
+   "score": 59.3,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 4,
-    "github_top_velocity": 59.51,
+    "github_top_velocity": 59.27,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -322,7 +320,7 @@
     },
     {
      "full_name": "riverstatesmanrevere/Solana-token-sniper",
-     "stars_per_day": 5.33,
+     "stars_per_day": 5.09,
      "url": "https://github.com/riverstatesmanrevere/Solana-token-sniper"
     },
     {

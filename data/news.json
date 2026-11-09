@@ -125,6 +125,11 @@
  ],
  "cryptonews": [
   {
+   "title": "tBTC bridge partially resumes as $120M Aave reserve remains frozen",
+   "pub": "Mon, 09 Nov 2026 04:03:08 +0000",
+   "link": "https://cointelegraph.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+  },
+  {
    "title": "Strive buys 15,124 Bitcoin in October, closes in on top treasury holders",
    "pub": "Fri, 06 Nov 2026 18:22:42 +0000",
    "link": "https://cointelegraph.com/news/strive-buys-bitcoin-october-top-btc-corporate-holders?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
@@ -178,11 +183,6 @@
    "title": "Babylon advances native Bitcoin lending proposal on Aave V4",
    "pub": "Thu, 15 Oct 2026 09:14:28 +0000",
    "link": "https://cointelegraph.com/news/babylon-native-bitcoin-collateral-aave-v4-proposal?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Starknet introduces wallet privacy feature for DeFi activity",
-   "pub": "Wed, 14 Oct 2026 05:32:14 +0000",
-   "link": "https://cointelegraph.com/news/starknet-introduces-wallet-privacy-feature-for-defi-activity?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
   }
  ]
 }

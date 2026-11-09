@@ -1,26 +1,5 @@
 [
  {
-  "full_name": "Torquatoatkins/Drainer-Tool-Solana",
-  "url": "https://github.com/Torquatoatkins/Drainer-Tool-Solana",
-  "description": "Solana Drainer Tool \u2014 Automated SOL and SPL token drainer for Solana wallets with real-time balance monitoring, multi-wallet sweeping, Phantom/Backpack/Solflare compatibility, and stealth transaction ",
-  "stars": 299,
-  "created": "2026-11-03T17:18:12Z",
-  "language": "Python",
-  "stars_per_day": 59.8,
-  "age_days": 5,
-  "topics": [
-   "auto-withdraw-bot",
-   "auto-withdraw-script",
-   "drain-bot-sol",
-   "drain-protocol",
-   "drainer-btc-tool",
-   "drainer-tools",
-   "drainer-usdt-tool",
-   "ethereum"
-  ],
-  "flag": "malware-pattern"
- },
- {
   "full_name": "solana-program/groth16-verifier-program",
   "url": "https://github.com/solana-program/groth16-verifier-program",
   "description": "A solana program for Groth16 verifier",
@@ -28,7 +7,7 @@
   "created": "2026-09-12T18:05:35Z",
   "language": "Rust",
   "stars_per_day": 0.02,
-  "age_days": 57,
+  "age_days": 58,
   "topics": [],
   "flag": "brand-impersonation"
  }

@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-09T22:23:11+00:00",
+ "generated_at": "2026-11-10T07:20:47+00:00",
  "narratives": [
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 106.0,
+   "score": 105.4,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 53,
-    "github_top_velocity": 106.01,
+    "github_repos": 52,
+    "github_top_velocity": 105.39,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -21,33 +21,33 @@
     },
     {
      "full_name": "mAphrica/solana-foundation-kora",
-     "stars_per_day": 7.58,
+     "stars_per_day": 7.0,
      "url": "https://github.com/mAphrica/solana-foundation-kora"
     },
     {
      "full_name": "Nexq-Pro/explorer",
-     "stars_per_day": 6.24,
+     "stars_per_day": 6.26,
      "url": "https://github.com/Nexq-Pro/explorer"
     },
     {
      "full_name": "Nexq-Pro/program",
-     "stars_per_day": 6.24,
+     "stars_per_day": 6.26,
      "url": "https://github.com/Nexq-Pro/program"
     },
     {
      "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 5.03,
+     "stars_per_day": 5.07,
      "url": "https://github.com/h100envy/crawl-hive"
     }
    ]
   },
   {
    "narrative": "Payments & Stablecoins",
-   "score": 105.7,
+   "score": 101.8,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 8,
-    "github_top_velocity": 97.69,
+    "github_top_velocity": 93.85,
     "headline_hits": 1,
     "sample_headlines": [
      "Tx launches USTX stablecoin to pull RWA liquidity onto its chain"
@@ -68,12 +68,12 @@
     },
     {
      "full_name": "ismeh7765/FlashUSDT-v",
-     "stars_per_day": 14.33,
+     "stars_per_day": 10.75,
      "url": "https://github.com/ismeh7765/FlashUSDT-v"
     },
     {
      "full_name": "orrery-node/orrery",
-     "stars_per_day": 1.0,
+     "stars_per_day": 0.75,
      "url": "https://github.com/orrery-node/orrery"
     },
     {
@@ -85,11 +85,11 @@
   },
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 95.0,
+   "score": 90.5,
    "confidence": "High",
    "evidence": {
     "github_repos": 43,
-    "github_top_velocity": 46.99,
+    "github_top_velocity": 42.49,
     "headline_hits": 6,
     "sample_headlines": [
      "Formation Securities plans Solana stock trading venue under SEC exemption",
@@ -102,17 +102,17 @@
    "member_repos": [
     {
      "full_name": "ismeh7765/FlashUSDT-v",
-     "stars_per_day": 14.33,
+     "stars_per_day": 10.75,
      "url": "https://github.com/ismeh7765/FlashUSDT-v"
     },
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 6.49,
+     "stars_per_day": 6.51,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
      "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 6.41,
+     "stars_per_day": 6.44,
      "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
     },
     {
@@ -122,7 +122,7 @@
     },
     {
      "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 5.03,
+     "stars_per_day": 5.07,
      "url": "https://github.com/h100envy/crawl-hive"
     }
    ]
@@ -132,13 +132,13 @@
    "score": 83.2,
    "confidence": "High",
    "evidence": {
-    "github_repos": 15,
-    "github_top_velocity": 61.96,
+    "github_repos": 16,
+    "github_top_velocity": 63.28,
     "headline_hits": 1,
     "sample_headlines": [
      "Binance Hack Launderers Mint Elon Musk and Animal Meme Coins to Move Stolen Crypto"
     ],
-    "market_avg_7d_pct": -6.62,
+    "market_avg_7d_pct": -5.96,
     "sources_confirming": 2
    },
    "member_repos": [
@@ -154,12 +154,12 @@
     },
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 6.49,
+     "stars_per_day": 6.51,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
      "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 6.41,
+     "stars_per_day": 6.44,
      "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
     },
     {
@@ -171,11 +171,11 @@
   },
   {
    "narrative": "Wallets & UX",
-   "score": 74.9,
+   "score": 73.8,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 19,
-    "github_top_velocity": 74.93,
+    "github_repos": 18,
+    "github_top_velocity": 73.78,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -189,33 +189,33 @@
     },
     {
      "full_name": "h100envy/gem-search",
-     "stars_per_day": 6.49,
+     "stars_per_day": 6.51,
      "url": "https://github.com/h100envy/gem-search"
     },
     {
-     "full_name": "openarbmev/Openarb-Trade-SDK",
-     "stars_per_day": 1.3,
-     "url": "https://github.com/openarbmev/Openarb-Trade-SDK"
-    },
-    {
      "full_name": "PTK030/kenning",
-     "stars_per_day": 0.73,
+     "stars_per_day": 0.77,
      "url": "https://github.com/PTK030/kenning"
     },
     {
      "full_name": "DigitalShieldOfficial/DigitalShield-Hardware-Airgap-Sdk",
-     "stars_per_day": 0.46,
+     "stars_per_day": 0.45,
      "url": "https://github.com/DigitalShieldOfficial/DigitalShield-Hardware-Airgap-Sdk"
+    },
+    {
+     "full_name": "BadmonLano/meme-sniper",
+     "stars_per_day": 0.29,
+     "url": "https://github.com/BadmonLano/meme-sniper"
     }
    ]
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 60.9,
+   "score": 60.7,
    "confidence": "High",
    "evidence": {
     "github_repos": 25,
-    "github_top_velocity": 20.86,
+    "github_top_velocity": 20.72,
     "headline_hits": 5,
     "sample_headlines": [
      "AI agents help rescue ETH\u2019s Glamsterdam fork, \u2018Steal My Bitcoin\u2019 site: Hodler\u2019s Digest",
@@ -228,12 +228,12 @@
    "member_repos": [
     {
      "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 6.41,
+     "stars_per_day": 6.44,
      "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
     },
     {
      "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 4.77,
+     "stars_per_day": 4.9,
      "url": "https://github.com/SpaceDataRig/space-data-rig"
     },
     {
@@ -298,7 +298,7 @@
    "confidence": "High",
    "evidence": {
     "github_repos": 6,
-    "github_top_velocity": 4.42,
+    "github_top_velocity": 4.45,
     "headline_hits": 3,
     "sample_headlines": [
      "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
@@ -316,7 +316,7 @@
     },
     {
      "full_name": "PTK030/kenning",
-     "stars_per_day": 0.73,
+     "stars_per_day": 0.77,
      "url": "https://github.com/PTK030/kenning"
     },
     {
@@ -326,7 +326,7 @@
     },
     {
      "full_name": "RedDuckTeam/redduck-solana-audit",
-     "stars_per_day": 0.18,
+     "stars_per_day": 0.17,
      "url": "https://github.com/RedDuckTeam/redduck-solana-audit"
     },
     {
@@ -342,7 +342,7 @@
    "confidence": "Medium",
    "evidence": {
     "github_repos": 3,
-    "github_top_velocity": 12.0,
+    "github_top_velocity": 12.02,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -351,7 +351,7 @@
    "member_repos": [
     {
      "full_name": "Nexq-Pro/program",
-     "stars_per_day": 6.24,
+     "stars_per_day": 6.26,
      "url": "https://github.com/Nexq-Pro/program"
     },
     {

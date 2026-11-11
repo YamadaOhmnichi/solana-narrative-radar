@@ -63,64 +63,64 @@
  ],
  "decrypt": [
   {
+   "title": "Deutsche Bank Goes Live With Crypto Custody After a Five-Year Buildup",
+   "pub": "Wed, 11 Nov 2026 19:06:02 +0000",
+   "link": "https://decrypt.co/383067/deutsche-bank-goes-live-with-crypto-custody-after-a-five-year-buildup"
+  },
+  {
+   "title": "Bitcoin Faces First Back-to-Back Annual Losses in History, But There's a Catch",
+   "pub": "Wed, 11 Nov 2026 17:56:02 +0000",
+   "link": "https://decrypt.co/383049/bitcoin-first-back-to-back-annual-losses-history"
+  },
+  {
+   "title": "What Are Solana Privacy Rings? Inside Helius\u2019 Privacy Protocol for Solana",
+   "pub": "Wed, 11 Nov 2026 17:09:18 +0000",
+   "link": "https://decrypt.co/resources/what-are-solana-privacy-rings-inside-helius-privacy-protocol-for-solana"
+  },
+  {
+   "title": "A High-Severity Bug Could Have Stalled Bitcoin Mining\u2014Bitcoin Core Has a Fix",
+   "pub": "Wed, 11 Nov 2026 16:58:57 +0000",
+   "link": "https://decrypt.co/383044/bitcoin-core-patches-bug-could-have-stalled-btc-mining"
+  },
+  {
+   "title": "OKX-ICE Tokenized Stock Venue Sets Launch, Turning to Crypto Companies After Big Tech Opts Out",
+   "pub": "Wed, 11 Nov 2026 16:14:01 +0000",
+   "link": "https://decrypt.co/383040/okx-ice-tokenized-stock-venue-sets-launch-crypto-companies-big-tech-opts-out"
+  },
+  {
+   "title": "Decrypt Becomes First News Publisher to Offer Perps Trading, Powered by Solana's Phoenix",
+   "pub": "Wed, 11 Nov 2026 14:02:55 +0000",
+   "link": "https://decrypt.co/382992/decrypt-becomes-first-news-publisher-to-offer-perps-trading-powered-by-solanas-phoenix"
+  },
+  {
+   "title": "Morning Minute: What Anthropic\u2019s $1.4 Trillion IPO Means for Crypto",
+   "pub": "Wed, 11 Nov 2026 12:55:18 +0000",
+   "link": "https://decrypt.co/383001/morning-minute-what-anthropics-1-4-trillion-ipo-means-for-crypto"
+  },
+  {
+   "title": "Kraken Parent Payward Brings 200 UK and EU Stocks Onchain as xStocks",
+   "pub": "Wed, 11 Nov 2026 12:46:24 +0000",
+   "link": "https://decrypt.co/383000/kraken-parent-payward-brings-200-uk-and-eu-stocks-onchain-as-xstocks"
+  },
+  {
+   "title": "Nvidia Sheds $430B in Two Days as Jensen Huang Faces Calls to Resign",
+   "pub": "Wed, 11 Nov 2026 12:15:46 +0000",
+   "link": "https://decrypt.co/382991/nvidia-sheds-430b-in-two-days-as-jensen-huang-faces-calls-to-resign"
+  },
+  {
+   "title": "Avalanche Won Over the NYSE. Now It Has to \u2018Capture Value\u2019 for AVAX",
+   "pub": "Wed, 11 Nov 2026 10:53:11 +0000",
+   "link": "https://decrypt.co/382988/avalanche-won-over-the-nyse-now-it-has-to-capture-value-for-avax"
+  },
+  {
+   "title": "Prisoner Jailed for 8 Years Over $2.7M Crypto Theft Plot Run From His Cell",
+   "pub": "Wed, 11 Nov 2026 10:20:53 +0000",
+   "link": "https://decrypt.co/382984/prisoner-jailed-for-8-years-over-2-7m-crypto-theft-plot-run-from-his-cell"
+  },
+  {
    "title": "Bitcoin Miner HIVE Eyes $45 Million in Annual Revenue From AI Deal",
    "pub": "Tue, 10 Nov 2026 22:46:02 +0000",
    "link": "https://decrypt.co/382982/bitcoin-miner-hive-eyes-45-million-ai-data-center"
-  },
-  {
-   "title": "Trump Media Posts $410 Million Profit. Bitcoin Gains Did the Heavy Lifting",
-   "pub": "Tue, 10 Nov 2026 21:36:03 +0000",
-   "link": "https://decrypt.co/382967/trump-media-posts-410-million-profit-bitcoin-gains"
-  },
-  {
-   "title": "Nvidia Erases 2026 Gains as Republicans Threaten Jensen Huang With Subpoena",
-   "pub": "Tue, 10 Nov 2026 20:45:50 +0000",
-   "link": "https://decrypt.co/382974/nvidia-erases-2026-gains-republicans-threaten-ceo-subpoena"
-  },
-  {
-   "title": "Near AI Breach Exposes User Details and Data From 18 AI Agents",
-   "pub": "Tue, 10 Nov 2026 20:16:03 +0000",
-   "link": "https://decrypt.co/382965/near-ai-breach-exposes-user-details-data-ai-agents"
-  },
-  {
-   "title": "Elon Musk Calls Claude Opus 5.5 a 'Masterpiece', Admits Grok 4.8 Won't Match It",
-   "pub": "Tue, 10 Nov 2026 19:46:02 +0000",
-   "link": "https://decrypt.co/382956/elon-musk-calls-claude-opus-5-5-masterpiece-grok-wont-match"
-  },
-  {
-   "title": "Grayscale Bets $1 Million on Zcash as Privacy Coin Tumbles",
-   "pub": "Tue, 10 Nov 2026 19:16:02 +0000",
-   "link": "https://decrypt.co/382962/grayscale-bets-1-million-on-zcash-as-privacy-coin-tumbles"
-  },
-  {
-   "title": "Goldman, Citi and Global Banks Commit $270 Million to Challenge Crypto\u2019s Stablecoin Giants",
-   "pub": "Tue, 10 Nov 2026 18:33:37 +0000",
-   "link": "https://decrypt.co/382953/goldman-citi-global-banks-270-million-challenge-crypto-stablecoin-giants"
-  },
-  {
-   "title": "Bitcoin Falls as Hot US Inflation Fuels Fears of Bigger Fed Rate Hike",
-   "pub": "Tue, 10 Nov 2026 16:27:57 +0000",
-   "link": "https://decrypt.co/382950/bitcoin-falls-hot-us-inflation-fears-bigger-fed-rate-hike"
-  },
-  {
-   "title": "Solana's Jupiter Expands Beyond Trading With Token Baskets, Yield Vaults and New Portfolio",
-   "pub": "Tue, 10 Nov 2026 15:01:02 +0000",
-   "link": "https://decrypt.co/382836/solanas-jupiter-expands-beyond-trading-with-token-baskets-yield-vaults-and-new-portfolio"
-  },
-  {
-   "title": "Decrypt Money Account Gets Confidential Transfers With Solana Privacy Firm Helius",
-   "pub": "Tue, 10 Nov 2026 14:32:48 +0000",
-   "link": "https://decrypt.co/382806/decrypt-money-account-gets-confidential-transfers-with-solana-privacy-firm-helius"
-  },
-  {
-   "title": "Anthropic Sets IPO Price Range at $70 to $78, Valuing Company at Up to $1.4 Trillion",
-   "pub": "Tue, 10 Nov 2026 14:06:02 +0000",
-   "link": "https://decrypt.co/382939/anthropic-sets-ipo-price-range-at-70-to-78-valuing-company-at-up-to-1-4-trillion"
-  },
-  {
-   "title": "Moody\u2019s Taps Chainlink to Send Credit Ratings Across Multiple Blockchains",
-   "pub": "Tue, 10 Nov 2026 14:01:02 +0000",
-   "link": "https://decrypt.co/382888/moodys-chainlink-credit-ratings-across-multiple-blockchains"
   }
  ],
  "cryptonews": [

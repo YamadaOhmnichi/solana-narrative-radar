@@ -1,99 +1,13 @@
 {
- "generated_at": "2026-11-11T19:37:07+00:00",
+ "generated_at": "2026-11-12T07:12:43+00:00",
  "narratives": [
   {
-   "narrative": "DeFi / Trading Infra",
-   "score": 95.0,
-   "confidence": "High",
-   "evidence": {
-    "github_repos": 42,
-    "github_top_velocity": 39.04,
-    "headline_hits": 7,
-    "sample_headlines": [
-     "Formation Securities plans Solana stock trading venue under SEC exemption",
-     "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
-     "Decrypt Becomes First News Publisher to Offer Perps Trading, Powered by Solana's Phoenix"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 2
-   },
-   "member_repos": [
-    {
-     "full_name": "ismeh7765/FlashUSDT-v",
-     "stars_per_day": 10.2,
-     "url": "https://github.com/ismeh7765/FlashUSDT-v"
-    },
-    {
-     "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 6.25,
-     "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
-    },
-    {
-     "full_name": "h100envy/gem-search",
-     "stars_per_day": 6.22,
-     "url": "https://github.com/h100envy/gem-search"
-    },
-    {
-     "full_name": "tapoooooty/hypergrad",
-     "stars_per_day": 5.42,
-     "url": "https://github.com/tapoooooty/hypergrad"
-    },
-    {
-     "full_name": "h100envy/crawl-hive",
-     "stars_per_day": 4.78,
-     "url": "https://github.com/h100envy/crawl-hive"
-    }
-   ]
-  },
-  {
-   "narrative": "Payments & Stablecoins",
-   "score": 84.2,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 8,
-    "github_top_velocity": 76.22,
-    "headline_hits": 1,
-    "sample_headlines": [
-     "Tx launches USTX stablecoin to pull RWA liquidity onto its chain"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "PatchBuilderAmplify/stolen-crypto-tracer",
-     "stars_per_day": 49.0,
-     "url": "https://github.com/PatchBuilderAmplify/stolen-crypto-tracer"
-    },
-    {
-     "full_name": "Signcluengine/onchain-money-trail-analyzer",
-     "stars_per_day": 15.18,
-     "url": "https://github.com/Signcluengine/onchain-money-trail-analyzer"
-    },
-    {
-     "full_name": "ismeh7765/FlashUSDT-v",
-     "stars_per_day": 10.2,
-     "url": "https://github.com/ismeh7765/FlashUSDT-v"
-    },
-    {
-     "full_name": "orrery-node/orrery",
-     "stars_per_day": 0.8,
-     "url": "https://github.com/orrery-node/orrery"
-    },
-    {
-     "full_name": "des35swim/hood-warfare",
-     "stars_per_day": 0.57,
-     "url": "https://github.com/des35swim/hood-warfare"
-    }
-   ]
-  },
-  {
    "narrative": "Dev Tooling & Infra",
-   "score": 76.4,
+   "score": 129.7,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 50,
-    "github_top_velocity": 76.44,
+    "github_top_velocity": 129.71,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -101,13 +15,18 @@
    },
    "member_repos": [
     {
+     "full_name": "floatdotxyz/float",
+     "stars_per_day": 54.0,
+     "url": "https://github.com/floatdotxyz/float"
+    },
+    {
      "full_name": "PatchBuilderAmplify/stolen-crypto-tracer",
      "stars_per_day": 49.0,
      "url": "https://github.com/PatchBuilderAmplify/stolen-crypto-tracer"
     },
     {
      "full_name": "mAphrica/solana-foundation-kora",
-     "stars_per_day": 6.43,
+     "stars_per_day": 6.0,
      "url": "https://github.com/mAphrica/solana-foundation-kora"
     },
     {
@@ -119,36 +38,31 @@
      "full_name": "SpaceDataRig/space-data-rig",
      "stars_per_day": 4.72,
      "url": "https://github.com/SpaceDataRig/space-data-rig"
-    },
-    {
-     "full_name": "mAphrica/solana-foundation-solana-keychain",
-     "stars_per_day": 2.86,
-     "url": "https://github.com/mAphrica/solana-foundation-solana-keychain"
     }
    ]
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 69.8,
+   "score": 127.4,
    "confidence": "High",
    "evidence": {
-    "github_repos": 15,
-    "github_top_velocity": 50.91,
+    "github_repos": 16,
+    "github_top_velocity": 103.91,
     "headline_hits": 0,
     "sample_headlines": [],
-    "market_avg_7d_pct": -9.45,
+    "market_avg_7d_pct": -11.76,
     "sources_confirming": 2
    },
    "member_repos": [
     {
+     "full_name": "floatdotxyz/float",
+     "stars_per_day": 54.0,
+     "url": "https://github.com/floatdotxyz/float"
+    },
+    {
      "full_name": "chadandyou/jrames",
      "stars_per_day": 15.12,
      "url": "https://github.com/chadandyou/jrames"
-    },
-    {
-     "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 6.25,
-     "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
     },
     {
      "full_name": "h100envy/gem-search",
@@ -157,29 +71,36 @@
     },
     {
      "full_name": "QuantumOrb/QuantOrb",
-     "stars_per_day": 5.93,
+     "stars_per_day": 6.1,
      "url": "https://github.com/QuantumOrb/QuantOrb"
     },
     {
-     "full_name": "tapoooooty/hypergrad",
-     "stars_per_day": 5.42,
-     "url": "https://github.com/tapoooooty/hypergrad"
+     "full_name": "teraus111/web3-agent-kit-solana-trading",
+     "stars_per_day": 6.03,
+     "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
     }
    ]
   },
   {
    "narrative": "Wallets & UX",
-   "score": 57.5,
+   "score": 119.4,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 19,
-    "github_top_velocity": 57.45,
-    "headline_hits": 0,
-    "sample_headlines": [],
+    "github_top_velocity": 111.41,
+    "headline_hits": 1,
+    "sample_headlines": [
+     "Suiet wallet to shut down in latest exit from Sui ecosystem"
+    ],
     "market_avg_7d_pct": null,
     "sources_confirming": 1
    },
    "member_repos": [
+    {
+     "full_name": "floatdotxyz/float",
+     "stars_per_day": 54.0,
+     "url": "https://github.com/floatdotxyz/float"
+    },
     {
      "full_name": "PatchBuilderAmplify/stolen-crypto-tracer",
      "stars_per_day": 49.0,
@@ -192,33 +113,115 @@
     },
     {
      "full_name": "PTK030/kenning",
-     "stars_per_day": 0.78,
+     "stars_per_day": 0.84,
      "url": "https://github.com/PTK030/kenning"
     },
     {
      "full_name": "DigitalShieldOfficial/DigitalShield-Hardware-Airgap-Sdk",
      "stars_per_day": 0.44,
      "url": "https://github.com/DigitalShieldOfficial/DigitalShield-Hardware-Airgap-Sdk"
+    }
+   ]
+  },
+  {
+   "narrative": "DeFi / Trading Infra",
+   "score": 94.7,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 43,
+    "github_top_velocity": 38.74,
+    "headline_hits": 7,
+    "sample_headlines": [
+     "Formation Securities plans Solana stock trading venue under SEC exemption",
+     "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
+     "Decrypt Becomes First News Publisher to Offer Perps Trading, Powered by Solana's Phoenix"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 2
+   },
+   "member_repos": [
+    {
+     "full_name": "ismeh7765/FlashUSDT-v",
+     "stars_per_day": 8.5,
+     "url": "https://github.com/ismeh7765/FlashUSDT-v"
     },
     {
-     "full_name": "BadmonLano/meme-sniper",
-     "stars_per_day": 0.26,
-     "url": "https://github.com/BadmonLano/meme-sniper"
+     "full_name": "h100envy/gem-search",
+     "stars_per_day": 6.22,
+     "url": "https://github.com/h100envy/gem-search"
+    },
+    {
+     "full_name": "teraus111/web3-agent-kit-solana-trading",
+     "stars_per_day": 6.03,
+     "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
+    },
+    {
+     "full_name": "tapoooooty/hypergrad",
+     "stars_per_day": 5.0,
+     "url": "https://github.com/tapoooooty/hypergrad"
+    },
+    {
+     "full_name": "h100envy/crawl-hive",
+     "stars_per_day": 4.78,
+     "url": "https://github.com/h100envy/crawl-hive"
+    }
+   ]
+  },
+  {
+   "narrative": "Payments & Stablecoins",
+   "score": 88.6,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 8,
+    "github_top_velocity": 72.63,
+    "headline_hits": 2,
+    "sample_headlines": [
+     "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
+     "Stablecoin Drain, ETF Outflows Leave Bitcoin 'Running on Empty'"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 2
+   },
+   "member_repos": [
+    {
+     "full_name": "PatchBuilderAmplify/stolen-crypto-tracer",
+     "stars_per_day": 49.0,
+     "url": "https://github.com/PatchBuilderAmplify/stolen-crypto-tracer"
+    },
+    {
+     "full_name": "Signcluengine/onchain-money-trail-analyzer",
+     "stars_per_day": 13.92,
+     "url": "https://github.com/Signcluengine/onchain-money-trail-analyzer"
+    },
+    {
+     "full_name": "ismeh7765/FlashUSDT-v",
+     "stars_per_day": 8.5,
+     "url": "https://github.com/ismeh7765/FlashUSDT-v"
+    },
+    {
+     "full_name": "orrery-node/orrery",
+     "stars_per_day": 0.67,
+     "url": "https://github.com/orrery-node/orrery"
+    },
+    {
+     "full_name": "blueshift-gg/solana-pull-program",
+     "stars_per_day": 0.2,
+     "url": "https://github.com/blueshift-gg/solana-pull-program"
     }
    ]
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 44.0,
+   "score": 59.6,
    "confidence": "High",
    "evidence": {
-    "github_repos": 23,
-    "github_top_velocity": 19.99,
-    "headline_hits": 3,
+    "github_repos": 22,
+    "github_top_velocity": 19.61,
+    "headline_hits": 5,
     "sample_headlines": [
      "AI agents help rescue ETH\u2019s Glamsterdam fork, \u2018Steal My Bitcoin\u2019 site: Hodler\u2019s Digest",
-     "Bitcoin Miner HIVE Eyes $45 Million in Annual Revenue From AI Deal",
-     "Blockchain is \u2018perfect solution\u2019 for AI agent trust, VeChain CEO says"
+     "Nvidia-Backed CoreWeave Is Surging: Here\u2019s What It Means for the AI Boom",
+     "This New AI Music Model Is Already Better Than Suno\u2014We Put ACE to the Test"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -226,7 +229,7 @@
    "member_repos": [
     {
      "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 6.25,
+     "stars_per_day": 6.03,
      "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
     },
     {
@@ -292,14 +295,15 @@
   },
   {
    "narrative": "Security & Threats",
-   "score": 21.3,
+   "score": 30.1,
    "confidence": "High",
    "evidence": {
-    "github_repos": 8,
-    "github_top_velocity": 5.31,
-    "headline_hits": 2,
+    "github_repos": 10,
+    "github_top_velocity": 6.15,
+    "headline_hits": 3,
     "sample_headlines": [
      "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
+     "Stablecoin Drain, ETF Outflows Leave Bitcoin 'Running on Empty'",
      "Drift exploiter sends $61M ETH to Tornado Cash, holds $194M"
     ],
     "market_avg_7d_pct": null,
@@ -308,8 +312,13 @@
    "member_repos": [
     {
      "full_name": "outgoingyang/solana-sniping-bot",
-     "stars_per_day": 2.75,
+     "stars_per_day": 2.44,
      "url": "https://github.com/outgoingyang/solana-sniping-bot"
+    },
+    {
+     "full_name": "degeneracyy/defidegeneracy",
+     "stars_per_day": 1.0,
+     "url": "https://github.com/degeneracyy/defidegeneracy"
     },
     {
      "full_name": "Quincy-Labs/solana-sec-bench",
@@ -318,28 +327,23 @@
     },
     {
      "full_name": "PTK030/kenning",
-     "stars_per_day": 0.78,
+     "stars_per_day": 0.84,
      "url": "https://github.com/PTK030/kenning"
     },
     {
      "full_name": "Phat1911/Tributary",
      "stars_per_day": 0.29,
      "url": "https://github.com/Phat1911/Tributary"
-    },
-    {
-     "full_name": "BadmonLano/meme-sniper",
-     "stars_per_day": 0.26,
-     "url": "https://github.com/BadmonLano/meme-sniper"
     }
    ]
   },
   {
    "narrative": "DePIN & Physical Infra",
-   "score": 5.6,
+   "score": 4.7,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 3,
-    "github_top_velocity": 5.59,
+    "github_repos": 2,
+    "github_top_velocity": 4.71,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -348,28 +352,23 @@
    "member_repos": [
     {
      "full_name": "outgoingyang/solana-sniping-bot",
-     "stars_per_day": 2.75,
+     "stars_per_day": 2.44,
      "url": "https://github.com/outgoingyang/solana-sniping-bot"
     },
     {
      "full_name": "refrax-xyz/refrax-node",
      "stars_per_day": 2.27,
      "url": "https://github.com/refrax-xyz/refrax-node"
-    },
-    {
-     "full_name": "des35swim/hood-warfare",
-     "stars_per_day": 0.57,
-     "url": "https://github.com/des35swim/hood-warfare"
     }
    ]
   },
   {
    "narrative": "Consumer & Social",
-   "score": 4.3,
+   "score": 3.7,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 3,
-    "github_top_velocity": 4.26,
+    "github_repos": 2,
+    "github_top_velocity": 3.69,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -380,11 +379,6 @@
      "full_name": "askglyph/glyph",
      "stars_per_day": 3.44,
      "url": "https://github.com/askglyph/glyph"
-    },
-    {
-     "full_name": "des35swim/hood-warfare",
-     "stars_per_day": 0.57,
-     "url": "https://github.com/des35swim/hood-warfare"
     },
     {
      "full_name": "Hymetdotfun/hymet",

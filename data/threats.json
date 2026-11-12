@@ -21,15 +21,24 @@
   "flag": "velocity-anomaly"
  },
  {
-  "full_name": "solana-program/groth16-verifier-program",
-  "url": "https://github.com/solana-program/groth16-verifier-program",
-  "description": "A solana program for Groth16 verifier",
-  "stars": 1,
-  "created": "2026-09-12T18:05:35Z",
-  "language": "Rust",
-  "stars_per_day": 0.02,
-  "age_days": 60,
-  "topics": [],
-  "flag": "brand-impersonation"
+  "full_name": "Nathaliefremie/Drainer-Tool-Solana",
+  "url": "https://github.com/Nathaliefremie/Drainer-Tool-Solana",
+  "description": "Solana Drainer Tool \u2014 Automated SOL and SPL token drainer for Solana wallets with real-time balance monitoring, multi-wallet sweeping, Phantom/Backpack/Solflare compatibility, and stealth transaction ",
+  "stars": 49,
+  "created": "2026-11-11T17:57:48Z",
+  "language": "Python",
+  "stars_per_day": 49.0,
+  "age_days": 1,
+  "topics": [
+   "auto-withdraw",
+   "auto-withdraw-bot",
+   "auto-withdraw-script",
+   "drain-bot-sol",
+   "drain-protocol",
+   "drainer-btc-tool",
+   "drainer-eth-tool",
+   "drainer-tools"
+  ],
+  "flag": "malware-pattern"
  }
 ]

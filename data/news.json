@@ -63,6 +63,31 @@
  ],
  "decrypt": [
   {
+   "title": "Nvidia-Backed CoreWeave Is Surging: Here\u2019s What It Means for the AI Boom",
+   "pub": "Wed, 11 Nov 2026 22:36:03 +0000",
+   "link": "https://decrypt.co/383099/nvidia-backed-coreweave-surging-what-means-for-ai-boom"
+  },
+  {
+   "title": "Stablecoin Drain, ETF Outflows Leave Bitcoin 'Running on Empty'",
+   "pub": "Wed, 11 Nov 2026 21:46:03 +0000",
+   "link": "https://decrypt.co/383094/stablecoin-drain-etf-outflows-bitcoin-running-empty"
+  },
+  {
+   "title": "Bitcoin Short-Term Holders Send $3.6 Billion in BTC to Exchanges at a Loss",
+   "pub": "Wed, 11 Nov 2026 21:16:03 +0000",
+   "link": "https://decrypt.co/383077/bitcoin-short-term-holders-send-3-illion-btc-exchanges-loss"
+  },
+  {
+   "title": "This New AI Music Model Is Already Better Than Suno\u2014We Put ACE to the Test",
+   "pub": "Wed, 11 Nov 2026 20:16:02 +0000",
+   "link": "https://decrypt.co/383070/new-ai-music-model-already-better-than-suno-ace-review"
+  },
+  {
+   "title": "Tether's Tiny AI Agent Beats Models 2.5 Times Its Size at Controlling Your Phone",
+   "pub": "Wed, 11 Nov 2026 19:36:02 +0000",
+   "link": "https://decrypt.co/383066/tether-tiny-ai-agent-beats-models-phone"
+  },
+  {
    "title": "Deutsche Bank Goes Live With Crypto Custody After a Five-Year Buildup",
    "pub": "Wed, 11 Nov 2026 19:06:02 +0000",
    "link": "https://decrypt.co/383067/deutsche-bank-goes-live-with-crypto-custody-after-a-five-year-buildup"
@@ -96,34 +121,14 @@
    "title": "Morning Minute: What Anthropic\u2019s $1.4 Trillion IPO Means for Crypto",
    "pub": "Wed, 11 Nov 2026 12:55:18 +0000",
    "link": "https://decrypt.co/383001/morning-minute-what-anthropics-1-4-trillion-ipo-means-for-crypto"
-  },
-  {
-   "title": "Kraken Parent Payward Brings 200 UK and EU Stocks Onchain as xStocks",
-   "pub": "Wed, 11 Nov 2026 12:46:24 +0000",
-   "link": "https://decrypt.co/383000/kraken-parent-payward-brings-200-uk-and-eu-stocks-onchain-as-xstocks"
-  },
-  {
-   "title": "Nvidia Sheds $430B in Two Days as Jensen Huang Faces Calls to Resign",
-   "pub": "Wed, 11 Nov 2026 12:15:46 +0000",
-   "link": "https://decrypt.co/382991/nvidia-sheds-430b-in-two-days-as-jensen-huang-faces-calls-to-resign"
-  },
-  {
-   "title": "Avalanche Won Over the NYSE. Now It Has to \u2018Capture Value\u2019 for AVAX",
-   "pub": "Wed, 11 Nov 2026 10:53:11 +0000",
-   "link": "https://decrypt.co/382988/avalanche-won-over-the-nyse-now-it-has-to-capture-value-for-avax"
-  },
-  {
-   "title": "Prisoner Jailed for 8 Years Over $2.7M Crypto Theft Plot Run From His Cell",
-   "pub": "Wed, 11 Nov 2026 10:20:53 +0000",
-   "link": "https://decrypt.co/382984/prisoner-jailed-for-8-years-over-2-7m-crypto-theft-plot-run-from-his-cell"
-  },
-  {
-   "title": "Bitcoin Miner HIVE Eyes $45 Million in Annual Revenue From AI Deal",
-   "pub": "Tue, 10 Nov 2026 22:46:02 +0000",
-   "link": "https://decrypt.co/382982/bitcoin-miner-hive-eyes-45-million-ai-data-center"
   }
  ],
  "cryptonews": [
+  {
+   "title": "Suiet wallet to shut down in latest exit from Sui ecosystem",
+   "pub": "Wed, 11 Nov 2026 23:18:44 +0000",
+   "link": "https://cointelegraph.com/news/suiet-wallet-shut-down-latest-exit-sui-ecosystem?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+  },
   {
    "title": "tBTC bridge partially resumes as $120M Aave reserve remains frozen",
    "pub": "Mon, 09 Nov 2026 04:03:08 +0000",
@@ -178,11 +183,6 @@
    "title": "Drift exploiter sends $61M ETH to Tornado Cash, holds $194M",
    "pub": "Tue, 20 Oct 2026 12:38:28 +0000",
    "link": "https://cointelegraph.com/news/drift-exploiter-eth-tornado-cash?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Babylon advances native Bitcoin lending proposal on Aave V4",
-   "pub": "Thu, 15 Oct 2026 09:14:28 +0000",
-   "link": "https://cointelegraph.com/news/babylon-native-bitcoin-collateral-aave-v4-proposal?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
   }
  ]
 }

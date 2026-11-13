@@ -1,6 +1,11 @@
 {
  "cointelegraph": [
   {
+   "title": "DTCC Plans Solana Expansion as Wallet Rules Limit Access",
+   "pub": "Thu, 12 Nov 2026 20:07:41 +0000",
+   "link": "https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
+  },
+  {
    "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
    "pub": "Mon, 09 Nov 2026 19:52:34 +0000",
    "link": "https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
@@ -54,14 +59,29 @@
    "title": "Solana shows resilience, but some areas need continued observation, Fidelity says",
    "pub": "Sat, 17 Oct 2026 13:01:00 +0000",
    "link": "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
-   "pub": "Fri, 16 Oct 2026 15:52:28 +0000",
-   "link": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-crypto-biz?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
   }
  ],
  "decrypt": [
+  {
+   "title": "Republican Senator Wants to Freeze AI Data Center Boom as Congress Pushes to Expand It",
+   "pub": "Thu, 12 Nov 2026 22:36:02 +0000",
+   "link": "https://decrypt.co/383206/republican-senator-freeze-ai-data-center-boom-congress-pushes-expand"
+  },
+  {
+   "title": "North Korea Stole $400 Million in Crypto Using Deepfake Video Calls, DOJ Says",
+   "pub": "Thu, 12 Nov 2026 22:06:03 +0000",
+   "link": "https://decrypt.co/383208/north-korea-stole-400-million-crypto-deepfake-video-calls"
+  },
+  {
+   "title": "Strategy Made $19.5 Billion in Profit. So Why Is MSCI Removing It From Stock Indexes?",
+   "pub": "Thu, 12 Nov 2026 21:26:03 +0000",
+   "link": "https://decrypt.co/383204/why-msci-removing-bitcoin-treasury-strategy-stock-indexes"
+  },
+  {
+   "title": "Why the Path to Quantum Resistance Runs Uphill for Bitcoin Wallet Makers",
+   "pub": "Thu, 12 Nov 2026 20:36:03 +0000",
+   "link": "https://decrypt.co/383201/why-path-quantum-resistance-runs-uphill-bitcoin-wallet"
+  },
   {
    "title": "Who Is Colette Kress, Jensen Huang\u2019s Successor as Nvidia CEO?",
    "pub": "Thu, 12 Nov 2026 18:55:03 +0000",
@@ -101,26 +121,6 @@
    "title": "Jensen Huang Resigns as Nvidia CEO, With CFO Colette Kress Named Interim Chief",
    "pub": "Thu, 12 Nov 2026 14:44:39 +0000",
    "link": "https://decrypt.co/383134/jensen-huang-resigns-as-nvidia-ceo-with-cfo-colette-kress-named-interim-chief"
-  },
-  {
-   "title": "SoFi Brings Its Bank-Issued Stablecoin to Polygon\u2019s Payments Stack",
-   "pub": "Thu, 12 Nov 2026 14:01:02 +0000",
-   "link": "https://decrypt.co/383096/sofi-brings-bank-issued-stablecoin-polygon-payments-stack"
-  },
-  {
-   "title": "DTCC to Bring Tokenized Stocks and Treasuries to Solana in 2027",
-   "pub": "Thu, 12 Nov 2026 13:25:47 +0000",
-   "link": "https://decrypt.co/383132/dtcc-to-bring-tokenized-stocks-and-treasuries-to-solana-in-2027"
-  },
-  {
-   "title": "Morning Minute: Tokenized Stock Venues Are Launching Without Big Tech\u2019s Approval",
-   "pub": "Thu, 12 Nov 2026 13:06:24 +0000",
-   "link": "https://decrypt.co/383129/morning-minute-tokenized-stock-venues-are-launching-without-big-techs-approval"
-  },
-  {
-   "title": "India's Financial Crimes Agency Searches CoinDCX, Delta Exchange Over Offshore Trades",
-   "pub": "Thu, 12 Nov 2026 12:03:10 +0000",
-   "link": "https://decrypt.co/383126/indias-financial-crimes-agency-searches-coindcx-delta-exchange-over-offshore-trades"
   }
  ],
  "cryptonews": [

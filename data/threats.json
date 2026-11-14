@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "full_name": "Kkajxouzbranch/Drainer-Tool-Solana",
+  "url": "https://github.com/Kkajxouzbranch/Drainer-Tool-Solana",
+  "description": "Solana Drainer Tool \u2014 Automated SOL and SPL token drainer for Solana wallets with real-time balance monitoring, multi-wallet sweeping, Phantom/Backpack/Solflare compatibility, and stealth transaction ",
+  "stars": 48,
+  "created": "2026-11-13T16:56:28Z",
+  "language": "Python",
+  "stars_per_day": 48.0,
+  "age_days": 1,
+  "topics": [
+   "auto-withdraw",
+   "auto-withdraw-script",
+   "automated-execution",
+   "drain-bot-sol",
+   "drain-protocol",
+   "drainer-btc-tool",
+   "drainer-eth-tool",
+   "drainer-tools"
+  ],
+  "flag": "malware-pattern"
+ }
+]

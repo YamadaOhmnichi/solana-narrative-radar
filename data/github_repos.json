@@ -246,8 +246,8 @@
   "stars": 96,
   "created": "2026-11-11T20:13:52Z",
   "language": "Python",
-  "stars_per_day": 48.0,
-  "age_days": 2,
+  "stars_per_day": 32.0,
+  "age_days": 3,
   "topics": [
    "address-balance-tool",
    "bip39-mnemonic-codes",
@@ -302,6 +302,17 @@
   ]
  },
  {
+  "full_name": "QuantumOrb/QuantOrb",
+  "url": "https://github.com/QuantumOrb/QuantOrb",
+  "description": "Memecoin holder scanner for Solana: see who really holds a token, how far the price falls if they sell, and what the owner can still change. ",
+  "stars": 186,
+  "created": "2026-10-13T12:18:33Z",
+  "language": "JavaScript",
+  "stars_per_day": 5.81,
+  "age_days": 32,
+  "topics": []
+ },
+ {
   "full_name": "h100envy/gem-search",
   "url": "https://github.com/h100envy/gem-search",
   "description": "Rainbow spider that X-rays memecoins: bundles, linked wallets, dev history. Scanner, Telegram bot, live Bundle Index.",
@@ -320,25 +331,14 @@
   ]
  },
  {
-  "full_name": "QuantumOrb/QuantOrb",
-  "url": "https://github.com/QuantumOrb/QuantOrb",
-  "description": "Memecoin holder scanner for Solana: see who really holds a token, how far the price falls if they sell, and what the owner can still change. ",
-  "stars": 185,
-  "created": "2026-10-13T12:18:33Z",
-  "language": "JavaScript",
-  "stars_per_day": 5.78,
-  "age_days": 32,
-  "topics": []
- },
- {
   "full_name": "teraus111/web3-agent-kit-solana-trading",
   "url": "https://github.com/teraus111/web3-agent-kit-solana-trading",
   "description": "Build autonomous AI agents that interact with blockchains \u2014 in minutes, not months.",
-  "stars": 179,
+  "stars": 180,
   "created": "2026-10-13T19:59:48Z",
   "language": "Python",
-  "stars_per_day": 5.77,
-  "age_days": 31,
+  "stars_per_day": 5.62,
+  "age_days": 32,
   "topics": [
    "agent",
    "ai",
@@ -382,14 +382,25 @@
   ]
  },
  {
+  "full_name": "SpaceDataRig/space-data-rig",
+  "url": "https://github.com/SpaceDataRig/space-data-rig",
+  "description": "Autonomous five-seat AI science rig: reproducible exoplanet transit detection on NASA Exoplanet Archive data, with Solana mainnet provenance anchoring.",
+  "stars": 150,
+  "created": "2026-10-10T11:47:32Z",
+  "language": "TypeScript",
+  "stars_per_day": 4.29,
+  "age_days": 35,
+  "topics": []
+ },
+ {
   "full_name": "tapoooooty/hypergrad",
   "url": "https://github.com/tapoooooty/hypergrad",
   "description": "HIP-3 perp DEX on Hyperliquid for Solana memecoins graduating from pump.fun. GRAD index perp from $500K, own perps for coins that hold.",
   "stars": 65,
   "created": "2026-10-29T21:56:03Z",
   "language": "Python",
-  "stars_per_day": 4.33,
-  "age_days": 15,
+  "stars_per_day": 4.06,
+  "age_days": 16,
   "topics": [
    "defi",
    "hip-3",
@@ -402,24 +413,13 @@
   ]
  },
  {
-  "full_name": "SpaceDataRig/space-data-rig",
-  "url": "https://github.com/SpaceDataRig/space-data-rig",
-  "description": "Autonomous five-seat AI science rig: reproducible exoplanet transit detection on NASA Exoplanet Archive data, with Solana mainnet provenance anchoring.",
-  "stars": 150,
-  "created": "2026-10-10T11:47:32Z",
-  "language": "TypeScript",
-  "stars_per_day": 4.29,
-  "age_days": 35,
-  "topics": []
- },
- {
   "full_name": "forkwiki/fork",
   "url": "https://github.com/forkwiki/fork",
   "description": "The family tree of open-source code, and the tokens on it: trace any repo's lineage, trade project tokens, launch a repo's coin on pump.fun, earn $FORK.",
-  "stars": 83,
+  "stars": 82,
   "created": "2026-10-16T13:45:59Z",
   "language": "JavaScript",
-  "stars_per_day": 2.86,
+  "stars_per_day": 2.83,
   "age_days": 29,
   "topics": [
    "data-visualization",
@@ -455,26 +455,6 @@
   "topics": []
  },
  {
-  "full_name": "donovancraig54/escrow-solana",
-  "url": "https://github.com/donovancraig54/escrow-solana",
-  "description": "An escrow program (smart contract) built for the Solana blockchain",
-  "stars": 2,
-  "created": "2026-11-12T20:36:08Z",
-  "language": "Rust",
-  "stars_per_day": 2.0,
-  "age_days": 1,
-  "topics": [
-   "escrow-service",
-   "escrow-service-bot",
-   "escrow-settlement",
-   "escrow-simulation",
-   "escrow-smartcontract",
-   "escrow-software",
-   "escrow-solana",
-   "escrow-system"
-  ]
- },
- {
   "full_name": "recogardtech/AutoPilotPM",
   "url": "https://github.com/recogardtech/AutoPilotPM",
   "description": "Open-source autonomous trading system powered by AI, built to monitor and trade across 1,000+ markets including Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs and multiple EVM networks. Finds o",
@@ -495,6 +475,26 @@
   "stars_per_day": 1.57,
   "age_days": 21,
   "topics": []
+ },
+ {
+  "full_name": "donovancraig54/escrow-solana",
+  "url": "https://github.com/donovancraig54/escrow-solana",
+  "description": "An escrow program (smart contract) built for the Solana blockchain",
+  "stars": 2,
+  "created": "2026-11-12T20:36:08Z",
+  "language": "Rust",
+  "stars_per_day": 1.0,
+  "age_days": 2,
+  "topics": [
+   "escrow-service",
+   "escrow-service-bot",
+   "escrow-settlement",
+   "escrow-simulation",
+   "escrow-smartcontract",
+   "escrow-software",
+   "escrow-solana",
+   "escrow-system"
+  ]
  },
  {
   "full_name": "princedotrs/solana-from-first-principles",
@@ -636,6 +636,26 @@
   "topics": []
  },
  {
+  "full_name": "ultratestbro/anywalletkit",
+  "url": "https://github.com/ultratestbro/anywalletkit",
+  "description": "Any Wallet Kit \u2014 open wallet SDK: chains, swaps and bridges, DeFi modules",
+  "stars": 6,
+  "created": "2026-10-24T13:50:45Z",
+  "language": "TypeScript",
+  "stars_per_day": 0.29,
+  "age_days": 21,
+  "topics": [
+   "bitcoin",
+   "cross-chain",
+   "crypto-wallet",
+   "defi",
+   "evm",
+   "hermes",
+   "near",
+   "react-native"
+  ]
+ },
+ {
   "full_name": "BadmonLano/perps",
   "url": "https://github.com/BadmonLano/perps",
   "description": "Jupiter Perps (SOL/BTC/ETH) bot: your SI agent calls the shots within your rules",
@@ -693,26 +713,6 @@
    "openai-compatible",
    "proxy",
    "rust"
-  ]
- },
- {
-  "full_name": "ultratestbro/anywalletkit",
-  "url": "https://github.com/ultratestbro/anywalletkit",
-  "description": "Any Wallet Kit \u2014 open wallet SDK: chains, swaps and bridges, DeFi modules",
-  "stars": 5,
-  "created": "2026-10-24T13:50:45Z",
-  "language": "TypeScript",
-  "stars_per_day": 0.24,
-  "age_days": 21,
-  "topics": [
-   "bitcoin",
-   "cross-chain",
-   "crypto-wallet",
-   "defi",
-   "evm",
-   "hermes",
-   "near",
-   "react-native"
   ]
  },
  {
@@ -778,26 +778,6 @@
   ]
  },
  {
-  "full_name": "aaronjmars/walletscan",
-  "url": "https://github.com/aaronjmars/walletscan",
-  "description": "walletscan: find the money a wallet forgot (rent, rewards, stuck bridges, airdrops) on EVM, Solana and more chains. Read-only CLI, runs locally.",
-  "stars": 3,
-  "created": "2026-10-26T19:08:02Z",
-  "language": "JavaScript",
-  "stars_per_day": 0.17,
-  "age_days": 18,
-  "topics": [
-   "airdrop",
-   "bridge",
-   "cli",
-   "crypto",
-   "defi",
-   "ethereum",
-   "solana",
-   "wallet"
-  ]
- },
- {
   "full_name": "senzenn/idl-drift",
   "url": "https://github.com/senzenn/idl-drift",
   "description": "Find Solana IDL changes that break parsers and indexers. Compare two IDLs, or check an IDL against real chain data.",
@@ -815,6 +795,26 @@
    "idl",
    "indexer",
    "rust"
+  ]
+ },
+ {
+  "full_name": "aaronjmars/walletscan",
+  "url": "https://github.com/aaronjmars/walletscan",
+  "description": "walletscan: find the money a wallet forgot (rent, rewards, stuck bridges, airdrops) on EVM, Solana and more chains. Read-only CLI, runs locally.",
+  "stars": 3,
+  "created": "2026-10-26T19:08:02Z",
+  "language": "JavaScript",
+  "stars_per_day": 0.16,
+  "age_days": 19,
+  "topics": [
+   "airdrop",
+   "bridge",
+   "cli",
+   "crypto",
+   "defi",
+   "ethereum",
+   "solana",
+   "wallet"
   ]
  },
  {
@@ -844,8 +844,8 @@
   "stars": 5,
   "created": "2026-10-10T20:45:30Z",
   "language": "JavaScript",
-  "stars_per_day": 0.15,
-  "age_days": 34,
+  "stars_per_day": 0.14,
+  "age_days": 35,
   "topics": [
    "avatar",
    "claude-code-plugin",
@@ -896,7 +896,7 @@
   "created": "2026-10-28T21:09:18Z",
   "language": "Rust",
   "stars_per_day": 0.12,
-  "age_days": 16,
+  "age_days": 17,
   "topics": []
  },
  {
@@ -1059,7 +1059,7 @@
   "created": "2026-09-25T21:47:28Z",
   "language": "JavaScript",
   "stars_per_day": 0.08,
-  "age_days": 49,
+  "age_days": 50,
   "topics": [
    "defi",
    "github",
@@ -1167,27 +1167,8 @@
   "created": "2026-10-15T19:38:24Z",
   "language": "Rust",
   "stars_per_day": 0.07,
-  "age_days": 29,
-  "topics": []
- },
- {
-  "full_name": "switch-afk/sol-pda",
-  "url": "https://github.com/switch-afk/sol-pda",
-  "description": "Derive Solana program derived addresses (PDAs) offline from your terminal",
-  "stars": 2,
-  "created": "2026-10-14T21:12:13Z",
-  "language": "JavaScript",
-  "stars_per_day": 0.07,
   "age_days": 30,
-  "topics": [
-   "cli",
-   "nodejs",
-   "pda",
-   "program-derived-address",
-   "solana",
-   "web3",
-   "zero-dependency"
-  ]
+  "topics": []
  },
  {
   "full_name": "aaronjmars/soldecomp",
@@ -1266,6 +1247,25 @@
    "solana",
    "solana-program",
    "upgrade-authority"
+  ]
+ },
+ {
+  "full_name": "switch-afk/sol-pda",
+  "url": "https://github.com/switch-afk/sol-pda",
+  "description": "Derive Solana program derived addresses (PDAs) offline from your terminal",
+  "stars": 2,
+  "created": "2026-10-14T21:12:13Z",
+  "language": "JavaScript",
+  "stars_per_day": 0.06,
+  "age_days": 31,
+  "topics": [
+   "cli",
+   "nodejs",
+   "pda",
+   "program-derived-address",
+   "solana",
+   "web3",
+   "zero-dependency"
   ]
  },
  {
@@ -1378,7 +1378,7 @@
   "created": "2026-10-03T18:45:29Z",
   "language": null,
   "stars_per_day": 0.05,
-  "age_days": 41,
+  "age_days": 42,
   "topics": [
    "anchor",
    "defi",
@@ -1474,7 +1474,7 @@
   "created": "2026-09-20T18:35:16Z",
   "language": "Python",
   "stars_per_day": 0.04,
-  "age_days": 54,
+  "age_days": 55,
   "topics": [
    "ai-agent",
    "defi",
@@ -1513,7 +1513,7 @@
   "created": "2026-09-15T19:20:37Z",
   "language": "Python",
   "stars_per_day": 0.03,
-  "age_days": 59,
+  "age_days": 60,
   "topics": [
    "algorithmic-trading",
    "crypto",

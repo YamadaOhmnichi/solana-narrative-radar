@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T18:03:52+00:00",
+ "generated_at": "2026-11-14T22:25:57+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
@@ -47,11 +47,11 @@
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 360.2,
+   "score": 360.1,
    "confidence": "High",
    "evidence": {
     "github_repos": 26,
-    "github_top_velocity": 312.22,
+    "github_top_velocity": 312.07,
     "headline_hits": 6,
     "sample_headlines": [
      "AI agents help rescue ETH\u2019s Glamsterdam fork, \u2018Steal My Bitcoin\u2019 site: Hodler\u2019s Digest",
@@ -131,11 +131,11 @@
   },
   {
    "narrative": "Wallets & UX",
-   "score": 268.1,
+   "score": 252.2,
    "confidence": "High",
    "evidence": {
     "github_repos": 20,
-    "github_top_velocity": 236.14,
+    "github_top_velocity": 220.18,
     "headline_hits": 4,
     "sample_headlines": [
      "DTCC Plans Solana Expansion as Wallet Rules Limit Access",
@@ -163,7 +163,7 @@
     },
     {
      "full_name": "miloslavatangen/Checker-Mnemonic",
-     "stars_per_day": 48.0,
+     "stars_per_day": 32.0,
      "url": "https://github.com/miloslavatangen/Checker-Mnemonic"
     },
     {
@@ -175,14 +175,14 @@
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 204.5,
+   "score": 212.2,
    "confidence": "High",
    "evidence": {
     "github_repos": 16,
-    "github_top_velocity": 171.46,
+    "github_top_velocity": 171.04,
     "headline_hits": 0,
     "sample_headlines": [],
-    "market_avg_7d_pct": -16.52,
+    "market_avg_7d_pct": -20.58,
     "sources_confirming": 2
    },
    "member_repos": [
@@ -207,9 +207,9 @@
      "url": "https://github.com/chadandyou/jrames"
     },
     {
-     "full_name": "h100envy/gem-search",
-     "stars_per_day": 5.78,
-     "url": "https://github.com/h100envy/gem-search"
+     "full_name": "QuantumOrb/QuantOrb",
+     "stars_per_day": 5.81,
+     "url": "https://github.com/QuantumOrb/QuantOrb"
     }
    ]
   },

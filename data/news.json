@@ -125,6 +125,11 @@
  ],
  "cryptonews": [
   {
+   "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
+   "pub": "Sun, 15 Nov 2026 06:27:26 +0000",
+   "link": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+  },
+  {
    "title": "Crypto hack losses equal 57 cents per $1 earned onchain: Ark\u2019s Valente",
    "pub": "Thu, 12 Nov 2026 13:31:59 +0000",
    "link": "https://cointelegraph.com/news/crypto-hackers-stole-57-cents-every-1-earned-ark?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
@@ -178,11 +183,6 @@
    "title": "PancakeSwap TVL tops $380M as major fee overhaul heads to vote",
    "pub": "Wed, 21 Oct 2026 10:50:52 +0000",
    "link": "https://cointelegraph.com/markets/pancakeswap-tvl-jumps-19-percent-fee-overhaul?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "France proposes liability for crypto exchanges offering DeFi access",
-   "pub": "Wed, 21 Oct 2026 10:46:00 +0000",
-   "link": "https://cointelegraph.com/news/france-liability-crypto-exchange-defi-access?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
   }
  ]
 }

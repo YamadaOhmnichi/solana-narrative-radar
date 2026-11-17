@@ -1,6 +1,11 @@
 {
  "cointelegraph": [
   {
+   "title": "Solana Foundation takes majority interest in crypto data firm CoinGecko",
+   "pub": "Tue, 17 Nov 2026 14:45:49 +0000",
+   "link": "https://cointelegraph.com/news/coingecko-solana-foundation-majority-stake?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
+  },
+  {
    "title": "Boris Johnson says UK must lead blockchain development despite crypto doubts",
    "pub": "Mon, 16 Nov 2026 20:18:02 +0000",
    "link": "https://cointelegraph.com/news/boris-johnson-uk-must-lead-blockchain-development-despite-crypto-doubts?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
@@ -54,76 +59,76 @@
    "title": "Solana\u2019s Alpenglow launches on mainnet, targets 99% faster finality",
    "pub": "Wed, 21 Oct 2026 13:57:14 +0000",
    "link": "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
-   "pub": "Tue, 20 Oct 2026 12:30:00 +0000",
-   "link": "https://cointelegraph.com/news/tx-ustx-stablecoin-rwa-liquidity-chain?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
   }
  ],
  "decrypt": [
   {
-   "title": "Alibaba's Qwen 4 Max Leads China's AI Agent Race\u2014But You Can't Download It",
-   "pub": "Mon, 16 Nov 2026 22:46:02 +0000",
-   "link": "https://decrypt.co/383395/alibaba-qwen-4-max-leads-china-ai-agent-race-cant-download-it"
+   "title": "World Bank Taps Circle and Citi to Test Stablecoins for Development Payments",
+   "pub": "Tue, 17 Nov 2026 20:56:03 +0000",
+   "link": "https://decrypt.co/383485/world-bank-circle-citi-test-stablecoins-development-payments"
   },
   {
-   "title": "Bitcoin Wallet Maker Trezor Says Customer Data Was Exposed Again",
-   "pub": "Mon, 16 Nov 2026 22:18:03 +0000",
-   "link": "https://decrypt.co/383397/bitcoin-wallet-trezor-third-party-breach-customer-data"
+   "title": "Bitcoin Investors Are Capitulating\u2014That\u2019s Historically Been a Bottom Signal",
+   "pub": "Tue, 17 Nov 2026 20:36:03 +0000",
+   "link": "https://decrypt.co/383466/bitcoin-investors-capitulating-historical-bottom-signal"
   },
   {
-   "title": "Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000",
-   "pub": "Mon, 16 Nov 2026 21:46:03 +0000",
-   "link": "https://decrypt.co/383366/bitcoin-2-billion-liquidation-weekend-traders-watching-60000"
+   "title": "Cathie Wood's ARK Sells $85 Million in Nvidia, Buys $40 Million in Crypto Stocks",
+   "pub": "Tue, 17 Nov 2026 19:46:03 +0000",
+   "link": "https://decrypt.co/383463/cathie-wood-ark-sells-85-million-nvidia-buys-crypto-stocks"
   },
   {
-   "title": "Hackers Redirected Bitcoin Miner Rewards via AI Attack, Luxor CEO Says",
-   "pub": "Mon, 16 Nov 2026 21:16:03 +0000",
-   "link": "https://decrypt.co/383392/hackers-redirected-bitcoin-miner-rewards-ai-attack-luxor"
+   "title": "Ethereum Devs Weigh a Scaling Upgrade That Could Break 15,000 Apps",
+   "pub": "Tue, 17 Nov 2026 19:26:02 +0000",
+   "link": "https://decrypt.co/383462/ethereum-devs-scaling-upgrade-could-break-15000-apps"
   },
   {
-   "title": "Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip",
-   "pub": "Mon, 16 Nov 2026 20:36:03 +0000",
-   "link": "https://decrypt.co/383364/tom-lee-blames-nvidia-anthropic-ipo-ethereum-plunge-bitmine-buys"
+   "title": "Jensen Huang Says He'd Be 'Honored' to Return as Nvidia CEO, Despite Board's Resistance",
+   "pub": "Tue, 17 Nov 2026 18:23:43 +0000",
+   "link": "https://decrypt.co/383454/jensen-huang-honored-return-nvidia-ceo-board-resistance"
   },
   {
-   "title": "Clarity Act Defeat \u2018Failure of American Leadership\u2019: Trump\u2019s Former Crypto Chief",
-   "pub": "Mon, 16 Nov 2026 19:36:03 +0000",
-   "link": "https://decrypt.co/383356/clarity-act-defeat-failure-of-american-leadership-trumps-former-crypto-chief"
+   "title": "Binance Hack Wallets Move $137 Million in Ethereum After Two Weeks of Silence",
+   "pub": "Tue, 17 Nov 2026 17:18:41 +0000",
+   "link": "https://decrypt.co/383446/binance-hack-wallets-move-ethereum-after-two-weeks"
   },
   {
-   "title": "Trump Backs Jensen Huang\u2019s Return to Nvidia as Sam Altman Says 'Heroes Have Flaws'",
-   "pub": "Mon, 16 Nov 2026 19:05:02 +0000",
-   "link": "https://decrypt.co/383351/trump-elon-musk-sam-altman-jensen-huang-nvidia"
+   "title": "Former Robinhood Engineer Pleads Guilty to Crypto Insider Trading Scheme",
+   "pub": "Tue, 17 Nov 2026 16:41:38 +0000",
+   "link": "https://decrypt.co/383443/former-robinhood-engineer-pleads-guilty-crypto-insider-trading"
   },
   {
-   "title": "Fed Is Modeling AI 'Super Intelligence' Scenarios, Including Job Losses and a Stock Market Slump",
-   "pub": "Mon, 16 Nov 2026 18:36:44 +0000",
-   "link": "https://decrypt.co/383354/fed-modeling-ai-super-intelligence-scenarios-job-losses-stock-market"
+   "title": "Standard Life Chair Wants Tokenized Gilts to Open UK Government Bonds to Retail Savers",
+   "pub": "Tue, 17 Nov 2026 15:30:37 +0000",
+   "link": "https://decrypt.co/383434/standard-life-chair-wants-tokenized-gilts-to-open-uk-government-bonds-to-retail-savers"
   },
   {
-   "title": "Nvidia Stock Has a 20% Rebound in Sight\u2014If Bulls Can Clear a Hurdle",
-   "pub": "Mon, 16 Nov 2026 18:06:03 +0000",
-   "link": "https://decrypt.co/383334/nvidia-stock-rebound-in-sight-if-bulls-can-clear-hurdle"
+   "title": "Morning Minute: The CFTC Officially Greenlights Perps in the US, Starting with Backpack",
+   "pub": "Tue, 17 Nov 2026 12:56:24 +0000",
+   "link": "https://decrypt.co/383418/morning-minute-the-cftc-officially-greenlights-perps-in-the-us-starting-with-backpack"
   },
   {
-   "title": "Saylor\u2019s Strategy Keeps Buying Bitcoin, Adding 'A Little Orange' Through the Dip",
-   "pub": "Mon, 16 Nov 2026 17:20:26 +0000",
-   "link": "https://decrypt.co/383347/saylor-strategy-buying-bitcoin-adding-little-orange-dip"
+   "title": "'The Biggest Opportunity in Crypto Is Already Underway': Solana Bets Big on AI Agents",
+   "pub": "Tue, 17 Nov 2026 12:50:55 +0000",
+   "link": "https://decrypt.co/383417/the-biggest-opportunity-in-crypto-is-already-underway-solana-bets-big-on-ai-agents"
   },
   {
-   "title": "'Tokenization Is Not the Finish Line': Jupiter to Let Users Borrow Against Bullish Shares",
-   "pub": "Mon, 16 Nov 2026 17:09:28 +0000",
-   "link": "https://decrypt.co/383333/tokenization-is-not-the-finish-line-jupiter-to-let-users-borrow-against-bullish-shares"
+   "title": "Optimizely Hack Hijacked Ledger, BBC and 176 Other Sites to Swap Crypto Wallet Addresses",
+   "pub": "Tue, 17 Nov 2026 11:05:25 +0000",
+   "link": "https://decrypt.co/383414/optimizely-hack-hijacked-ledger-bbc-and-176-other-sites-to-swap-crypto-wallet-addresses"
   },
   {
-   "title": "Solana Drops 'Mainnet Beta' After Six Years: Here's What 1.0 Is All About",
-   "pub": "Mon, 16 Nov 2026 16:14:22 +0000",
-   "link": "https://decrypt.co/383322/solana-drops-mainnet-beta-after-six-years"
+   "title": "Nvidia Board Not Considering Jensen Huang's Return: Report",
+   "pub": "Tue, 17 Nov 2026 09:54:32 +0000",
+   "link": "https://decrypt.co/383411/nvidia-board-not-considering-jensen-huangs-return-report"
   }
  ],
  "cryptonews": [
+  {
+   "title": "Lighter incident exposes risks beyond withdrawal controls",
+   "pub": "Tue, 17 Nov 2026 17:51:53 +0000",
+   "link": "https://cointelegraph.com/news/lighter-incident-exposes-risks-beyond-withdrawal-controls?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+  },
   {
    "title": "RWA protocol stUSDT winds down 3 years after $2.3B TVL peak",
    "pub": "Sun, 15 Nov 2026 06:27:26 +0000",
@@ -178,11 +183,6 @@
    "title": "UK financial watchdog opens consultations for DeFi guidance, crypto laws",
    "pub": "Wed, 21 Oct 2026 17:25:00 +0000",
    "link": "https://cointelegraph.com/news/uk-fca-consultations-defi-crypto-laws?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "PancakeSwap TVL tops $380M as major fee overhaul heads to vote",
-   "pub": "Wed, 21 Oct 2026 10:50:52 +0000",
-   "link": "https://cointelegraph.com/markets/pancakeswap-tvl-jumps-19-percent-fee-overhaul?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
   }
  ]
 }

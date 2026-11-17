@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-17T07:56:27+00:00",
+ "generated_at": "2026-11-17T20:56:53+00:00",
  "narratives": [
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 163.9,
+   "score": 344.4,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 53,
-    "github_top_velocity": 163.94,
+    "github_repos": 54,
+    "github_top_velocity": 344.43,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -15,259 +15,289 @@
    },
    "member_repos": [
     {
+     "full_name": "s-warren725/solana-node-notes",
+     "stars_per_day": 101.0,
+     "url": "https://github.com/s-warren725/solana-node-notes"
+    },
+    {
+     "full_name": "bryanwalter710-debug/solana-defi-security",
+     "stars_per_day": 76.5,
+     "url": "https://github.com/bryanwalter710-debug/solana-defi-security"
+    },
+    {
+     "full_name": "farzanamustafa936-dot/solana-pump-fun-sniper-bot",
+     "stars_per_day": 76.5,
+     "url": "https://github.com/farzanamustafa936-dot/solana-pump-fun-sniper-bot"
+    },
+    {
      "full_name": "binaryprovostsnatch/solana-node-notes",
-     "stars_per_day": 96.0,
+     "stars_per_day": 48.0,
      "url": "https://github.com/binaryprovostsnatch/solana-node-notes"
     },
     {
      "full_name": "floatdotxyz/float",
-     "stars_per_day": 19.75,
+     "stars_per_day": 19.62,
      "url": "https://github.com/floatdotxyz/float"
-    },
-    {
-     "full_name": "Savageworks/solana-resp-trader-client-go",
-     "stars_per_day": 10.5,
-     "url": "https://github.com/Savageworks/solana-resp-trader-client-go"
-    },
-    {
-     "full_name": "NikubfrostPixel62446/Solana-Token-rpocket-Swap-Tutorial",
-     "stars_per_day": 10.5,
-     "url": "https://github.com/NikubfrostPixel62446/Solana-Token-rpocket-Swap-Tutorial"
-    },
-    {
-     "full_name": "CryAceocean/solgov-rpocket-team",
-     "stars_per_day": 10.5,
-     "url": "https://github.com/CryAceocean/solgov-rpocket-team"
     }
    ]
   },
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 151.1,
+   "score": 282.0,
    "confidence": "High",
    "evidence": {
-    "github_repos": 47,
-    "github_top_velocity": 111.07,
-    "headline_hits": 5,
+    "github_repos": 46,
+    "github_top_velocity": 225.98,
+    "headline_hits": 7,
     "sample_headlines": [
      "Formation Securities plans Solana stock trading venue under SEC exemption",
-     "EU DeFi proposals could push users to riskier platforms, says Coinbase exec",
-     "The UK needs a workable route to regulated DeFi access"
+     "Former Robinhood Engineer Pleads Guilty to Crypto Insider Trading Scheme",
+     "Morning Minute: The CFTC Officially Greenlights Perps in the US, Starting with Backpack"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
    },
    "member_repos": [
     {
+     "full_name": "bryanwalter710-debug/solana-defi-security",
+     "stars_per_day": 76.5,
+     "url": "https://github.com/bryanwalter710-debug/solana-defi-security"
+    },
+    {
+     "full_name": "farzanamustafa936-dot/solana-pump-fun-sniper-bot",
+     "stars_per_day": 76.5,
+     "url": "https://github.com/farzanamustafa936-dot/solana-pump-fun-sniper-bot"
+    },
+    {
      "full_name": "ValidatorStack/solana-vigil",
-     "stars_per_day": 38.33,
+     "stars_per_day": 32.86,
      "url": "https://github.com/ValidatorStack/solana-vigil"
     },
     {
      "full_name": "Savageworks/solana-resp-trader-client-go",
-     "stars_per_day": 10.5,
+     "stars_per_day": 8.33,
      "url": "https://github.com/Savageworks/solana-resp-trader-client-go"
     },
     {
-     "full_name": "NikubfrostPixel62446/Solana-Token-rpocket-Swap-Tutorial",
-     "stars_per_day": 10.5,
-     "url": "https://github.com/NikubfrostPixel62446/Solana-Token-rpocket-Swap-Tutorial"
-    },
-    {
-     "full_name": "AethForgeice25459/rugcheck-respocket-ai",
-     "stars_per_day": 10.5,
-     "url": "https://github.com/AethForgeice25459/rugcheck-respocket-ai"
-    },
-    {
-     "full_name": "Roguenebulaport/respocket-solaegis-defai",
-     "stars_per_day": 10.5,
-     "url": "https://github.com/Roguenebulaport/respocket-solaegis-defai"
-    }
-   ]
-  },
-  {
-   "narrative": "Wallets & UX",
-   "score": 103.5,
-   "confidence": "High",
-   "evidence": {
-    "github_repos": 23,
-    "github_top_velocity": 79.45,
-    "headline_hits": 3,
-    "sample_headlines": [
-     "DTCC Plans Solana Expansion as Wallet Rules Limit Access",
-     "Bitcoin Wallet Maker Trezor Says Customer Data Was Exposed Again",
-     "Suiet wallet to shut down in latest exit from Sui ecosystem"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 2
-   },
-   "member_repos": [
-    {
-     "full_name": "floatdotxyz/float",
-     "stars_per_day": 19.75,
-     "url": "https://github.com/floatdotxyz/float"
-    },
-    {
-     "full_name": "miloslavatangen/Checker-Mnemonic",
-     "stars_per_day": 19.2,
-     "url": "https://github.com/miloslavatangen/Checker-Mnemonic"
-    },
-    {
-     "full_name": "Novaograge12557/Solana-AI-resp-Agent-Multimodal",
-     "stars_per_day": 10.5,
-     "url": "https://github.com/Novaograge12557/Solana-AI-resp-Agent-Multimodal"
-    },
-    {
-     "full_name": "AethForgeice25459/rugcheck-respocket-ai",
-     "stars_per_day": 10.5,
-     "url": "https://github.com/AethForgeice25459/rugcheck-respocket-ai"
-    },
-    {
-     "full_name": "CryAceocean/solgov-rpocket-team",
-     "stars_per_day": 10.5,
-     "url": "https://github.com/CryAceocean/solgov-rpocket-team"
-    }
-   ]
-  },
-  {
-   "narrative": "AI Agents on Solana",
-   "score": 96.3,
-   "confidence": "High",
-   "evidence": {
-    "github_repos": 27,
-    "github_top_velocity": 56.3,
-    "headline_hits": 5,
-    "sample_headlines": [
-     "AI agents help rescue ETH\u2019s Glamsterdam fork, \u2018Steal My Bitcoin\u2019 site: Hodler\u2019s Digest",
-     "Alibaba's Qwen 4 Max Leads China's AI Agent Race\u2014But You Can't Download It",
-     "Hackers Redirected Bitcoin Miner Rewards via AI Attack, Luxor CEO Says"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 2
-   },
-   "member_repos": [
-    {
-     "full_name": "Savageworks/solana-resp-trader-client-go",
-     "stars_per_day": 10.5,
-     "url": "https://github.com/Savageworks/solana-resp-trader-client-go"
-    },
-    {
-     "full_name": "Novaograge12557/Solana-AI-resp-Agent-Multimodal",
-     "stars_per_day": 10.5,
-     "url": "https://github.com/Novaograge12557/Solana-AI-resp-Agent-Multimodal"
-    },
-    {
-     "full_name": "AethForgeice25459/rugcheck-respocket-ai",
-     "stars_per_day": 10.5,
-     "url": "https://github.com/AethForgeice25459/rugcheck-respocket-ai"
-    },
-    {
-     "full_name": "Roguenebulaport/respocket-solaegis-defai",
-     "stars_per_day": 10.5,
-     "url": "https://github.com/Roguenebulaport/respocket-solaegis-defai"
-    },
-    {
-     "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 5.15,
-     "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
+     "full_name": "WolfUntilangel/sentry-bot-resp",
+     "stars_per_day": 8.33,
+     "url": "https://github.com/WolfUntilangel/sentry-bot-resp"
     }
    ]
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 93.2,
+   "score": 174.1,
    "confidence": "High",
    "evidence": {
-    "github_repos": 15,
-    "github_top_velocity": 58.27,
+    "github_repos": 16,
+    "github_top_velocity": 139.55,
     "headline_hits": 0,
     "sample_headlines": [],
-    "market_avg_7d_pct": -17.44,
+    "market_avg_7d_pct": -17.27,
     "sources_confirming": 2
    },
    "member_repos": [
     {
+     "full_name": "farzanamustafa936-dot/solana-pump-fun-sniper-bot",
+     "stars_per_day": 76.5,
+     "url": "https://github.com/farzanamustafa936-dot/solana-pump-fun-sniper-bot"
+    },
+    {
      "full_name": "floatdotxyz/float",
-     "stars_per_day": 19.75,
+     "stars_per_day": 19.62,
      "url": "https://github.com/floatdotxyz/float"
     },
     {
      "full_name": "chadandyou/jrames",
-     "stars_per_day": 9.31,
+     "stars_per_day": 8.64,
      "url": "https://github.com/chadandyou/jrames"
     },
     {
+     "full_name": "WolfUntilangel/sentry-bot-resp",
+     "stars_per_day": 8.33,
+     "url": "https://github.com/WolfUntilangel/sentry-bot-resp"
+    },
+    {
      "full_name": "QuantumOrb/QuantOrb",
-     "stars_per_day": 5.71,
+     "stars_per_day": 5.89,
      "url": "https://github.com/QuantumOrb/QuantOrb"
-    },
-    {
-     "full_name": "h100envy/gem-search",
-     "stars_per_day": 5.5,
-     "url": "https://github.com/h100envy/gem-search"
-    },
-    {
-     "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 5.15,
-     "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
     }
    ]
   },
   {
-   "narrative": "Security & Threats",
-   "score": 50.4,
+   "narrative": "Wallets & UX",
+   "score": 161.6,
    "confidence": "High",
    "evidence": {
-    "github_repos": 13,
-    "github_top_velocity": 26.39,
-    "headline_hits": 3,
+    "github_repos": 22,
+    "github_top_velocity": 129.56,
+    "headline_hits": 4,
     "sample_headlines": [
-     "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
-     "Hackers Redirected Bitcoin Miner Rewards via AI Attack, Luxor CEO Says",
-     "Crypto hack losses equal 57 cents per $1 earned onchain: Ark\u2019s Valente"
+     "DTCC Plans Solana Expansion as Wallet Rules Limit Access",
+     "Binance Hack Wallets Move $137 Million in Ethereum After Two Weeks of Silence",
+     "Optimizely Hack Hijacked Ledger, BBC and 176 Other Sites to Swap Crypto Wallet Addresses"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
    },
    "member_repos": [
     {
-     "full_name": "AethForgeice25459/rugcheck-respocket-ai",
-     "stars_per_day": 10.5,
-     "url": "https://github.com/AethForgeice25459/rugcheck-respocket-ai"
+     "full_name": "bryanwalter710-debug/solana-defi-security",
+     "stars_per_day": 76.5,
+     "url": "https://github.com/bryanwalter710-debug/solana-defi-security"
     },
     {
-     "full_name": "CryAceocean/solgov-rpocket-team",
-     "stars_per_day": 10.5,
-     "url": "https://github.com/CryAceocean/solgov-rpocket-team"
+     "full_name": "floatdotxyz/float",
+     "stars_per_day": 19.62,
+     "url": "https://github.com/floatdotxyz/float"
     },
+    {
+     "full_name": "miloslavatangen/Checker-Mnemonic",
+     "stars_per_day": 16.0,
+     "url": "https://github.com/miloslavatangen/Checker-Mnemonic"
+    },
+    {
+     "full_name": "Novaograge12557/Solana-AI-resp-Agent-Multimodal",
+     "stars_per_day": 8.33,
+     "url": "https://github.com/Novaograge12557/Solana-AI-resp-Agent-Multimodal"
+    },
+    {
+     "full_name": "h100envy/gem-search",
+     "stars_per_day": 5.37,
+     "url": "https://github.com/h100envy/gem-search"
+    }
+   ]
+  },
+  {
+   "narrative": "AI Agents on Solana",
+   "score": 130.7,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 25,
+    "github_top_velocity": 106.66,
+    "headline_hits": 3,
+    "sample_headlines": [
+     "AI agents help rescue ETH\u2019s Glamsterdam fork, \u2018Steal My Bitcoin\u2019 site: Hodler\u2019s Digest",
+     "'The Biggest Opportunity in Crypto Is Already Underway': Solana Bets Big on AI Agents",
+     "Blockchain is \u2018perfect solution\u2019 for AI agent trust, VeChain CEO says"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 2
+   },
+   "member_repos": [
+    {
+     "full_name": "farzanamustafa936-dot/solana-pump-fun-sniper-bot",
+     "stars_per_day": 76.5,
+     "url": "https://github.com/farzanamustafa936-dot/solana-pump-fun-sniper-bot"
+    },
+    {
+     "full_name": "Savageworks/solana-resp-trader-client-go",
+     "stars_per_day": 8.33,
+     "url": "https://github.com/Savageworks/solana-resp-trader-client-go"
+    },
+    {
+     "full_name": "Novaograge12557/Solana-AI-resp-Agent-Multimodal",
+     "stars_per_day": 8.33,
+     "url": "https://github.com/Novaograge12557/Solana-AI-resp-Agent-Multimodal"
+    },
+    {
+     "full_name": "teraus111/web3-agent-kit-solana-trading",
+     "stars_per_day": 5.0,
+     "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
+    },
+    {
+     "full_name": "SpaceDataRig/space-data-rig",
+     "stars_per_day": 3.95,
+     "url": "https://github.com/SpaceDataRig/space-data-rig"
+    }
+   ]
+  },
+  {
+   "narrative": "DePIN & Physical Infra",
+   "score": 86.5,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 3,
+    "github_top_velocity": 86.45,
+    "headline_hits": 0,
+    "sample_headlines": [],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "bryanwalter710-debug/solana-defi-security",
+     "stars_per_day": 76.5,
+     "url": "https://github.com/bryanwalter710-debug/solana-defi-security"
+    },
+    {
+     "full_name": "Novaograge12557/Solana-AI-resp-Agent-Multimodal",
+     "stars_per_day": 8.33,
+     "url": "https://github.com/Novaograge12557/Solana-AI-resp-Agent-Multimodal"
+    },
+    {
+     "full_name": "refrax-xyz/refrax-node",
+     "stars_per_day": 1.62,
+     "url": "https://github.com/refrax-xyz/refrax-node"
+    }
+   ]
+  },
+  {
+   "narrative": "Security & Threats",
+   "score": 36.0,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 10,
+    "github_top_velocity": 3.98,
+    "headline_hits": 4,
+    "sample_headlines": [
+     "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
+     "Binance Hack Wallets Move $137 Million in Ethereum After Two Weeks of Silence",
+     "Optimizely Hack Hijacked Ledger, BBC and 176 Other Sites to Swap Crypto Wallet Addresses"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 2
+   },
+   "member_repos": [
     {
      "full_name": "tommyg-dev/contingency",
      "stars_per_day": 2.0,
      "url": "https://github.com/tommyg-dev/contingency"
     },
     {
-     "full_name": "outgoingyang/solana-sniping-bot",
-     "stars_per_day": 1.57,
-     "url": "https://github.com/outgoingyang/solana-sniping-bot"
+     "full_name": "PTK030/kenning",
+     "stars_per_day": 0.87,
+     "url": "https://github.com/PTK030/kenning"
     },
     {
-     "full_name": "PTK030/kenning",
-     "stars_per_day": 0.84,
-     "url": "https://github.com/PTK030/kenning"
+     "full_name": "Phat1911/Tributary",
+     "stars_per_day": 0.24,
+     "url": "https://github.com/Phat1911/Tributary"
+    },
+    {
+     "full_name": "BadmonLano/meme-sniper",
+     "stars_per_day": 0.2,
+     "url": "https://github.com/BadmonLano/meme-sniper"
+    },
+    {
+     "full_name": "degeneracyy/defidegeneracy",
+     "stars_per_day": 0.2,
+     "url": "https://github.com/degeneracyy/defidegeneracy"
     }
    ]
   },
   {
    "narrative": "Payments & Stablecoins",
-   "score": 34.9,
+   "score": 32.8,
    "confidence": "High",
    "evidence": {
     "github_repos": 8,
-    "github_top_velocity": 18.93,
+    "github_top_velocity": 16.8,
     "headline_hits": 2,
     "sample_headlines": [
      "Zelle picks Solana for ZelleUSD stablecoin and international payments",
-     "Tx launches USTX stablecoin to pull RWA liquidity onto its chain"
+     "World Bank Taps Circle and Citi to Test Stablecoins for Development Payments"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -275,7 +305,7 @@
    "member_repos": [
     {
      "full_name": "Savageworks/solana-resp-trader-client-go",
-     "stars_per_day": 10.5,
+     "stars_per_day": 8.33,
      "url": "https://github.com/Savageworks/solana-resp-trader-client-go"
     },
     {
@@ -295,7 +325,7 @@
     },
     {
      "full_name": "makedotfun/prize-escrow",
-     "stars_per_day": 0.21,
+     "stars_per_day": 0.25,
      "url": "https://github.com/makedotfun/prize-escrow"
     }
    ]
@@ -306,12 +336,12 @@
    "confidence": "Medium",
    "evidence": {
     "github_repos": 3,
-    "github_top_velocity": 0.25,
+    "github_top_velocity": 0.23,
     "headline_hits": 4,
     "sample_headlines": [
      "Mirae Asset Securities issues tokenized notes on Solana",
-     "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
-     "'Tokenization Is Not the Finish Line': Jupiter to Let Users Borrow Against Bullish Shares"
+     "Standard Life Chair Wants Tokenized Gilts to Open UK Government Bonds to Retail Savers",
+     "'The Biggest Opportunity in Crypto Is Already Underway': Solana Bets Big on AI Agents"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 1
@@ -319,63 +349,28 @@
    "member_repos": [
     {
      "full_name": "Hymetdotfun/hymet",
-     "stars_per_day": 0.15,
+     "stars_per_day": 0.14,
      "url": "https://github.com/Hymetdotfun/hymet"
-    },
-    {
-     "full_name": "Zyxel89/owncurve",
-     "stars_per_day": 0.05,
-     "url": "https://github.com/Zyxel89/owncurve"
     },
     {
      "full_name": "truenorth-lj/sofinance-public",
      "stars_per_day": 0.05,
      "url": "https://github.com/truenorth-lj/sofinance-public"
-    }
-   ]
-  },
-  {
-   "narrative": "DePIN & Physical Infra",
-   "score": 24.3,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 4,
-    "github_top_velocity": 24.27,
-    "headline_hits": 0,
-    "sample_headlines": [],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "Novaograge12557/Solana-AI-resp-Agent-Multimodal",
-     "stars_per_day": 10.5,
-     "url": "https://github.com/Novaograge12557/Solana-AI-resp-Agent-Multimodal"
     },
     {
-     "full_name": "CryAceocean/solgov-rpocket-team",
-     "stars_per_day": 10.5,
-     "url": "https://github.com/CryAceocean/solgov-rpocket-team"
-    },
-    {
-     "full_name": "refrax-xyz/refrax-node",
-     "stars_per_day": 1.7,
-     "url": "https://github.com/refrax-xyz/refrax-node"
-    },
-    {
-     "full_name": "outgoingyang/solana-sniping-bot",
-     "stars_per_day": 1.57,
-     "url": "https://github.com/outgoingyang/solana-sniping-bot"
+     "full_name": "Zyxel89/owncurve",
+     "stars_per_day": 0.04,
+     "url": "https://github.com/Zyxel89/owncurve"
     }
    ]
   },
   {
    "narrative": "Consumer & Social",
-   "score": 2.4,
+   "score": 2.2,
    "confidence": "Low",
    "evidence": {
     "github_repos": 2,
-    "github_top_velocity": 2.36,
+    "github_top_velocity": 2.21,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -384,12 +379,12 @@
    "member_repos": [
     {
      "full_name": "askglyph/glyph",
-     "stars_per_day": 2.21,
+     "stars_per_day": 2.07,
      "url": "https://github.com/askglyph/glyph"
     },
     {
      "full_name": "Hymetdotfun/hymet",
-     "stars_per_day": 0.15,
+     "stars_per_day": 0.14,
      "url": "https://github.com/Hymetdotfun/hymet"
     }
    ]

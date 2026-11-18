@@ -1,6 +1,16 @@
 {
  "cointelegraph": [
   {
+   "title": "CoinShares sells all treasury ETH, halves SOL holdings for buybacks",
+   "pub": "Wed, 18 Nov 2026 13:42:37 +0000",
+   "link": "https://cointelegraph.com/news/coinshares-sells-eth-treasury-holdings-halves-sol-share-buybacks?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
+  },
+  {
+   "title": "SOL comes out of Breakpoint 7% higher as Solana exits beta",
+   "pub": "Wed, 18 Nov 2026 08:41:16 +0000",
+   "link": "https://cointelegraph.com/markets/solana-sol-gains-7-percent-breakpoint-beta-tokenization?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
+  },
+  {
    "title": "Solana Foundation takes majority interest in crypto data firm CoinGecko",
    "pub": "Tue, 17 Nov 2026 14:45:49 +0000",
    "link": "https://cointelegraph.com/news/coingecko-solana-foundation-majority-stake?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
@@ -49,78 +59,68 @@
    "title": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
    "pub": "Mon, 26 Oct 2026 03:21:26 +0000",
    "link": "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "AI agents help rescue ETH\u2019s Glamsterdam fork, \u2018Steal My Bitcoin\u2019 site: Hodler\u2019s Digest",
-   "pub": "Sun, 25 Oct 2026 22:48:40 +0000",
-   "link": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Solana\u2019s Alpenglow launches on mainnet, targets 99% faster finality",
-   "pub": "Wed, 21 Oct 2026 13:57:14 +0000",
-   "link": "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
   }
  ],
  "decrypt": [
   {
-   "title": "Why Microsoft Thinks Smaller, Cheaper AI Can Beat Claude and GPT",
-   "pub": "Tue, 17 Nov 2026 23:16:03 +0000",
-   "link": "https://decrypt.co/383468/why-microsoft-thinks-smaller-cheaper-ai-beat-claude-gpt"
+   "title": "Google's Genie 4 Is Here, Letting Ultra Subscribers Build AI Worlds in Real Time",
+   "pub": "Wed, 18 Nov 2026 20:16:02 +0000",
+   "link": "https://decrypt.co/383572/google-genie-4-ultra-subscribers-build-ai-worlds-real-time"
   },
   {
-   "title": "Nvidia Board Shuts Down Jensen Huang Comeback, Launches Search for New CEO",
-   "pub": "Tue, 17 Nov 2026 22:39:53 +0000",
-   "link": "https://decrypt.co/383513/nvidia-board-shuts-down-jensen-huang-comeback"
+   "title": "Why CoinShares Just Sold All Its Ethereum and Half Its Solana",
+   "pub": "Wed, 18 Nov 2026 19:46:02 +0000",
+   "link": "https://decrypt.co/383570/why-coinshares-just-sold-all-ethereum-half-solana"
   },
   {
-   "title": "Nvidia Shares Rise After Earnings Beat in First Report Since Jensen Huang's Exit",
-   "pub": "Tue, 17 Nov 2026 22:18:18 +0000",
-   "link": "https://decrypt.co/383505/nvidia-shares-rise-earnings-beat-first-report-jensen-huang-exit"
+   "title": "Bitcoin Tanks Ahead of Anthropic\u2019s IPO. Should We Really Blame AI?",
+   "pub": "Wed, 18 Nov 2026 19:16:02 +0000",
+   "link": "https://decrypt.co/383551/bitcoin-tanks-ahead-anthropics-ipo-should-we-really-blame-ai"
   },
   {
-   "title": "OpenAI's GPT 6.2 Astra Challenges Anthropic on Price, But Not Every Benchmark",
-   "pub": "Tue, 17 Nov 2026 21:46:02 +0000",
-   "link": "https://decrypt.co/383488/openai-gpt-6-2-astra-challenges-anthropic-price-but-not-every-benchmark"
+   "title": "Bitcoin Miners Are Selling Their Stacks to Fund the AI Boom",
+   "pub": "Wed, 18 Nov 2026 18:46:03 +0000",
+   "link": "https://decrypt.co/383568/bitcoin-miners-selling-fund-ai-boom"
   },
   {
-   "title": "World Bank Taps Circle and Citi to Test Stablecoins for Development Payments",
-   "pub": "Tue, 17 Nov 2026 20:56:03 +0000",
-   "link": "https://decrypt.co/383485/world-bank-circle-citi-test-stablecoins-development-payments"
+   "title": "Fed's Waller Calls for 50-Basis-Point Rate Hike, Says Tokenized Finance Still Needs Traditional Banks",
+   "pub": "Wed, 18 Nov 2026 18:16:02 +0000",
+   "link": "https://decrypt.co/383566/fed-waller-50-basis-point-rate-hike-tokenized-finance-banks"
   },
   {
-   "title": "Bitcoin Investors Are Capitulating\u2014That\u2019s Historically Been a Bottom Signal",
-   "pub": "Tue, 17 Nov 2026 20:36:03 +0000",
-   "link": "https://decrypt.co/383466/bitcoin-investors-capitulating-historical-bottom-signal"
+   "title": "Lucky Trader Banks 66,000% Profit on GTA 6 Meme Coin Ticker Confusion",
+   "pub": "Wed, 18 Nov 2026 17:32:13 +0000",
+   "link": "https://decrypt.co/383536/lucky-trader-banks-66000-profit-on-gta-6-meme-coin-ticker-confusion"
   },
   {
-   "title": "Cathie Wood's ARK Sells $85 Million in Nvidia, Buys $40 Million in Crypto Stocks",
-   "pub": "Tue, 17 Nov 2026 19:46:03 +0000",
-   "link": "https://decrypt.co/383463/cathie-wood-ark-sells-85-million-nvidia-buys-crypto-stocks"
+   "title": "'It Speaks in Tongues That Only 6.2 Astra Understands': Why Early Testers Hate OpenAI\u2019s New Model",
+   "pub": "Wed, 18 Nov 2026 16:57:53 +0000",
+   "link": "https://decrypt.co/383539/speaks-tongues-only-6-2-astra-understands-why-early-testers-hate-openai-new-model"
   },
   {
-   "title": "Ethereum Devs Weigh a Scaling Upgrade That Could Break 15,000 Apps",
-   "pub": "Tue, 17 Nov 2026 19:26:02 +0000",
-   "link": "https://decrypt.co/383462/ethereum-devs-scaling-upgrade-could-break-15000-apps"
+   "title": "Movie2K Defendant Could Hand Over 40,000 Bitcoin to End Trial\u2014and Stay a Billionaire",
+   "pub": "Wed, 18 Nov 2026 14:20:52 +0000",
+   "link": "https://decrypt.co/383533/movie2k-defendant-could-hand-over-40000-bitcoin-to-end-trial-and-stay-a-billionaire"
   },
   {
-   "title": "Jensen Huang Says He'd Be 'Honored' to Return as Nvidia CEO, Despite Board's Resistance",
-   "pub": "Tue, 17 Nov 2026 18:23:43 +0000",
-   "link": "https://decrypt.co/383454/jensen-huang-honored-return-nvidia-ceo-board-resistance"
+   "title": "Morning Minute: Nvidia Beats, Board Says \u2018No\u2019 on Jensen",
+   "pub": "Wed, 18 Nov 2026 13:37:20 +0000",
+   "link": "https://decrypt.co/383530/morning-minute-nvidia-beats-board-says-no-on-jensen"
   },
   {
-   "title": "Binance Hack Wallets Move $137 Million in Ethereum After Two Weeks of Silence",
-   "pub": "Tue, 17 Nov 2026 17:18:41 +0000",
-   "link": "https://decrypt.co/383446/binance-hack-wallets-move-ethereum-after-two-weeks"
+   "title": "'Doomed From the Start': President Trump's Meme Coin Hits New Lows After Midterms",
+   "pub": "Wed, 18 Nov 2026 12:45:37 +0000",
+   "link": "https://decrypt.co/383524/doomed-from-the-start-president-trumps-meme-coin-hits-new-lows-after-midterms"
   },
   {
-   "title": "Former Robinhood Engineer Pleads Guilty to Crypto Insider Trading Scheme",
-   "pub": "Tue, 17 Nov 2026 16:41:38 +0000",
-   "link": "https://decrypt.co/383443/former-robinhood-engineer-pleads-guilty-crypto-insider-trading"
+   "title": "AI Will Make the Next 12 Months 'a Slaughterhouse' for Crypto Security: Anchorage Exec",
+   "pub": "Wed, 18 Nov 2026 12:10:27 +0000",
+   "link": "https://decrypt.co/383526/ai-will-make-the-next-12-months-a-slaughterhouse-for-crypto-security-anchorage-exec"
   },
   {
-   "title": "Standard Life Chair Wants Tokenized Gilts to Open UK Government Bonds to Retail Savers",
-   "pub": "Tue, 17 Nov 2026 15:30:37 +0000",
-   "link": "https://decrypt.co/383434/standard-life-chair-wants-tokenized-gilts-to-open-uk-government-bonds-to-retail-savers"
+   "title": "Scattered Spider Hacker Sentenced to 6 Years Over $11.6M in Stolen Crypto",
+   "pub": "Wed, 18 Nov 2026 10:17:17 +0000",
+   "link": "https://decrypt.co/383522/scattered-spider-hacker-sentenced-to-6-years-over-11-6m-in-stolen-crypto"
   }
  ],
  "cryptonews": [

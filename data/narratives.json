@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-17T20:56:53+00:00",
+ "generated_at": "2026-11-18T07:30:36+00:00",
  "narratives": [
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 344.4,
+   "score": 344.0,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 54,
-    "github_top_velocity": 344.43,
+    "github_repos": 52,
+    "github_top_velocity": 344.04,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -16,7 +16,7 @@
    "member_repos": [
     {
      "full_name": "s-warren725/solana-node-notes",
-     "stars_per_day": 101.0,
+     "stars_per_day": 100.0,
      "url": "https://github.com/s-warren725/solana-node-notes"
     },
     {
@@ -36,23 +36,23 @@
     },
     {
      "full_name": "floatdotxyz/float",
-     "stars_per_day": 19.62,
+     "stars_per_day": 17.44,
      "url": "https://github.com/floatdotxyz/float"
     }
    ]
   },
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 282.0,
+   "score": 273.4,
    "confidence": "High",
    "evidence": {
-    "github_repos": 46,
-    "github_top_velocity": 225.98,
-    "headline_hits": 7,
+    "github_repos": 45,
+    "github_top_velocity": 225.37,
+    "headline_hits": 6,
     "sample_headlines": [
      "Formation Securities plans Solana stock trading venue under SEC exemption",
      "Former Robinhood Engineer Pleads Guilty to Crypto Insider Trading Scheme",
-     "Morning Minute: The CFTC Officially Greenlights Perps in the US, Starting with Backpack"
+     "EU DeFi proposals could push users to riskier platforms, says Coinbase exec"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -87,14 +87,14 @@
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 174.1,
+   "score": 170.9,
    "confidence": "High",
    "evidence": {
-    "github_repos": 16,
-    "github_top_velocity": 139.55,
+    "github_repos": 15,
+    "github_top_velocity": 137.21,
     "headline_hits": 0,
     "sample_headlines": [],
-    "market_avg_7d_pct": -17.27,
+    "market_avg_7d_pct": -16.84,
     "sources_confirming": 2
    },
    "member_repos": [
@@ -105,7 +105,7 @@
     },
     {
      "full_name": "floatdotxyz/float",
-     "stars_per_day": 19.62,
+     "stars_per_day": 17.44,
      "url": "https://github.com/floatdotxyz/float"
     },
     {
@@ -127,16 +127,16 @@
   },
   {
    "narrative": "Wallets & UX",
-   "score": 161.6,
+   "score": 154.1,
    "confidence": "High",
    "evidence": {
-    "github_repos": 22,
-    "github_top_velocity": 129.56,
-    "headline_hits": 4,
+    "github_repos": 21,
+    "github_top_velocity": 130.1,
+    "headline_hits": 3,
     "sample_headlines": [
      "DTCC Plans Solana Expansion as Wallet Rules Limit Access",
      "Binance Hack Wallets Move $137 Million in Ethereum After Two Weeks of Silence",
-     "Optimizely Hack Hijacked Ledger, BBC and 176 Other Sites to Swap Crypto Wallet Addresses"
+     "Suiet wallet to shut down in latest exit from Sui ecosystem"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -149,7 +149,7 @@
     },
     {
      "full_name": "floatdotxyz/float",
-     "stars_per_day": 19.62,
+     "stars_per_day": 17.44,
      "url": "https://github.com/floatdotxyz/float"
     },
     {
@@ -171,15 +171,15 @@
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 130.7,
+   "score": 131.5,
    "confidence": "High",
    "evidence": {
     "github_repos": 25,
-    "github_top_velocity": 106.66,
+    "github_top_velocity": 107.5,
     "headline_hits": 3,
     "sample_headlines": [
      "AI agents help rescue ETH\u2019s Glamsterdam fork, \u2018Steal My Bitcoin\u2019 site: Hodler\u2019s Digest",
-     "'The Biggest Opportunity in Crypto Is Already Underway': Solana Bets Big on AI Agents",
+     "Why Microsoft Thinks Smaller, Cheaper AI Can Beat Claude and GPT",
      "Blockchain is \u2018perfect solution\u2019 for AI agent trust, VeChain CEO says"
     ],
     "market_avg_7d_pct": null,
@@ -203,7 +203,7 @@
     },
     {
      "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 5.0,
+     "stars_per_day": 5.03,
      "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
     },
     {
@@ -244,17 +244,60 @@
    ]
   },
   {
+   "narrative": "Payments & Stablecoins",
+   "score": 35.4,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 8,
+    "github_top_velocity": 19.39,
+    "headline_hits": 2,
+    "sample_headlines": [
+     "Zelle picks Solana for ZelleUSD stablecoin and international payments",
+     "World Bank Taps Circle and Citi to Test Stablecoins for Development Payments"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 2
+   },
+   "member_repos": [
+    {
+     "full_name": "Savageworks/solana-resp-trader-client-go",
+     "stars_per_day": 8.33,
+     "url": "https://github.com/Savageworks/solana-resp-trader-client-go"
+    },
+    {
+     "full_name": "ismeh7765/FlashUSDT-v",
+     "stars_per_day": 5.0,
+     "url": "https://github.com/ismeh7765/FlashUSDT-v"
+    },
+    {
+     "full_name": "tommyg-dev/contingency",
+     "stars_per_day": 5.0,
+     "url": "https://github.com/tommyg-dev/contingency"
+    },
+    {
+     "full_name": "orrery-node/orrery",
+     "stars_per_day": 0.42,
+     "url": "https://github.com/orrery-node/orrery"
+    },
+    {
+     "full_name": "makedotfun/prize-escrow",
+     "stars_per_day": 0.25,
+     "url": "https://github.com/makedotfun/prize-escrow"
+    }
+   ]
+  },
+  {
    "narrative": "Security & Threats",
-   "score": 36.0,
+   "score": 30.9,
    "confidence": "High",
    "evidence": {
     "github_repos": 10,
-    "github_top_velocity": 3.98,
-    "headline_hits": 4,
+    "github_top_velocity": 6.91,
+    "headline_hits": 3,
     "sample_headlines": [
      "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
      "Binance Hack Wallets Move $137 Million in Ethereum After Two Weeks of Silence",
-     "Optimizely Hack Hijacked Ledger, BBC and 176 Other Sites to Swap Crypto Wallet Addresses"
+     "Crypto hack losses equal 57 cents per $1 earned onchain: Ark\u2019s Valente"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -262,7 +305,7 @@
    "member_repos": [
     {
      "full_name": "tommyg-dev/contingency",
-     "stars_per_day": 2.0,
+     "stars_per_day": 5.0,
      "url": "https://github.com/tommyg-dev/contingency"
     },
     {
@@ -282,66 +325,23 @@
     },
     {
      "full_name": "degeneracyy/defidegeneracy",
-     "stars_per_day": 0.2,
+     "stars_per_day": 0.17,
      "url": "https://github.com/degeneracyy/defidegeneracy"
     }
    ]
   },
   {
-   "narrative": "Payments & Stablecoins",
-   "score": 32.8,
-   "confidence": "High",
-   "evidence": {
-    "github_repos": 8,
-    "github_top_velocity": 16.8,
-    "headline_hits": 2,
-    "sample_headlines": [
-     "Zelle picks Solana for ZelleUSD stablecoin and international payments",
-     "World Bank Taps Circle and Citi to Test Stablecoins for Development Payments"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 2
-   },
-   "member_repos": [
-    {
-     "full_name": "Savageworks/solana-resp-trader-client-go",
-     "stars_per_day": 8.33,
-     "url": "https://github.com/Savageworks/solana-resp-trader-client-go"
-    },
-    {
-     "full_name": "ismeh7765/FlashUSDT-v",
-     "stars_per_day": 5.45,
-     "url": "https://github.com/ismeh7765/FlashUSDT-v"
-    },
-    {
-     "full_name": "tommyg-dev/contingency",
-     "stars_per_day": 2.0,
-     "url": "https://github.com/tommyg-dev/contingency"
-    },
-    {
-     "full_name": "orrery-node/orrery",
-     "stars_per_day": 0.36,
-     "url": "https://github.com/orrery-node/orrery"
-    },
-    {
-     "full_name": "makedotfun/prize-escrow",
-     "stars_per_day": 0.25,
-     "url": "https://github.com/makedotfun/prize-escrow"
-    }
-   ]
-  },
-  {
    "narrative": "RWA & Tokenization",
-   "score": 32.2,
+   "score": 24.2,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 3,
     "github_top_velocity": 0.23,
-    "headline_hits": 4,
+    "headline_hits": 3,
     "sample_headlines": [
      "Mirae Asset Securities issues tokenized notes on Solana",
      "Standard Life Chair Wants Tokenized Gilts to Open UK Government Bonds to Retail Savers",
-     "'The Biggest Opportunity in Crypto Is Already Underway': Solana Bets Big on AI Agents"
+     "RWA protocol stUSDT winds down 3 years after $2.3B TVL peak"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 1

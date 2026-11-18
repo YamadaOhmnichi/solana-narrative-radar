@@ -6,8 +6,8 @@
   "stars": 60,
   "created": "2026-11-15T05:28:07Z",
   "language": "Python",
-  "stars_per_day": 30.0,
-  "age_days": 2,
+  "stars_per_day": 20.0,
+  "age_days": 3,
   "topics": [
    "auto-withdraw",
    "auto-withdraw-script",

@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-18T20:33:17+00:00",
+ "generated_at": "2026-11-19T07:27:39+00:00",
  "narratives": [
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 266.5,
+   "score": 213.2,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 53,
-    "github_top_velocity": 266.48,
+    "github_top_velocity": 213.21,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -16,17 +16,17 @@
    "member_repos": [
     {
      "full_name": "bryanwalter710-debug/solana-defi-security",
-     "stars_per_day": 76.5,
+     "stars_per_day": 51.0,
      "url": "https://github.com/bryanwalter710-debug/solana-defi-security"
     },
     {
      "full_name": "farzanamustafa936-dot/solana-pump-fun-sniper-bot",
-     "stars_per_day": 76.5,
+     "stars_per_day": 51.0,
      "url": "https://github.com/farzanamustafa936-dot/solana-pump-fun-sniper-bot"
     },
     {
      "full_name": "s-warren725/solana-node-notes",
-     "stars_per_day": 45.5,
+     "stars_per_day": 45.0,
      "url": "https://github.com/s-warren725/solana-node-notes"
     },
     {
@@ -36,18 +36,18 @@
     },
     {
      "full_name": "floatdotxyz/float",
-     "stars_per_day": 17.44,
+     "stars_per_day": 15.7,
      "url": "https://github.com/floatdotxyz/float"
     }
    ]
   },
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 256.8,
+   "score": 205.2,
    "confidence": "High",
    "evidence": {
-    "github_repos": 47,
-    "github_top_velocity": 216.78,
+    "github_repos": 48,
+    "github_top_velocity": 165.15,
     "headline_hits": 5,
     "sample_headlines": [
      "Formation Securities plans Solana stock trading venue under SEC exemption",
@@ -60,17 +60,17 @@
    "member_repos": [
     {
      "full_name": "bryanwalter710-debug/solana-defi-security",
-     "stars_per_day": 76.5,
+     "stars_per_day": 51.0,
      "url": "https://github.com/bryanwalter710-debug/solana-defi-security"
     },
     {
      "full_name": "farzanamustafa936-dot/solana-pump-fun-sniper-bot",
-     "stars_per_day": 76.5,
+     "stars_per_day": 51.0,
      "url": "https://github.com/farzanamustafa936-dot/solana-pump-fun-sniper-bot"
     },
     {
      "full_name": "ValidatorStack/solana-vigil",
-     "stars_per_day": 28.75,
+     "stars_per_day": 28.62,
      "url": "https://github.com/ValidatorStack/solana-vigil"
     },
     {
@@ -87,28 +87,27 @@
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 187.5,
+   "score": 142.6,
    "confidence": "High",
    "evidence": {
-    "github_repos": 16,
-    "github_top_velocity": 134.02,
-    "headline_hits": 2,
+    "github_repos": 17,
+    "github_top_velocity": 106.74,
+    "headline_hits": 1,
     "sample_headlines": [
-     "Lucky Trader Banks 66,000% Profit on GTA 6 Meme Coin Ticker Confusion",
-     "'Doomed From the Start': President Trump's Meme Coin Hits New Lows After Midterms"
+     "Lucky Trader Banks 66,000% Profit on GTA 6 Meme Coin Ticker Confusion"
     ],
-    "market_avg_7d_pct": -18.75,
-    "sources_confirming": 3
+    "market_avg_7d_pct": -13.92,
+    "sources_confirming": 2
    },
    "member_repos": [
     {
      "full_name": "farzanamustafa936-dot/solana-pump-fun-sniper-bot",
-     "stars_per_day": 76.5,
+     "stars_per_day": 51.0,
      "url": "https://github.com/farzanamustafa936-dot/solana-pump-fun-sniper-bot"
     },
     {
      "full_name": "floatdotxyz/float",
-     "stars_per_day": 17.44,
+     "stars_per_day": 15.7,
      "url": "https://github.com/floatdotxyz/float"
     },
     {
@@ -123,65 +122,22 @@
     },
     {
      "full_name": "QuantumOrb/QuantOrb",
-     "stars_per_day": 5.75,
+     "stars_per_day": 5.83,
      "url": "https://github.com/QuantumOrb/QuantOrb"
     }
    ]
   },
   {
-   "narrative": "AI Agents on Solana",
-   "score": 143.0,
-   "confidence": "High",
-   "evidence": {
-    "github_repos": 25,
-    "github_top_velocity": 102.97,
-    "headline_hits": 5,
-    "sample_headlines": [
-     "Google's Genie 4 Is Here, Letting Ultra Subscribers Build AI Worlds in Real Time",
-     "Bitcoin Tanks Ahead of Anthropic\u2019s IPO. Should We Really Blame AI?",
-     "Bitcoin Miners Are Selling Their Stacks to Fund the AI Boom"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 2
-   },
-   "member_repos": [
-    {
-     "full_name": "farzanamustafa936-dot/solana-pump-fun-sniper-bot",
-     "stars_per_day": 76.5,
-     "url": "https://github.com/farzanamustafa936-dot/solana-pump-fun-sniper-bot"
-    },
-    {
-     "full_name": "Savageworks/solana-resp-trader-client-go",
-     "stars_per_day": 6.25,
-     "url": "https://github.com/Savageworks/solana-resp-trader-client-go"
-    },
-    {
-     "full_name": "Novaograge12557/Solana-AI-resp-Agent-Multimodal",
-     "stars_per_day": 6.25,
-     "url": "https://github.com/Novaograge12557/Solana-AI-resp-Agent-Multimodal"
-    },
-    {
-     "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 4.92,
-     "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
-    },
-    {
-     "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 3.85,
-     "url": "https://github.com/SpaceDataRig/space-data-rig"
-    }
-   ]
-  },
-  {
    "narrative": "Wallets & UX",
-   "score": 136.7,
+   "score": 117.5,
    "confidence": "High",
    "evidence": {
     "github_repos": 20,
-    "github_top_velocity": 120.67,
-    "headline_hits": 2,
+    "github_top_velocity": 93.46,
+    "headline_hits": 3,
     "sample_headlines": [
      "DTCC Plans Solana Expansion as Wallet Rules Limit Access",
+     "Ledger Confirms Tampered Bitcoin Wallets in Berlin as Spy Implant Probe Spreads Beyond Asia",
      "Suiet wallet to shut down in latest exit from Sui ecosystem"
     ],
     "market_avg_7d_pct": null,
@@ -190,12 +146,12 @@
    "member_repos": [
     {
      "full_name": "bryanwalter710-debug/solana-defi-security",
-     "stars_per_day": 76.5,
+     "stars_per_day": 51.0,
      "url": "https://github.com/bryanwalter710-debug/solana-defi-security"
     },
     {
      "full_name": "floatdotxyz/float",
-     "stars_per_day": 17.44,
+     "stars_per_day": 15.7,
      "url": "https://github.com/floatdotxyz/float"
     },
     {
@@ -216,12 +172,56 @@
    ]
   },
   {
+   "narrative": "AI Agents on Solana",
+   "score": 109.7,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 25,
+    "github_top_velocity": 77.68,
+    "headline_hits": 4,
+    "sample_headlines": [
+     "Google's Genie 4 Is Here, Letting Ultra Subscribers Build AI Worlds in Real Time",
+     "Bitcoin Tanks Ahead of Anthropic\u2019s IPO. Should We Really Blame AI?",
+     "Bitcoin Miners Are Selling Their Stacks to Fund the AI Boom"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 2
+   },
+   "member_repos": [
+    {
+     "full_name": "farzanamustafa936-dot/solana-pump-fun-sniper-bot",
+     "stars_per_day": 51.0,
+     "url": "https://github.com/farzanamustafa936-dot/solana-pump-fun-sniper-bot"
+    },
+    {
+     "full_name": "Savageworks/solana-resp-trader-client-go",
+     "stars_per_day": 6.25,
+     "url": "https://github.com/Savageworks/solana-resp-trader-client-go"
+    },
+    {
+     "full_name": "Novaograge12557/Solana-AI-resp-Agent-Multimodal",
+     "stars_per_day": 6.25,
+     "url": "https://github.com/Novaograge12557/Solana-AI-resp-Agent-Multimodal"
+    },
+    {
+     "full_name": "teraus111/web3-agent-kit-solana-trading",
+     "stars_per_day": 4.92,
+     "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
+    },
+    {
+     "full_name": "SpaceDataRig/space-data-rig",
+     "stars_per_day": 3.87,
+     "url": "https://github.com/SpaceDataRig/space-data-rig"
+    }
+   ]
+  },
+  {
    "narrative": "DePIN & Physical Infra",
-   "score": 85.8,
+   "score": 60.2,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 4,
-    "github_top_velocity": 85.77,
+    "github_top_velocity": 60.18,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -230,7 +230,7 @@
    "member_repos": [
     {
      "full_name": "bryanwalter710-debug/solana-defi-security",
-     "stars_per_day": 76.5,
+     "stars_per_day": 51.0,
      "url": "https://github.com/bryanwalter710-debug/solana-defi-security"
     },
     {
@@ -245,62 +245,18 @@
     },
     {
      "full_name": "outgoingyang/solana-sniping-bot",
-     "stars_per_day": 1.47,
+     "stars_per_day": 1.38,
      "url": "https://github.com/outgoingyang/solana-sniping-bot"
-    }
-   ]
-  },
-  {
-   "narrative": "Security & Threats",
-   "score": 27.2,
-   "confidence": "High",
-   "evidence": {
-    "github_repos": 9,
-    "github_top_velocity": 3.25,
-    "headline_hits": 3,
-    "sample_headlines": [
-     "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
-     "Scattered Spider Hacker Sentenced to 6 Years Over $11.6M in Stolen Crypto",
-     "Crypto hack losses equal 57 cents per $1 earned onchain: Ark\u2019s Valente"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 2
-   },
-   "member_repos": [
-    {
-     "full_name": "outgoingyang/solana-sniping-bot",
-     "stars_per_day": 1.47,
-     "url": "https://github.com/outgoingyang/solana-sniping-bot"
-    },
-    {
-     "full_name": "PTK030/kenning",
-     "stars_per_day": 0.79,
-     "url": "https://github.com/PTK030/kenning"
-    },
-    {
-     "full_name": "Phat1911/Tributary",
-     "stars_per_day": 0.23,
-     "url": "https://github.com/Phat1911/Tributary"
-    },
-    {
-     "full_name": "BadmonLano/meme-sniper",
-     "stars_per_day": 0.19,
-     "url": "https://github.com/BadmonLano/meme-sniper"
-    },
-    {
-     "full_name": "degeneracyy/defidegeneracy",
-     "stars_per_day": 0.17,
-     "url": "https://github.com/degeneracyy/defidegeneracy"
     }
    ]
   },
   {
    "narrative": "RWA & Tokenization",
-   "score": 24.2,
+   "score": 26.2,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 3,
-    "github_top_velocity": 0.22,
+    "github_repos": 4,
+    "github_top_velocity": 2.22,
     "headline_hits": 3,
     "sample_headlines": [
      "Mirae Asset Securities issues tokenized notes on Solana",
@@ -311,6 +267,11 @@
     "sources_confirming": 1
    },
    "member_repos": [
+    {
+     "full_name": "FoundationStoneAlgorithms/TokenWork",
+     "stars_per_day": 2.0,
+     "url": "https://github.com/FoundationStoneAlgorithms/TokenWork"
+    },
     {
      "full_name": "Hymetdotfun/hymet",
      "stars_per_day": 0.13,
@@ -330,11 +291,11 @@
   },
   {
    "narrative": "Payments & Stablecoins",
-   "score": 20.4,
+   "score": 19.9,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 8,
-    "github_top_velocity": 12.35,
+    "github_top_velocity": 11.93,
     "headline_hits": 1,
     "sample_headlines": [
      "Zelle picks Solana for ZelleUSD stablecoin and international payments"
@@ -350,12 +311,12 @@
     },
     {
      "full_name": "ismeh7765/FlashUSDT-v",
-     "stars_per_day": 5.0,
+     "stars_per_day": 4.62,
      "url": "https://github.com/ismeh7765/FlashUSDT-v"
     },
     {
      "full_name": "orrery-node/orrery",
-     "stars_per_day": 0.42,
+     "stars_per_day": 0.38,
      "url": "https://github.com/orrery-node/orrery"
     },
     {
@@ -367,6 +328,49 @@
      "full_name": "blueshift-gg/solana-pull-program",
      "stars_per_day": 0.17,
      "url": "https://github.com/blueshift-gg/solana-pull-program"
+    }
+   ]
+  },
+  {
+   "narrative": "Security & Threats",
+   "score": 19.0,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 8,
+    "github_top_velocity": 3.01,
+    "headline_hits": 2,
+    "sample_headlines": [
+     "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
+     "Crypto hack losses equal 57 cents per $1 earned onchain: Ark\u2019s Valente"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 2
+   },
+   "member_repos": [
+    {
+     "full_name": "outgoingyang/solana-sniping-bot",
+     "stars_per_day": 1.38,
+     "url": "https://github.com/outgoingyang/solana-sniping-bot"
+    },
+    {
+     "full_name": "PTK030/kenning",
+     "stars_per_day": 0.82,
+     "url": "https://github.com/PTK030/kenning"
+    },
+    {
+     "full_name": "Phat1911/Tributary",
+     "stars_per_day": 0.23,
+     "url": "https://github.com/Phat1911/Tributary"
+    },
+    {
+     "full_name": "BadmonLano/meme-sniper",
+     "stars_per_day": 0.19,
+     "url": "https://github.com/BadmonLano/meme-sniper"
+    },
+    {
+     "full_name": "RedDuckTeam/redduck-solana-audit",
+     "stars_per_day": 0.14,
+     "url": "https://github.com/RedDuckTeam/redduck-solana-audit"
     }
    ]
   },

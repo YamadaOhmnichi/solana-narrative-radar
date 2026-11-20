@@ -1,6 +1,11 @@
 {
  "cointelegraph": [
   {
+   "title": "VanEck to end Gemini ETF custody deals, keeps Coinbase",
+   "pub": "Fri, 20 Nov 2026 10:54:38 +0000",
+   "link": "https://cointelegraph.com/news/vaneck-gemini-etf-custody-end-keep-coinbase?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
+  },
+  {
    "title": "CoinShares sells all treasury ETH, halves SOL holdings for buybacks",
    "pub": "Wed, 18 Nov 2026 13:42:37 +0000",
    "link": "https://cointelegraph.com/news/coinshares-sells-eth-treasury-holdings-halves-sol-share-buybacks?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
@@ -54,73 +59,68 @@
    "title": "Mirae Asset Securities issues tokenized notes on Solana",
    "pub": "Wed, 28 Oct 2026 11:05:33 +0000",
    "link": "https://cointelegraph.com/news/mirae-asset-securities-tokenized-notes-solana?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
-   "pub": "Mon, 26 Oct 2026 03:21:26 +0000",
-   "link": "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
   }
  ],
  "decrypt": [
   {
+   "title": "SBF\u2019s 'The Altruists' Plot Twist: FTX\u2019s Anthropic Shares Would Be Worth $43 Billion",
+   "pub": "Fri, 20 Nov 2026 19:36:03 +0000",
+   "link": "https://decrypt.co/383739/sbf-altruists-ftx-anthropic-shares-worth-43-billion"
+  },
+  {
+   "title": "Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure",
+   "pub": "Fri, 20 Nov 2026 18:46:03 +0000",
+   "link": "https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure"
+  },
+  {
+   "title": "Google Gives Gemini Control of Mac Apps, But Its New AI Agent Comes With Risks",
+   "pub": "Fri, 20 Nov 2026 18:16:02 +0000",
+   "link": "https://decrypt.co/383733/google-gives-gemini-control-mac-apps-ai-agent"
+  },
+  {
+   "title": "Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host",
+   "pub": "Fri, 20 Nov 2026 17:41:45 +0000",
+   "link": "https://decrypt.co/383732/wrapped-monero-token-collapses-99-after-13-million-hack-blamed-on-web-host"
+  },
+  {
+   "title": "Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February",
+   "pub": "Fri, 20 Nov 2026 16:35:59 +0000",
+   "link": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest"
+  },
+  {
+   "title": "Senate Passes Bill Banning Prediction Market Bets on War, Terrorism and Death",
+   "pub": "Fri, 20 Nov 2026 15:42:51 +0000",
+   "link": "https://decrypt.co/383700/senate-passes-bill-banning-prediction-market-bets-on-war-terrorism-and-death"
+  },
+  {
+   "title": "Morning Minute: Anthropic IPO Pops, Sinks Markets",
+   "pub": "Fri, 20 Nov 2026 13:23:01 +0000",
+   "link": "https://decrypt.co/383691/morning-minute-anthropic-ipo-pops-sinks-markets"
+  },
+  {
+   "title": "MoonPay Applies for National Trust Bank Charter to Grow Custody and Stablecoin Business",
+   "pub": "Fri, 20 Nov 2026 12:10:14 +0000",
+   "link": "https://decrypt.co/383688/moonpay-applies-for-national-trust-bank-charter-to-grow-custody-and-stablecoin-business"
+  },
+  {
+   "title": "Bitcoin ETFs Shed $582M in a Day as BTC Drops Below $62K",
+   "pub": "Fri, 20 Nov 2026 11:50:51 +0000",
+   "link": "https://decrypt.co/383685/bitcoin-etfs-shed-582m-in-a-day-as-btc-drops-below-62k"
+  },
+  {
+   "title": "Coinbase Targets In-House Prediction Markets by First Half of 2027: Report",
+   "pub": "Fri, 20 Nov 2026 11:23:00 +0000",
+   "link": "https://decrypt.co/383682/coinbase-targets-in-house-prediction-markets-by-first-half-of-2027-report"
+  },
+  {
+   "title": "CryptoUK Urges FCA Not to Treat DeFi Devs as Regulated by Default",
+   "pub": "Fri, 20 Nov 2026 10:07:46 +0000",
+   "link": "https://decrypt.co/383679/cryptouk-urges-fca-not-to-treat-defi-devs-as-regulated-by-default"
+  },
+  {
    "title": "Citi Says Customers Are Responsible When AI Banking Agents Go Rogue\u2014Even After a Hack",
    "pub": "Thu, 19 Nov 2026 22:36:02 +0000",
    "link": "https://decrypt.co/383677/citi-customers-responsible-ai-banking-agents-rogue-hack"
-  },
-  {
-   "title": "Nvidia, AMD, Micron Sink as Anthropic Closes 17% Above IPO Price",
-   "pub": "Thu, 19 Nov 2026 21:12:06 +0000",
-   "link": "https://decrypt.co/383669/nvidia-amd-micron-ai-stocks-sink-anthropic-ipo-price"
-  },
-  {
-   "title": "Meet SHRINCS: Bitcoin's Emerging Frontrunner for a Post-Quantum Signature",
-   "pub": "Thu, 19 Nov 2026 20:46:02 +0000",
-   "link": "https://decrypt.co/383666/meet-shrincs-bitcoin-emerging-frontrunner-post-quantum-signature"
-  },
-  {
-   "title": "Hackers Leak Visa, Mastercard and JPMorgan Customer Data",
-   "pub": "Thu, 19 Nov 2026 20:15:32 +0000",
-   "link": "https://decrypt.co/383663/hackers-leak-visa-mastercard-jpmorgan-data"
-  },
-  {
-   "title": "Bitcoin Enters Death Cross as Anthropic IPO Fails to Lift Wall Street",
-   "pub": "Thu, 19 Nov 2026 19:08:24 +0000",
-   "link": "https://decrypt.co/383655/bitcoin-enters-death-cross-anthropic-ipo"
-  },
-  {
-   "title": "Protesters Arrested Outside Nasdaq as Activists Oppose Anthropic IPO Over AI Bubble Risks",
-   "pub": "Thu, 19 Nov 2026 17:55:38 +0000",
-   "link": "https://decrypt.co/383642/protesters-arrested-nasdaq-anthropic-ipo-ai-bubble-risks"
-  },
-  {
-   "title": "What Are Perpetual Futures? How Crypto's Most Popular Derivative Works",
-   "pub": "Thu, 19 Nov 2026 17:28:03 +0000",
-   "link": "https://decrypt.co/resources/what-are-perpetual-futures-how-cryptos-most-popular-derivative-works"
-  },
-  {
-   "title": "Anthropic Stock Opens 33% Above IPO Price as AI Stocks Rally",
-   "pub": "Thu, 19 Nov 2026 16:55:10 +0000",
-   "link": "https://decrypt.co/383631/anthropic-stock-indicated-open-33-above-ipo-price"
-  },
-  {
-   "title": "Anthropic Tops SpaceX's Initial IPO With $81 Billion Deal: Where the Money Went",
-   "pub": "Thu, 19 Nov 2026 15:54:03 +0000",
-   "link": "https://decrypt.co/383623/anthropic-tops-spacex-initial-ipo-81-billion-deal-where-the-money-went"
-  },
-  {
-   "title": "Gen Z Embraces Crypto While Most Americans Call It a 'Side Quest'",
-   "pub": "Thu, 19 Nov 2026 14:01:02 +0000",
-   "link": "https://decrypt.co/383589/gen-z-embraces-crypto-most-americans-side-quest"
-  },
-  {
-   "title": "Quantum Upgrade Could Be 'Particularly Challenging' for Blockchains: IOSCO",
-   "pub": "Thu, 19 Nov 2026 13:47:00 +0000",
-   "link": "https://decrypt.co/383613/quantum-upgrade-could-be-particularly-challenging-for-blockchains-iosco"
-  },
-  {
-   "title": "Morning Minute: Google\u2019s Newest AI Model Tops Benchmarks Ahead of Anthropic IPO",
-   "pub": "Thu, 19 Nov 2026 13:05:28 +0000",
-   "link": "https://decrypt.co/383609/morning-minute-googles-newest-ai-model-tops-benchmarks-ahead-of-anthropic-ipo"
   }
  ],
  "cryptonews": [

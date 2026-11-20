@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-19T20:39:27+00:00",
+ "generated_at": "2026-11-20T07:18:14+00:00",
  "narratives": [
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 265.4,
+   "score": 241.3,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 54,
-    "github_top_velocity": 265.41,
+    "github_repos": 55,
+    "github_top_velocity": 241.32,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -16,17 +16,17 @@
    "member_repos": [
     {
      "full_name": "setyamickala/airdrop-agent",
-     "stars_per_day": 79.0,
+     "stars_per_day": 82.0,
      "url": "https://github.com/setyamickala/airdrop-agent"
     },
     {
      "full_name": "bryanwalter710-debug/solana-defi-security",
-     "stars_per_day": 51.0,
+     "stars_per_day": 38.25,
      "url": "https://github.com/bryanwalter710-debug/solana-defi-security"
     },
     {
      "full_name": "farzanamustafa936-dot/solana-pump-fun-sniper-bot",
-     "stars_per_day": 51.0,
+     "stars_per_day": 38.25,
      "url": "https://github.com/farzanamustafa936-dot/solana-pump-fun-sniper-bot"
     },
     {
@@ -42,75 +42,31 @@
    ]
   },
   {
-   "narrative": "DeFi / Trading Infra",
-   "score": 203.7,
-   "confidence": "High",
-   "evidence": {
-    "github_repos": 46,
-    "github_top_velocity": 155.71,
-    "headline_hits": 6,
-    "sample_headlines": [
-     "Formation Securities plans Solana stock trading venue under SEC exemption",
-     "What Are Perpetual Futures? How Crypto's Most Popular Derivative Works",
-     "Ethereum\u2019s new DeFi security tool raises questions over censorship"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 2
-   },
-   "member_repos": [
-    {
-     "full_name": "bryanwalter710-debug/solana-defi-security",
-     "stars_per_day": 51.0,
-     "url": "https://github.com/bryanwalter710-debug/solana-defi-security"
-    },
-    {
-     "full_name": "farzanamustafa936-dot/solana-pump-fun-sniper-bot",
-     "stars_per_day": 51.0,
-     "url": "https://github.com/farzanamustafa936-dot/solana-pump-fun-sniper-bot"
-    },
-    {
-     "full_name": "ValidatorStack/solana-vigil",
-     "stars_per_day": 25.22,
-     "url": "https://github.com/ValidatorStack/solana-vigil"
-    },
-    {
-     "full_name": "h100envy/gem-search",
-     "stars_per_day": 5.18,
-     "url": "https://github.com/h100envy/gem-search"
-    },
-    {
-     "full_name": "Savageworks/solana-resp-trader-client-go",
-     "stars_per_day": 5.0,
-     "url": "https://github.com/Savageworks/solana-resp-trader-client-go"
-    }
-   ]
-  },
-  {
    "narrative": "Meme & Speculation",
-   "score": 203.0,
+   "score": 191.3,
    "confidence": "High",
    "evidence": {
-    "github_repos": 17,
-    "github_top_velocity": 173.79,
+    "github_repos": 18,
+    "github_top_velocity": 162.48,
     "headline_hits": 0,
     "sample_headlines": [],
-    "market_avg_7d_pct": -14.6,
+    "market_avg_7d_pct": -14.41,
     "sources_confirming": 2
    },
    "member_repos": [
     {
      "full_name": "setyamickala/airdrop-agent",
-     "stars_per_day": 79.0,
+     "stars_per_day": 82.0,
      "url": "https://github.com/setyamickala/airdrop-agent"
     },
     {
      "full_name": "farzanamustafa936-dot/solana-pump-fun-sniper-bot",
-     "stars_per_day": 51.0,
+     "stars_per_day": 38.25,
      "url": "https://github.com/farzanamustafa936-dot/solana-pump-fun-sniper-bot"
     },
     {
      "full_name": "floatdotxyz/float",
-     "stars_per_day": 15.5,
+     "stars_per_day": 14.09,
      "url": "https://github.com/floatdotxyz/float"
     },
     {
@@ -127,16 +83,16 @@
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 185.4,
+   "score": 183.6,
    "confidence": "High",
    "evidence": {
-    "github_repos": 26,
-    "github_top_velocity": 153.39,
-    "headline_hits": 4,
+    "github_repos": 24,
+    "github_top_velocity": 143.57,
+    "headline_hits": 5,
     "sample_headlines": [
+     "Citi Says Customers Are Responsible When AI Banking Agents Go Rogue\u2014Even After a Hack",
      "Protesters Arrested Outside Nasdaq as Activists Oppose Anthropic IPO Over AI Bubble Risks",
-     "Anthropic Stock Opens 33% Above IPO Price as AI Stocks Rally",
-     "Morning Minute: Google\u2019s Newest AI Model Tops Benchmarks Ahead of Anthropic IPO"
+     "Anthropic Stock Opens 33% Above IPO Price as AI Stocks Rally"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -144,12 +100,12 @@
    "member_repos": [
     {
      "full_name": "setyamickala/airdrop-agent",
-     "stars_per_day": 79.0,
+     "stars_per_day": 82.0,
      "url": "https://github.com/setyamickala/airdrop-agent"
     },
     {
      "full_name": "farzanamustafa936-dot/solana-pump-fun-sniper-bot",
-     "stars_per_day": 51.0,
+     "stars_per_day": 38.25,
      "url": "https://github.com/farzanamustafa936-dot/solana-pump-fun-sniper-bot"
     },
     {
@@ -170,12 +126,56 @@
    ]
   },
   {
+   "narrative": "DeFi / Trading Infra",
+   "score": 175.9,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 46,
+    "github_top_velocity": 127.9,
+    "headline_hits": 6,
+    "sample_headlines": [
+     "Formation Securities plans Solana stock trading venue under SEC exemption",
+     "What Are Perpetual Futures? How Crypto's Most Popular Derivative Works",
+     "Ethereum\u2019s new DeFi security tool raises questions over censorship"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 2
+   },
+   "member_repos": [
+    {
+     "full_name": "bryanwalter710-debug/solana-defi-security",
+     "stars_per_day": 38.25,
+     "url": "https://github.com/bryanwalter710-debug/solana-defi-security"
+    },
+    {
+     "full_name": "farzanamustafa936-dot/solana-pump-fun-sniper-bot",
+     "stars_per_day": 38.25,
+     "url": "https://github.com/farzanamustafa936-dot/solana-pump-fun-sniper-bot"
+    },
+    {
+     "full_name": "ValidatorStack/solana-vigil",
+     "stars_per_day": 25.22,
+     "url": "https://github.com/ValidatorStack/solana-vigil"
+    },
+    {
+     "full_name": "h100envy/gem-search",
+     "stars_per_day": 5.18,
+     "url": "https://github.com/h100envy/gem-search"
+    },
+    {
+     "full_name": "Savageworks/solana-resp-trader-client-go",
+     "stars_per_day": 5.0,
+     "url": "https://github.com/Savageworks/solana-resp-trader-client-go"
+    }
+   ]
+  },
+  {
    "narrative": "Wallets & UX",
-   "score": 185.1,
+   "score": 174.0,
    "confidence": "High",
    "evidence": {
     "github_repos": 21,
-    "github_top_velocity": 169.07,
+    "github_top_velocity": 158.02,
     "headline_hits": 2,
     "sample_headlines": [
      "DTCC Plans Solana Expansion as Wallet Rules Limit Access",
@@ -187,17 +187,17 @@
    "member_repos": [
     {
      "full_name": "setyamickala/airdrop-agent",
-     "stars_per_day": 79.0,
+     "stars_per_day": 82.0,
      "url": "https://github.com/setyamickala/airdrop-agent"
     },
     {
      "full_name": "bryanwalter710-debug/solana-defi-security",
-     "stars_per_day": 51.0,
+     "stars_per_day": 38.25,
      "url": "https://github.com/bryanwalter710-debug/solana-defi-security"
     },
     {
      "full_name": "floatdotxyz/float",
-     "stars_per_day": 15.5,
+     "stars_per_day": 14.09,
      "url": "https://github.com/floatdotxyz/float"
     },
     {
@@ -214,22 +214,20 @@
   },
   {
    "narrative": "Consumer & Social",
-   "score": 88.9,
+   "score": 83.9,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 3,
-    "github_top_velocity": 80.94,
-    "headline_hits": 1,
-    "sample_headlines": [
-     "GameStop CEO Says Digital-Only Games Have \u2018Hurt Consumers\u2019 as GTA 6 Skips Discs"
-    ],
+    "github_top_velocity": 83.94,
+    "headline_hits": 0,
+    "sample_headlines": [],
     "market_avg_7d_pct": null,
     "sources_confirming": 1
    },
    "member_repos": [
     {
      "full_name": "setyamickala/airdrop-agent",
-     "stars_per_day": 79.0,
+     "stars_per_day": 82.0,
      "url": "https://github.com/setyamickala/airdrop-agent"
     },
     {
@@ -246,11 +244,11 @@
   },
   {
    "narrative": "DePIN & Physical Infra",
-   "score": 58.9,
+   "score": 46.0,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 4,
-    "github_top_velocity": 58.86,
+    "github_top_velocity": 46.02,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -259,7 +257,7 @@
    "member_repos": [
     {
      "full_name": "bryanwalter710-debug/solana-defi-security",
-     "stars_per_day": 51.0,
+     "stars_per_day": 38.25,
      "url": "https://github.com/bryanwalter710-debug/solana-defi-security"
     },
     {
@@ -274,7 +272,7 @@
     },
     {
      "full_name": "outgoingyang/solana-sniping-bot",
-     "stars_per_day": 1.38,
+     "stars_per_day": 1.29,
      "url": "https://github.com/outgoingyang/solana-sniping-bot"
     }
    ]
@@ -289,8 +287,8 @@
     "headline_hits": 4,
     "sample_headlines": [
      "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
-     "Hackers Leak Visa, Mastercard and JPMorgan Customer Data",
-     "Binance Wins $6.5B Freezing Order Over Hack That Can Be Served via the Blockchain"
+     "Citi Says Customers Are Responsible When AI Banking Agents Go Rogue\u2014Even After a Hack",
+     "Hackers Leak Visa, Mastercard and JPMorgan Customer Data"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 1
@@ -298,12 +296,12 @@
    "member_repos": [
     {
      "full_name": "outgoingyang/solana-sniping-bot",
-     "stars_per_day": 1.38,
+     "stars_per_day": 1.29,
      "url": "https://github.com/outgoingyang/solana-sniping-bot"
     },
     {
      "full_name": "PTK030/kenning",
-     "stars_per_day": 0.82,
+     "stars_per_day": 0.93,
      "url": "https://github.com/PTK030/kenning"
     },
     {
@@ -325,11 +323,11 @@
   },
   {
    "narrative": "Payments & Stablecoins",
-   "score": 26.6,
+   "score": 22.0,
    "confidence": "High",
    "evidence": {
-    "github_repos": 8,
-    "github_top_velocity": 10.58,
+    "github_repos": 7,
+    "github_top_velocity": 6.02,
     "headline_hits": 2,
     "sample_headlines": [
      "Zelle picks Solana for ZelleUSD stablecoin and international payments",
@@ -345,13 +343,8 @@
      "url": "https://github.com/Savageworks/solana-resp-trader-client-go"
     },
     {
-     "full_name": "ismeh7765/FlashUSDT-v",
-     "stars_per_day": 4.54,
-     "url": "https://github.com/ismeh7765/FlashUSDT-v"
-    },
-    {
      "full_name": "orrery-node/orrery",
-     "stars_per_day": 0.38,
+     "stars_per_day": 0.36,
      "url": "https://github.com/orrery-node/orrery"
     },
     {
@@ -363,6 +356,11 @@
      "full_name": "blueshift-gg/solana-pull-program",
      "stars_per_day": 0.16,
      "url": "https://github.com/blueshift-gg/solana-pull-program"
+    },
+    {
+     "full_name": "2274802010922/pipicachu",
+     "stars_per_day": 0.13,
+     "url": "https://github.com/2274802010922/pipicachu"
     }
    ]
   },

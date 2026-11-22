@@ -63,6 +63,11 @@
  ],
  "decrypt": [
   {
+   "title": "Google's Quantum Chip Beats Classical Limits in 'Impossible' Game",
+   "pub": "Sun, 22 Nov 2026 14:01:02 +0000",
+   "link": "https://decrypt.co/383743/googles-quantum-chip-beats-classical-limits-in-impossible-game-tests-105-qubits"
+  },
+  {
    "title": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
    "pub": "Sat, 21 Nov 2026 18:01:02 +0000",
    "link": "https://decrypt.co/383756/gta-6-leaker-dangles-pc-port-15-million-crypto-pump"
@@ -116,14 +121,14 @@
    "title": "Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February",
    "pub": "Fri, 20 Nov 2026 16:35:59 +0000",
    "link": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest"
-  },
-  {
-   "title": "Senate Passes Bill Banning Prediction Market Bets on War, Terrorism and Death",
-   "pub": "Fri, 20 Nov 2026 15:42:51 +0000",
-   "link": "https://decrypt.co/383700/senate-passes-bill-banning-prediction-market-bets-on-war-terrorism-and-death"
   }
  ],
  "cryptonews": [
+  {
+   "title": "The future of onchain FX could start with users, not institutional liquidity",
+   "pub": "Sun, 22 Nov 2026 14:30:00 +0000",
+   "link": "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+  },
   {
    "title": "Ethereum\u2019s new DeFi security tool raises questions over censorship",
    "pub": "Thu, 19 Nov 2026 13:30:00 +0000",
@@ -178,11 +183,6 @@
    "title": "The UK needs a workable route to regulated DeFi access",
    "pub": "Thu, 22 Oct 2026 12:00:00 +0000",
    "link": "https://cointelegraph.com/opinion/uk-crypto-rules-regulated-defi-access?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking",
-   "pub": "Wed, 21 Oct 2026 17:57:39 +0000",
-   "link": "https://cointelegraph.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
   }
  ]
 }

@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-11-22T06:50:21+00:00",
+ "generated_at": "2026-11-22T19:42:24+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 486.2,
+   "score": 477.4,
    "confidence": "High",
    "evidence": {
-    "github_repos": 44,
-    "github_top_velocity": 438.22,
-    "headline_hits": 6,
+    "github_repos": 45,
+    "github_top_velocity": 437.4,
+    "headline_hits": 5,
     "sample_headlines": [
      "Formation Securities plans Solana stock trading venue under SEC exemption",
      "Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February",
@@ -20,7 +20,7 @@
    "member_repos": [
     {
      "full_name": "alexliuops2090b8/pump-fun-volume-bump-bot-portable",
-     "stars_per_day": 198.0,
+     "stars_per_day": 196.0,
      "url": "https://github.com/alexliuops2090b8/pump-fun-volume-bump-bot-portable"
     },
     {
@@ -40,27 +40,27 @@
     },
     {
      "full_name": "ValidatorStack/solana-vigil",
-     "stars_per_day": 20.64,
+     "stars_per_day": 18.92,
      "url": "https://github.com/ValidatorStack/solana-vigil"
     }
    ]
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 476.2,
+   "score": 454.0,
    "confidence": "High",
    "evidence": {
     "github_repos": 18,
-    "github_top_velocity": 456.66,
+    "github_top_velocity": 439.45,
     "headline_hits": 0,
     "sample_headlines": [],
-    "market_avg_7d_pct": -9.79,
+    "market_avg_7d_pct": -7.29,
     "sources_confirming": 2
    },
    "member_repos": [
     {
      "full_name": "alexliuops2090b8/pump-fun-volume-bump-bot-portable",
-     "stars_per_day": 198.0,
+     "stars_per_day": 196.0,
      "url": "https://github.com/alexliuops2090b8/pump-fun-volume-bump-bot-portable"
     },
     {
@@ -70,7 +70,7 @@
     },
     {
      "full_name": "setyamickala/airdrop-agent",
-     "stars_per_day": 48.5,
+     "stars_per_day": 32.67,
      "url": "https://github.com/setyamickala/airdrop-agent"
     },
     {
@@ -87,11 +87,11 @@
   },
   {
    "narrative": "Wallets & UX",
-   "score": 269.3,
+   "score": 257.6,
    "confidence": "High",
    "evidence": {
     "github_repos": 21,
-    "github_top_velocity": 253.26,
+    "github_top_velocity": 241.63,
     "headline_hits": 2,
     "sample_headlines": [
      "DTCC Plans Solana Expansion as Wallet Rules Limit Access",
@@ -108,7 +108,7 @@
     },
     {
      "full_name": "setyamickala/airdrop-agent",
-     "stars_per_day": 48.5,
+     "stars_per_day": 32.67,
      "url": "https://github.com/setyamickala/airdrop-agent"
     },
     {
@@ -130,11 +130,11 @@
   },
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 156.5,
+   "score": 138.4,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 53,
-    "github_top_velocity": 156.54,
+    "github_top_velocity": 138.36,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -143,7 +143,7 @@
    "member_repos": [
     {
      "full_name": "setyamickala/airdrop-agent",
-     "stars_per_day": 48.5,
+     "stars_per_day": 32.67,
      "url": "https://github.com/setyamickala/airdrop-agent"
     },
     {
@@ -158,23 +158,23 @@
     },
     {
      "full_name": "s-warren725/solana-node-notes",
-     "stars_per_day": 17.8,
+     "stars_per_day": 14.83,
      "url": "https://github.com/s-warren725/solana-node-notes"
     },
     {
      "full_name": "binaryprovostsnatch/solana-node-notes",
-     "stars_per_day": 14.83,
+     "stars_per_day": 12.71,
      "url": "https://github.com/binaryprovostsnatch/solana-node-notes"
     }
    ]
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 118.6,
+   "score": 102.7,
    "confidence": "High",
    "evidence": {
     "github_repos": 21,
-    "github_top_velocity": 86.6,
+    "github_top_velocity": 70.68,
     "headline_hits": 4,
     "sample_headlines": [
      "Signal Calls OS-Level AI an 'Existential Threat' and Blocks Screenshots to Fight It",
@@ -187,7 +187,7 @@
    "member_repos": [
     {
      "full_name": "setyamickala/airdrop-agent",
-     "stars_per_day": 48.5,
+     "stars_per_day": 32.67,
      "url": "https://github.com/setyamickala/airdrop-agent"
     },
     {
@@ -197,47 +197,54 @@
     },
     {
      "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 4.54,
+     "stars_per_day": 4.67,
      "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
     },
     {
      "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 3.6,
+     "stars_per_day": 3.53,
      "url": "https://github.com/SpaceDataRig/space-data-rig"
     },
     {
-     "full_name": "askglyph/glyph",
-     "stars_per_day": 1.63,
-     "url": "https://github.com/askglyph/glyph"
+     "full_name": "recogardtech/AutoPilotPM",
+     "stars_per_day": 1.55,
+     "url": "https://github.com/recogardtech/AutoPilotPM"
     }
    ]
   },
   {
    "narrative": "Consumer & Social",
-   "score": 50.7,
+   "score": 47.2,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 4,
-    "github_top_velocity": 50.74,
-    "headline_hits": 0,
-    "sample_headlines": [],
+    "github_repos": 5,
+    "github_top_velocity": 39.23,
+    "headline_hits": 1,
+    "sample_headlines": [
+     "Google's Quantum Chip Beats Classical Limits in 'Impossible' Game"
+    ],
     "market_avg_7d_pct": null,
     "sources_confirming": 1
    },
    "member_repos": [
     {
      "full_name": "setyamickala/airdrop-agent",
-     "stars_per_day": 48.5,
+     "stars_per_day": 32.67,
      "url": "https://github.com/setyamickala/airdrop-agent"
     },
     {
+     "full_name": "nibblescreative-afk/darkseek",
+     "stars_per_day": 4.5,
+     "url": "https://github.com/nibblescreative-afk/darkseek"
+    },
+    {
      "full_name": "askglyph/glyph",
-     "stars_per_day": 1.63,
+     "stars_per_day": 1.55,
      "url": "https://github.com/askglyph/glyph"
     },
     {
      "full_name": "startgameauthor/contingency",
-     "stars_per_day": 0.5,
+     "stars_per_day": 0.4,
      "url": "https://github.com/startgameauthor/contingency"
     },
     {
@@ -249,11 +256,11 @@
   },
   {
    "narrative": "DePIN & Physical Infra",
-   "score": 26.9,
+   "score": 26.8,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 2,
-    "github_top_velocity": 26.86,
+    "github_top_velocity": 26.81,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -267,18 +274,18 @@
     },
     {
      "full_name": "refrax-xyz/refrax-node",
-     "stars_per_day": 1.36,
+     "stars_per_day": 1.31,
      "url": "https://github.com/refrax-xyz/refrax-node"
     }
    ]
   },
   {
    "narrative": "Security & Threats",
-   "score": 26.1,
+   "score": 26.0,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 8,
-    "github_top_velocity": 2.1,
+    "github_repos": 7,
+    "github_top_velocity": 2.02,
     "headline_hits": 3,
     "sample_headlines": [
      "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
@@ -291,12 +298,12 @@
    "member_repos": [
     {
      "full_name": "getkenning/kenning",
-     "stars_per_day": 0.9,
+     "stars_per_day": 0.95,
      "url": "https://github.com/getkenning/kenning"
     },
     {
      "full_name": "startgameauthor/contingency",
-     "stars_per_day": 0.5,
+     "stars_per_day": 0.4,
      "url": "https://github.com/startgameauthor/contingency"
     },
     {
@@ -318,11 +325,11 @@
   },
   {
    "narrative": "RWA & Tokenization",
-   "score": 16.9,
+   "score": 16.7,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 4,
-    "github_top_velocity": 0.86,
+    "github_top_velocity": 0.69,
     "headline_hits": 2,
     "sample_headlines": [
      "Mirae Asset Securities issues tokenized notes on Solana",
@@ -334,7 +341,7 @@
    "member_repos": [
     {
      "full_name": "FoundationStoneAlgorithms/TokenWork",
-     "stars_per_day": 0.67,
+     "stars_per_day": 0.5,
      "url": "https://github.com/FoundationStoneAlgorithms/TokenWork"
     },
     {
@@ -356,11 +363,11 @@
   },
   {
    "narrative": "Payments & Stablecoins",
-   "score": 9.5,
+   "score": 9.4,
    "confidence": "Low",
    "evidence": {
     "github_repos": 6,
-    "github_top_velocity": 1.52,
+    "github_top_velocity": 1.4,
     "headline_hits": 1,
     "sample_headlines": [
      "Zelle picks Solana for ZelleUSD stablecoin and international payments"
@@ -371,7 +378,7 @@
    "member_repos": [
     {
      "full_name": "startgameauthor/contingency",
-     "stars_per_day": 0.5,
+     "stars_per_day": 0.4,
      "url": "https://github.com/startgameauthor/contingency"
     },
     {
@@ -381,12 +388,12 @@
     },
     {
      "full_name": "makedotfun/prize-escrow",
-     "stars_per_day": 0.25,
+     "stars_per_day": 0.24,
      "url": "https://github.com/makedotfun/prize-escrow"
     },
     {
      "full_name": "blueshift-gg/solana-pull-program",
-     "stars_per_day": 0.18,
+     "stars_per_day": 0.17,
      "url": "https://github.com/blueshift-gg/solana-pull-program"
     },
     {

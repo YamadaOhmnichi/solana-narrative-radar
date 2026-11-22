@@ -1,1 +1,86 @@
-[]
+[
+ {
+  "full_name": "brown-99r5/solana-memecoin-raydium-v4-meteora-dlmm-portable-x64",
+  "url": "https://github.com/brown-99r5/solana-memecoin-raydium-v4-meteora-dlmm-portable-x64",
+  "description": "Solana & Memecoin Execution Suite Raydium V4 & Meteora DLMM Sub-50ms gRPC Geyser Sniper: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, an",
+  "stars": 322,
+  "created": "2026-11-21T21:30:03Z",
+  "language": "Python",
+  "stars_per_day": 322.0,
+  "age_days": 1,
+  "topics": [
+   "50ms",
+   "copytrade-bot",
+   "dlmm",
+   "gmgn",
+   "grpc",
+   "jito-mev",
+   "memecoin",
+   "meteora"
+  ],
+  "flag": "velocity-anomaly"
+ },
+ {
+  "full_name": "anton-park-hq1993y5/solana-memecoin-pump-fun-volume-booster-portable-x64",
+  "url": "https://github.com/anton-park-hq1993y5/solana-memecoin-pump-fun-volume-booster-portable-x64",
+  "description": "Solana & Memecoin Execution Suite Pump.fun Volume Booster, Bump Bot & Holder Maker Terminal: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime",
+  "stars": 298,
+  "created": "2026-11-21T20:46:24Z",
+  "language": "Jupyter Notebook",
+  "stars_per_day": 298.0,
+  "age_days": 1,
+  "topics": [
+   "booster",
+   "bot",
+   "bump",
+   "copytrade-bot",
+   "fun",
+   "gmgn",
+   "jito-mev",
+   "memecoin"
+  ],
+  "flag": "velocity-anomaly"
+ },
+ {
+  "full_name": "nikitadhq2000d6/pump-fun-volume-bump-bot-win11",
+  "url": "https://github.com/nikitadhq2000d6/pump-fun-volume-bump-bot-win11",
+  "description": "Pump.fun Volume Booster, Micro-Buy Bump Bot & Organic Holder Maker Terminal (2026) (Windows 10/11 x64): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overh",
+  "stars": 208,
+  "created": "2026-11-22T00:49:41Z",
+  "language": "Jupyter Notebook",
+  "stars_per_day": 208.0,
+  "age_days": 1,
+  "topics": [
+   "cmake",
+   "configuration",
+   "cpp",
+   "directx-11",
+   "directx-12",
+   "imgui",
+   "multithreading",
+   "performance-tuning"
+  ],
+  "flag": "velocity-anomaly"
+ },
+ {
+  "full_name": "alexdevcode03h8/pump-fun-volume-bump-bot-2026",
+  "url": "https://github.com/alexdevcode03h8/pump-fun-volume-bump-bot-2026",
+  "description": "Pump.fun Volume Booster, Micro-Buy Bump Bot & Organic Holder Maker Terminal (2026) (2026 Edition): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead r",
+  "stars": 204,
+  "created": "2026-11-21T23:43:36Z",
+  "language": "Jupyter Notebook",
+  "stars_per_day": 204.0,
+  "age_days": 1,
+  "topics": [
+   "cmake",
+   "configuration",
+   "cpp",
+   "directx-11",
+   "directx-12",
+   "imgui",
+   "multithreading",
+   "performance-tuning"
+  ],
+  "flag": "velocity-anomaly"
+ }
+]

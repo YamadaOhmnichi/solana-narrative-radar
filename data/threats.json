@@ -1,22 +1,22 @@
 [
  {
-  "full_name": "betty67060/metamask-rabby-phantom-vault-decryptor",
-  "url": "https://github.com/betty67060/metamask-rabby-phantom-vault-decryptor",
-  "description": "MetaMask Vault Decryptor, Rabby & Phantom Wallet Recovery Tool (2026) \u2014 Local LevelDB Vault Decryptor & Seed Phrase Extractor",
-  "stars": 272,
-  "created": "2026-11-23T16:57:52Z",
+  "full_name": "canyon1469/pump-fun-volume-bump-bot",
+  "url": "https://github.com/canyon1469/pump-fun-volume-bump-bot",
+  "description": "Pump.fun Volume Booster, Micro-Buy Bump Bot & Organic Holder Maker Terminal (2026): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and pre",
+  "stars": 292,
+  "created": "2026-11-23T16:32:48Z",
   "language": "Python",
-  "stars_per_day": 272.0,
+  "stars_per_day": 292.0,
   "age_days": 1,
   "topics": [
-   "ethereum",
-   "leveldb",
-   "metamask-recovery",
-   "metamask-vault-decryptor",
-   "phantom-wallet",
-   "python",
-   "rabby-wallet",
-   "seed-phrase-recovery"
+   "algorithmic-trading",
+   "asyncio",
+   "cli-app",
+   "defi",
+   "fun",
+   "json-rpc",
+   "orderbook",
+   "pump"
   ],
   "flag": "velocity-anomaly"
  },
@@ -36,48 +36,6 @@
    "jupiter-arbitrage-bot",
    "jupiter-bot",
    "jupiter-v6",
-   "python",
-   "solana"
-  ],
-  "flag": "velocity-anomaly"
- },
- {
-  "full_name": "Andreasv6556/pump-fun-sniper-bundler-bot",
-  "url": "https://github.com/Andreasv6556/pump-fun-sniper-bundler-bot",
-  "description": "Pump Fun Sniper Bot & Pump Fun Bundler (2026) \u2014 Solana Sniper Bot, 20-Wallet Jito MEV Bundler & Volume Bot for Windows 10/11 x64",
-  "stars": 240,
-  "created": "2026-11-23T17:14:36Z",
-  "language": "Python",
-  "stars_per_day": 240.0,
-  "age_days": 1,
-  "topics": [
-   "asyncio",
-   "defi",
-   "jito-bundler",
-   "pump-fun",
-   "pump-fun-bot",
-   "pump-fun-bundler",
-   "pump-fun-sniper-bot",
-   "pumpfun-bundler"
-  ],
-  "flag": "velocity-anomaly"
- },
- {
-  "full_name": "whittaker627/solana-mev-jito-arbitrage-bot",
-  "url": "https://github.com/whittaker627/solana-mev-jito-arbitrage-bot",
-  "description": "Jito MEV Bot & Solana Arbitrage Bot (2026) \u2014 Solana MEV Bot, Raydium Sniper Bot & Jupiter Arbitrage Bot for Windows x64",
-  "stars": 235,
-  "created": "2026-11-23T16:36:26Z",
-  "language": "Python",
-  "stars_per_day": 235.0,
-  "age_days": 1,
-  "topics": [
-   "asyncio",
-   "defi",
-   "jito",
-   "jito-arbitrage-bot",
-   "jito-mev-bot",
-   "mev-bot",
    "python",
    "solana"
   ],
@@ -122,48 +80,6 @@
    "seed-checker",
    "seed-phrase-checker",
    "solana"
-  ],
-  "flag": "velocity-anomaly"
- },
- {
-  "full_name": "ddang048/seed-phrase-balance-checker-multichain",
-  "url": "https://github.com/ddang048/seed-phrase-balance-checker-multichain",
-  "description": "Seed Phrase Checker & BIP39 Mnemonic Wallet Balance Checker (2026) \u2014 Fast Multichain BTC, ETH, SOL & USDT Seed Phrase Checker",
-  "stars": 229,
-  "created": "2026-11-23T16:56:52Z",
-  "language": "Python",
-  "stars_per_day": 229.0,
-  "age_days": 1,
-  "topics": [
-   "bip39",
-   "bip39-checker",
-   "bitcoin",
-   "ethereum",
-   "mnemonic-checker",
-   "python",
-   "seed-checker",
-   "seed-phrase-checker"
-  ],
-  "flag": "velocity-anomaly"
- },
- {
-  "full_name": "lucasito92/raydium-amm-v4-sniper-bot",
-  "url": "https://github.com/lucasito92/raydium-amm-v4-sniper-bot",
-  "description": "Raydium Sniper Bot & Solana Sniper Bot (2026) \u2014 Raydium AMM V4 / CLMM Liquidity Pool Sniper & Pump Fun Sniper Bot",
-  "stars": 228,
-  "created": "2026-11-23T18:00:25Z",
-  "language": "Python",
-  "stars_per_day": 228.0,
-  "age_days": 1,
-  "topics": [
-   "asyncio",
-   "defi",
-   "jito-mev-bot",
-   "pump-fun-sniper-bot",
-   "python",
-   "raydium",
-   "raydium-bot",
-   "raydium-sniper"
   ],
   "flag": "velocity-anomaly"
  }

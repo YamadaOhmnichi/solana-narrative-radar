@@ -1,57 +1,100 @@
 {
- "generated_at": "2026-11-24T09:55:48+00:00",
+ "generated_at": "2026-11-24T22:28:05+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 1273.0,
+   "score": 1121.0,
    "confidence": "High",
    "evidence": {
-    "github_repos": 43,
-    "github_top_velocity": 1233.0,
-    "headline_hits": 5,
+    "github_repos": 49,
+    "github_top_velocity": 1097.0,
+    "headline_hits": 3,
     "sample_headlines": [
      "Formation Securities plans Solana stock trading venue under SEC exemption",
-     "Perps and Swaps: How to Trade the News on Decrypt",
-     "Ethereum\u2019s new DeFi security tool raises questions over censorship"
+     "Ethereum\u2019s new DeFi security tool raises questions over censorship",
+     "EU DeFi proposals could push users to riskier platforms, says Coinbase exec"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
    },
    "member_repos": [
     {
-     "full_name": "lucast752/polymarket-trading-arbitrage-bot",
-     "stars_per_day": 141.0,
-     "url": "https://github.com/lucast752/polymarket-trading-arbitrage-bot"
+     "full_name": "ivanmustafa/gmgn-ai-bullx-solana-copytrade-bot",
+     "stars_per_day": 114.0,
+     "url": "https://github.com/ivanmustafa/gmgn-ai-bullx-solana-copytrade-bot"
     },
     {
-     "full_name": "fathommillet/raydium-meteora-sniper-bot",
-     "stars_per_day": 135.0,
-     "url": "https://github.com/fathommillet/raydium-meteora-sniper-bot"
+     "full_name": "Truong81752/trust-wallet-metamask-seed-recovery-v3",
+     "stars_per_day": 112.0,
+     "url": "https://github.com/Truong81752/trust-wallet-metamask-seed-recovery-v3"
     },
     {
-     "full_name": "Alice34742/profanity2-evm-solana-vanity-gen",
-     "stars_per_day": 132.0,
-     "url": "https://github.com/Alice34742/profanity2-evm-solana-vanity-gen"
+     "full_name": "haechandeluca864/gmgn-bullx-photon-copytrade-bot-v3",
+     "stars_per_day": 110.0,
+     "url": "https://github.com/haechandeluca864/gmgn-bullx-photon-copytrade-bot-v3"
     },
     {
-     "full_name": "andreahasegawa2558/solana-pump-fun-jito-bundler",
-     "stars_per_day": 126.0,
-     "url": "https://github.com/andreahasegawa2558/solana-pump-fun-jito-bundler"
+     "full_name": "GerhardKlein0995/module-on-solana-sniper-bot",
+     "stars_per_day": 109.0,
+     "url": "https://github.com/GerhardKlein0995/module-on-solana-sniper-bot"
     },
     {
-     "full_name": "lieve2338/electrum-wallet-password-recovery",
-     "stars_per_day": 123.0,
-     "url": "https://github.com/lieve2338/electrum-wallet-password-recovery"
+     "full_name": "Eces381/seed-phrase-balance-checker-multichain",
+     "stars_per_day": 109.0,
+     "url": "https://github.com/Eces381/seed-phrase-balance-checker-multichain"
+    }
+   ]
+  },
+  {
+   "narrative": "Meme & Speculation",
+   "score": 1114.1,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 22,
+    "github_top_velocity": 1080.0,
+    "headline_hits": 2,
+    "sample_headlines": [
+     "What Is Pons? The Robinhood Chain Meme Coin Launchpad Explained",
+     "Ansem Meme Coin Crashes After $2.57 Million Wallet Drain, Bullpen Confirms Security Breach"
+    ],
+    "market_avg_7d_pct": -9.07,
+    "sources_confirming": 3
+   },
+   "member_repos": [
+    {
+     "full_name": "ivanmustafa/gmgn-ai-bullx-solana-copytrade-bot",
+     "stars_per_day": 114.0,
+     "url": "https://github.com/ivanmustafa/gmgn-ai-bullx-solana-copytrade-bot"
+    },
+    {
+     "full_name": "GerhardKlein0995/module-on-solana-sniper-bot",
+     "stars_per_day": 109.0,
+     "url": "https://github.com/GerhardKlein0995/module-on-solana-sniper-bot"
+    },
+    {
+     "full_name": "dmitry-k-code19w1/raydium-meteora-sniper-bot-x64",
+     "stars_per_day": 109.0,
+     "url": "https://github.com/dmitry-k-code19w1/raydium-meteora-sniper-bot-x64"
+    },
+    {
+     "full_name": "Matuda81895/sui-cetus-turbos-sniper-bot",
+     "stars_per_day": 108.0,
+     "url": "https://github.com/Matuda81895/sui-cetus-turbos-sniper-bot"
+    },
+    {
+     "full_name": "pmohammed01/solana-mev-jito-arbitrage-bot",
+     "stars_per_day": 107.0,
+     "url": "https://github.com/pmohammed01/solana-mev-jito-arbitrage-bot"
     }
    ]
   },
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 1233.0,
+   "score": 1088.0,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 65,
-    "github_top_velocity": 1233.0,
+    "github_repos": 67,
+    "github_top_velocity": 1088.0,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -59,84 +102,43 @@
    },
    "member_repos": [
     {
-     "full_name": "lucast752/polymarket-trading-arbitrage-bot",
-     "stars_per_day": 141.0,
-     "url": "https://github.com/lucast752/polymarket-trading-arbitrage-bot"
+     "full_name": "Truong81752/trust-wallet-metamask-seed-recovery-v3",
+     "stars_per_day": 112.0,
+     "url": "https://github.com/Truong81752/trust-wallet-metamask-seed-recovery-v3"
     },
     {
-     "full_name": "fathommillet/raydium-meteora-sniper-bot",
-     "stars_per_day": 135.0,
-     "url": "https://github.com/fathommillet/raydium-meteora-sniper-bot"
+     "full_name": "haechandeluca864/gmgn-bullx-photon-copytrade-bot-v3",
+     "stars_per_day": 110.0,
+     "url": "https://github.com/haechandeluca864/gmgn-bullx-photon-copytrade-bot-v3"
     },
     {
-     "full_name": "Alice34742/profanity2-evm-solana-vanity-gen",
-     "stars_per_day": 132.0,
-     "url": "https://github.com/Alice34742/profanity2-evm-solana-vanity-gen"
+     "full_name": "GerhardKlein0995/module-on-solana-sniper-bot",
+     "stars_per_day": 109.0,
+     "url": "https://github.com/GerhardKlein0995/module-on-solana-sniper-bot"
     },
     {
-     "full_name": "andreahasegawa2558/solana-pump-fun-jito-bundler",
-     "stars_per_day": 126.0,
-     "url": "https://github.com/andreahasegawa2558/solana-pump-fun-jito-bundler"
+     "full_name": "Eces381/seed-phrase-balance-checker-multichain",
+     "stars_per_day": 109.0,
+     "url": "https://github.com/Eces381/seed-phrase-balance-checker-multichain"
     },
     {
-     "full_name": "lieve2338/electrum-wallet-password-recovery",
-     "stars_per_day": 123.0,
-     "url": "https://github.com/lieve2338/electrum-wallet-password-recovery"
-    }
-   ]
-  },
-  {
-   "narrative": "Meme & Speculation",
-   "score": 1168.4,
-   "confidence": "High",
-   "evidence": {
-    "github_repos": 20,
-    "github_top_velocity": 1148.0,
-    "headline_hits": 1,
-    "sample_headlines": [
-     "GPU Jesus Has Risen: Jensen Huang\u2019s Nvidia Comeback Gets a Meme Parade"
-    ],
-    "market_avg_7d_pct": -6.18,
-    "sources_confirming": 2
-   },
-   "member_repos": [
-    {
-     "full_name": "fathommillet/raydium-meteora-sniper-bot",
-     "stars_per_day": 135.0,
-     "url": "https://github.com/fathommillet/raydium-meteora-sniper-bot"
-    },
-    {
-     "full_name": "andreahasegawa2558/solana-pump-fun-jito-bundler",
-     "stars_per_day": 126.0,
-     "url": "https://github.com/andreahasegawa2558/solana-pump-fun-jito-bundler"
-    },
-    {
-     "full_name": "barbara92780/solana-pump-fun-jito-bundler",
-     "stars_per_day": 122.0,
-     "url": "https://github.com/barbara92780/solana-pump-fun-jito-bundler"
-    },
-    {
-     "full_name": "MarekNilsson/pepeboost-solana-copytrade-bot",
-     "stars_per_day": 114.0,
-     "url": "https://github.com/MarekNilsson/pepeboost-solana-copytrade-bot"
-    },
-    {
-     "full_name": "AkiraHernandez252/shuriken-solana-evm-sniper-bot",
-     "stars_per_day": 113.0,
-     "url": "https://github.com/AkiraHernandez252/shuriken-solana-evm-sniper-bot"
+     "full_name": "dmitry-k-code19w1/raydium-meteora-sniper-bot-x64",
+     "stars_per_day": 109.0,
+     "url": "https://github.com/dmitry-k-code19w1/raydium-meteora-sniper-bot-x64"
     }
    ]
   },
   {
    "narrative": "Wallets & UX",
-   "score": 964.1,
+   "score": 597.6,
    "confidence": "High",
    "evidence": {
-    "github_repos": 16,
-    "github_top_velocity": 948.12,
-    "headline_hits": 2,
+    "github_repos": 13,
+    "github_top_velocity": 573.57,
+    "headline_hits": 3,
     "sample_headlines": [
      "DTCC Plans Solana Expansion as Wallet Rules Limit Access",
+     "Ansem Meme Coin Crashes After $2.57 Million Wallet Drain, Bullpen Confirms Security Breach",
      "Suiet wallet to shut down in latest exit from Sui ecosystem"
     ],
     "market_avg_7d_pct": null,
@@ -144,118 +146,88 @@
    },
    "member_repos": [
     {
-     "full_name": "andreahasegawa2558/solana-pump-fun-jito-bundler",
-     "stars_per_day": 126.0,
-     "url": "https://github.com/andreahasegawa2558/solana-pump-fun-jito-bundler"
-    },
-    {
-     "full_name": "lieve2338/electrum-wallet-password-recovery",
-     "stars_per_day": 123.0,
-     "url": "https://github.com/lieve2338/electrum-wallet-password-recovery"
-    },
-    {
-     "full_name": "barbara92780/solana-pump-fun-jito-bundler",
-     "stars_per_day": 122.0,
-     "url": "https://github.com/barbara92780/solana-pump-fun-jito-bundler"
-    },
-    {
-     "full_name": "MarekNilsson/pepeboost-solana-copytrade-bot",
-     "stars_per_day": 114.0,
-     "url": "https://github.com/MarekNilsson/pepeboost-solana-copytrade-bot"
-    },
-    {
-     "full_name": "LucasLefevre39/pump-fun-volume-holder-booster-bot",
-     "stars_per_day": 113.0,
-     "url": "https://github.com/LucasLefevre39/pump-fun-volume-holder-booster-bot"
-    }
-   ]
-  },
-  {
-   "narrative": "DePIN & Physical Infra",
-   "score": 254.1,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 3,
-    "github_top_velocity": 254.12,
-    "headline_hits": 0,
-    "sample_headlines": [],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "lieve2338/electrum-wallet-password-recovery",
-     "stars_per_day": 123.0,
-     "url": "https://github.com/lieve2338/electrum-wallet-password-recovery"
-    },
-    {
-     "full_name": "luukalexiou4715/hashcat-wallet-dat-recovery-cuda",
+     "full_name": "Truong81752/trust-wallet-metamask-seed-recovery-v3",
      "stars_per_day": 112.0,
-     "url": "https://github.com/luukalexiou4715/hashcat-wallet-dat-recovery-cuda"
+     "url": "https://github.com/Truong81752/trust-wallet-metamask-seed-recovery-v3"
     },
     {
-     "full_name": "bryanwalter710-debug/solana-defi-security",
-     "stars_per_day": 19.12,
-     "url": "https://github.com/bryanwalter710-debug/solana-defi-security"
+     "full_name": "Eces381/seed-phrase-balance-checker-multichain",
+     "stars_per_day": 109.0,
+     "url": "https://github.com/Eces381/seed-phrase-balance-checker-multichain"
+    },
+    {
+     "full_name": "misasimmons/solana-pump-fun-jito-bundler-bot",
+     "stars_per_day": 107.0,
+     "url": "https://github.com/misasimmons/solana-pump-fun-jito-bundler-bot"
+    },
+    {
+     "full_name": "gchaudhry35057/private-key-evm-solana-scanner",
+     "stars_per_day": 106.0,
+     "url": "https://github.com/gchaudhry35057/private-key-evm-solana-scanner"
+    },
+    {
+     "full_name": "pmalik108/hashcat-wallet-dat-recovery-cuda",
+     "stars_per_day": 106.0,
+     "url": "https://github.com/pmalik108/hashcat-wallet-dat-recovery-cuda"
     }
    ]
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 60.5,
+   "score": 378.9,
    "confidence": "High",
    "evidence": {
-    "github_repos": 10,
-    "github_top_velocity": 28.45,
-    "headline_hits": 4,
+    "github_repos": 13,
+    "github_top_velocity": 354.89,
+    "headline_hits": 3,
     "sample_headlines": [
-     "China's Z.ai Says Its New AI Model Can Think Like One Four Times Its Size",
-     "OpenAI Will Pay You Up to $8K to Preach the AI Gospel to Small Businesses",
-     "Why One Math Proof Has AI Experts Warning Humans Might Soon Lose Control"
+     "Anthropic\u2019s Claude Ship Lets AI Write, Review and Approve Its Own Code",
+     "Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing",
+     "Blockchain is \u2018perfect solution\u2019 for AI agent trust, VeChain CEO says"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
    },
    "member_repos": [
     {
+     "full_name": "ivanmustafa/gmgn-ai-bullx-solana-copytrade-bot",
+     "stars_per_day": 114.0,
+     "url": "https://github.com/ivanmustafa/gmgn-ai-bullx-solana-copytrade-bot"
+    },
+    {
+     "full_name": "janalvarez166/freqtrade-2026-ai-ml-strategies",
+     "stars_per_day": 108.0,
+     "url": "https://github.com/janalvarez166/freqtrade-2026-ai-ml-strategies"
+    },
+    {
+     "full_name": "JohanRonto570/ave-ai-defined-fi-memecoin-sniper",
+     "stars_per_day": 107.0,
+     "url": "https://github.com/JohanRonto570/ave-ai-defined-fi-memecoin-sniper"
+    },
+    {
      "full_name": "farzanamustafa936-dot/solana-pump-fun-sniper-bot",
-     "stars_per_day": 19.12,
+     "stars_per_day": 17.0,
      "url": "https://github.com/farzanamustafa936-dot/solana-pump-fun-sniper-bot"
     },
     {
      "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 4.46,
+     "stars_per_day": 4.33,
      "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
-    },
-    {
-     "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 3.5,
-     "url": "https://github.com/SpaceDataRig/space-data-rig"
-    },
-    {
-     "full_name": "orrery-node/orrery",
-     "stars_per_day": 0.33,
-     "url": "https://github.com/orrery-node/orrery"
-    },
-    {
-     "full_name": "barestate-ai/oms",
-     "stars_per_day": 0.33,
-     "url": "https://github.com/barestate-ai/oms"
     }
    ]
   },
   {
    "narrative": "Security & Threats",
-   "score": 24.7,
+   "score": 40.7,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 4,
-    "github_top_velocity": 0.68,
-    "headline_hits": 3,
+    "github_top_velocity": 0.67,
+    "headline_hits": 5,
     "sample_headlines": [
      "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
-     "North Korea Moves $247 Million of Binance Hack Loot Through Bitcoin Mixers",
-     "Crypto hack losses equal 57 cents per $1 earned onchain: Ark\u2019s Valente"
+     "Coldcard Bitcoin Exploit, Revisited: How a Hidden Flaw Survived Years of Audits",
+     "Ansem Meme Coin Crashes After $2.57 Million Wallet Drain, Bullpen Confirms Security Breach"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 1
@@ -278,57 +250,25 @@
     },
     {
      "full_name": "princedotrs/solana-audit",
-     "stars_per_day": 0.07,
+     "stars_per_day": 0.06,
      "url": "https://github.com/princedotrs/solana-audit"
     }
    ]
   },
   {
-   "narrative": "RWA & Tokenization",
-   "score": 16.5,
+   "narrative": "Payments & Stablecoins",
+   "score": 17.2,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 3,
-    "github_top_velocity": 0.54,
+    "github_repos": 5,
+    "github_top_velocity": 1.17,
     "headline_hits": 2,
     "sample_headlines": [
-     "Mirae Asset Securities issues tokenized notes on Solana",
-     "RWA protocol stUSDT winds down 3 years after $2.3B TVL peak"
+     "Zelle picks Solana for ZelleUSD stablecoin and international payments",
+     "Justice Department Moves to Forfeit $1.1B in USDC From North Korea's Binance Hack"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "FoundationStoneAlgorithms/TokenWork",
-     "stars_per_day": 0.4,
-     "url": "https://github.com/FoundationStoneAlgorithms/TokenWork"
-    },
-    {
-     "full_name": "Hymetdotfun/hymet",
-     "stars_per_day": 0.1,
-     "url": "https://github.com/Hymetdotfun/hymet"
-    },
-    {
-     "full_name": "Zyxel89/owncurve",
-     "stars_per_day": 0.04,
-     "url": "https://github.com/Zyxel89/owncurve"
-    }
-   ]
-  },
-  {
-   "narrative": "Payments & Stablecoins",
-   "score": 9.2,
-   "confidence": "Low",
-   "evidence": {
-    "github_repos": 5,
-    "github_top_velocity": 1.18,
-    "headline_hits": 1,
-    "sample_headlines": [
-     "Zelle picks Solana for ZelleUSD stablecoin and international payments"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 0
    },
    "member_repos": [
     {
@@ -343,7 +283,7 @@
     },
     {
      "full_name": "makedotfun/prize-escrow",
-     "stars_per_day": 0.27,
+     "stars_per_day": 0.26,
      "url": "https://github.com/makedotfun/prize-escrow"
     },
     {
@@ -359,12 +299,12 @@
    ]
   },
   {
-   "narrative": "Consumer & Social",
-   "score": 3.4,
+   "narrative": "DePIN & Physical Infra",
+   "score": 17.0,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 3,
-    "github_top_velocity": 3.39,
+    "github_repos": 1,
+    "github_top_velocity": 17.0,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -372,8 +312,61 @@
    },
    "member_repos": [
     {
+     "full_name": "bryanwalter710-debug/solana-defi-security",
+     "stars_per_day": 17.0,
+     "url": "https://github.com/bryanwalter710-debug/solana-defi-security"
+    }
+   ]
+  },
+  {
+   "narrative": "RWA & Tokenization",
+   "score": 16.5,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 3,
+    "github_top_velocity": 0.47,
+    "headline_hits": 2,
+    "sample_headlines": [
+     "Mirae Asset Securities issues tokenized notes on Solana",
+     "RWA protocol stUSDT winds down 3 years after $2.3B TVL peak"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "FoundationStoneAlgorithms/TokenWork",
+     "stars_per_day": 0.33,
+     "url": "https://github.com/FoundationStoneAlgorithms/TokenWork"
+    },
+    {
+     "full_name": "Hymetdotfun/hymet",
+     "stars_per_day": 0.1,
+     "url": "https://github.com/Hymetdotfun/hymet"
+    },
+    {
+     "full_name": "Zyxel89/owncurve",
+     "stars_per_day": 0.04,
+     "url": "https://github.com/Zyxel89/owncurve"
+    }
+   ]
+  },
+  {
+   "narrative": "Consumer & Social",
+   "score": 2.6,
+   "confidence": "Low",
+   "evidence": {
+    "github_repos": 3,
+    "github_top_velocity": 2.64,
+    "headline_hits": 0,
+    "sample_headlines": [],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 0
+   },
+   "member_repos": [
+    {
      "full_name": "nibblescreative-afk/darkseek",
-     "stars_per_day": 3.0,
+     "stars_per_day": 2.25,
      "url": "https://github.com/nibblescreative-afk/darkseek"
     },
     {

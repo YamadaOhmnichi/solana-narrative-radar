@@ -3,10 +3,10 @@
   "full_name": "Norao01/solana-pump-fun-jito-bundler-sniper",
   "url": "https://github.com/Norao01/solana-pump-fun-jito-bundler-sniper",
   "description": "Jito MEV Bot & Solana Pump.fun gRPC Sniper Bundler [2026] \u2014 Sub-Millisecond ShredStream Arbitrage & Tip Optimizer",
-  "stars": 187,
+  "stars": 178,
   "created": "2026-11-24T21:10:30Z",
   "language": "Python",
-  "stars_per_day": 187.0,
+  "stars_per_day": 178.0,
   "age_days": 1,
   "topics": [
    "2026",
@@ -21,10 +21,10 @@
   "full_name": "pinargomez/raydium-meteora-grpc-sniper-bot",
   "url": "https://github.com/pinargomez/raydium-meteora-grpc-sniper-bot",
   "description": "Raydium Sniper Bot & Solana Copy Trading Bot [2026] \u2014 Sub-Millisecond Yellowstone gRPC & Jito MEV Executor",
-  "stars": 176,
+  "stars": 167,
   "created": "2026-11-24T09:53:24Z",
   "language": "Python",
-  "stars_per_day": 176.0,
+  "stars_per_day": 167.0,
   "age_days": 1,
   "topics": [
    "2026",
@@ -39,10 +39,10 @@
   "full_name": "rajmyers29/jupiter-v6-atomic-arbitrage-bot",
   "url": "https://github.com/rajmyers29/jupiter-v6-atomic-arbitrage-bot",
   "description": "Jupiter Arbitrage Bot & Solana DEX Atomic MEV Bot [2026] \u2014 V6 Quote Router, Flash Loan & Jito Bundler",
-  "stars": 172,
+  "stars": 163,
   "created": "2026-11-24T18:07:05Z",
   "language": "Python",
-  "stars_per_day": 172.0,
+  "stars_per_day": 163.0,
   "age_days": 1,
   "topics": [
    "2026",
@@ -51,26 +51,6 @@
    "solana-arbitrage-bot",
    "solana-jupiter-bot",
    "solana-trading-bot"
-  ]
- },
- {
-  "full_name": "ReiSanchez4852/elden-ring-nightreign-session-seed-companion",
-  "url": "https://github.com/ReiSanchez4852/elden-ring-nightreign-session-seed-companion",
-  "description": "Elden Ring Nightreign Session Seed Companion [2026] \u2014 Standalone Windows 10/11 (x64) Release, Setup & Config",
-  "stars": 132,
-  "created": "2026-11-25T00:03:19Z",
-  "language": "C#",
-  "stars_per_day": 132.0,
-  "age_days": 1,
-  "topics": [
-   "crypto-bot",
-   "defi",
-   "elden-ring-2026",
-   "elden-ring-bot",
-   "elden-ring-bundler",
-   "elden-ring-config",
-   "elden-ring-copytrade-bot",
-   "elden-ring-nightreign"
   ]
  },
  {
@@ -89,18 +69,18 @@
    "kalshi-polymarket-2026",
    "kalshi-polymarket-bot",
    "kalshi-polymarket-bundler",
-   "kalshi-polymarket-config",
-   "kalshi-polymarket-copytrade-bot"
+   "solana",
+   "trading-bot"
   ]
  },
  {
   "full_name": "lori1635/krypolybot-polymarket-mcp-whale-trader",
   "url": "https://github.com/lori1635/krypolybot-polymarket-mcp-whale-trader",
   "description": "Krypolybot Polymarket Mcp Whale Trader [2026] \u2014 Standalone Windows 10/11 (x64) Release, Setup & Config",
-  "stars": 131,
+  "stars": 129,
   "created": "2026-11-25T00:02:34Z",
   "language": "Python",
-  "stars_per_day": 131.0,
+  "stars_per_day": 129.0,
   "age_days": 1,
   "topics": [
    "crypto-bot",
@@ -109,18 +89,18 @@
    "krypolybot-polymarket-2026",
    "krypolybot-polymarket-bot",
    "krypolybot-polymarket-bundler",
-   "krypolybot-polymarket-config",
-   "krypolybot-polymarket-copytrade-bot"
+   "solana",
+   "trading-bot"
   ]
  },
  {
   "full_name": "bettysuzuki/okx-agent-trade-kit-mcp-grid-dca-bot",
   "url": "https://github.com/bettysuzuki/okx-agent-trade-kit-mcp-grid-dca-bot",
   "description": "Okx Agent Trade Kit Mcp Grid Dca Bot [2026] \u2014 Standalone Windows 10/11 (x64) Release, Setup & Config",
-  "stars": 130,
+  "stars": 128,
   "created": "2026-11-25T00:03:19Z",
   "language": "Python",
-  "stars_per_day": 130.0,
+  "stars_per_day": 128.0,
   "age_days": 1,
   "topics": [
    "crypto-bot",
@@ -128,99 +108,59 @@
    "okx-agent-2026",
    "okx-agent-bot",
    "okx-agent-bundler",
-   "okx-agent-config",
-   "okx-agent-copytrade-bot",
-   "okx-agent-pc"
-  ]
- },
- {
-  "full_name": "ivanmustafa/gmgn-ai-bullx-solana-copytrade-bot",
-  "url": "https://github.com/ivanmustafa/gmgn-ai-bullx-solana-copytrade-bot",
-  "description": "Gmgn AI Bullx Solana Copytrade Bot [2026] \u2014 Standalone Windows 10/11 (x64) Release, Setup & Config",
-  "stars": 38,
-  "created": "2026-11-24T20:32:59Z",
-  "language": "Python",
-  "stars_per_day": 38.0,
-  "age_days": 1,
-  "topics": [
-   "bullx-neo",
-   "copy-trade-bot",
-   "gmgn-ai",
-   "gmgn-copy-trade-bot",
-   "jito-mev",
-   "smart-money",
-   "solana-copy-trading",
-   "solana-sniper-bot"
+   "okx-agent-trade-kit",
+   "solana",
+   "trading-bot"
   ]
  },
  {
   "full_name": "Truong81752/trust-wallet-metamask-seed-recovery-v3",
   "url": "https://github.com/Truong81752/trust-wallet-metamask-seed-recovery-v3",
   "description": "Trust Wallet Metamask Seed Recovery V3 [2026] \u2014 Standalone Windows 10/11 (x64) Release, Setup & Config",
-  "stars": 38,
+  "stars": 32,
   "created": "2026-11-24T11:12:23Z",
   "language": "Python",
-  "stars_per_day": 38.0,
+  "stars_per_day": 32.0,
   "age_days": 1,
   "topics": [
    "algorithmic-trading",
    "asyncio",
    "cli-app",
    "defi",
-   "json-rpc",
-   "orderbook",
-   "python",
-   "quantitative-trading"
+   "solana",
+   "trust-wallet",
+   "trust-wallet-metamask-seed-r-2026",
+   "trust-wallet-metamask-seed-r-pc"
   ]
  },
  {
   "full_name": "sidorov4181/trust-wallet-metamask-seed-recovery-pc",
   "url": "https://github.com/sidorov4181/trust-wallet-metamask-seed-recovery-pc",
   "description": "Trust Wallet Metamask Seed Recovery PC [2026] \u2014 Standalone Windows 10/11 (x64) Release, Setup & Config",
-  "stars": 38,
+  "stars": 32,
   "created": "2026-11-24T10:28:26Z",
   "language": "Python",
-  "stars_per_day": 38.0,
+  "stars_per_day": 32.0,
   "age_days": 1,
   "topics": [
    "algorithmic-trading",
    "asyncio",
    "cli-app",
    "defi",
-   "json-rpc",
-   "orderbook",
-   "python",
-   "quantitative-trading"
-  ]
- },
- {
-  "full_name": "haechandeluca864/gmgn-bullx-photon-copytrade-bot-v3",
-  "url": "https://github.com/haechandeluca864/gmgn-bullx-photon-copytrade-bot-v3",
-  "description": "Gmgn Bullx Photon Copytrade Bot V3 [2026] \u2014 Standalone Windows 10/11 (x64) Release, Setup & Config",
-  "stars": 37,
-  "created": "2026-11-24T11:13:01Z",
-  "language": "Python",
-  "stars_per_day": 37.0,
-  "age_days": 1,
-  "topics": [
-   "algorithmic-trading",
-   "asyncio",
-   "cli-app",
-   "defi",
-   "gmgn-bullx",
-   "gmgn-bullx-photon-copytrad-portable",
-   "gmgn-bullx-photon-copytrad-windows",
-   "gmgn-bullx-photon-copytrad-x64"
+   "solana",
+   "trust-wallet",
+   "trust-wallet-metamask-seed-r-2026",
+   "trust-wallet-metamask-seed-r-pc"
   ]
  },
  {
   "full_name": "dianenelson33/gmgn-bullx-photon-copytrade-bot-2026",
   "url": "https://github.com/dianenelson33/gmgn-bullx-photon-copytrade-bot-2026",
   "description": "Gmgn Bullx Photon Copytrade Bot 2026 [2026] \u2014 Standalone Windows 10/11 (x64) Release, Setup & Config",
-  "stars": 36,
+  "stars": 31,
   "created": "2026-11-24T10:06:53Z",
   "language": "Python",
-  "stars_per_day": 36.0,
+  "stars_per_day": 31.0,
   "age_days": 1,
   "topics": [
    "algorithmic-trading",
@@ -228,19 +168,39 @@
    "cli-app",
    "defi",
    "gmgn-bullx",
-   "gmgn-bullx-photon-copytrad-portable",
-   "gmgn-bullx-photon-copytrad-windows",
-   "gmgn-bullx-photon-copytrad-x64"
+   "gmgn-bullx-photon-copytrade--2026",
+   "gmgn-bullx-photon-copytrade--pc",
+   "gmgn-bullx-photon-copytrade-bot-202"
+  ]
+ },
+ {
+  "full_name": "haechandeluca864/gmgn-bullx-photon-copytrade-bot-v3",
+  "url": "https://github.com/haechandeluca864/gmgn-bullx-photon-copytrade-bot-v3",
+  "description": "Gmgn Bullx Photon Copytrade Bot V3 [2026] \u2014 Standalone Windows 10/11 (x64) Release, Setup & Config",
+  "stars": 31,
+  "created": "2026-11-24T11:13:01Z",
+  "language": "Python",
+  "stars_per_day": 31.0,
+  "age_days": 1,
+  "topics": [
+   "algorithmic-trading",
+   "asyncio",
+   "cli-app",
+   "defi",
+   "gmgn-bullx",
+   "gmgn-bullx-photon-copytrade--2026",
+   "gmgn-bullx-photon-copytrade--pc",
+   "gmgn-bullx-photon-copytrade-bot-v3"
   ]
  },
  {
   "full_name": "RuyetuPe45/gmgn-bullx-photon-copytrade-bot-v2",
   "url": "https://github.com/RuyetuPe45/gmgn-bullx-photon-copytrade-bot-v2",
   "description": "Gmgn Bullx Photon Copytrade Bot V2 [2026] \u2014 Standalone Windows 10/11 (x64) Release, Setup & Config",
-  "stars": 36,
+  "stars": 30,
   "created": "2026-11-24T10:58:43Z",
   "language": "Python",
-  "stars_per_day": 36.0,
+  "stars_per_day": 30.0,
   "age_days": 1,
   "topics": [
    "algorithmic-trading",
@@ -248,199 +208,59 @@
    "cli-app",
    "defi",
    "gmgn-bullx",
-   "gmgn-bullx-photon-copytrad-portable",
-   "gmgn-bullx-photon-copytrad-windows",
-   "gmgn-bullx-photon-copytrad-x64"
-  ]
- },
- {
-  "full_name": "Shuji23605/raydium-meteora-grpc-sniper-bot-v2",
-  "url": "https://github.com/Shuji23605/raydium-meteora-grpc-sniper-bot-v2",
-  "description": "Raydium Meteora Grpc Sniper Bot V2 [2026] \u2014 Standalone Windows 10/11 (x64) Release, Setup & Config",
-  "stars": 36,
-  "created": "2026-11-24T10:58:42Z",
-  "language": "Python",
-  "stars_per_day": 36.0,
-  "age_days": 1,
-  "topics": [
-   "algorithmic-trading",
-   "asyncio",
-   "cli-app",
-   "defi",
-   "json-rpc",
-   "orderbook",
-   "python",
-   "quantitative-trading"
-  ]
- },
- {
-  "full_name": "diane7022/raydium-meteora-grpc-sniper-bot-keyless",
-  "url": "https://github.com/diane7022/raydium-meteora-grpc-sniper-bot-keyless",
-  "description": "Raydium Meteora Grpc Sniper Bot Keyless [2026] \u2014 Standalone Windows 10/11 (x64) Release, Setup & Config",
-  "stars": 36,
-  "created": "2026-11-24T11:50:11Z",
-  "language": "Python",
-  "stars_per_day": 36.0,
-  "age_days": 1,
-  "topics": [
-   "algorithmic-trading",
-   "asyncio",
-   "cli-app",
-   "defi",
-   "json-rpc",
-   "orderbook",
-   "python",
-   "quantitative-trading"
+   "gmgn-bullx-photon-copytrade--2026",
+   "gmgn-bullx-photon-copytrade--pc",
+   "gmgn-bullx-photon-copytrade-bot-v2"
   ]
  },
  {
   "full_name": "FolunuSayu33/trust-wallet-metamask-seed-recovery-win11",
   "url": "https://github.com/FolunuSayu33/trust-wallet-metamask-seed-recovery-win11",
   "description": "Trust Wallet Metamask Seed Recovery Win11 [2026] \u2014 Standalone Windows 10/11 (x64) Release, Setup & Config",
-  "stars": 36,
+  "stars": 30,
   "created": "2026-11-24T10:44:32Z",
   "language": "Python",
-  "stars_per_day": 36.0,
+  "stars_per_day": 30.0,
   "age_days": 1,
   "topics": [
    "algorithmic-trading",
    "asyncio",
    "cli-app",
    "defi",
-   "json-rpc",
-   "orderbook",
-   "python",
-   "quantitative-trading"
+   "solana",
+   "trust-wallet",
+   "trust-wallet-metamask-seed-r-2026",
+   "trust-wallet-metamask-seed-r-pc"
   ]
  },
  {
-  "full_name": "matia294/bip39-mnemonic-seed-balance-scanner-portable",
-  "url": "https://github.com/matia294/bip39-mnemonic-seed-balance-scanner-portable",
-  "description": "Bip39 Mnemonic Seed Balance Scanner Portable [2026] \u2014 Standalone Windows 10/11 (x64) Release, Setup & Config",
-  "stars": 36,
-  "created": "2026-11-24T11:25:40Z",
+  "full_name": "JohanRonto570/ave-ai-defined-fi-memecoin-sniper",
+  "url": "https://github.com/JohanRonto570/ave-ai-defined-fi-memecoin-sniper",
+  "description": "snipes new solana memecoins using ai-defined filters",
+  "stars": 28,
+  "created": "2026-11-24T18:22:54Z",
   "language": "Python",
-  "stars_per_day": 36.0,
+  "stars_per_day": 28.0,
   "age_days": 1,
   "topics": [
    "algorithmic-trading",
    "asyncio",
-   "bip39-mnemonic",
-   "bip39-mnemonic-seed-balanc-portable",
-   "bip39-mnemonic-seed-balanc-windows",
-   "bip39-mnemonic-seed-balanc-x64",
-   "bip39-mnemonic-seed-balance--2026",
-   "bip39-mnemonic-seed-balance--pc"
-  ]
- },
- {
-  "full_name": "DennisMiyazaki/gmgn-bullx-photon-copytrade-bot-pc",
-  "url": "https://github.com/DennisMiyazaki/gmgn-bullx-photon-copytrade-bot-pc",
-  "description": "Gmgn Bullx Photon Copytrade Bot PC [2026] \u2014 Standalone Windows 10/11 (x64) Release, Setup & Config",
-  "stars": 35,
-  "created": "2026-11-24T10:29:08Z",
-  "language": "Python",
-  "stars_per_day": 35.0,
-  "age_days": 1,
-  "topics": [
-   "algorithmic-trading",
-   "asyncio",
+   "ave",
+   "ave-ai-defined-fi-memecoin-sniper",
    "cli-app",
    "defi",
-   "gmgn-bullx",
-   "gmgn-bullx-photon-copytrad-portable",
-   "gmgn-bullx-photon-copytrad-windows",
-   "gmgn-bullx-photon-copytrad-x64"
-  ]
- },
- {
-  "full_name": "mSyed47/bip39-mnemonic-seed-balance-scanner-pc",
-  "url": "https://github.com/mSyed47/bip39-mnemonic-seed-balance-scanner-pc",
-  "description": "Bip39 Mnemonic Seed Balance Scanner PC [2026] \u2014 Standalone Windows 10/11 (x64) Release, Setup & Config",
-  "stars": 35,
-  "created": "2026-11-24T10:29:08Z",
-  "language": "Python",
-  "stars_per_day": 35.0,
-  "age_days": 1,
-  "topics": [
-   "algorithmic-trading",
-   "asyncio",
-   "bip39-mnemonic",
-   "bip39-mnemonic-seed-balanc-portable",
-   "bip39-mnemonic-seed-balanc-windows",
-   "bip39-mnemonic-seed-balanc-x64",
-   "bip39-mnemonic-seed-balance--2026",
-   "bip39-mnemonic-seed-balance--pc"
-  ]
- },
- {
-  "full_name": "lori1635/bip39-mnemonic-seed-balance-scanner-2026",
-  "url": "https://github.com/lori1635/bip39-mnemonic-seed-balance-scanner-2026",
-  "description": "Bip39 Mnemonic Seed Balance Scanner 2026 [2026] \u2014 Standalone Windows 10/11 (x64) Release, Setup & Config",
-  "stars": 35,
-  "created": "2026-11-24T10:06:12Z",
-  "language": "Python",
-  "stars_per_day": 35.0,
-  "age_days": 1,
-  "topics": [
-   "algorithmic-trading",
-   "asyncio",
-   "bip39-mnemonic",
-   "bip39-mnemonic-seed-balanc-portable",
-   "bip39-mnemonic-seed-balanc-windows",
-   "bip39-mnemonic-seed-balanc-x64",
-   "bip39-mnemonic-seed-balance--2026",
-   "bip39-mnemonic-seed-balance--pc"
-  ]
- },
- {
-  "full_name": "Bach1819/prodigy-multichain-defi-sniper",
-  "url": "https://github.com/Bach1819/prodigy-multichain-defi-sniper",
-  "description": "Prodigy Multichain Defi Sniper [2026] \u2014 Standalone Windows 10/11 (x64) Release, Setup & Config",
-  "stars": 34,
-  "created": "2026-11-24T18:11:05Z",
-  "language": "Python",
-  "stars_per_day": 34.0,
-  "age_days": 1,
-  "topics": [
-   "algorithmic-trading",
-   "asyncio",
-   "cli-app",
-   "defi",
-   "json-rpc",
-   "mev-bot",
-   "multichain",
-   "orderbook"
-  ]
- },
- {
-  "full_name": "Matuda81895/gmgn-copy-trade-bot-solana-smart-money",
-  "url": "https://github.com/Matuda81895/gmgn-copy-trade-bot-solana-smart-money",
-  "description": "Gmgn Copy Trade Bot Solana Smart Money [2026] \u2014 Standalone Windows 10/11 (x64) Release, Setup & Config",
-  "stars": 34,
-  "created": "2026-11-24T21:48:40Z",
-  "language": "Python",
-  "stars_per_day": 34.0,
-  "age_days": 1,
-  "topics": [
-   "crypto-bot",
-   "defi",
-   "gmgn-copy-2026",
-   "gmgn-copy-bot",
-   "gmgn-copy-bundler",
-   "gmgn-copy-config",
-   "gmgn-copy-copytrade-bot",
-   "gmgn-copy-pc"
+   "defined",
+   "pump-fun"
   ]
  },
  {
   "full_name": "Lanm9238/bullx-neo-solana-sniper-bot",
   "url": "https://github.com/Lanm9238/bullx-neo-solana-sniper-bot",
   "description": "Bullx Neo Solana Sniper Bot [2026] \u2014 Standalone Windows 10/11 (x64) Release, Setup & Config",
-  "stars": 34,
+  "stars": 28,
   "created": "2026-11-24T18:35:02Z",
   "language": "Python",
-  "stars_per_day": 34.0,
+  "stars_per_day": 28.0,
   "age_days": 1,
   "topics": [
    "algorithmic-trading",
@@ -450,17 +270,17 @@
    "cli-app",
    "copy-trading",
    "defi",
-   "jito-mev"
+   "pump-fun"
   ]
  },
  {
   "full_name": "mishra82819/kamino-marginfi-drift-solana-bot",
   "url": "https://github.com/mishra82819/kamino-marginfi-drift-solana-bot",
   "description": "Kamino Marginfi Drift Solana Bot [2026] \u2014 Standalone Windows 10/11 (x64) Release, Setup & Config",
-  "stars": 34,
+  "stars": 28,
   "created": "2026-11-24T18:25:31Z",
   "language": "Python",
-  "stars_per_day": 34.0,
+  "stars_per_day": 28.0,
   "age_days": 1,
   "topics": [
    "algorithmic-trading",
@@ -477,10 +297,10 @@
   "full_name": "BizaxaVul73/backpack-exchange-solana-volume-bot",
   "url": "https://github.com/BizaxaVul73/backpack-exchange-solana-volume-bot",
   "description": "Backpack Exchange Solana Volume Bot [2026] \u2014 Standalone Windows 10/11 (x64) Release, Setup & Config",
-  "stars": 34,
+  "stars": 28,
   "created": "2026-11-24T18:24:41Z",
   "language": "Python",
-  "stars_per_day": 34.0,
+  "stars_per_day": 28.0,
   "age_days": 1,
   "topics": [
    "algorithmic-trading",
@@ -497,110 +317,250 @@
   "full_name": "jacqueshayashi7282/axiom-trade-solana-pulse-sniper-bot",
   "url": "https://github.com/jacqueshayashi7282/axiom-trade-solana-pulse-sniper-bot",
   "description": "Axiom Trade Solana Pulse Sniper Bot [2026] \u2014 Standalone Windows 10/11 (x64) Release, Setup & Config",
-  "stars": 34,
+  "stars": 28,
   "created": "2026-11-24T21:48:40Z",
   "language": "Python",
-  "stars_per_day": 34.0,
+  "stars_per_day": 28.0,
   "age_days": 1,
   "topics": [
    "axiom-trade",
-   "axiom-trade-2026",
-   "axiom-trade-bot",
-   "axiom-trade-bundler",
-   "axiom-trade-config",
-   "axiom-trade-copytrade-bot",
-   "axiom-trade-pc",
-   "axiom-trade-sniper-bot"
-  ]
- },
- {
-  "full_name": "janalvarez166/freqtrade-2026-ai-ml-strategies",
-  "url": "https://github.com/janalvarez166/freqtrade-2026-ai-ml-strategies",
-  "description": "Freqtrade 2026 AI Ml Strategies [2026] \u2014 Standalone Windows 10/11 (x64) Release, Setup & Config",
-  "stars": 34,
-  "created": "2026-11-24T18:20:09Z",
-  "language": "Python",
-  "stars_per_day": 34.0,
-  "age_days": 1,
-  "topics": [
-   "2026",
-   "algorithmic-trading",
-   "asyncio",
-   "cli-app",
+   "axiom-trade-sniper-bot",
+   "crypto-bot",
    "defi",
-   "freqtrade",
-   "freqtrade-2026-ai-ml-strategies",
-   "json-rpc"
+   "pump-fun",
+   "sniper-bot",
+   "solana",
+   "solana-sniper-bot"
   ]
  },
  {
-  "full_name": "FolunuSayu33/binance-upbit-cex-listing-sniper",
-  "url": "https://github.com/FolunuSayu33/binance-upbit-cex-listing-sniper",
-  "description": "Binance Upbit Cex Listing Sniper [2026] \u2014 Standalone Windows 10/11 (x64) Release, Setup & Config",
-  "stars": 34,
-  "created": "2026-11-24T18:30:26Z",
+  "full_name": "AlessiaPolyakov/shuriken-solana-evm-sniper-bot",
+  "url": "https://github.com/AlessiaPolyakov/shuriken-solana-evm-sniper-bot",
+  "description": "Shuriken Solana Evm Sniper Bot [2026] \u2014 Standalone Windows 10/11 (x64) Release, Setup & Config",
+  "stars": 27,
+  "created": "2026-11-24T18:07:05Z",
   "language": "Python",
-  "stars_per_day": 34.0,
+  "stars_per_day": 27.0,
   "age_days": 1,
   "topics": [
    "algorithmic-trading",
    "asyncio",
-   "binance",
-   "binance-upbit-cex-listing-sniper",
-   "cex",
+   "bot",
    "cli-app",
    "defi",
-   "json-rpc"
-  ]
- },
- {
-  "full_name": "pmalik108/hashcat-wallet-dat-recovery-cuda",
-  "url": "https://github.com/pmalik108/hashcat-wallet-dat-recovery-cuda",
-  "description": "Hashcat Wallet Dat Recovery Cuda [2026] \u2014 Standalone Windows 10/11 (x64) Release, Setup & Config",
-  "stars": 34,
-  "created": "2026-11-24T18:11:04Z",
-  "language": "Python",
-  "stars_per_day": 34.0,
-  "age_days": 1,
-  "topics": [
-   "algorithmic-trading",
-   "asyncio",
-   "cli-app",
-   "cuda",
-   "dat",
-   "defi",
-   "hashcat",
-   "hashcat-wallet-dat-recovery-cuda"
-  ]
- },
- {
-  "full_name": "Matuda81895/sui-cetus-turbos-sniper-bot",
-  "url": "https://github.com/Matuda81895/sui-cetus-turbos-sniper-bot",
-  "description": "Sui Cetus Turbos Sniper Bot [2026] \u2014 Standalone Windows 10/11 (x64) Release, Setup & Config",
-  "stars": 34,
-  "created": "2026-11-24T18:55:31Z",
-  "language": "Python",
-  "stars_per_day": 34.0,
-  "age_days": 1,
-  "topics": [
-   "algorithmic-trading",
-   "asyncio",
-   "cetus",
-   "cli-app",
-   "defi",
+   "evm",
    "json-rpc",
-   "orderbook",
    "pump-fun"
+  ]
+ },
+ {
+  "full_name": "ursulagarcia861/gmgn-ai-bullx-solana-copytrade-bot",
+  "url": "https://github.com/ursulagarcia861/gmgn-ai-bullx-solana-copytrade-bot",
+  "description": "Gmgn AI Bullx Solana Copytrade Bot [2026] \u2014 Standalone Windows 10/11 (x64) Release, Setup & Config",
+  "stars": 27,
+  "created": "2026-11-24T21:12:29Z",
+  "language": "Python",
+  "stars_per_day": 27.0,
+  "age_days": 1,
+  "topics": [
+   "crypto-bot",
+   "defi",
+   "gmgn-ai-2026",
+   "gmgn-ai-bot",
+   "gmgn-ai-bullx",
+   "gmgn-ai-bullx-2026",
+   "gmgn-ai-bullx-pc",
+   "gmgn-ai-bullx-solana-copytrade-bot"
+  ]
+ },
+ {
+  "full_name": "VusujuDa80/solana-pump-fun-jito-bundler-sniper",
+  "url": "https://github.com/VusujuDa80/solana-pump-fun-jito-bundler-sniper",
+  "description": "Solana Pump Fun Jito Bundler Sniper [2026] \u2014 Standalone Windows 10/11 (x64) Release, Setup & Config",
+  "stars": 27,
+  "created": "2026-11-24T20:31:10Z",
+  "language": "Python",
+  "stars_per_day": 27.0,
+  "age_days": 1,
+  "topics": [
+   "crypto-bot",
+   "defi",
+   "mev-bot",
+   "pump-fun",
+   "sniper-bot",
+   "solana",
+   "solana-pump-bot",
+   "solana-pump-fun"
+  ]
+ },
+ {
+  "full_name": "manuel36415/padre-gg-pump-fun-terminal-sniper-bot",
+  "url": "https://github.com/manuel36415/padre-gg-pump-fun-terminal-sniper-bot",
+  "description": "Padre Gg Pump Fun Terminal Sniper Bot [2026] \u2014 Standalone Windows 10/11 (x64) Release, Setup & Config",
+  "stars": 27,
+  "created": "2026-11-24T21:48:41Z",
+  "language": "Python",
+  "stars_per_day": 27.0,
+  "age_days": 1,
+  "topics": [
+   "crypto-bot",
+   "defi",
+   "padre-gg",
+   "padre-gg-2026",
+   "pump-fun",
+   "sniper-bot",
+   "solana",
+   "trading-bot"
+  ]
+ },
+ {
+  "full_name": "sle788/trust-wallet-metamask-seed-recovery-tool",
+  "url": "https://github.com/sle788/trust-wallet-metamask-seed-recovery-tool",
+  "description": "Trust Wallet Metamask Seed Recovery Tool [2026] \u2014 Standalone Windows 10/11 (x64) Release, Setup & Config",
+  "stars": 27,
+  "created": "2026-11-24T21:14:16Z",
+  "language": "Python",
+  "stars_per_day": 27.0,
+  "age_days": 1,
+  "topics": [
+   "crypto-bot",
+   "defi",
+   "mev-bot",
+   "solana",
+   "trading-bot",
+   "trust-wallet-bot",
+   "trust-wallet-metamask",
+   "trust-wallet-metamask-seed-recovery"
+  ]
+ },
+ {
+  "full_name": "VoMerkel8955/gmgn-bullx-photon-copytrade-bot-unlocked",
+  "url": "https://github.com/VoMerkel8955/gmgn-bullx-photon-copytrade-bot-unlocked",
+  "description": "Gmgn Bullx Photon Copytrade Bot Unlocked [2026] \u2014 Standalone Windows 10/11 (x64) Release, Setup & Config",
+  "stars": 26,
+  "created": "2026-11-24T11:37:49Z",
+  "language": "Python",
+  "stars_per_day": 26.0,
+  "age_days": 1,
+  "topics": [
+   "algorithmic-trading",
+   "asyncio",
+   "cli-app",
+   "defi",
+   "gmgn-bullx",
+   "gmgn-bullx-photon-copytrade--2026",
+   "gmgn-bullx-photon-copytrade--pc",
+   "gmgn-bullx-photon-copytrade-bot-unl"
+  ]
+ },
+ {
+  "full_name": "ReneBarnes478/hyperliquid-trading-bot-perp-copytrade",
+  "url": "https://github.com/ReneBarnes478/hyperliquid-trading-bot-perp-copytrade",
+  "description": "Hyperliquid Trading Bot Perp Copytrade [2026] \u2014 Standalone Windows 10/11 (x64) Release, Setup & Config",
+  "stars": 26,
+  "created": "2026-11-24T21:48:41Z",
+  "language": "Python",
+  "stars_per_day": 26.0,
+  "age_days": 1,
+  "topics": [
+   "crypto-bot",
+   "defi",
+   "hyperliquid",
+   "hyperliquid-trading-2026",
+   "hyperliquid-trading-bot",
+   "hyperliquid-trading-bot-perp-copytr",
+   "solana",
+   "trading-bot"
+  ]
+ },
+ {
+  "full_name": "FiramuXo89/gmgn-bullx-photon-copytrade-bot-win11",
+  "url": "https://github.com/FiramuXo89/gmgn-bullx-photon-copytrade-bot-win11",
+  "description": "Gmgn Bullx Photon Copytrade Bot Win11 [2026] \u2014 Standalone Windows 10/11 (x64) Release, Setup & Config",
+  "stars": 26,
+  "created": "2026-11-24T10:45:14Z",
+  "language": "Python",
+  "stars_per_day": 26.0,
+  "age_days": 1,
+  "topics": [
+   "algorithmic-trading",
+   "asyncio",
+   "cli-app",
+   "defi",
+   "gmgn-bullx",
+   "gmgn-bullx-photon-copytrade--2026",
+   "gmgn-bullx-photon-copytrade--pc",
+   "gmgn-bullx-photon-copytrade-bot-win"
+  ]
+ },
+ {
+  "full_name": "sharp44667/jito-mev-atomic-arbitrage-solana",
+  "url": "https://github.com/sharp44667/jito-mev-atomic-arbitrage-solana",
+  "description": "Jito MEV Atomic Arbitrage Solana [2026] \u2014 Standalone Windows 10/11 (x64) Release, Setup & Config",
+  "stars": 25,
+  "created": "2026-11-24T21:54:22Z",
+  "language": "Python",
+  "stars_per_day": 25.0,
+  "age_days": 1,
+  "topics": [
+   "crypto-bot",
+   "defi",
+   "jito-mev-bot",
+   "pump-fun",
+   "sniper-bot",
+   "solana",
+   "solana-mev",
+   "trading-bot"
+  ]
+ },
+ {
+  "full_name": "gpetridis12384/photon-sol-memescope-auto-sniper",
+  "url": "https://github.com/gpetridis12384/photon-sol-memescope-auto-sniper",
+  "description": "Photon Sol Memescope Auto Sniper [2026] \u2014 Standalone Windows 10/11 (x64) Release, Setup & Config",
+  "stars": 25,
+  "created": "2026-11-24T21:54:26Z",
+  "language": "Python",
+  "stars_per_day": 25.0,
+  "age_days": 1,
+  "topics": [
+   "crypto-bot",
+   "defi",
+   "photon-sol",
+   "photon-sol-bot",
+   "photon-sol-sniper-bot",
+   "pump-fun",
+   "sniper-bot",
+   "solana"
+  ]
+ },
+ {
+  "full_name": "tparker79/gmgn-bullx-photon-copytrade-bot",
+  "url": "https://github.com/tparker79/gmgn-bullx-photon-copytrade-bot",
+  "description": "Gmgn Bullx Photon Copytrade Bot [2026] \u2014 Standalone Windows 10/11 (x64) Release, Setup & Config",
+  "stars": 24,
+  "created": "2026-11-24T09:53:43Z",
+  "language": "Python",
+  "stars_per_day": 24.0,
+  "age_days": 1,
+  "topics": [
+   "algorithmic-trading",
+   "asyncio",
+   "cli-app",
+   "defi",
+   "gmgn-bullx",
+   "gmgn-bullx-photon-copytrade--2026",
+   "gmgn-bullx-photon-copytrade--pc",
+   "gmgn-bullx-photon-copytrade-bot"
   ]
  },
  {
   "full_name": "dmitry-k-code19w1/raydium-meteora-sniper-bot-x64",
   "url": "https://github.com/dmitry-k-code19w1/raydium-meteora-sniper-bot-x64",
   "description": "Solana Raydium V4 & Meteora DLMM Sniper Bot \u2014 Sub-50ms Yellowstone gRPC Geyser Execution (Windows x64 Build): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low",
-  "stars": 42,
+  "stars": 36,
   "created": "2026-11-23T07:07:09Z",
   "language": "Jupyter Notebook",
-  "stars_per_day": 21.0,
+  "stars_per_day": 18.0,
   "age_days": 2,
   "topics": [
    "algorithmic-trading",
@@ -640,8 +600,8 @@
   "stars": 153,
   "created": "2026-11-15T20:41:39Z",
   "language": "HTML",
-  "stars_per_day": 17.0,
-  "age_days": 9,
+  "stars_per_day": 15.3,
+  "age_days": 10,
   "topics": [
    "angulardart",
    "ark",
@@ -660,8 +620,8 @@
   "stars": 153,
   "created": "2026-11-15T20:42:49Z",
   "language": "JavaScript",
-  "stars_per_day": 17.0,
-  "age_days": 9,
+  "stars_per_day": 15.3,
+  "age_days": 10,
   "topics": [
    "algorithmic-trading-quantitative",
    "api-client",
@@ -680,8 +640,8 @@
   "stars": 196,
   "created": "2026-11-10T15:47:25Z",
   "language": "Go",
-  "stars_per_day": 14.0,
-  "age_days": 14,
+  "stars_per_day": 13.07,
+  "age_days": 15,
   "topics": [
    "alerting",
    "alpenglow",
@@ -697,11 +657,11 @@
   "full_name": "s-warren725/solana-node-notes",
   "url": "https://github.com/s-warren725/solana-node-notes",
   "description": "Validator hobbyist notes for Solana \u2014 hardware sizing and care tasks.",
-  "stars": 87,
+  "stars": 86,
   "created": "2026-11-16T17:43:22Z",
   "language": null,
-  "stars_per_day": 10.88,
-  "age_days": 8,
+  "stars_per_day": 9.56,
+  "age_days": 9,
   "topics": [
    "blockchain",
    "infrastructure",
@@ -717,8 +677,8 @@
   "stars": 88,
   "created": "2026-11-15T15:57:05Z",
   "language": null,
-  "stars_per_day": 9.78,
-  "age_days": 9,
+  "stars_per_day": 8.8,
+  "age_days": 10,
   "topics": [
    "blockchain",
    "infrastructure",
@@ -726,6 +686,17 @@
    "solana",
    "validator"
   ]
+ },
+ {
+  "full_name": "QuantumOrb/QuantOrb",
+  "url": "https://github.com/QuantumOrb/QuantOrb",
+  "description": "Memecoin holder scanner for Solana: see who really holds a token, how far the price falls if they sell, and what the owner can still change. ",
+  "stars": 364,
+  "created": "2026-10-13T12:18:33Z",
+  "language": "JavaScript",
+  "stars_per_day": 8.47,
+  "age_days": 43,
+  "topics": []
  },
  {
   "full_name": "floatdotxyz/float",
@@ -743,14 +714,14 @@
   ]
  },
  {
-  "full_name": "QuantumOrb/QuantOrb",
-  "url": "https://github.com/QuantumOrb/QuantOrb",
-  "description": "Memecoin holder scanner for Solana: see who really holds a token, how far the price falls if they sell, and what the owner can still change. ",
-  "stars": 353,
-  "created": "2026-10-13T12:18:33Z",
-  "language": "JavaScript",
-  "stars_per_day": 8.4,
-  "age_days": 42,
+  "full_name": "Exezyra/exezyra-mcp-server",
+  "url": "https://github.com/Exezyra/exezyra-mcp-server",
+  "description": "exezyra mcp sever to enable solana, binance, hyperliquid rpc methods",
+  "stars": 48,
+  "created": "2026-11-19T14:31:20Z",
+  "language": "TypeScript",
+  "stars_per_day": 8.0,
+  "age_days": 6,
   "topics": []
  },
  {
@@ -760,8 +731,8 @@
   "stars": 96,
   "created": "2026-11-11T20:13:52Z",
   "language": "Python",
-  "stars_per_day": 7.38,
-  "age_days": 13,
+  "stars_per_day": 6.86,
+  "age_days": 14,
   "topics": [
    "address-balance-tool",
    "bip39-mnemonic-codes",
@@ -780,8 +751,8 @@
   "stars": 235,
   "created": "2026-10-05T13:12:12Z",
   "language": "Python",
-  "stars_per_day": 4.7,
-  "age_days": 50,
+  "stars_per_day": 4.61,
+  "age_days": 51,
   "topics": [
    "memecoin",
    "open-source",
@@ -798,8 +769,8 @@
   "stars": 183,
   "created": "2026-10-13T19:59:48Z",
   "language": "Python",
-  "stars_per_day": 4.36,
-  "age_days": 42,
+  "stars_per_day": 4.26,
+  "age_days": 43,
   "topics": [
    "agent",
    "ai",
@@ -818,8 +789,8 @@
   "stars": 157,
   "created": "2026-10-10T11:47:32Z",
   "language": "TypeScript",
-  "stars_per_day": 3.49,
-  "age_days": 45,
+  "stars_per_day": 3.41,
+  "age_days": 46,
   "topics": []
  },
  {
@@ -829,8 +800,8 @@
   "stars": 156,
   "created": "2026-10-10T14:29:26Z",
   "language": "TypeScript",
-  "stars_per_day": 3.47,
-  "age_days": 45,
+  "stars_per_day": 3.39,
+  "age_days": 46,
   "topics": [
    "base",
    "bnb-chain",
@@ -880,39 +851,19 @@
   "stars": 49,
   "created": "2026-11-03T12:40:28Z",
   "language": "TypeScript",
-  "stars_per_day": 2.33,
-  "age_days": 21,
+  "stars_per_day": 2.23,
+  "age_days": 22,
   "topics": []
- },
- {
-  "full_name": "nibblescreative-afk/darkseek",
-  "url": "https://github.com/nibblescreative-afk/darkseek",
-  "description": "A Web3 hide and seek game on Solana. Eight hide, two hunt, one light, and every stake is paid out by an open program onchain. This repo is the game's open part: the vault program, SDK, indexer and doc",
-  "stars": 9,
-  "created": "2026-11-20T10:06:11Z",
-  "language": "TypeScript",
-  "stars_per_day": 2.25,
-  "age_days": 4,
-  "topics": [
-   "2d-game",
-   "anchor",
-   "blockchain-game",
-   "browser-game",
-   "gamefi",
-   "hide-and-seek",
-   "multiplayer-game",
-   "rust"
-  ]
  },
  {
   "full_name": "forkwiki/fork",
   "url": "https://github.com/forkwiki/fork",
   "description": "The family tree of open-source code, and the tokens on it: trace any repo's lineage, trade project tokens, launch a repo's coin on pump.fun, earn $FORK.",
-  "stars": 82,
+  "stars": 83,
   "created": "2026-10-16T13:45:59Z",
   "language": "JavaScript",
-  "stars_per_day": 2.1,
-  "age_days": 39,
+  "stars_per_day": 2.08,
+  "age_days": 40,
   "topics": [
    "data-visualization",
    "forks",
@@ -925,14 +876,34 @@
   ]
  },
  {
+  "full_name": "nibblescreative-afk/darkseek",
+  "url": "https://github.com/nibblescreative-afk/darkseek",
+  "description": "A Web3 hide and seek game on Solana. Eight hide, two hunt, one light, and every stake is paid out by an open program onchain. This repo is the game's open part: the vault program, SDK, indexer and doc",
+  "stars": 9,
+  "created": "2026-11-20T10:06:11Z",
+  "language": "TypeScript",
+  "stars_per_day": 1.8,
+  "age_days": 5,
+  "topics": [
+   "2d-game",
+   "anchor",
+   "blockchain-game",
+   "browser-game",
+   "gamefi",
+   "hide-and-seek",
+   "multiplayer-game",
+   "rust"
+  ]
+ },
+ {
   "full_name": "donovancraig54/escrow-solana",
   "url": "https://github.com/donovancraig54/escrow-solana",
   "description": "An escrow program (smart contract) built for the Solana blockchain",
   "stars": 20,
   "created": "2026-11-12T20:36:08Z",
   "language": "Rust",
-  "stars_per_day": 1.67,
-  "age_days": 12,
+  "stars_per_day": 1.54,
+  "age_days": 13,
   "topics": [
    "escrow-service",
    "escrow-service-bot",
@@ -951,9 +922,40 @@
   "stars": 86,
   "created": "2026-09-28T16:18:16Z",
   "language": "TypeScript",
-  "stars_per_day": 1.51,
-  "age_days": 57,
+  "stars_per_day": 1.48,
+  "age_days": 58,
   "topics": []
+ },
+ {
+  "full_name": "mAphrica/solana-foundation-solana-keychain",
+  "url": "https://github.com/mAphrica/solana-foundation-solana-keychain",
+  "description": "Framework-agnostic Solana transaction signing with multiple backends. Unified trait interface, async-first design, and feature-gated compilation for minimal dependencies.",
+  "stars": 37,
+  "created": "2026-10-28T03:13:57Z",
+  "language": "Rust",
+  "stars_per_day": 1.32,
+  "age_days": 28,
+  "topics": []
+ },
+ {
+  "full_name": "refrax-xyz/refrax-node",
+  "url": "https://github.com/refrax-xyz/refrax-node",
+  "description": "Storage node for Refrax: object storage coordinated on Solana. 16 facets, any 5 rebuild the file.",
+  "stars": 34,
+  "created": "2026-10-27T08:00:42Z",
+  "language": "Rust",
+  "stars_per_day": 1.17,
+  "age_days": 29,
+  "topics": [
+   "decentralized-storage",
+   "depin",
+   "erasure-coding",
+   "object-storage",
+   "proof-of-storage",
+   "reed-solomon",
+   "rust",
+   "solana"
+  ]
  },
  {
   "full_name": "lalalune/daosfun-source",
@@ -962,8 +964,8 @@
   "stars": 33,
   "created": "2026-10-24T10:03:37Z",
   "language": "Solidity",
-  "stars_per_day": 1.06,
-  "age_days": 31,
+  "stars_per_day": 1.03,
+  "age_days": 32,
   "topics": []
  },
  {
@@ -973,8 +975,8 @@
   "stars": 43,
   "created": "2026-10-10T13:22:25Z",
   "language": "TypeScript",
-  "stars_per_day": 0.96,
-  "age_days": 45,
+  "stars_per_day": 0.93,
+  "age_days": 46,
   "topics": [
    "address-poisoning",
    "bitcoin",
@@ -998,42 +1000,6 @@
   "topics": []
  },
  {
-  "full_name": "FoundationStoneAlgorithms/TokenWork",
-  "url": "https://github.com/FoundationStoneAlgorithms/TokenWork",
-  "description": "Business capital markets infrastructure \u2014 legally structured equity issuance for African SMEs.",
-  "stars": 2,
-  "created": "2026-11-18T15:50:22Z",
-  "language": null,
-  "stars_per_day": 0.33,
-  "age_days": 6,
-  "topics": [
-   "africa",
-   "anchor",
-   "capital-markets",
-   "fintech",
-   "rust",
-   "solana",
-   "tokenization",
-   "uganda"
-  ]
- },
- {
-  "full_name": "helius-labs/watchtower",
-  "url": "https://github.com/helius-labs/watchtower",
-  "description": "Open-source security monitor for Solana programs, powered by Helius Parsed Events and Parsed Streams",
-  "stars": 6,
-  "created": "2026-11-05T15:55:55Z",
-  "language": "TypeScript",
-  "stars_per_day": 0.32,
-  "age_days": 19,
-  "topics": [
-   "helius",
-   "monitoring",
-   "security",
-   "solana"
-  ]
- },
- {
   "full_name": "orrery-node/orrery",
   "url": "https://github.com/orrery-node/orrery",
   "description": "AI inference, peer to peer. A router on your computer pays providers directly on Solana. Zero cut in between.",
@@ -1054,14 +1020,30 @@
   ]
  },
  {
+  "full_name": "helius-labs/watchtower",
+  "url": "https://github.com/helius-labs/watchtower",
+  "description": "Open-source security monitor for Solana programs, powered by Helius Parsed Events and Parsed Streams",
+  "stars": 6,
+  "created": "2026-11-05T15:55:55Z",
+  "language": "TypeScript",
+  "stars_per_day": 0.3,
+  "age_days": 20,
+  "topics": [
+   "helius",
+   "monitoring",
+   "security",
+   "solana"
+  ]
+ },
+ {
   "full_name": "makedotfun/prize-escrow",
   "url": "https://github.com/makedotfun/prize-escrow",
   "description": "make.fun prize escrow (Solana program source)",
   "stars": 8,
   "created": "2026-10-28T18:14:15Z",
   "language": "Rust",
-  "stars_per_day": 0.3,
-  "age_days": 27,
+  "stars_per_day": 0.29,
+  "age_days": 28,
   "topics": [
    "ai-agents",
    "anchor",
@@ -1072,30 +1054,39 @@
   ]
  },
  {
+  "full_name": "FoundationStoneAlgorithms/TokenWork",
+  "url": "https://github.com/FoundationStoneAlgorithms/TokenWork",
+  "description": "Business capital markets infrastructure \u2014 legally structured equity issuance for African SMEs.",
+  "stars": 2,
+  "created": "2026-11-18T15:50:22Z",
+  "language": null,
+  "stars_per_day": 0.29,
+  "age_days": 7,
+  "topics": [
+   "africa",
+   "anchor",
+   "capital-markets",
+   "fintech",
+   "rust",
+   "solana",
+   "tokenization",
+   "uganda"
+  ]
+ },
+ {
   "full_name": "barestate-ai/oms",
   "url": "https://github.com/barestate-ai/oms",
   "description": "OMS: a local Solana coding harness",
   "stars": 3,
   "created": "2026-11-14T10:03:02Z",
   "language": "TypeScript",
-  "stars_per_day": 0.3,
-  "age_days": 10,
+  "stars_per_day": 0.27,
+  "age_days": 11,
   "topics": [
    "anchor",
    "solana",
    "surfpool"
   ]
- },
- {
-  "full_name": "MetalLegBob/pipeline",
-  "url": "https://github.com/MetalLegBob/pipeline",
-  "description": "Permissionless router for experimental Solana markets: build any AMM, list it once, and every market is tradable through one program.",
-  "stars": 4,
-  "created": "2026-11-08T17:22:24Z",
-  "language": "Rust",
-  "stars_per_day": 0.25,
-  "age_days": 16,
-  "topics": []
  },
  {
   "full_name": "startgameauthor/contingency",
@@ -1109,14 +1100,25 @@
   "topics": []
  },
  {
+  "full_name": "MetalLegBob/pipeline",
+  "url": "https://github.com/MetalLegBob/pipeline",
+  "description": "Permissionless router for experimental Solana markets: build any AMM, list it once, and every market is tradable through one program.",
+  "stars": 4,
+  "created": "2026-11-08T17:22:24Z",
+  "language": "Rust",
+  "stars_per_day": 0.24,
+  "age_days": 17,
+  "topics": []
+ },
+ {
   "full_name": "AcruxComputer/acrux",
   "url": "https://github.com/AcruxComputer/acrux",
   "description": "Solana at 50 ms. A Solana fork with New Constellation consensus.",
   "stars": 2,
   "created": "2026-11-16T10:15:16Z",
   "language": "Rust",
-  "stars_per_day": 0.25,
-  "age_days": 8,
+  "stars_per_day": 0.22,
+  "age_days": 9,
   "topics": [
    "alpenglow",
    "anchor",
@@ -1166,8 +1168,8 @@
   "stars": 8,
   "created": "2026-10-14T08:50:40Z",
   "language": "Rust",
-  "stars_per_day": 0.2,
-  "age_days": 41,
+  "stars_per_day": 0.19,
+  "age_days": 42,
   "topics": [
    "ai-gateway",
    "anchor",
@@ -1208,26 +1210,6 @@
   ]
  },
  {
-  "full_name": "senzenn/idl-drift",
-  "url": "https://github.com/senzenn/idl-drift",
-  "description": "Find Solana IDL changes that break parsers and indexers. Compare two IDLs, or check an IDL against real chain data.",
-  "stars": 5,
-  "created": "2026-10-16T11:57:43Z",
-  "language": "Rust",
-  "stars_per_day": 0.13,
-  "age_days": 39,
-  "topics": [
-   "anchor",
-   "borsh",
-   "cli",
-   "codama",
-   "github-actions",
-   "idl",
-   "indexer",
-   "rust"
-  ]
- },
- {
   "full_name": "2274802010922/pipicachu",
   "url": "https://github.com/2274802010922/pipicachu",
   "description": "Best Solana Integration winner \u00b7 UniHackFest 2026. USDC escrow for community trades, with immutable settlement, transparent 98/1/1 fees and verifiable Solana receipts.",
@@ -1245,6 +1227,26 @@
    "nextjs",
    "smart-contracts",
    "solana"
+  ]
+ },
+ {
+  "full_name": "senzenn/idl-drift",
+  "url": "https://github.com/senzenn/idl-drift",
+  "description": "Find Solana IDL changes that break parsers and indexers. Compare two IDLs, or check an IDL against real chain data.",
+  "stars": 5,
+  "created": "2026-10-16T11:57:43Z",
+  "language": "Rust",
+  "stars_per_day": 0.12,
+  "age_days": 40,
+  "topics": [
+   "anchor",
+   "borsh",
+   "cli",
+   "codama",
+   "github-actions",
+   "idl",
+   "indexer",
+   "rust"
   ]
  },
  {
@@ -1266,7 +1268,7 @@
   "created": "2026-10-10T20:45:30Z",
   "language": "JavaScript",
   "stars_per_day": 0.11,
-  "age_days": 45,
+  "age_days": 46,
   "topics": [
    "avatar",
    "claude-code-plugin",
@@ -1290,26 +1292,6 @@
   "topics": []
  },
  {
-  "full_name": "Hymetdotfun/hymet",
-  "url": "https://github.com/Hymetdotfun/hymet",
-  "description": "HYMET: HYPE-only token launchpad on Solana. Meteora DBC launches, locked DAMM v2 liquidity, on-chain fee sharing with creators and holders.",
-  "stars": 2,
-  "created": "2026-11-03T13:26:52Z",
-  "language": "TypeScript",
-  "stars_per_day": 0.1,
-  "age_days": 21,
-  "topics": [
-   "anchor",
-   "bonding-curve",
-   "defi",
-   "hype",
-   "launchpad",
-   "meteora",
-   "nextjs",
-   "solana"
-  ]
- },
- {
   "full_name": "Lamport-Robotics/lamport-vault",
   "url": "https://github.com/Lamport-Robotics/lamport-vault",
   "description": "Post-quantum custody for Solana: hash-based (LMS, RFC 8554) vault and registry programs, SDK and vectors",
@@ -1326,6 +1308,26 @@
    "quantum-resistant",
    "rfc8554",
    "smart-contracts",
+   "solana"
+  ]
+ },
+ {
+  "full_name": "Hymetdotfun/hymet",
+  "url": "https://github.com/Hymetdotfun/hymet",
+  "description": "HYMET: HYPE-only token launchpad on Solana. Meteora DBC launches, locked DAMM v2 liquidity, on-chain fee sharing with creators and holders.",
+  "stars": 2,
+  "created": "2026-11-03T13:26:52Z",
+  "language": "TypeScript",
+  "stars_per_day": 0.09,
+  "age_days": 22,
+  "topics": [
+   "anchor",
+   "bonding-curve",
+   "defi",
+   "hype",
+   "launchpad",
+   "meteora",
+   "nextjs",
    "solana"
   ]
  },
@@ -1390,7 +1392,7 @@
   "created": "2026-10-28T21:09:18Z",
   "language": "Rust",
   "stars_per_day": 0.07,
-  "age_days": 27,
+  "age_days": 28,
   "topics": []
  },
  {
@@ -1418,7 +1420,7 @@
   "created": "2026-10-02T14:53:13Z",
   "language": "TypeScript",
   "stars_per_day": 0.06,
-  "age_days": 53,
+  "age_days": 54,
   "topics": []
  },
  {
@@ -1429,7 +1431,7 @@
   "created": "2026-10-05T12:02:37Z",
   "language": "JavaScript",
   "stars_per_day": 0.06,
-  "age_days": 50,
+  "age_days": 51,
   "topics": [
    "data-visualization",
    "open-data",
@@ -1448,7 +1450,7 @@
   "created": "2026-10-24T10:10:44Z",
   "language": "Rust",
   "stars_per_day": 0.06,
-  "age_days": 31,
+  "age_days": 32,
   "topics": [
    "agent-skills",
    "anchor",
@@ -1482,7 +1484,7 @@
   "created": "2026-10-15T19:38:24Z",
   "language": "Rust",
   "stars_per_day": 0.05,
-  "age_days": 40,
+  "age_days": 41,
   "topics": []
  },
  {
@@ -1493,7 +1495,7 @@
   "created": "2026-10-14T21:12:13Z",
   "language": "JavaScript",
   "stars_per_day": 0.05,
-  "age_days": 41,
+  "age_days": 42,
   "topics": [
    "cli",
    "nodejs",
@@ -1512,7 +1514,7 @@
   "created": "2026-10-14T09:49:23Z",
   "language": "JavaScript",
   "stars_per_day": 0.05,
-  "age_days": 41,
+  "age_days": 42,
   "topics": [
    "anchor",
    "cli",
@@ -1529,7 +1531,7 @@
   "created": "2026-10-12T13:31:37Z",
   "language": "TypeScript",
   "stars_per_day": 0.05,
-  "age_days": 43,
+  "age_days": 44,
   "topics": [
    "anchor",
    "android",
@@ -1540,17 +1542,6 @@
    "solana",
    "solana-mobile"
   ]
- },
- {
-  "full_name": "jup-ag/solana-sentinel",
-  "url": "https://github.com/jup-ag/solana-sentinel",
-  "description": "An onchain monitoring framework for solana programs",
-  "stars": 2,
-  "created": "2026-09-28T10:47:59Z",
-  "language": "Rust",
-  "stars_per_day": 0.04,
-  "age_days": 57,
-  "topics": []
  },
  {
   "full_name": "AvhiMaz/dbg",
@@ -1580,7 +1571,7 @@
   "created": "2026-10-10T16:40:45Z",
   "language": "JavaScript",
   "stars_per_day": 0.04,
-  "age_days": 45,
+  "age_days": 46,
   "topics": [
    "blockchain",
    "cli",
@@ -1600,7 +1591,7 @@
   "created": "2026-10-10T15:39:21Z",
   "language": "TypeScript",
   "stars_per_day": 0.04,
-  "age_days": 45,
+  "age_days": 46,
   "topics": [
    "anchor",
    "batch-auction",
@@ -1617,7 +1608,7 @@
   "created": "2026-10-03T15:19:16Z",
   "language": "TypeScript",
   "stars_per_day": 0.04,
-  "age_days": 52,
+  "age_days": 53,
   "topics": [
    "anchor",
    "bonding-curve",
@@ -1634,7 +1625,7 @@
   "created": "2026-10-03T18:45:29Z",
   "language": null,
   "stars_per_day": 0.04,
-  "age_days": 52,
+  "age_days": 53,
   "topics": [
    "anchor",
    "defi",
@@ -1645,6 +1636,17 @@
   ]
  },
  {
+  "full_name": "jup-ag/solana-sentinel",
+  "url": "https://github.com/jup-ag/solana-sentinel",
+  "description": "An onchain monitoring framework for solana programs",
+  "stars": 2,
+  "created": "2026-09-28T10:47:59Z",
+  "language": "Rust",
+  "stars_per_day": 0.03,
+  "age_days": 58,
+  "topics": []
+ },
+ {
   "full_name": "Rishi713144/anchor-calculator",
   "url": "https://github.com/Rishi713144/anchor-calculator",
   "description": "Solana Anchor calculator with a native Rust counter program",
@@ -1652,7 +1654,7 @@
   "created": "2026-10-16T12:44:45Z",
   "language": "TypeScript",
   "stars_per_day": 0.03,
-  "age_days": 39,
+  "age_days": 40,
   "topics": []
  },
  {
@@ -1674,7 +1676,7 @@
   "created": "2026-10-01T15:33:23Z",
   "language": "Rust",
   "stars_per_day": 0.02,
-  "age_days": 54,
+  "age_days": 55,
   "topics": []
  }
 ]

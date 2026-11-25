@@ -1,6 +1,11 @@
 {
  "cointelegraph": [
   {
+   "title": "Japan\u2019s SBI, SMFG launch Solana venture for stablecoins, tokenization",
+   "pub": "Wed, 25 Nov 2026 11:49:54 +0000",
+   "link": "https://cointelegraph.com/news/sbi-smfg-solana-global-stablecoin-tokenization?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
+  },
+  {
    "title": "VanEck to end Gemini ETF custody deals, keeps Coinbase",
    "pub": "Fri, 20 Nov 2026 10:54:38 +0000",
    "link": "https://cointelegraph.com/news/vaneck-gemini-etf-custody-end-keep-coinbase?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
@@ -54,73 +59,68 @@
    "title": "Polygon expands Open Money Stack to Solana, after Tron rollout",
    "pub": "Thu, 29 Oct 2026 13:00:00 +0000",
    "link": "https://cointelegraph.com/news/polygon-brings-open-money-stack-payments-services-to-solana?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Mirae Asset Securities issues tokenized notes on Solana",
-   "pub": "Wed, 28 Oct 2026 11:05:33 +0000",
-   "link": "https://cointelegraph.com/news/mirae-asset-securities-tokenized-notes-solana?utm_source=rss_feed&utm_medium=rss_tag_solana&utm_campaign=rss_partner_inbound"
   }
  ],
  "decrypt": [
   {
-   "title": "OpenAI and Anthropic Insiders Fear Their Next AI Models Are Too Dangerous to Release",
-   "pub": "Tue, 24 Nov 2026 22:36:02 +0000",
-   "link": "https://decrypt.co/383933/openai-and-anthropic-insiders-fear-next-ai-models-too-dangerous"
+   "title": "The 1Password Breach Didn\u2019t Touch Your Vault. The Phishing Emails Might",
+   "pub": "Wed, 25 Nov 2026 21:16:02 +0000",
+   "link": "https://decrypt.co/384002/1password-breach-vaults-phishing-emails"
   },
   {
-   "title": "Anthropic\u2019s Claude Ship Lets AI Write, Review and Approve Its Own Code",
-   "pub": "Tue, 24 Nov 2026 21:46:02 +0000",
-   "link": "https://decrypt.co/383929/anthropic-claude-ship-ai-write-review-approve-own-code"
+   "title": "Another Bitcoin Mining Firm Flags 'Hashrate Hijacking' Attacks That Reroute Rewards",
+   "pub": "Wed, 25 Nov 2026 20:36:03 +0000",
+   "link": "https://decrypt.co/383999/another-bitcoin-mining-firm-hashrate-hijacking-attacks"
   },
   {
-   "title": "Coldcard Bitcoin Exploit, Revisited: How a Hidden Flaw Survived Years of Audits",
-   "pub": "Tue, 24 Nov 2026 21:16:02 +0000",
-   "link": "https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits"
+   "title": "What Is Artex? The AI Hacking Tool Linked to the US Spy Agency Breach",
+   "pub": "Wed, 25 Nov 2026 20:06:03 +0000",
+   "link": "https://decrypt.co/383997/what-is-artex-ai-hacking-tool-us-spy-agency-breach"
   },
   {
-   "title": "Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing",
-   "pub": "Tue, 24 Nov 2026 20:36:02 +0000",
-   "link": "https://decrypt.co/383927/ethereum-foundation-ai-more-urgent-threat-quantum-computing"
+   "title": "Nvidia to Pay $290 Million to Settle Long-Running Crypto Mining Revenue Lawsuit",
+   "pub": "Wed, 25 Nov 2026 19:28:54 +0000",
+   "link": "https://decrypt.co/383994/nvidia-290-million-settle-crypto-mining-disclosure-lawsuit"
   },
   {
-   "title": "Bitcoin Losses Are the Worst Since FTX. Is the Bottom Near?",
-   "pub": "Tue, 24 Nov 2026 19:35:32 +0000",
-   "link": "https://decrypt.co/383909/bitcoin-losses-worst-since-ftx-is-bottom-near"
+   "title": "Elon Musk\u2019s SpaceX Gets FCC Approval to Launch AI Data Centers in Space",
+   "pub": "Wed, 25 Nov 2026 18:18:10 +0000",
+   "link": "https://decrypt.co/383991/elon-musk-spacex-fcc-approval-ai-data-centers-space"
   },
   {
-   "title": "What the CFTC\u2019s New Crypto Reserves Guidance Actually Allows\u2014And What It Doesn\u2019t",
-   "pub": "Tue, 24 Nov 2026 18:55:27 +0000",
-   "link": "https://decrypt.co/383906/cftc-new-crypto-reserves-guidance-actually-allows-what-it-doesnt"
+   "title": "OpenAI\u2019s Changes to ChatGPT Could Drastically Cut Usage Limits for Paying Subscribers",
+   "pub": "Wed, 25 Nov 2026 17:46:02 +0000",
+   "link": "https://decrypt.co/383963/openai-changes-chatgpt-drastically-cut-usage-limits"
   },
   {
-   "title": "South Korea Moves to Lift Its ICO Ban After Nearly a Decade",
-   "pub": "Tue, 24 Nov 2026 18:36:03 +0000",
-   "link": "https://decrypt.co/383905/south-korea-moves-lift-ico-ban-after-nearly-decade"
+   "title": "Elon Musk\u2019s X Wins Court Judgment Against Alleged Bitcoin Bot Farm Operators",
+   "pub": "Wed, 25 Nov 2026 17:16:02 +0000",
+   "link": "https://decrypt.co/383985/elon-musk-x-court-judgment-bitcoin-bot-farm-operators"
   },
   {
-   "title": "Wall Street and Crypto Are in 'Extreme Fear'. What's Spooking Investors?",
-   "pub": "Tue, 24 Nov 2026 18:16:02 +0000",
-   "link": "https://decrypt.co/383898/wall-street-crypto-extreme-whats-spooking-investors"
+   "title": "Bitcoin Falls Further as Inflation, Trump Tariffs and AI Selloff Rattle Markets",
+   "pub": "Wed, 25 Nov 2026 16:52:50 +0000",
+   "link": "https://decrypt.co/383967/bitcoin-sinks-inflation-trump-tariffs-ai-selloff"
   },
   {
-   "title": "What Is Pons? The Robinhood Chain Meme Coin Launchpad Explained",
-   "pub": "Tue, 24 Nov 2026 17:45:22 +0000",
-   "link": "https://decrypt.co/resources/what-is-pons-the-robinhood-chain-meme-coin-launchpad-explained"
+   "title": "Ukraine Passes Law to Legalize and Tax Its Crypto Market From July 2027",
+   "pub": "Wed, 25 Nov 2026 16:07:35 +0000",
+   "link": "https://decrypt.co/383962/ukraine-passes-law-to-legalize-and-tax-its-crypto-market-from-july-2027"
   },
   {
-   "title": "Ansem Meme Coin Crashes After $2.57 Million Wallet Drain, Bullpen Confirms Security Breach",
-   "pub": "Tue, 24 Nov 2026 17:43:03 +0000",
-   "link": "https://decrypt.co/383889/ansem-meme-coin-crashes-wallet-drain-bullpen-security-breach"
+   "title": "Morning Minute: Ethereum Focuses on Security As AI Threats Rise",
+   "pub": "Wed, 25 Nov 2026 13:41:38 +0000",
+   "link": "https://decrypt.co/383945/morning-minute-ethereum-focuses-on-security-as-ai-threats-rise"
   },
   {
-   "title": "Europol Traces $28M in Crypto Behind Europe's Illegal Streaming Industry",
-   "pub": "Tue, 24 Nov 2026 16:00:44 +0000",
-   "link": "https://decrypt.co/383877/europol-traces-28m-in-crypto-behind-europes-illegal-streaming-industry"
+   "title": "French Senate Rejects Plan to Make Crypto Holders Declare Self-Custody Wallets",
+   "pub": "Wed, 25 Nov 2026 13:15:24 +0000",
+   "link": "https://decrypt.co/383944/french-senate-rejects-plan-to-make-crypto-holders-declare-self-custody-wallets"
   },
   {
-   "title": "Justice Department Moves to Forfeit $1.1B in USDC From North Korea's Binance Hack",
-   "pub": "Tue, 24 Nov 2026 14:13:03 +0000",
-   "link": "https://decrypt.co/383874/justice-department-moves-to-forfeit-1-1b-in-usdc-from-north-koreas-binance-hack"
+   "title": "Florida Man Jailed for Using AI to Pose as Streamer N3ON in $260K Crypto Scam",
+   "pub": "Wed, 25 Nov 2026 11:52:06 +0000",
+   "link": "https://decrypt.co/383941/florida-man-jailed-for-using-ai-to-pose-as-streamer-n3on-in-260k-crypto-scam"
   }
  ],
  "cryptonews": [

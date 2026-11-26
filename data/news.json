@@ -63,6 +63,16 @@
  ],
  "decrypt": [
   {
+   "title": "China's Google Just Released Its Fast New AI Model for Free",
+   "pub": "Wed, 25 Nov 2026 22:38:09 +0000",
+   "link": "https://decrypt.co/384015/china-google-released-fast-new-ai-model-free-baidu-ernie"
+  },
+  {
+   "title": "What Happened to Alice Huang, the Woman at the Center of Nvidia\u2019s Scandal?",
+   "pub": "Wed, 25 Nov 2026 21:46:02 +0000",
+   "link": "https://decrypt.co/384001/what-happened-alice-huang-nvidia-spy-scandal"
+  },
+  {
    "title": "The 1Password Breach Didn\u2019t Touch Your Vault. The Phishing Emails Might",
    "pub": "Wed, 25 Nov 2026 21:16:02 +0000",
    "link": "https://decrypt.co/384002/1password-breach-vaults-phishing-emails"
@@ -111,19 +121,19 @@
    "title": "Morning Minute: Ethereum Focuses on Security As AI Threats Rise",
    "pub": "Wed, 25 Nov 2026 13:41:38 +0000",
    "link": "https://decrypt.co/383945/morning-minute-ethereum-focuses-on-security-as-ai-threats-rise"
-  },
-  {
-   "title": "French Senate Rejects Plan to Make Crypto Holders Declare Self-Custody Wallets",
-   "pub": "Wed, 25 Nov 2026 13:15:24 +0000",
-   "link": "https://decrypt.co/383944/french-senate-rejects-plan-to-make-crypto-holders-declare-self-custody-wallets"
-  },
-  {
-   "title": "Florida Man Jailed for Using AI to Pose as Streamer N3ON in $260K Crypto Scam",
-   "pub": "Wed, 25 Nov 2026 11:52:06 +0000",
-   "link": "https://decrypt.co/383941/florida-man-jailed-for-using-ai-to-pose-as-streamer-n3on-in-260k-crypto-scam"
   }
  ],
  "cryptonews": [
+  {
+   "title": "UK regulator plans tighter DeFi rules, citing $6.3B Binance hack: Report",
+   "pub": "Thu, 26 Nov 2026 05:53:08 +0000",
+   "link": "https://cointelegraph.com/news/uk-fca-defi-regulation-binance-hack?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+  },
+  {
+   "title": "Sky proposes emergency vote on $25M transfer amid liquidity stress",
+   "pub": "Thu, 26 Nov 2026 05:29:26 +0000",
+   "link": "https://cointelegraph.com/news/sky-emergency-vote-25m-transfer-stusds-liquidity-stress?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
+  },
   {
    "title": "Sky lender proposes buyback of up to $50M to fund stUSDS withdrawals",
    "pub": "Tue, 24 Nov 2026 13:43:46 +0000",
@@ -173,16 +183,6 @@
    "title": "Strive buys 15,124 Bitcoin in October, closes in on top treasury holders",
    "pub": "Fri, 06 Nov 2026 18:22:42 +0000",
    "link": "https://cointelegraph.com/news/strive-buys-bitcoin-october-top-btc-corporate-holders?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Blockchain is \u2018perfect solution\u2019 for AI agent trust, VeChain CEO says",
-   "pub": "Thu, 05 Nov 2026 13:34:57 +0000",
-   "link": "https://cointelegraph.com/news/blockchain-is-perfect-solution-for-ai-agent-trust-vechain-ceo-says?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "title": "Justin Sun seeks $264K sanctions over World Liberty\u2019s UAE disclosure",
-   "pub": "Wed, 04 Nov 2026 10:30:42 +0000",
-   "link": "https://cointelegraph.com/news/justin-sun-world-liberty-264k-sanctions-uae-disclosure?utm_source=rss_feed&utm_medium=rss_tag_defi&utm_campaign=rss_partner_inbound"
   }
  ]
 }

@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-27T08:36:27+00:00",
+ "generated_at": "2026-11-27T21:18:45+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 149.6,
+   "score": 347.6,
    "confidence": "High",
    "evidence": {
-    "github_repos": 47,
-    "github_top_velocity": 93.6,
+    "github_repos": 49,
+    "github_top_velocity": 291.64,
     "headline_hits": 7,
     "sample_headlines": [
      "Formation Securities plans Solana stock trading venue under SEC exemption",
-     "UK Regulator Cites Binance Hack as It Plans Tougher DeFi Rules Than US and EU: Report",
+     "Bluefin to shut down perps, refocus on spot trading and tokenized RWAs",
      "BNB Chain details new layer-1 for trading, private finance and AI"
     ],
     "market_avg_7d_pct": null,
@@ -19,166 +19,123 @@
    },
    "member_repos": [
     {
+     "full_name": "mudhinpc-droid/solana-memecoin-pump-fun-volume-booster-befalen",
+     "stars_per_day": 118.0,
+     "url": "https://github.com/mudhinpc-droid/solana-memecoin-pump-fun-volume-booster-befalen"
+    },
+    {
+     "full_name": "BachMason483/solana-jito-shredstream-mev-arbitrage-bot",
+     "stars_per_day": 59.0,
+     "url": "https://github.com/BachMason483/solana-jito-shredstream-mev-arbitrage-bot"
+    },
+    {
+     "full_name": "AsukaFerrari/gmgn-ai-bullx-neo-fast-trench-sniper-cli",
+     "stars_per_day": 59.0,
+     "url": "https://github.com/AsukaFerrari/gmgn-ai-bullx-neo-fast-trench-sniper-cli"
+    },
+    {
      "full_name": "bryanwalter710-debug/solana-defi-security",
-     "stars_per_day": 13.91,
+     "stars_per_day": 12.75,
      "url": "https://github.com/bryanwalter710-debug/solana-defi-security"
     },
     {
      "full_name": "farzanamustafa936-dot/solana-pump-fun-sniper-bot",
-     "stars_per_day": 13.91,
+     "stars_per_day": 12.75,
      "url": "https://github.com/farzanamustafa936-dot/solana-pump-fun-sniper-bot"
-    },
-    {
-     "full_name": "pinargomez/raydium-meteora-grpc-sniper-bot",
-     "stars_per_day": 13.5,
-     "url": "https://github.com/pinargomez/raydium-meteora-grpc-sniper-bot"
-    },
-    {
-     "full_name": "ValidatorStack/solana-vigil",
-     "stars_per_day": 12.06,
-     "url": "https://github.com/ValidatorStack/solana-vigil"
-    },
-    {
-     "full_name": "dianenelson33/gmgn-bullx-photon-copytrade-bot-2026",
-     "stars_per_day": 8.5,
-     "url": "https://github.com/dianenelson33/gmgn-bullx-photon-copytrade-bot-2026"
-    }
-   ]
-  },
-  {
-   "narrative": "Dev Tooling & Infra",
-   "score": 94.8,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 55,
-    "github_top_velocity": 94.75,
-    "headline_hits": 0,
-    "sample_headlines": [],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "bryanwalter710-debug/solana-defi-security",
-     "stars_per_day": 13.91,
-     "url": "https://github.com/bryanwalter710-debug/solana-defi-security"
-    },
-    {
-     "full_name": "farzanamustafa936-dot/solana-pump-fun-sniper-bot",
-     "stars_per_day": 13.91,
-     "url": "https://github.com/farzanamustafa936-dot/solana-pump-fun-sniper-bot"
-    },
-    {
-     "full_name": "pinargomez/raydium-meteora-grpc-sniper-bot",
-     "stars_per_day": 13.5,
-     "url": "https://github.com/pinargomez/raydium-meteora-grpc-sniper-bot"
-    },
-    {
-     "full_name": "setyamickala/airdrop-agent",
-     "stars_per_day": 13.25,
-     "url": "https://github.com/setyamickala/airdrop-agent"
-    },
-    {
-     "full_name": "dianenelson33/gmgn-bullx-photon-copytrade-bot-2026",
-     "stars_per_day": 8.5,
-     "url": "https://github.com/dianenelson33/gmgn-bullx-photon-copytrade-bot-2026"
     }
    ]
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 78.3,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 18,
-    "github_top_velocity": 77.78,
-    "headline_hits": 0,
-    "sample_headlines": [],
-    "market_avg_7d_pct": -0.28,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "farzanamustafa936-dot/solana-pump-fun-sniper-bot",
-     "stars_per_day": 13.91,
-     "url": "https://github.com/farzanamustafa936-dot/solana-pump-fun-sniper-bot"
-    },
-    {
-     "full_name": "pinargomez/raydium-meteora-grpc-sniper-bot",
-     "stars_per_day": 13.5,
-     "url": "https://github.com/pinargomez/raydium-meteora-grpc-sniper-bot"
-    },
-    {
-     "full_name": "setyamickala/airdrop-agent",
-     "stars_per_day": 13.25,
-     "url": "https://github.com/setyamickala/airdrop-agent"
-    },
-    {
-     "full_name": "QuantumOrb/QuantOrb",
-     "stars_per_day": 9.23,
-     "url": "https://github.com/QuantumOrb/QuantOrb"
-    },
-    {
-     "full_name": "floatdotxyz/float",
-     "stars_per_day": 7.44,
-     "url": "https://github.com/floatdotxyz/float"
-    }
-   ]
-  },
-  {
-   "narrative": "Wallets & UX",
-   "score": 72.7,
+   "score": 302.1,
    "confidence": "High",
    "evidence": {
-    "github_repos": 20,
-    "github_top_velocity": 56.68,
-    "headline_hits": 2,
-    "sample_headlines": [
-     "DTCC Plans Solana Expansion as Wallet Rules Limit Access",
-     "Suiet wallet to shut down in latest exit from Sui ecosystem"
-    ],
-    "market_avg_7d_pct": null,
+    "github_repos": 19,
+    "github_top_velocity": 290.4,
+    "headline_hits": 0,
+    "sample_headlines": [],
+    "market_avg_7d_pct": 5.86,
     "sources_confirming": 2
    },
    "member_repos": [
     {
-     "full_name": "bryanwalter710-debug/solana-defi-security",
-     "stars_per_day": 13.91,
-     "url": "https://github.com/bryanwalter710-debug/solana-defi-security"
+     "full_name": "mudhinpc-droid/solana-memecoin-pump-fun-volume-booster-befalen",
+     "stars_per_day": 118.0,
+     "url": "https://github.com/mudhinpc-droid/solana-memecoin-pump-fun-volume-booster-befalen"
+    },
+    {
+     "full_name": "BachMason483/solana-jito-shredstream-mev-arbitrage-bot",
+     "stars_per_day": 59.0,
+     "url": "https://github.com/BachMason483/solana-jito-shredstream-mev-arbitrage-bot"
+    },
+    {
+     "full_name": "AsukaFerrari/gmgn-ai-bullx-neo-fast-trench-sniper-cli",
+     "stars_per_day": 59.0,
+     "url": "https://github.com/AsukaFerrari/gmgn-ai-bullx-neo-fast-trench-sniper-cli"
     },
     {
      "full_name": "setyamickala/airdrop-agent",
-     "stars_per_day": 13.25,
+     "stars_per_day": 13.38,
      "url": "https://github.com/setyamickala/airdrop-agent"
     },
     {
-     "full_name": "arnabbhowmik07/Ghost",
-     "stars_per_day": 8.29,
-     "url": "https://github.com/arnabbhowmik07/Ghost"
+     "full_name": "farzanamustafa936-dot/solana-pump-fun-sniper-bot",
+     "stars_per_day": 12.75,
+     "url": "https://github.com/farzanamustafa936-dot/solana-pump-fun-sniper-bot"
+    }
+   ]
+  },
+  {
+   "narrative": "Dev Tooling & Infra",
+   "score": 177.6,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 55,
+    "github_top_velocity": 177.56,
+    "headline_hits": 0,
+    "sample_headlines": [],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "BachMason483/solana-jito-shredstream-mev-arbitrage-bot",
+     "stars_per_day": 59.0,
+     "url": "https://github.com/BachMason483/solana-jito-shredstream-mev-arbitrage-bot"
     },
     {
-     "full_name": "floatdotxyz/float",
-     "stars_per_day": 7.44,
-     "url": "https://github.com/floatdotxyz/float"
+     "full_name": "AsukaFerrari/gmgn-ai-bullx-neo-fast-trench-sniper-cli",
+     "stars_per_day": 59.0,
+     "url": "https://github.com/AsukaFerrari/gmgn-ai-bullx-neo-fast-trench-sniper-cli"
     },
     {
-     "full_name": "miloslavatangen/Checker-Mnemonic",
-     "stars_per_day": 6.4,
-     "url": "https://github.com/miloslavatangen/Checker-Mnemonic"
+     "full_name": "setyamickala/airdrop-agent",
+     "stars_per_day": 13.38,
+     "url": "https://github.com/setyamickala/airdrop-agent"
+    },
+    {
+     "full_name": "bryanwalter710-debug/solana-defi-security",
+     "stars_per_day": 12.75,
+     "url": "https://github.com/bryanwalter710-debug/solana-defi-security"
+    },
+    {
+     "full_name": "farzanamustafa936-dot/solana-pump-fun-sniper-bot",
+     "stars_per_day": 12.75,
+     "url": "https://github.com/farzanamustafa936-dot/solana-pump-fun-sniper-bot"
     }
    ]
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 65.4,
+   "score": 121.3,
    "confidence": "High",
    "evidence": {
-    "github_repos": 20,
-    "github_top_velocity": 41.42,
+    "github_repos": 21,
+    "github_top_velocity": 97.29,
     "headline_hits": 3,
     "sample_headlines": [
-     "Before the Sell-Off, AI Stocks Showed Dot-Com-Level Bubble Signals: Study",
-     "Cournot Raises $5M to Build AI-Native Oracle for Verifiable Intelligence",
+     "Could AI Break Bitcoin? Not Yet, Research Firm K33 Says",
+     "AI-Powered GTA 6 PC Ports Now Have Multiplayer as Modders Unlock 30 and 60 FPS",
      "BNB Chain details new layer-1 for trading, private finance and AI"
     ],
     "market_avg_7d_pct": null,
@@ -186,44 +143,86 @@
    },
    "member_repos": [
     {
-     "full_name": "farzanamustafa936-dot/solana-pump-fun-sniper-bot",
-     "stars_per_day": 13.91,
-     "url": "https://github.com/farzanamustafa936-dot/solana-pump-fun-sniper-bot"
+     "full_name": "AsukaFerrari/gmgn-ai-bullx-neo-fast-trench-sniper-cli",
+     "stars_per_day": 59.0,
+     "url": "https://github.com/AsukaFerrari/gmgn-ai-bullx-neo-fast-trench-sniper-cli"
     },
     {
      "full_name": "setyamickala/airdrop-agent",
-     "stars_per_day": 13.25,
+     "stars_per_day": 13.38,
      "url": "https://github.com/setyamickala/airdrop-agent"
     },
     {
+     "full_name": "farzanamustafa936-dot/solana-pump-fun-sniper-bot",
+     "stars_per_day": 12.75,
+     "url": "https://github.com/farzanamustafa936-dot/solana-pump-fun-sniper-bot"
+    },
+    {
      "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 4.25,
+     "stars_per_day": 4.16,
      "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
     },
     {
      "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 3.38,
+     "stars_per_day": 3.21,
      "url": "https://github.com/SpaceDataRig/space-data-rig"
+    }
+   ]
+  },
+  {
+   "narrative": "Wallets & UX",
+   "score": 120.8,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 21,
+    "github_top_velocity": 112.77,
+    "headline_hits": 1,
+    "sample_headlines": [
+     "DTCC Plans Solana Expansion as Wallet Rules Limit Access"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "BachMason483/solana-jito-shredstream-mev-arbitrage-bot",
+     "stars_per_day": 59.0,
+     "url": "https://github.com/BachMason483/solana-jito-shredstream-mev-arbitrage-bot"
     },
     {
-     "full_name": "GuiBibeau/artex-program",
-     "stars_per_day": 3.0,
-     "url": "https://github.com/GuiBibeau/artex-program"
+     "full_name": "setyamickala/airdrop-agent",
+     "stars_per_day": 13.38,
+     "url": "https://github.com/setyamickala/airdrop-agent"
+    },
+    {
+     "full_name": "bryanwalter710-debug/solana-defi-security",
+     "stars_per_day": 12.75,
+     "url": "https://github.com/bryanwalter710-debug/solana-defi-security"
+    },
+    {
+     "full_name": "floatdotxyz/float",
+     "stars_per_day": 7.39,
+     "url": "https://github.com/floatdotxyz/float"
+    },
+    {
+     "full_name": "arnabbhowmik07/Ghost",
+     "stars_per_day": 7.38,
+     "url": "https://github.com/arnabbhowmik07/Ghost"
     }
    ]
   },
   {
    "narrative": "Security & Threats",
-   "score": 44.7,
+   "score": 43.2,
    "confidence": "High",
    "evidence": {
     "github_repos": 8,
-    "github_top_velocity": 4.73,
+    "github_top_velocity": 3.19,
     "headline_hits": 5,
     "sample_headlines": [
      "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
-     "Standard Chartered's Zodia Custody Says Hackers Accessed Client Contact Details",
-     "UK Regulator Cites Binance Hack as It Plans Tougher DeFi Rules Than US and EU: Report"
+     "Hackers Hit US Air Force Cloud System Running Air-Defense and Munitions Data",
+     "Binance Fully Lifts Withdrawal Suspension Four Weeks After $6.4B Hack"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
@@ -231,12 +230,12 @@
    "member_repos": [
     {
      "full_name": "GuiBibeau/artex-program",
-     "stars_per_day": 3.0,
+     "stars_per_day": 1.5,
      "url": "https://github.com/GuiBibeau/artex-program"
     },
     {
      "full_name": "getkenning/kenning",
-     "stars_per_day": 0.96,
+     "stars_per_day": 0.94,
      "url": "https://github.com/getkenning/kenning"
     },
     {
@@ -246,23 +245,23 @@
     },
     {
      "full_name": "Phat1911/Tributary",
-     "stars_per_day": 0.19,
+     "stars_per_day": 0.18,
      "url": "https://github.com/Phat1911/Tributary"
     },
     {
      "full_name": "BadmonLano/meme-sniper",
-     "stars_per_day": 0.15,
+     "stars_per_day": 0.14,
      "url": "https://github.com/BadmonLano/meme-sniper"
     }
    ]
   },
   {
    "narrative": "Payments & Stablecoins",
-   "score": 25.4,
+   "score": 24.5,
    "confidence": "High",
    "evidence": {
-    "github_repos": 6,
-    "github_top_velocity": 9.39,
+    "github_repos": 7,
+    "github_top_velocity": 8.51,
     "headline_hits": 2,
     "sample_headlines": [
      "Japan\u2019s SBI, SMFG launch Solana venture for stablecoins, tokenization",
@@ -274,12 +273,12 @@
    "member_repos": [
     {
      "full_name": "arnabbhowmik07/Ghost",
-     "stars_per_day": 8.29,
+     "stars_per_day": 7.38,
      "url": "https://github.com/arnabbhowmik07/Ghost"
     },
     {
      "full_name": "makedotfun/prize-escrow",
-     "stars_per_day": 0.34,
+     "stars_per_day": 0.33,
      "url": "https://github.com/makedotfun/prize-escrow"
     },
     {
@@ -300,84 +299,16 @@
    ]
   },
   {
-   "narrative": "Consumer & Social",
-   "score": 24.3,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 5,
-    "github_top_velocity": 16.33,
-    "headline_hits": 1,
-    "sample_headlines": [
-     "Vibecoded GTA 6 PC Ports Are Now Rendering In-Game Graphics Despite Take-Two Crackdown"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "setyamickala/airdrop-agent",
-     "stars_per_day": 13.25,
-     "url": "https://github.com/setyamickala/airdrop-agent"
-    },
-    {
-     "full_name": "nibblescreative-afk/darkseek",
-     "stars_per_day": 1.5,
-     "url": "https://github.com/nibblescreative-afk/darkseek"
-    },
-    {
-     "full_name": "askglyph/glyph",
-     "stars_per_day": 1.29,
-     "url": "https://github.com/askglyph/glyph"
-    },
-    {
-     "full_name": "startgameauthor/contingency",
-     "stars_per_day": 0.2,
-     "url": "https://github.com/startgameauthor/contingency"
-    },
-    {
-     "full_name": "Hymetdotfun/hymet",
-     "stars_per_day": 0.09,
-     "url": "https://github.com/Hymetdotfun/hymet"
-    }
-   ]
-  },
-  {
-   "narrative": "DePIN & Physical Infra",
-   "score": 23.0,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 2,
-    "github_top_velocity": 15.01,
-    "headline_hits": 1,
-    "sample_headlines": [
-     "Vibecoded GTA 6 PC Ports Are Now Rendering In-Game Graphics Despite Take-Two Crackdown"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "bryanwalter710-debug/solana-defi-security",
-     "stars_per_day": 13.91,
-     "url": "https://github.com/bryanwalter710-debug/solana-defi-security"
-    },
-    {
-     "full_name": "refrax-xyz/refrax-node",
-     "stars_per_day": 1.1,
-     "url": "https://github.com/refrax-xyz/refrax-node"
-    }
-   ]
-  },
-  {
    "narrative": "RWA & Tokenization",
-   "score": 16.4,
+   "score": 24.4,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 4,
-    "github_top_velocity": 0.42,
-    "headline_hits": 2,
+    "github_top_velocity": 0.38,
+    "headline_hits": 3,
     "sample_headlines": [
      "Japan\u2019s SBI, SMFG launch Solana venture for stablecoins, tokenization",
+     "Bluefin to shut down perps, refocus on spot trading and tokenized RWAs",
      "RWA protocol stUSDT winds down 3 years after $2.3B TVL peak"
     ],
     "market_avg_7d_pct": null,
@@ -386,12 +317,12 @@
    "member_repos": [
     {
      "full_name": "FoundationStoneAlgorithms/TokenWork",
-     "stars_per_day": 0.25,
+     "stars_per_day": 0.22,
      "url": "https://github.com/FoundationStoneAlgorithms/TokenWork"
     },
     {
      "full_name": "Hymetdotfun/hymet",
-     "stars_per_day": 0.09,
+     "stars_per_day": 0.08,
      "url": "https://github.com/Hymetdotfun/hymet"
     },
     {
@@ -403,6 +334,75 @@
      "full_name": "truenorth-lj/sofinance-public",
      "stars_per_day": 0.04,
      "url": "https://github.com/truenorth-lj/sofinance-public"
+    }
+   ]
+  },
+  {
+   "narrative": "Consumer & Social",
+   "score": 24.2,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 5,
+    "github_top_velocity": 16.19,
+    "headline_hits": 1,
+    "sample_headlines": [
+     "Vibecoded GTA 6 PC Ports Are Now Rendering In-Game Graphics Despite Take-Two Crackdown"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "setyamickala/airdrop-agent",
+     "stars_per_day": 13.38,
+     "url": "https://github.com/setyamickala/airdrop-agent"
+    },
+    {
+     "full_name": "nibblescreative-afk/darkseek",
+     "stars_per_day": 1.29,
+     "url": "https://github.com/nibblescreative-afk/darkseek"
+    },
+    {
+     "full_name": "askglyph/glyph",
+     "stars_per_day": 1.24,
+     "url": "https://github.com/askglyph/glyph"
+    },
+    {
+     "full_name": "startgameauthor/contingency",
+     "stars_per_day": 0.2,
+     "url": "https://github.com/startgameauthor/contingency"
+    },
+    {
+     "full_name": "Hymetdotfun/hymet",
+     "stars_per_day": 0.08,
+     "url": "https://github.com/Hymetdotfun/hymet"
+    }
+   ]
+  },
+  {
+   "narrative": "DePIN & Physical Infra",
+   "score": 21.9,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 2,
+    "github_top_velocity": 13.85,
+    "headline_hits": 1,
+    "sample_headlines": [
+     "Vibecoded GTA 6 PC Ports Are Now Rendering In-Game Graphics Despite Take-Two Crackdown"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "bryanwalter710-debug/solana-defi-security",
+     "stars_per_day": 12.75,
+     "url": "https://github.com/bryanwalter710-debug/solana-defi-security"
+    },
+    {
+     "full_name": "refrax-xyz/refrax-node",
+     "stars_per_day": 1.1,
+     "url": "https://github.com/refrax-xyz/refrax-node"
     }
    ]
   }

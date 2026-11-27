@@ -1,28 +1,23 @@
 {
- "generated_at": "2026-11-26T21:33:37+00:00",
+ "generated_at": "2026-11-27T08:36:27+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 152.2,
+   "score": 149.6,
    "confidence": "High",
    "evidence": {
     "github_repos": 47,
-    "github_top_velocity": 104.15,
-    "headline_hits": 6,
+    "github_top_velocity": 93.6,
+    "headline_hits": 7,
     "sample_headlines": [
      "Formation Securities plans Solana stock trading venue under SEC exemption",
      "UK Regulator Cites Binance Hack as It Plans Tougher DeFi Rules Than US and EU: Report",
-     "UK is \u2018getting it wrong\u2019 on DeFi regulation, says Coinbase"
+     "BNB Chain details new layer-1 for trading, private finance and AI"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
    },
    "member_repos": [
-    {
-     "full_name": "dianenelson33/kalshi-polymarket-cross-exchange-arb-bot",
-     "stars_per_day": 14.0,
-     "url": "https://github.com/dianenelson33/kalshi-polymarket-cross-exchange-arb-bot"
-    },
     {
      "full_name": "bryanwalter710-debug/solana-defi-security",
      "stars_per_day": 13.91,
@@ -42,27 +37,27 @@
      "full_name": "ValidatorStack/solana-vigil",
      "stars_per_day": 12.06,
      "url": "https://github.com/ValidatorStack/solana-vigil"
+    },
+    {
+     "full_name": "dianenelson33/gmgn-bullx-photon-copytrade-bot-2026",
+     "stars_per_day": 8.5,
+     "url": "https://github.com/dianenelson33/gmgn-bullx-photon-copytrade-bot-2026"
     }
    ]
   },
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 105.2,
+   "score": 94.8,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 57,
-    "github_top_velocity": 105.16,
+    "github_repos": 55,
+    "github_top_velocity": 94.75,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
     "sources_confirming": 1
    },
    "member_repos": [
-    {
-     "full_name": "setyamickala/airdrop-agent",
-     "stars_per_day": 14.86,
-     "url": "https://github.com/setyamickala/airdrop-agent"
-    },
     {
      "full_name": "bryanwalter710-debug/solana-defi-security",
      "stars_per_day": 13.91,
@@ -79,30 +74,30 @@
      "url": "https://github.com/pinargomez/raydium-meteora-grpc-sniper-bot"
     },
     {
-     "full_name": "s-warren725/solana-node-notes",
-     "stars_per_day": 8.6,
-     "url": "https://github.com/s-warren725/solana-node-notes"
+     "full_name": "setyamickala/airdrop-agent",
+     "stars_per_day": 13.25,
+     "url": "https://github.com/setyamickala/airdrop-agent"
+    },
+    {
+     "full_name": "dianenelson33/gmgn-bullx-photon-copytrade-bot-2026",
+     "stars_per_day": 8.5,
+     "url": "https://github.com/dianenelson33/gmgn-bullx-photon-copytrade-bot-2026"
     }
    ]
   },
   {
    "narrative": "Meme & Speculation",
-   "score": 87.9,
+   "score": 78.3,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 18,
-    "github_top_velocity": 81.79,
+    "github_top_velocity": 77.78,
     "headline_hits": 0,
     "sample_headlines": [],
-    "market_avg_7d_pct": -3.07,
+    "market_avg_7d_pct": -0.28,
     "sources_confirming": 1
    },
    "member_repos": [
-    {
-     "full_name": "setyamickala/airdrop-agent",
-     "stars_per_day": 14.86,
-     "url": "https://github.com/setyamickala/airdrop-agent"
-    },
     {
      "full_name": "farzanamustafa936-dot/solana-pump-fun-sniper-bot",
      "stars_per_day": 13.91,
@@ -114,24 +109,29 @@
      "url": "https://github.com/pinargomez/raydium-meteora-grpc-sniper-bot"
     },
     {
+     "full_name": "setyamickala/airdrop-agent",
+     "stars_per_day": 13.25,
+     "url": "https://github.com/setyamickala/airdrop-agent"
+    },
+    {
      "full_name": "QuantumOrb/QuantOrb",
-     "stars_per_day": 9.18,
+     "stars_per_day": 9.23,
      "url": "https://github.com/QuantumOrb/QuantOrb"
     },
     {
-     "full_name": "dmitry-k-code19w1/raydium-meteora-sniper-bot-x64",
-     "stars_per_day": 8.0,
-     "url": "https://github.com/dmitry-k-code19w1/raydium-meteora-sniper-bot-x64"
+     "full_name": "floatdotxyz/float",
+     "stars_per_day": 7.44,
+     "url": "https://github.com/floatdotxyz/float"
     }
    ]
   },
   {
    "narrative": "Wallets & UX",
-   "score": 74.8,
+   "score": 72.7,
    "confidence": "High",
    "evidence": {
     "github_repos": 20,
-    "github_top_velocity": 58.75,
+    "github_top_velocity": 56.68,
     "headline_hits": 2,
     "sample_headlines": [
      "DTCC Plans Solana Expansion as Wallet Rules Limit Access",
@@ -142,14 +142,14 @@
    },
    "member_repos": [
     {
-     "full_name": "setyamickala/airdrop-agent",
-     "stars_per_day": 14.86,
-     "url": "https://github.com/setyamickala/airdrop-agent"
-    },
-    {
      "full_name": "bryanwalter710-debug/solana-defi-security",
      "stars_per_day": 13.91,
      "url": "https://github.com/bryanwalter710-debug/solana-defi-security"
+    },
+    {
+     "full_name": "setyamickala/airdrop-agent",
+     "stars_per_day": 13.25,
+     "url": "https://github.com/setyamickala/airdrop-agent"
     },
     {
      "full_name": "arnabbhowmik07/Ghost",
@@ -158,7 +158,7 @@
     },
     {
      "full_name": "floatdotxyz/float",
-     "stars_per_day": 7.88,
+     "stars_per_day": 7.44,
      "url": "https://github.com/floatdotxyz/float"
     },
     {
@@ -170,39 +170,39 @@
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 66.9,
+   "score": 65.4,
    "confidence": "High",
    "evidence": {
     "github_repos": 20,
-    "github_top_velocity": 42.92,
+    "github_top_velocity": 41.42,
     "headline_hits": 3,
     "sample_headlines": [
      "Before the Sell-Off, AI Stocks Showed Dot-Com-Level Bubble Signals: Study",
      "Cournot Raises $5M to Build AI-Native Oracle for Verifiable Intelligence",
-     "China's Google Just Released Its Fast New AI Model for Free"
+     "BNB Chain details new layer-1 for trading, private finance and AI"
     ],
     "market_avg_7d_pct": null,
     "sources_confirming": 2
    },
    "member_repos": [
     {
-     "full_name": "setyamickala/airdrop-agent",
-     "stars_per_day": 14.86,
-     "url": "https://github.com/setyamickala/airdrop-agent"
-    },
-    {
      "full_name": "farzanamustafa936-dot/solana-pump-fun-sniper-bot",
      "stars_per_day": 13.91,
      "url": "https://github.com/farzanamustafa936-dot/solana-pump-fun-sniper-bot"
     },
     {
+     "full_name": "setyamickala/airdrop-agent",
+     "stars_per_day": 13.25,
+     "url": "https://github.com/setyamickala/airdrop-agent"
+    },
+    {
      "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 4.18,
+     "stars_per_day": 4.25,
      "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
     },
     {
      "full_name": "SpaceDataRig/space-data-rig",
-     "stars_per_day": 3.36,
+     "stars_per_day": 3.38,
      "url": "https://github.com/SpaceDataRig/space-data-rig"
     },
     {
@@ -214,11 +214,11 @@
   },
   {
    "narrative": "Security & Threats",
-   "score": 44.8,
+   "score": 44.7,
    "confidence": "High",
    "evidence": {
     "github_repos": 8,
-    "github_top_velocity": 4.76,
+    "github_top_velocity": 4.73,
     "headline_hits": 5,
     "sample_headlines": [
      "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
@@ -241,7 +241,7 @@
     },
     {
      "full_name": "startgameauthor/contingency",
-     "stars_per_day": 0.22,
+     "stars_per_day": 0.2,
      "url": "https://github.com/startgameauthor/contingency"
     },
     {
@@ -279,17 +279,17 @@
     },
     {
      "full_name": "makedotfun/prize-escrow",
-     "stars_per_day": 0.31,
+     "stars_per_day": 0.34,
      "url": "https://github.com/makedotfun/prize-escrow"
     },
     {
      "full_name": "orrery-node/orrery",
-     "stars_per_day": 0.3,
+     "stars_per_day": 0.29,
      "url": "https://github.com/orrery-node/orrery"
     },
     {
      "full_name": "startgameauthor/contingency",
-     "stars_per_day": 0.22,
+     "stars_per_day": 0.2,
      "url": "https://github.com/startgameauthor/contingency"
     },
     {
@@ -301,20 +301,22 @@
   },
   {
    "narrative": "Consumer & Social",
-   "score": 18.0,
+   "score": 24.3,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 5,
-    "github_top_velocity": 17.96,
-    "headline_hits": 0,
-    "sample_headlines": [],
+    "github_top_velocity": 16.33,
+    "headline_hits": 1,
+    "sample_headlines": [
+     "Vibecoded GTA 6 PC Ports Are Now Rendering In-Game Graphics Despite Take-Two Crackdown"
+    ],
     "market_avg_7d_pct": null,
     "sources_confirming": 1
    },
    "member_repos": [
     {
      "full_name": "setyamickala/airdrop-agent",
-     "stars_per_day": 14.86,
+     "stars_per_day": 13.25,
      "url": "https://github.com/setyamickala/airdrop-agent"
     },
     {
@@ -329,13 +331,40 @@
     },
     {
      "full_name": "startgameauthor/contingency",
-     "stars_per_day": 0.22,
+     "stars_per_day": 0.2,
      "url": "https://github.com/startgameauthor/contingency"
     },
     {
      "full_name": "Hymetdotfun/hymet",
      "stars_per_day": 0.09,
      "url": "https://github.com/Hymetdotfun/hymet"
+    }
+   ]
+  },
+  {
+   "narrative": "DePIN & Physical Infra",
+   "score": 23.0,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 2,
+    "github_top_velocity": 15.01,
+    "headline_hits": 1,
+    "sample_headlines": [
+     "Vibecoded GTA 6 PC Ports Are Now Rendering In-Game Graphics Despite Take-Two Crackdown"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "bryanwalter710-debug/solana-defi-security",
+     "stars_per_day": 13.91,
+     "url": "https://github.com/bryanwalter710-debug/solana-defi-security"
+    },
+    {
+     "full_name": "refrax-xyz/refrax-node",
+     "stars_per_day": 1.1,
+     "url": "https://github.com/refrax-xyz/refrax-node"
     }
    ]
   },
@@ -374,31 +403,6 @@
      "full_name": "truenorth-lj/sofinance-public",
      "stars_per_day": 0.04,
      "url": "https://github.com/truenorth-lj/sofinance-public"
-    }
-   ]
-  },
-  {
-   "narrative": "DePIN & Physical Infra",
-   "score": 15.0,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 2,
-    "github_top_velocity": 15.04,
-    "headline_hits": 0,
-    "sample_headlines": [],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "bryanwalter710-debug/solana-defi-security",
-     "stars_per_day": 13.91,
-     "url": "https://github.com/bryanwalter710-debug/solana-defi-security"
-    },
-    {
-     "full_name": "refrax-xyz/refrax-node",
-     "stars_per_day": 1.13,
-     "url": "https://github.com/refrax-xyz/refrax-node"
     }
    ]
   }

@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-27T21:18:45+00:00",
+ "generated_at": "2026-11-28T07:51:14+00:00",
  "narratives": [
   {
    "narrative": "DeFi / Trading Infra",
-   "score": 347.6,
+   "score": 791.6,
    "confidence": "High",
    "evidence": {
     "github_repos": 49,
-    "github_top_velocity": 291.64,
+    "github_top_velocity": 735.6,
     "headline_hits": 7,
     "sample_headlines": [
      "Formation Securities plans Solana stock trading venue under SEC exemption",
@@ -19,79 +19,39 @@
    },
    "member_repos": [
     {
-     "full_name": "mudhinpc-droid/solana-memecoin-pump-fun-volume-booster-befalen",
-     "stars_per_day": 118.0,
-     "url": "https://github.com/mudhinpc-droid/solana-memecoin-pump-fun-volume-booster-befalen"
+     "full_name": "Alessio87221/solana-sniper-bot",
+     "stars_per_day": 169.0,
+     "url": "https://github.com/Alessio87221/solana-sniper-bot"
     },
     {
-     "full_name": "BachMason483/solana-jito-shredstream-mev-arbitrage-bot",
-     "stars_per_day": 59.0,
-     "url": "https://github.com/BachMason483/solana-jito-shredstream-mev-arbitrage-bot"
+     "full_name": "samrasmail681-sys/solana-pump-fun-sniper-bot",
+     "stars_per_day": 142.0,
+     "url": "https://github.com/samrasmail681-sys/solana-pump-fun-sniper-bot"
     },
     {
-     "full_name": "AsukaFerrari/gmgn-ai-bullx-neo-fast-trench-sniper-cli",
-     "stars_per_day": 59.0,
-     "url": "https://github.com/AsukaFerrari/gmgn-ai-bullx-neo-fast-trench-sniper-cli"
+     "full_name": "ademgokce1/solana-token-swap-tutorial",
+     "stars_per_day": 141.0,
+     "url": "https://github.com/ademgokce1/solana-token-swap-tutorial"
     },
     {
-     "full_name": "bryanwalter710-debug/solana-defi-security",
-     "stars_per_day": 12.75,
-     "url": "https://github.com/bryanwalter710-debug/solana-defi-security"
+     "full_name": "burke06/solana-jito-shredstream-mev-arbi-cli-suite",
+     "stars_per_day": 138.0,
+     "url": "https://github.com/burke06/solana-jito-shredstream-mev-arbi-cli-suite"
     },
-    {
-     "full_name": "farzanamustafa936-dot/solana-pump-fun-sniper-bot",
-     "stars_per_day": 12.75,
-     "url": "https://github.com/farzanamustafa936-dot/solana-pump-fun-sniper-bot"
-    }
-   ]
-  },
-  {
-   "narrative": "Meme & Speculation",
-   "score": 302.1,
-   "confidence": "High",
-   "evidence": {
-    "github_repos": 19,
-    "github_top_velocity": 290.4,
-    "headline_hits": 0,
-    "sample_headlines": [],
-    "market_avg_7d_pct": 5.86,
-    "sources_confirming": 2
-   },
-   "member_repos": [
     {
      "full_name": "mudhinpc-droid/solana-memecoin-pump-fun-volume-booster-befalen",
      "stars_per_day": 118.0,
      "url": "https://github.com/mudhinpc-droid/solana-memecoin-pump-fun-volume-booster-befalen"
-    },
-    {
-     "full_name": "BachMason483/solana-jito-shredstream-mev-arbitrage-bot",
-     "stars_per_day": 59.0,
-     "url": "https://github.com/BachMason483/solana-jito-shredstream-mev-arbitrage-bot"
-    },
-    {
-     "full_name": "AsukaFerrari/gmgn-ai-bullx-neo-fast-trench-sniper-cli",
-     "stars_per_day": 59.0,
-     "url": "https://github.com/AsukaFerrari/gmgn-ai-bullx-neo-fast-trench-sniper-cli"
-    },
-    {
-     "full_name": "setyamickala/airdrop-agent",
-     "stars_per_day": 13.38,
-     "url": "https://github.com/setyamickala/airdrop-agent"
-    },
-    {
-     "full_name": "farzanamustafa936-dot/solana-pump-fun-sniper-bot",
-     "stars_per_day": 12.75,
-     "url": "https://github.com/farzanamustafa936-dot/solana-pump-fun-sniper-bot"
     }
    ]
   },
   {
    "narrative": "Dev Tooling & Infra",
-   "score": 177.6,
+   "score": 639.3,
    "confidence": "Medium",
    "evidence": {
     "github_repos": 55,
-    "github_top_velocity": 177.56,
+    "github_top_velocity": 639.31,
     "headline_hits": 0,
     "sample_headlines": [],
     "market_avg_7d_pct": null,
@@ -99,14 +59,59 @@
    },
    "member_repos": [
     {
-     "full_name": "BachMason483/solana-jito-shredstream-mev-arbitrage-bot",
-     "stars_per_day": 59.0,
-     "url": "https://github.com/BachMason483/solana-jito-shredstream-mev-arbitrage-bot"
+     "full_name": "martins3793/trojan-on-solana-cli-suite",
+     "stars_per_day": 186.0,
+     "url": "https://github.com/martins3793/trojan-on-solana-cli-suite"
     },
     {
-     "full_name": "AsukaFerrari/gmgn-ai-bullx-neo-fast-trench-sniper-cli",
-     "stars_per_day": 59.0,
-     "url": "https://github.com/AsukaFerrari/gmgn-ai-bullx-neo-fast-trench-sniper-cli"
+     "full_name": "samrasmail681-sys/solana-pump-fun-sniper-bot",
+     "stars_per_day": 142.0,
+     "url": "https://github.com/samrasmail681-sys/solana-pump-fun-sniper-bot"
+    },
+    {
+     "full_name": "ademgokce1/solana-token-swap-tutorial",
+     "stars_per_day": 141.0,
+     "url": "https://github.com/ademgokce1/solana-token-swap-tutorial"
+    },
+    {
+     "full_name": "burke06/solana-jito-shredstream-mev-arbi-cli-suite",
+     "stars_per_day": 138.0,
+     "url": "https://github.com/burke06/solana-jito-shredstream-mev-arbi-cli-suite"
+    },
+    {
+     "full_name": "setyamickala/airdrop-agent",
+     "stars_per_day": 13.38,
+     "url": "https://github.com/setyamickala/airdrop-agent"
+    }
+   ]
+  },
+  {
+   "narrative": "Meme & Speculation",
+   "score": 488.2,
+   "confidence": "High",
+   "evidence": {
+    "github_repos": 18,
+    "github_top_velocity": 471.62,
+    "headline_hits": 0,
+    "sample_headlines": [],
+    "market_avg_7d_pct": 8.31,
+    "sources_confirming": 2
+   },
+   "member_repos": [
+    {
+     "full_name": "Alessio87221/solana-sniper-bot",
+     "stars_per_day": 169.0,
+     "url": "https://github.com/Alessio87221/solana-sniper-bot"
+    },
+    {
+     "full_name": "samrasmail681-sys/solana-pump-fun-sniper-bot",
+     "stars_per_day": 142.0,
+     "url": "https://github.com/samrasmail681-sys/solana-pump-fun-sniper-bot"
+    },
+    {
+     "full_name": "mudhinpc-droid/solana-memecoin-pump-fun-volume-booster-befalen",
+     "stars_per_day": 118.0,
+     "url": "https://github.com/mudhinpc-droid/solana-memecoin-pump-fun-volume-booster-befalen"
     },
     {
      "full_name": "setyamickala/airdrop-agent",
@@ -114,24 +119,19 @@
      "url": "https://github.com/setyamickala/airdrop-agent"
     },
     {
-     "full_name": "bryanwalter710-debug/solana-defi-security",
-     "stars_per_day": 12.75,
-     "url": "https://github.com/bryanwalter710-debug/solana-defi-security"
-    },
-    {
-     "full_name": "farzanamustafa936-dot/solana-pump-fun-sniper-bot",
-     "stars_per_day": 12.75,
-     "url": "https://github.com/farzanamustafa936-dot/solana-pump-fun-sniper-bot"
+     "full_name": "QuantumOrb/QuantOrb",
+     "stars_per_day": 9.31,
+     "url": "https://github.com/QuantumOrb/QuantOrb"
     }
    ]
   },
   {
    "narrative": "AI Agents on Solana",
-   "score": 121.3,
+   "score": 191.0,
    "confidence": "High",
    "evidence": {
-    "github_repos": 21,
-    "github_top_velocity": 97.29,
+    "github_repos": 19,
+    "github_top_velocity": 167.02,
     "headline_hits": 3,
     "sample_headlines": [
      "Could AI Break Bitcoin? Not Yet, Research Firm K33 Says",
@@ -143,9 +143,9 @@
    },
    "member_repos": [
     {
-     "full_name": "AsukaFerrari/gmgn-ai-bullx-neo-fast-trench-sniper-cli",
-     "stars_per_day": 59.0,
-     "url": "https://github.com/AsukaFerrari/gmgn-ai-bullx-neo-fast-trench-sniper-cli"
+     "full_name": "samrasmail681-sys/solana-pump-fun-sniper-bot",
+     "stars_per_day": 142.0,
+     "url": "https://github.com/samrasmail681-sys/solana-pump-fun-sniper-bot"
     },
     {
      "full_name": "setyamickala/airdrop-agent",
@@ -153,71 +153,29 @@
      "url": "https://github.com/setyamickala/airdrop-agent"
     },
     {
-     "full_name": "farzanamustafa936-dot/solana-pump-fun-sniper-bot",
-     "stars_per_day": 12.75,
-     "url": "https://github.com/farzanamustafa936-dot/solana-pump-fun-sniper-bot"
-    },
-    {
      "full_name": "teraus111/web3-agent-kit-solana-trading",
-     "stars_per_day": 4.16,
+     "stars_per_day": 4.18,
      "url": "https://github.com/teraus111/web3-agent-kit-solana-trading"
     },
     {
      "full_name": "SpaceDataRig/space-data-rig",
      "stars_per_day": 3.21,
      "url": "https://github.com/SpaceDataRig/space-data-rig"
-    }
-   ]
-  },
-  {
-   "narrative": "Wallets & UX",
-   "score": 120.8,
-   "confidence": "Medium",
-   "evidence": {
-    "github_repos": 21,
-    "github_top_velocity": 112.77,
-    "headline_hits": 1,
-    "sample_headlines": [
-     "DTCC Plans Solana Expansion as Wallet Rules Limit Access"
-    ],
-    "market_avg_7d_pct": null,
-    "sources_confirming": 1
-   },
-   "member_repos": [
-    {
-     "full_name": "BachMason483/solana-jito-shredstream-mev-arbitrage-bot",
-     "stars_per_day": 59.0,
-     "url": "https://github.com/BachMason483/solana-jito-shredstream-mev-arbitrage-bot"
     },
     {
-     "full_name": "setyamickala/airdrop-agent",
-     "stars_per_day": 13.38,
-     "url": "https://github.com/setyamickala/airdrop-agent"
-    },
-    {
-     "full_name": "bryanwalter710-debug/solana-defi-security",
-     "stars_per_day": 12.75,
-     "url": "https://github.com/bryanwalter710-debug/solana-defi-security"
-    },
-    {
-     "full_name": "floatdotxyz/float",
-     "stars_per_day": 7.39,
-     "url": "https://github.com/floatdotxyz/float"
-    },
-    {
-     "full_name": "arnabbhowmik07/Ghost",
-     "stars_per_day": 7.38,
-     "url": "https://github.com/arnabbhowmik07/Ghost"
+     "full_name": "GuiBibeau/artex-program",
+     "stars_per_day": 2.0,
+     "url": "https://github.com/GuiBibeau/artex-program"
     }
    ]
   },
   {
    "narrative": "Security & Threats",
-   "score": 43.2,
+   "score": 185.7,
    "confidence": "High",
    "evidence": {
-    "github_repos": 8,
-    "github_top_velocity": 3.19,
+    "github_repos": 9,
+    "github_top_velocity": 145.66,
     "headline_hits": 5,
     "sample_headlines": [
      "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
@@ -229,8 +187,13 @@
    },
    "member_repos": [
     {
+     "full_name": "samrasmail681-sys/solana-pump-fun-sniper-bot",
+     "stars_per_day": 142.0,
+     "url": "https://github.com/samrasmail681-sys/solana-pump-fun-sniper-bot"
+    },
+    {
      "full_name": "GuiBibeau/artex-program",
-     "stars_per_day": 1.5,
+     "stars_per_day": 2.0,
      "url": "https://github.com/GuiBibeau/artex-program"
     },
     {
@@ -239,19 +202,56 @@
      "url": "https://github.com/getkenning/kenning"
     },
     {
-     "full_name": "startgameauthor/contingency",
-     "stars_per_day": 0.2,
-     "url": "https://github.com/startgameauthor/contingency"
-    },
-    {
      "full_name": "Phat1911/Tributary",
      "stars_per_day": 0.18,
      "url": "https://github.com/Phat1911/Tributary"
     },
     {
-     "full_name": "BadmonLano/meme-sniper",
-     "stars_per_day": 0.14,
-     "url": "https://github.com/BadmonLano/meme-sniper"
+     "full_name": "startgameauthor/contingency",
+     "stars_per_day": 0.18,
+     "url": "https://github.com/startgameauthor/contingency"
+    }
+   ]
+  },
+  {
+   "narrative": "Wallets & UX",
+   "score": 47.8,
+   "confidence": "Medium",
+   "evidence": {
+    "github_repos": 19,
+    "github_top_velocity": 39.83,
+    "headline_hits": 1,
+    "sample_headlines": [
+     "DTCC Plans Solana Expansion as Wallet Rules Limit Access"
+    ],
+    "market_avg_7d_pct": null,
+    "sources_confirming": 1
+   },
+   "member_repos": [
+    {
+     "full_name": "setyamickala/airdrop-agent",
+     "stars_per_day": 13.38,
+     "url": "https://github.com/setyamickala/airdrop-agent"
+    },
+    {
+     "full_name": "arnabbhowmik07/Ghost",
+     "stars_per_day": 7.38,
+     "url": "https://github.com/arnabbhowmik07/Ghost"
+    },
+    {
+     "full_name": "miloslavatangen/Checker-Mnemonic",
+     "stars_per_day": 6.06,
+     "url": "https://github.com/miloslavatangen/Checker-Mnemonic"
+    },
+    {
+     "full_name": "floatdotxyz/float",
+     "stars_per_day": 5.79,
+     "url": "https://github.com/floatdotxyz/float"
+    },
+    {
+     "full_name": "h100envy/gem-search",
+     "stars_per_day": 4.43,
+     "url": "https://github.com/h100envy/gem-search"
     }
    ]
   },
@@ -261,7 +261,7 @@
    "confidence": "High",
    "evidence": {
     "github_repos": 7,
-    "github_top_velocity": 8.51,
+    "github_top_velocity": 8.47,
     "headline_hits": 2,
     "sample_headlines": [
      "Japan\u2019s SBI, SMFG launch Solana venture for stablecoins, tokenization",
@@ -283,12 +283,12 @@
     },
     {
      "full_name": "orrery-node/orrery",
-     "stars_per_day": 0.29,
+     "stars_per_day": 0.27,
      "url": "https://github.com/orrery-node/orrery"
     },
     {
      "full_name": "startgameauthor/contingency",
-     "stars_per_day": 0.2,
+     "stars_per_day": 0.18,
      "url": "https://github.com/startgameauthor/contingency"
     },
     {
@@ -339,11 +339,11 @@
   },
   {
    "narrative": "Consumer & Social",
-   "score": 24.2,
+   "score": 24.3,
    "confidence": "Medium",
    "evidence": {
-    "github_repos": 5,
-    "github_top_velocity": 16.19,
+    "github_repos": 6,
+    "github_top_velocity": 16.29,
     "headline_hits": 1,
     "sample_headlines": [
      "Vibecoded GTA 6 PC Ports Are Now Rendering In-Game Graphics Despite Take-Two Crackdown"
@@ -369,36 +369,31 @@
     },
     {
      "full_name": "startgameauthor/contingency",
-     "stars_per_day": 0.2,
+     "stars_per_day": 0.18,
      "url": "https://github.com/startgameauthor/contingency"
     },
     {
-     "full_name": "Hymetdotfun/hymet",
-     "stars_per_day": 0.08,
-     "url": "https://github.com/Hymetdotfun/hymet"
+     "full_name": "farooq13/amm-program",
+     "stars_per_day": 0.12,
+     "url": "https://github.com/farooq13/amm-program"
     }
    ]
   },
   {
    "narrative": "DePIN & Physical Infra",
-   "score": 21.9,
-   "confidence": "Medium",
+   "score": 9.1,
+   "confidence": "Low",
    "evidence": {
-    "github_repos": 2,
-    "github_top_velocity": 13.85,
+    "github_repos": 1,
+    "github_top_velocity": 1.1,
     "headline_hits": 1,
     "sample_headlines": [
      "Vibecoded GTA 6 PC Ports Are Now Rendering In-Game Graphics Despite Take-Two Crackdown"
     ],
     "market_avg_7d_pct": null,
-    "sources_confirming": 1
+    "sources_confirming": 0
    },
    "member_repos": [
-    {
-     "full_name": "bryanwalter710-debug/solana-defi-security",
-     "stars_per_day": 12.75,
-     "url": "https://github.com/bryanwalter710-debug/solana-defi-security"
-    },
     {
      "full_name": "refrax-xyz/refrax-node",
      "stars_per_day": 1.1,
